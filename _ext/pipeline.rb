@@ -1,4 +1,3 @@
-require 'tagger_sanitizer'
 require 'atomizer_custom'
 
 Awestruct::Extensions::Pipeline.new do
