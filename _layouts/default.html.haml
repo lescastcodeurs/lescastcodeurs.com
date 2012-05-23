@@ -1,0 +1,38 @@
+---
+layout: base
+---
+.row
+  .span9
+    ~ content
+  .span3
+    #sidebar
+      %h2 Syndication
+      #element
+        %a{:href=>'/podcast-rss'}
+          %img{:src=>'/images/services/rss_32.png'}
+          Feed
+      #element
+        %a{:href=>'http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=312239675'}
+          %img{:src=>'/images/services/itunes.jpg', :width=>'32px', :height=>'32px'}
+          Souscrire dans iTunes
+      %hr
+      %h2 Contacts
+      #element
+        %a{:href=>'mailto:commentaire@lescastcodeurs.com'}
+          %img{:src=>'/images/services/email_32.png'}
+          commentaire@lescastcodeurs.com
+      #element
+        %a{:href=>'http://twitter.com/lescastcodeurs'}
+          %img{:src=>'/images/services/twitter_32.png'}
+          @lescastcodeurs
+      %hr
+      %h2 Discuter
+      #element
+        %a{:href=>'http://groups.google.com/group/lescastcodeurs'}
+          %img{:src=>'/images/services/google_groups.png', :width=>'32px', :height=>'32px'}
+          Joindre le Google group
+      %h2 Aimer
+      #element
+        = page.flattr_large_counter(:url=>"http://lescastcodeurs.com", 
+          :title=>"Les Cast Codeurs Podcast", 
+          :tags=>"lescastcodeurs,podcast,java")

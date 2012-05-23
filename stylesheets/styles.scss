@@ -1,0 +1,94 @@
+$gridColumnWidth:75px;
+
+@import "bootstrap";
+
+// Include responsive Bootstrap styles
+// @import "bootstrap-responsive";
+$primary-color:#997704;
+
+body {
+  padding-top: 60px;
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-size:105%;
+  p {
+    font-size:105%;
+    line-height:1.15em;
+  }
+}
+
+h1, h2, h3 {
+  color: $primary-color;
+  margin-bottom:1em;
+}
+
+h1 {
+  font-size:270%;
+}
+
+.prominent-box {
+  p {
+    font-size:120%;
+  }
+}
+
+  
+#tagline {
+  background-image: url(/images/logo_carre_transparent_150height.png);
+  background-repeat: no-repeat; 
+  height:150px;
+  margin-top: 50px; 
+  padding-left: 150px;
+}
+
+#sidebar {
+  font-size:80%;
+  background-color:$grayLighter;
+  padding-left: 10px;
+
+  h1, h2 {
+    margin-bottom:.7em;
+  }
+
+  hr {
+    margin-right:10px;
+  }
+
+  #element {
+    padding-left:10px;
+    padding-bottom:1em;
+  }
+}
+
+.teammember {
+  clear:both;
+  margin-bottom: 2em;
+}
+
+.teamheader {
+  margin-bottom: 2em;
+  h2 {
+    display:inline;
+    margin-bottom:50px;
+  }
+  .teamlinks {
+    display:inline;
+    margin-left:2em;
+  }
+}
+
+//Team page
+.teammemberbio {
+  float:left;
+  font-size: 90%;
+  display:inline;
+  ul {
+    list-style-position:inside;
+  }
+}
+
+.teammemberphoto {
+  float:left;
+  margin: 0 20px 20px 0;
+  display:inline;
+}
+
