@@ -24,7 +24,7 @@ Vous pouvez aussi mettre cette balise sur votre site
 
 pour ajouter le bouton
 
-<a href="http://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="http://lescastcodeurs.com/img/jecoute_les_castcodeurs_200px.png" /></a>
+<a href="http://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="/images/promo/jecoute_les_castcodeurs_200px.png" /></a>
 
 ## Non mais sérieusement, on vous adore
 
