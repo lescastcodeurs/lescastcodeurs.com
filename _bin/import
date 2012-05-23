@@ -6,11 +6,56 @@ require 'net/http'
 require 'uri'
 require 'cgi'
 
-class Importer
+class Encloser
+  @enclosures_size
 
-  def initialize(import_file, output_dir)
+  def initialize(import_file)
+    @import_file = import_file
+  end
+
+  def retrieve_enclosures
+    @enclosures_size = Array.new(60) {  }
+    @enclosures_size[1] = 71902534
+    @enclosures_size[2] = 15911287
+    @enclosures_size[3] = 28003038
+    @enclosures_size[4] = 19005003
+    @enclosures_size[5] = 34507554
+    @enclosures_size[6] = 19724935
+    @enclosures_size[7] = 31708241
+    @enclosures_size[8] = 30610041
+    @enclosures_size[9] = 33890098
+    doc = REXML::Document.new( File.read( @import_file ) )
+    root = doc.root
+    root.get_elements( 'channel/item/enclosure' ).each do |enclosure|
+      retrieve_enclosure( enclosure )
+    end
+  end
+
+  def enclosure_size(index)
+    @enclosures_size[index]
+  end
+
+  private
+
+  def retrieve_enclosure(enclosure)
+    # <enclosure length="49776624" type="audio/mpeg" url="http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-10.mp3" />
+    length = enclosure.attribute('length').value
+    url = enclosure.attribute('url').value
+    if ( url =~ /[.]*Episode-([0-9]*).mp3/)
+      puts "#{length} for #{$1}"
+      @enclosures_size[Integer($1)] = length
+    end
+  end
+end
+
+class Importer
+  @encloser
+
+  def initialize(import_file, output_dir, rss_feed)
     @import_file = import_file
     @output_dir  = output_dir
+    @encloser = Encloser.new( rss_feed )
+    @encloser.retrieve_enclosures
   end
 
   def import_file
@@ -40,6 +85,11 @@ class Importer
     title    = item_xml.get_text( 'title' ).to_s
     author   = 'Emmanuel Bernard'
     link     = item_xml.get_text( 'link' ).to_s
+
+    if ( title =~ /[.]*pisode[s]? ([0-9]+)[.]*/ )
+      episode = $1
+      enclosure_size = @encloser.enclosure_size(Integer(episode))
+    end
 
     if ( link =~ %r(/([^/]+)/$) )
       slug = $1
@@ -79,6 +129,12 @@ class Importer
         f.puts "title: '#{title}'"
         f.puts "author: 'Emmanuel Bernard'"
         f.puts "layout: blog-post"
+        if ( !episode.nil? && !episode.empty? )
+          f.puts "episode: #{episode}"
+        end
+        if ( !enclosure_size.nil? )
+          f.puts "enclosure_length: #{enclosure_size}"
+        end
         f.puts '---'
         f.puts content
       end
@@ -168,7 +224,7 @@ class Importer
 end
 
 if ( $0 == __FILE__ ) 
-  importer = Importer.new( ARGV[0], ARGV[1] )
+  importer = Importer.new( ARGV[0], ARGV[1], ARGV[2] )
   importer.import_file
 end
 
