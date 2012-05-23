@@ -1,0 +1,10 @@
+Options +FollowSymlinks
+IndexIgnore *
+DirectoryIndex index.html
+ErrorDocument 404 /404.html
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^lescastcodeurs.com$
+
+RewriteRule ^img/jecoute_les_castcodeurs_200px.png$ /images/promo/jecoute_les_castcodeurs_200px.png
