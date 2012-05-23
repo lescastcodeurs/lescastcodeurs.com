@@ -1,0 +1,31 @@
+---
+title: L'équipe
+layout: default
+---
+%h1 #{page.title}
+
+- members = site.team.values.sort_by{|a| [a.name]}
+- for member in members
+  .teammember
+    .teamheader
+      %h2 #{member.name}
+      .teamlinks
+        - if member.website 
+          %a{:href=>"#{member.website}"}
+            %img{:src=>'/images/services/web_32.png'}
+            Site
+        - if member.blog
+          %a{:href=>"#{member.blog}"}
+            %img{:src=>'/images/services/rss_32.png'}
+            Blog
+        - if member.twitter
+          %a{:href=>"http://twitter.com/#{member.twitter}"}
+            %img{:src=>'/images/services/twitter_32.png'}
+            Twitter
+    .row
+      .span2
+        .teammemberphoto
+          %img{:src=>"http://www.gravatar.com/avatar/#{member.gravatar_hash}?s=150", :height=>"150px", :width=>"150px"}
+      .span7
+        .teammemberbio
+          #{member.content}
