@@ -1,0 +1,39 @@
+---
+layout: default
+---
+%ul.pager
+  - if page.previous_post
+    %li.previous
+      %a{:href=>page.previous_post.url}
+        &larr; 
+        - text = page.previous_post.title
+        - if text.size < 25
+          = text
+        - else
+          = text.split(//).first(25).to_s  << "..."
+  - if page.next_post
+    %li.next
+      %a{:href=>page.next_post.url}
+        - text = page.next_post.title
+        - if text.size < 25
+          = text
+        - else
+          = text.split(//).first(25).to_s << "..."
+        &rarr;
+  
+%hr
+.blogpost
+  %h2
+    = page.title
+  .blogtagbar
+    Posté par #{page.author} le
+    #{page.date.strftime( '%d/%m/%Y' )}
+    &nbsp;|&nbsp;
+    = page.flattr_compact_counter(:url=>"http://lescastcodeurs.com" + page.url, 
+                                  :title=>page.title, 
+                                  :tags=>'podcast, java') 
+  %p
+    ~ page.content
+  .disqus-long
+    = page.disqus_comments
+  %hr

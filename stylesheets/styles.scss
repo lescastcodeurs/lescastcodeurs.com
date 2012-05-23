@@ -23,6 +23,11 @@ h1, h2, h3 {
 
 h1 {
   font-size:270%;
+  line-height: 1em;
+}
+
+h2 {
+  line-height: 1em;
 }
 
 .prominent-box {
@@ -90,5 +95,25 @@ h1 {
   float:left;
   margin: 0 20px 20px 0;
   display:inline;
+}
+
+//blog
+.blogpost {
+  h2 {
+    padding-bottom: 0;
+  }
+}
+.blogtagbar {
+  display: inline;
+    vertical-align: bottom;
+    font-size:90%;
+    color: #555555;
+    a {
+    text-decoration:none;
+  }
+  iframe {
+    position:relative;
+    top:7px;
+  }
 }
 
