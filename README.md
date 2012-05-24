@@ -72,6 +72,19 @@ Use the following alternative:
 
 You should be back to millisecond serving :) 
 
+### Comment ajouter un membre à l'équipe
+
+Ajouter le fichier dans `_data/team`
+
+Les propriétés du fichier sont les suivantes:
+
+- `name`: le nom, par exemple Emmanuel Bernard
+- `gravatar_hash`: le md5 de l'email utilisé pour gravatar eg `md5sum mon.email@domain.com` => `1fc6aa04011b2f0f9721df913b0fd415`
+- `blog`: lien vers le blog (optionnel)
+- `website`: lien vers le site web (optionnel)
+- `twitter`: nom d'utilisateur twitter (optionnel)
+
+
 ## Licence et droits
 
 Le contenu de ce repository est distribué sous licence 
