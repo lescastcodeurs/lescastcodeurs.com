@@ -7,7 +7,7 @@ Awestruct::Extensions::Pipeline.new do
   extension Awestruct::Extensions::Indexifier.new
   extension Awestruct::Extensions::Atomizer.new( 
     :posts, 
-    '/feed', 
+    '/feed.atom', 
     :num_entries=>10000,
     :content_url=>'http://lescastcodeurs.com',
     :feed_title=> 'Les Cast Codeurs Podcast' )
