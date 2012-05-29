@@ -24,6 +24,9 @@
         %updated= entry.date.xmlschema
         %published= entry.date.xmlschema
         %link{:rel=>"alternate", :type=>"text/html", :href=>"#{site.base_url}#{entry.url}" }
+        - if ( defined?( entry.episode ) )
+          %link{:rel=>"enclosure", :type=>"audio/mpeg", :length=>"#{entry.mp3_length}", |
+            :href=>"http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-#{entry.episode}.mp3" }
         - if ( defined?( entry.author ) )
           %author
             - if ( defined?( entry.author.name ) )
