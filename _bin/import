@@ -38,7 +38,6 @@ class Encloser
   private
 
   def retrieve_enclosure(enclosure)
-    # <enclosure length="49776624" type="audio/mpeg" url="http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-10.mp3" />
     length = enclosure.attribute('length').value
     url = enclosure.attribute('url').value
     if ( url =~ /[.]*Episode-([0-9]*).mp3/)
@@ -133,7 +132,7 @@ class Importer
           f.puts "episode: #{episode}"
         end
         if ( !enclosure_size.nil? )
-          f.puts "enclosure_length: #{enclosure_size}"
+          f.puts "mp3_length: #{enclosure_size}"
         end
         f.puts '---'
         f.puts content
