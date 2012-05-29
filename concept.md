@@ -4,13 +4,13 @@ title: Le concept
 ---
 # Le concept
 
-Le concept du podcast Les Cast Codeurs est de discuter les nouvelles fraîches du monde Java en Français s’il vous plaît.
+Les Cast Codeurs discutent des nouvelles fraîches du monde Java en Français s’il vous plaît.
 
-On a deux formats que l’on alterne régulierement.
+On a deux formats en alterné.
 
-Le premier est le format « nouvelles » qui contient les rubriques suivantes:
+Le premier est le format nouvelles qui contient les rubriques suivantes :
 
-- discussion sur les nouvelles du monde Java avec vos hôtes habituels
+- discussion sur les nouvelles du monde Java
 - la sélection des outils de la semaine: un outil que l’on utilise au quotidien pour coder ou travailler
 - les mains dans le cambouis: une discussion détaillée sur un sujet peu connu des développeur
 
