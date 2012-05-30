@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Readme
+title: Read me
 ---
 # Read me
 
@@ -10,69 +10,75 @@ title: Readme
 - keep video directory
 - remove todo :)
 
-## Acknowledgments
+## Remerciements
 
-This site is written using:
+Ce site est construit avec:
 
-- [Awestruct][Awestruct]: a framework for creating static HTML sites
-- [Twitter bootstrap][Twitter bootstrap]: a web UI toolkit (HTML, CSS Javascript)
-- Icons from [Komodo Media, Rogie King][Komodo]
+- [Awestruct][Awestruct]: un framework pour créer des sites HTML statiques
+- [Twitter bootstrap][Twitter bootstrap]: une boite à outils d'interfaces web (HTML, CSS Javascript)
+- certains icônes de [Komodo Media, Rogie King][Komodo]
+
+Le logo a été crée par [Nicolas Martignole][touilleur]. 
+Le thème musical est le thème numéro 3 offert par <podcastthemes.com>.
 
 ## Comment construire le site
 
 ### Infrastructure
 
-* get Git
-* get Ruby 1.8
-* if on Mac OS, get XCode (needed for native gems)
+Vous avez besoin de:
 
-Install Git to your system. [GitHub's help page](http://help.github.com/) is a good starting
-point. [Emmanuel's blog](http://in.relation.to/Bloggers/HibernateMovesToGitGitTipsAndTricks)
-on Git tips and tricks is useful too.
+- Git
+- Ruby 1.8
+- sur Mac OS X, XCode (pour les gems natives)
 
-Install Awestruct, a Ruby based site generator.
+Installer Git. [La page d'aide de GitHub](http://help.github.com/) est un bon
+point de départ. [Le blog d'Emmanuel](http://in.relation.to/Bloggers/HibernateMovesToGitGitTipsAndTricks)
+sur les trucs et astuces de Git est utile également.
+
+Installer Awestruct, un générateur de site basé sur Ruby.
 
     gem install awestruct 
-    #or
+    # ou
     sudo gem install awestruct
 
-The Awestruct version known to work is 0.2.18
+La version d'Awestruct testée est 0.2.18
 
     sudo gem install awestruct --version 0.2.18
 
-Get the website source from GitHub.
+Récupérer les sources du site web de GitHub.
 
     git clone git@github.com:lescastcodeurs/lescastcodeurs.com.git
 
-### Serve the site locally
+### Servir le site localement
 
-* Go in your `~/lescastcodeurs.com` directory.  
-* Run  `awestruct -d`
-* Open your browser to <http://localhost:4242>
+* Aller dans votre répertoire `~/lescastcodeurs.com`
+* Lancer  `awestruct -d`
+* Ouvrir votre navigateur à <http://localhost:4242>
 
-Any change will be automatically picked up except for new blog entries.
+Les changements sont automatiquement vu et le site reconstruit sauf pour les nouvelles
+entrées de blog.
 
-#### If your changes are not visible...
+#### Si vos changements ne sont pas visibles...
 
-If for whatever reason you make some changes which don't show up, you can
-completely regenerate the site:
+Si pour une raison quelconque vos changement ne sont pas visibles,
+vous pouvez regénérer complètement le site:
 
     rm -fR _site
     awestruct -d
 
-#### If serving the site is slow...
+#### Si les pages sont lentes à être servies...
 
-On Linux, serving the file may be atrociously slow 
-(something to do with WEBRick).
+Sous Linux, servir les pages peut être attrocement lent
+(problème de WEBRick).
 
-Use the following alternative:
+Utiliser l'approche suivante:
 
-* Go in your `~/lescastcodeurs.com` directory.  
-* Run  `awestruct --auto -P development`
-* In parallel, go to the `~/lescastcodeurs.com/_site` directory
-* Run `python -m SimpleHTTPServer 4242`
+* Aller dans le répertoire `~/lescastcodeurs.com`  
+* Lancer  `awestruct --auto -P development`
+* En parallèle, aller dans `~/lescastcodeurs.com/_site`
+* Lancer `python -m SimpleHTTPServer 4242`
 
-You should be back to millisecond serving :) 
+Vous devriez avoir des pages rendues en quelques millisecondes :) 
 
 ### Comment ajouter un membre à l'équipe
 
@@ -89,11 +95,11 @@ Les propriétés du fichier sont les suivantes:
 
 ## Licence et droits
 
-Le contenu de ce repository est distribué sous licence 
+Le contenu de ce dépôt de code est distribué sous licence 
 [Creative Commons Attribution Share-Alike 3.0 Unported (CC BY-SA 3.0)][cc].
 
-En soumettant une "pull request" ou contribuant de manière général à ce repository, vous acceptez
-de fournir votre contribution sous la licence mentionnée au dessus.
+En soumettant une "pull request" ou contribuant de manière général à ce dépôt de code, 
+vous acceptez de fournir votre contribution sous la licence mentionnée au dessus.
 
 Le texte et le logo sont la propriété d'[Emmanuel Bernard][emmanuel-site].
 
@@ -103,3 +109,4 @@ Le texte et le logo sont la propriété d'[Emmanuel Bernard][emmanuel-site].
 [Komodo]: http://www.komodomedia.com
 [cc]: http://creativecommons.org/licenses/by-sa/3.0/
 [emmanuel-site]: http://emmanuelbernard.com
+[touilleur]: http://www.touilleur-express.fr/
