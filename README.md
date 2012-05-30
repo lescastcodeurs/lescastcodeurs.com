@@ -6,7 +6,9 @@ title: Readme
 
 ## Todo
 
-- write an Atom feed that supports MP3 enclosure (see <http://www.ibm.com/developerworks/xml/library/x-atom10/index.html>)
+- install site build script on server + github push notif (cgi)
+- keep video directory
+- remove todo :)
 
 ## Acknowledgments
 
