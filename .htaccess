@@ -5,12 +5,16 @@ ErrorDocument 404 /404.html
 
 RewriteEngine on
 
-RewriteCond %{HTTP_HOST} ^lescastcodeurs.com$
+RewriteCond %{HTTP_HOST} ^lescastcodeurs.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.lescastcodeurs.com$
+
+# Libsyn feed
+RewriteRule ^podcast\-rss$ "http\:\/\/lescastcodeurs\.libsyn\.com\/rss" [R=302,L]
 
 # images
 RewriteRule ^img/jecoute_les_castcodeurs_200px.png$ /images/promo/jecoute_les_castcodeurs_200px.png
 
-# old feed redirected
+# old site feed redirected
 #RewriteRule feed/ http://lescastcodeurs.com/feed [R=301,L]
 
 # Manual redirect form old URL scheme yyyy/mm to new blog yyyy/mm/dd
