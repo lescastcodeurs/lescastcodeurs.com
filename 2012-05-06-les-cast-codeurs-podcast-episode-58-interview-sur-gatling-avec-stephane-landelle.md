@@ -1,5 +1,5 @@
 ---
-title: 'TEST - TO BE REMOVED - Les Cast Codeurs Podcast - Episode 58 - Interview sur Gatling avec Stephane Landelle'
+title: 'Les Cast Codeurs Podcast - Episode 58 - Interview sur Gatling avec Stephane Landelle'
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 58

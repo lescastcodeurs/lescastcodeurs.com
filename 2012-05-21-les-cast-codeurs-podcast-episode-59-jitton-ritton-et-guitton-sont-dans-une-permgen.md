@@ -1,5 +1,5 @@
 ---
-title: 'TEST - TO BE REMOVED - Les Cast Codeurs Podcast - Episode 59 - jitton ritton et guitton sont dans une permgen '
+title: 'Les Cast Codeurs Podcast - Episode 59 - jitton ritton et guitton sont dans une permgen'
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 59
@@ -11,7 +11,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-59.mp3](http://traffic
 
 ## Errata
 
-[Spring Android](http://www.springsource.org/spring-android)
+[Spring Android](http://www.springsource.org/spring-android)  
 [Android Annotations](http://code.google.com/p/androidannotations/)  
 [JavaLive](http://javalive.fr)  
 [JDuchess](http://www.duchess-france.org/)  
