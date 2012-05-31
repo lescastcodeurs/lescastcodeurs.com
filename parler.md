@@ -20,7 +20,7 @@ Merci :)
 Il suffit de faire du bouche à oreille. Bloguez, postez sur votre site, parlez-en à vos collègues et amis. 
 Vous pouvez aussi mettre cette balise sur votre site
 
-    <a href="http://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="http://lescastcodeurs.com/img/jecoute_les_castcodeurs_200px.png" /></a>
+    <a href="http://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="http://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png" /></a>
 
 pour ajouter le bouton
 
