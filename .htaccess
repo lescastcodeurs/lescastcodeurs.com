@@ -12,7 +12,7 @@ RewriteCond %{HTTP_HOST} ^www.lescastcodeurs.com$
 RewriteRule ^podcast\-rss$ "http\:\/\/lescastcodeurs\.libsyn\.com\/rss" [R=302,L]
 
 # images
-RewriteRule ^img/jecoute_les_castcodeurs_200px.png$ /images/promo/jecoute_les_castcodeurs_200px.png [R=301,L]
+RewriteRule ^img/jecoute_les_castcodeurs_200px.png$ http://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png [R=301,L]
 
 # old feed redirected
 RewriteRule feed[/]? http://lescastcodeurs.com/feed.atom [R=301,L]
@@ -47,7 +47,7 @@ RewriteRule 2010/04/les-cast-codeurs-podcast-episode-20-oracle-je-taime-moi-non-
 RewriteRule 2010/04/les-cast-codeurs-podcast-episode-21-interview-independents-partie-2-aucune-ssii-na-ete-martyrisee-pendant-lenregistrement[/]? http://lescastcodeurs.com/2010/04/27/les-cast-codeurs-podcast-episode-21-interview-independents-partie-2-aucune-ssii-na-ete-martyrisee-pendant-lenregistrement/ [R=301,L]
 RewriteRule 2010/05/video-promo-les-cast-codeurs-a-luniversite-du-si-2010[/]? http://lescastcodeurs.com/2010/05/07/video-promo-les-cast-codeurs-a-luniversite-du-si-2010/ [R=301,L]
 RewriteRule 2010/05/les-cast-codeurs-podcast-episode-22-tupperware-et-tuplewar[/]? http://lescastcodeurs.com/2010/05/17/les-cast-codeurs-podcast-episode-22-tupperware-et-tuplewar/ [R=301,L]
-RewriteRule 2010/05/les-cast-codeurs-podcast-episode-23-interviewWed May 26 08:43:07 20102Wed0dvcs-et-git-jai-vu-la-lumiere-avecWed May 26 08:43:07 20102Wed0david-gageot-dalgodeal[/]? http://lescastcodeurs.com/2010/05/26/les-cast-codeurs-podcast-episode-23-interviewWed May 26 08:43:07 20102Wed0dvcs-et-git-jai-vu-la-lumiere-avecWed May 26 08:43:07 20102Wed0david-gageot-dalgodeal/ [R=301,L]
+RewriteRule 2010/05/les-cast-codeurs-podcast-episode-23-interview%C2%A0dvcs-et-git-jai-vu-la-lumiere-avec%C2%A0david-gageot-dalgodeal[/]? http://lescastcodeurs.com/2010-05-26-les-cast-codeurs-podcast-episode-23-interview-dvcs-et-git-jai-vu-la-lumiere-avec-david-gageot-dalgodeal/ [R=301,L]
 RewriteRule 2010/06/les-cast-codeurs-explosent-la-barre-des-4000[/]? http://lescastcodeurs.com/2010/06/01/les-cast-codeurs-explosent-la-barre-des-4000/ [R=301,L]
 RewriteRule 2010/06/les-cast-codeurs-podcast-episode-24-entree-sortie[/]? http://lescastcodeurs.com/2010/06/18/les-cast-codeurs-podcast-episode-24-entree-sortie/ [R=301,L]
 RewriteRule 2010/07/flattr-payer-les-choses-que-vous-aimer[/]? http://lescastcodeurs.com/2010/07/07/flattr-payer-les-choses-que-vous-aimer/ [R=301,L]
