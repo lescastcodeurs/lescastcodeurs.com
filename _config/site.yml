@@ -3,6 +3,8 @@ title: Les Cast Codeurs Podcast
 profiles:
   development:
     disqus_developer: true
+  production:
+    base_url: http://lescastcodeurs.com/
 
 google_analytics: UA-3479508-5
 flattr_username: epbernard
