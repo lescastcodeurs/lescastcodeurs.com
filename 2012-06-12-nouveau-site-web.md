@@ -10,11 +10,11 @@ de virus :/
 J'ai donc converti <http://lescastcodeurs.com> en un site statique dont les sources sont sur notre
 [compte GitHub][github].
 
-J'en ai profité pour changer le design. Dites-moi ce que vous en penser. 
+J'en ai profité pour changer le design. Dites-moi ce que vous en pensez. 
 
 Normalement, j'ai mis en place toutes les redirections qui vont bien pour que la migration
 soit transparente. Si vous voyez quelques bugs,
-ouvrez un [rapport sur GitHub][issue]. Tant que vous y êtes, forker les sources et envoyer une pull 
+ouvrez un [rapport sur GitHub][issue]. Tant que vous y êtes, forkez les sources et envoyez une pull 
 request - ah la fameuse requête de tirage ;)
 
 [github]: http://github.com/lescastcodeurs/lescastcodeurs.com
