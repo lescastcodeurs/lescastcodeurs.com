@@ -9,6 +9,7 @@
     %link{ :href=>'/feed.atom', :rel=>'alternate', :type=>'application/atom+xml'}/
     /[if lt IE 9]
       %script{ :type=>'text/javascript', :src=>'//html5shim.googlecode.com/svn/trunk/html5.js' }
+    = page.disqus_comments_count
   %body
     .navbar.navbar-fixed-top
       .navbar-inner
