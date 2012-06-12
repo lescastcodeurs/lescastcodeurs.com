@@ -14,6 +14,17 @@ body {
   }
 }
 
+hr.separator {
+    height: 2px;
+    background-color: #bbb;
+    color: #bbb;
+    width: 70%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2em;
+    margin-bottom:4em;
+  }
+
 h1, h2, h3 {
   color: $primary-color;
   margin-bottom:1em;
