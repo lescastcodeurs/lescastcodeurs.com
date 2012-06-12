@@ -19,7 +19,7 @@ Ce site est construit avec:
 - certains icônes de [Komodo Media, Rogie King][Komodo]
 
 Le logo a été crée par [Nicolas Martignole][touilleur]. 
-Le thème musical est le thème numéro 3 offert par <podcastthemes.com>.
+Le thème musical du podcast est le thème numéro 3 offert par <http://podcastthemes.com>.
 
 ## Comment construire le site
 
