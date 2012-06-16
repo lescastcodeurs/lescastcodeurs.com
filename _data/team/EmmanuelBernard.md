@@ -4,7 +4,7 @@ gravatar_hash: 34a47bd77922181070aef96782110714
 blog: http://emmanuelbernard.com/blog/
 twitter: emmanuelbernard
 ---
-Emmanuel Bernard est architecte plate-forme données à JBoss by Red Hat et un member de l'équipe Hibernate.  
+Emmanuel Bernard est architecte plate-forme données à JBoss by Red Hat et un membre de l'équipe Hibernate.  
 Diplômé de Supélec, Emmanuel Bernard a passé quelques années dans le secteur de la grande distribution où il a 
 commencé à s'impliquer dans le monde de l'ORM. Il a rejoint l'équipe Hibernate en 2003.  
 Emmanuel a dirigé l'implementation JPA d'Hibernate. Il a fondé et dirige Hibernate Search, Hibernate Validator 
