@@ -5,7 +5,8 @@ $gridColumnWidth:75px;
 $primary-color:#997704;
 
 body {
-  padding-top: 60px;
+  background-color: #997704;
+  padding-top: 40px;
   font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
   font-size:100%;
   p {
@@ -14,15 +15,30 @@ body {
   }
 }
 
+.container.content {
+  background-color: #ffffff;
+  padding: 20px 20px 10px 20px;
+  box-shadow: 0px 0px 8px #000;
+  text-align: justify;
+}
+
+a.brand {
+  margin-left: -15px !important;
+}
+
+.navbar-fixed-top {
+  box-shadow: 0px 0px 4px #000;
+}
+
 hr.separator {
     height: 2px;
-    background-color: #bbb;
-    color: #bbb;
+    background-color: #997704;
+    color: #997704;
     width: 70%;
     margin-left:auto;
     margin-right:auto;
     margin-top:2em;
-    margin-bottom:4em;
+    margin-bottom:2.5em;
   }
 
 h1, h2, h3 {
@@ -57,20 +73,32 @@ h2 {
 
 #sidebar {
   font-size:80%;
-  background-color:$grayLighter;
-  padding-left: 10px;
-  padding-top:10px;
+  background: #d5cea6; /* Old browsers */
+  background: -moz-linear-gradient(-45deg,  #d5cea6 0%, #f7f0cf 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#d5cea6), color-stop(100%,#f7f0cf)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%); /* IE10+ */
+  background: linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d5cea6', endColorstr='#f7f0cf',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+  padding: 5px;
+  border: solid #997704 1px;
 
   h1, h2 {
+    margin-top:.7em;
     margin-bottom:.7em;
+    margin-left: .2em;
   }
 
   hr {
-    margin-right:10px;
+    border: #997704 solid 1px;
+    margin-left: 5px;
+    margin-right: 5px;
   }
 
   #element {
-    padding-left:10px;
+    padding-left:5px;
     padding-bottom:1em;
   }
 }
