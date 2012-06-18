@@ -3,9 +3,11 @@ $gridColumnWidth:75px;
 @import "bootstrap";
 
 $primary-color:#997704;
+//$dark-background-color:#2E1B08;
+$dark-background-color:#5E361A;
 
 body {
-  background-color: #997704;
+  background-color: $dark-background-color;
   padding-top: 40px;
   font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
   font-size:100%;
@@ -83,7 +85,7 @@ h2 {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d5cea6', endColorstr='#f7f0cf',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 
   padding: 5px;
-  border: solid #997704 1px;
+  border: solid $primary-color 1px;
 
   h1, h2 {
     margin-top:.7em;
@@ -92,7 +94,7 @@ h2 {
   }
 
   hr {
-    border: #997704 solid 1px;
+    border: $primary-color solid 1px;
     margin-left: 5px;
     margin-right: 5px;
   }
