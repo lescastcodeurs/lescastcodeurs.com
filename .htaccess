@@ -15,7 +15,7 @@ RewriteRule ^podcast\-rss$ "http\:\/\/lescastcodeurs\.libsyn\.com\/rss" [R=302,L
 RewriteRule ^img/jecoute_les_castcodeurs_200px.png$ http://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png [R=301,L]
 
 # old feed redirected
-RewriteRule feed[/]? http://lescastcodeurs.com/feed.atom [R=301,L]
+RewriteRule ^feed[\/]?$ "http\:\/\/lescastcodeurs\.com\/feed\.atom" [R=301,L]
 
 # Manual redirect form old URL scheme yyyy/mm to new blog yyyy/mm/dd
 RewriteRule 2009/03/en-construction[/]? http://lescastcodeurs.com/2009/03/25/en-construction/ [R=301,L]
