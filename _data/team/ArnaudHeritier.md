@@ -1,5 +1,5 @@
 ---
-name: Arnaud Héritier
+name: Arnaud H&eacute;ritier
 gravatar_hash: 9dec3dd95fe76a6719fae939b368d1a5
 blog: http://aheritier.net/
 twitter: aheritier
