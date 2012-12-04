@@ -12,4 +12,4 @@ Un grand merci à lui.
 Et puisqu'on est dans l'audio-visuel, voici une photo prise
 pendant l'enregistrement à Devoxx 2012.
 
-<img src="/images/blog/team-devoxx-2012.jpg"/>
+<img width="800" src="/images/blog/team-devoxx-2012.jpg"/>
