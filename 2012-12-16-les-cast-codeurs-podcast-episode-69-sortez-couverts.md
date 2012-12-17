@@ -39,7 +39,7 @@ Revues publics de Bean Validation, CDI etc <http://beanvalidation.org/news/2012/
 
 ### Autres
 
-[angular.js](http://angularjs.com) vs backbone  
+[angular.js](http://angularjs.org) vs backbone  
 [OSS Burnout chez bootstrap](http://www.touilleur-express.fr/2012/12/08/a-celui-qui-a-fait-twitter-bootstrap/)
 
 ## Les Mains dans le cambouis
