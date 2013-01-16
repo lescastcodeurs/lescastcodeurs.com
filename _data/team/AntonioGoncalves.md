@@ -6,13 +6,13 @@ website: http://www.antoniogoncalves.org/
 twitter: agoncal
 ---
 Ingénieur du Cnam, Antonio a découvert Java en 1998 avant de rentrer chez BEA Systems. Là il se spécialise sur la 
-plateforme enterprise de Java, les serveurs d’applications en générale et Weblogic en particulier. Depuis il fait du 
+plateforme enterprise de Java, les serveurs d’applications en général et Weblogic en particulier. Depuis il fait du 
 conseil en architecture dans tout type d’entreprises (grands comptes, startup...).
 
 En 2007 Antonio publie un livre sur [Java EE 5][javaee5] aux éditions Eyrolles. Il rentre dans le [JCP][jcp] en tant que membre expert sur 
 [Java EE 6][javaee6], [EJB 3.1][ejb31] et [JPA 2.0][jpa20]. En juin 2009 il publie un livre sur [Java EE 6][book] aux éditions Apress.
 
-En février 2008 Antonio créé le [Paris JUG][parisjug], groupe d’utilisateurs java parisien qui se retrouvent une fois par mois pour 
+En février 2008 Antonio créé le [Paris JUG][parisjug], groupe d’utilisateurs java parisien qui se retrouve une fois par mois pour 
 assister à des conférences. Il parle régulièrement à des [conférences internationales][confs] sur des sujets liés à Java EE.
  
 [javaee5]: http://www.antoniogoncalves.org/xwiki/bin/view/Book/JavaEE5Fr
