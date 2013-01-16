@@ -50,7 +50,7 @@ podcast.
 
 Voilà, c'est une petite aventure qui commence. Dites-nous ce que vous en pensez?
 
-## Comment sponsoriser
+## Pourquoi sponsoriser
 
 Alors si vous voulez soutenir Les Cast Codeurs, et si vous ou votre entreprise souhaitez :
 
@@ -64,6 +64,9 @@ du podcast.
 
 Donc n'hésitez pas à en parler autour de vous, à vos collègues, à votre boss, au DSI de votre boîte, à vos
 collègues du marketing et contactez nous à [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
-si vous souhaitez en apprendre plus et comprendre ce que cela peut vous apporter.
+si vous souhaitez en apprendre plus et comprendre ce que cela peut vous apporter.  
+Nous sommes en train de finaliser une plaquette avec nos idées sur les diverses possibilités
+de sponsoring, on vous recontacte dès que tout ça se décide.
+[Envoyez-nous un petit email](mailto:sponsors@lescastcodeurs.com) pour rester au courant.
 
 Les Cast Codeurs
