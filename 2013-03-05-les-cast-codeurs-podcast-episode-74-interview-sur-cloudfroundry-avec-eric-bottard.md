@@ -81,7 +81,7 @@ core.cloudfoundry.com <http://core.cloudfoundry.org>
 
 ### Le futur
 
-La roadmap  
+La roadmap <http://cloudfoundry.github.com/docs/roadmap.html>  
 Le blog CloudFoundry <http://blog.cloudfoundry.com>  
 
 ## Nous contacter
