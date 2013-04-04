@@ -64,7 +64,7 @@ Les slides de l'épisode <http://www.parleys.com/#play/5159c07ee4b0c779d788146e/
 - après midi des DSI
 - Golo <http://golo-lang.org>  
 - Code Story <http://code-story.net>  
-- les mercenaires du DevOps
+- les mercenaires du DevOps <http://www.devopsmercenaries.org> et [@@devopsmercs](http://twitter.com/devopsmercs)
 - Devoxx4Kids
 - Raspberry Pi <http://www.raspberrypi.org/faqs>
 
