@@ -70,7 +70,7 @@ Outsourcer son boulot en Chine <http://www.theregister.co.uk/2013/01/16/develope
 ## Outils de l'épisode
 
 jenv <https://github.com/hikage/jenv#readme>  
-Weechat <http:/weechat.org>  
+Weechat <http://weechat.org>  
 CLAHub <http://www.clahub.com>
 
 ## JUG et Conferences
