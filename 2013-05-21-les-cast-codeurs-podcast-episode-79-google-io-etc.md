@@ -85,7 +85,7 @@ Tig <http://blogs.atlassian.com/2013/05/git-tig/>
 
 ## JUG et Conferences
 
-- [BrownBagLunch](Brownbaglunch.fr)
+- [BrownBagLunch](http://www.brownbaglunch.fr)
 - [GR8Conf 22 au 24 mai](http://gr8conf.eu/index)
 - [Eclipsecon France](http://www.eclipsecon.org/france2013/) Toulouse 5-6 juin 2013
 - [CloudConf](http://www.cloudconf.eu) Paris le 7-8 juin
