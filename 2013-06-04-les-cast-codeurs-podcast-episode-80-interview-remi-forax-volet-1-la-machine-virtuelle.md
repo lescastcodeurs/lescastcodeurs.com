@@ -27,7 +27,7 @@ volatile <http://www.javamex.com/tutorials/synchronization_volatile.shtml>
 ### Invoke dynamic
 
 invokedynamic <http://jcp.org/en/jsr/detail?id=292>  
-constsant mostly final blog <https://www.java.net//blog/forax/archive/2011/12/17/jsr-292-goodness-almost-static-final-field>  
+Constant mostly final blog <https://www.java.net//blog/forax/archive/2011/12/17/jsr-292-goodness-almost-static-final-field>  
 Edition de lien <http://fr.wikipedia.org/wiki/Edition_de_liens>  
 
 ## Nous contacter
