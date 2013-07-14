@@ -15,6 +15,7 @@ J'ai plusieurs alternatives en tête:
 2. Les Cast Codeurs - 666 - Interview sur l'enfer avec Satan
 3. LCC - 666 - Interview sur l'enfer avec Satan
 4. 666 - Interview sur l'enfer avec Satan
+5. Podcast 666 - Interview sur l'enfer avec Satan (proposé par Jean-Christophe)
 
 L'option 2 est relativement conservatrice et garde le (long) nom du podcast dans le titre ce qui est
 pas mal si les pistes sont mélangées entre différents podcasts ou feeds.
