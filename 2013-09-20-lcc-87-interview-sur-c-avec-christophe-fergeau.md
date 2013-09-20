@@ -16,6 +16,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-87.mp3](http://traffic.l
 ### Ta vie, ton œuvre
 
 Christophe Fergeau  
+[Blog](http://cfergeau.blogspot.fr)  
 [Spice](http://www.spice-space.org)  
 
 ### le langage
