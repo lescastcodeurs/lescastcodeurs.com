@@ -25,7 +25,7 @@ Christophe Fergeau
 Mémoire non managée  
 Outil d'analyse mémoire [Valgrind](http://www.valgrind.org)  
 [Le langage C++](https://en.wikipedia.org/wiki/C%2B%2B)  
-[Garbage Collector Bohem](https://en.wikipedia.org/wiki/Boehm_garbage_collector)  
+[Garbage Collector Boehm](https://en.wikipedia.org/wiki/Boehm_garbage_collector)  
 [Endianness](https://en.wikipedia.org/wiki/Endianness)  
 
 ### Frameworks et standards
