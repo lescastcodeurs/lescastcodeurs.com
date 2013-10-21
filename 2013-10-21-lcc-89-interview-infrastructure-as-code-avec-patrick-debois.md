@@ -7,7 +7,7 @@ mp3_length: 70063563
 ---
 Arnaud discute avec Patrick Debois des techniques et outils de l'infrastructure
 as code et du configuration management system et de ses liens avec le mouvement
-DevoOps. On y discute Puppet, Chef, Vagrant etc.
+DevOps. On y discute Puppet, Chef, Vagrant etc.
 
 Enregistré le 17 octobre 2013
 
