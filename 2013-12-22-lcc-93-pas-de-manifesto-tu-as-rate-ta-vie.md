@@ -6,7 +6,7 @@ episode: 93
 mp3_length: 65275473
 ---
 
-Pour finir l'année, les cast codeurs au grand complet discutent des bons vient Spring, Hibernate mais aussi de micro services et autres matifestos.
+Pour finir l'année, les cast codeurs au grand complet discutent des bons vieux Spring, Hibernate mais aussi de micro services et autres matifestos.
 Sans oublier la méthodologie et une tripotée d'outils de l'épisode.
 
 Enregistré le 20 decembre 2013
