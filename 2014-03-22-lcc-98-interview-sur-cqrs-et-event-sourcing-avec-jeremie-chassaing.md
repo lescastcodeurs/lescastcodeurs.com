@@ -15,7 +15,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-98.mp3](http://traffic.l
 
 ### Intro
 
-[Jérémie Chassaing](thinkbeforecoding.com)  
+[Jérémie Chassaing](http://thinkbeforecoding.com)  
 [@thinkb4coding](https://twitter.com/thinkb4coding)  
 [Siriona](http://site.availpro.com)  
 
