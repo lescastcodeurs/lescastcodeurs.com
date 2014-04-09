@@ -13,6 +13,12 @@ Enregistré le 7 avril 2014
 
 Téléchargement de l'épisode [LesCastCodeurs-Episode-100.mp3](http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-100.mp3)  
 
+## Mise à jour
+
+Quelques liens supplémentaires suite à la nomination d'[Axelle Lemaire](http://www.axellelemaire.eu) au poste de secrétaire d'état du numérique.
+
+[Dix idées à Axelle Lemaire de Tariq Krim](http://pro.01net.com/editorial/617852/dix-idees-nouvelles-pour-le-nouveau-secretaire-d-etat-au-numerique/)  
+
 ## Interview
 
 ## Ta vie ton oeuvre
