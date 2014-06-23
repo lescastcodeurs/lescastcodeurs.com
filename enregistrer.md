@@ -30,6 +30,8 @@ Quelques petits conseils:
 * Couper le son du micro quand on ne parle pas est idéal
     * Sur Max OS X, [Shush](https://itunes.apple.com/us/app/shush-microphone-manager/id496437906?mt=12) permet de couper le son en soft ; J'utilise l'option Toggle et la touch `fn`
 * Garder le son du casque aussi bas que raisonable: il arrive que le son d'un casque trop fort soit réenregistrer par le micro et c'est la galère
+* Si Skype coupe, ne pas arrêter l'enregistrement
+** Si quelqu'un l'a quand même fait, refaire un 3, 2, 1, top (voir ci dessous)
 
 Lancer Audacity et vérifier que le micro sélectionné est bien celui que vous pensez (liste déroulante à côté de l'icône micro dans la barre des tâches.
 
