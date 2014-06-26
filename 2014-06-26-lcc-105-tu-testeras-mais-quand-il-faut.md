@@ -5,7 +5,7 @@ layout: blog-post
 episode: 105
 mp3_length: 52245974
 ---
-Agnès, Amira, Lidwine et Mathilde discutent de WWDC et notamment la sortie de Swift, de la VM Android post Dalvik.
+Agnès, Amira, Ludwine et Mathilde discutent de WWDC et notamment la sortie de Swift, de la VM Android post Dalvik.
 Elles débattent aussi sur le TDD et sur l'intérêt d'enfoncer des portes ouvertes.
 
 Enregistré le 23 juin 2014
