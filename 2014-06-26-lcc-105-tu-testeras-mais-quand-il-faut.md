@@ -57,7 +57,7 @@ Le débat: #isTDDDead avec Martin Fowler, Kent Beck et David Heinemeier Hansson 
 - <http://www.phpclasses.org/blog/post/237-7-Reasons-Why-TDD-Failed-to-become-Mainstream.html>
 - <http://www.infoq.com/news/2014/06/tdd-dead-controversy>
 
-[Nomock movement](alves.org/2012/11/27/launching-the-nomock-movement/)  
+[Nomock movement](http://antoniogoncalves.org/2012/11/27/launching-the-nomock-movement/)  
 [La vitesse du développent logiciel](http://www.targetprocess.com/articles/speed-in-software-development.html)  
 [Slack](https://slack.com)  
 [Duchess France et les femmes dans les conférences](http://www.duchess-france.org)  
