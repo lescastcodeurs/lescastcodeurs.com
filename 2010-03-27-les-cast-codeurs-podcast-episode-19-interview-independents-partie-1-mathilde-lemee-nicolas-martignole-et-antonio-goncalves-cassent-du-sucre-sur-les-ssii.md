@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 19 - Interview indépendents partie 1 - Mathilde Lemee, Nicolas Martignole et Antonio Goncalves cassent du sucre sur les SSII'
+title: 'Les Cast Codeurs Podcast - Episode 19 - Interview indépendants partie 1 - Mathilde Lemee, Nicolas Martignole et Antonio Goncalves cassent du sucre sur les SSII'
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 19
