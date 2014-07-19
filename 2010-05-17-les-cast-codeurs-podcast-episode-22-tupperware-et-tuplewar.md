@@ -9,7 +9,7 @@ Enregistré le 6 mai 2010
 
 Téléchargement de l'épisode [LesCastCodeurs-Episode-22.mp3](http://media.libsyn.com/media/lescastcodeurs/LesCastCodeurs-Episode-22.mp3)
 
-La mailing liste des cast codeurs : [http://groups.google.com/group/lescastcodeurs](http://groups.google.com/group/lescastcodeurs)
+La mailing list des cast codeurs : [http://groups.google.com/group/lescastcodeurs](http://groups.google.com/group/lescastcodeurs)
 
 ## Nouvelles
 Disquette 3,5 pouces, c'est fini [http://www.geeksaresexy.net/2010/04/26/farewell-to-the-floppy](http://www.geeksaresexy.net/2010/04/26/farewell-to-the-floppy)
@@ -25,7 +25,7 @@ Steve Jobs contre Flash Gordon
 [http://android-france.fr/2010/05/11/flash-sur-android-2-2-en-video-et-la-future-home-de-froyo/](http://android-france.fr/2010/05/11/flash-sur-android-2-2-en-video-et-la-future-home-de-froyo/) (Flash sur Android 2.2)  
 [http://www.gamasutra.com/view/news/28410/Report_FTC_Examining_Possible_Antitrust_Violations_Involving_Apples_Flash_Ban.php](http://www.gamasutra.com/view/news/28410/Report_FTC_Examining_Possible_Antitrust_Violations_Involving_Apples_Flash_Ban.php) (la Federal Trade Commission)  
 
-Traffic internet des platformes android vient d'atteindre l'iPhone  
+Trafic Internet des platformes Android vient d'atteindre l'iPhone  
 [http://www.businessmobile.fr/actualites/audience-du-trafic-internet-mobile-l-iphone-depasse-par-android-aux-etats-unis-39751237.htm](http://www.businessmobile.fr/actualites/audience-du-trafic-internet-mobile-l-iphone-depasse-par-android-aux-etats-unis-39751237.htm)
 
 Appcelerator [http://www.appcelerator.com/](http://www.appcelerator.com/)  
@@ -78,7 +78,7 @@ Les Cast Codeurs et Java 1.2
 Java 5 vs 6 vs 7  
 Pourquoi on fait de l'Open Source
 
-## Nous contacter</strong></div>
+## Nous contacter
 Contactez-nous via Twitter [http://twitter.com/lescastcodeurs](http://twitter.com/lescastcodeurs)  
 sur le groupe Google [http://groups.google.com/group/lescastcodeurs](http://groups.google.com/group/lescastcodeurs)  
 ou sur le site Web [http://lescastcodeurs.com/](http://lescastcodeurs.com/)

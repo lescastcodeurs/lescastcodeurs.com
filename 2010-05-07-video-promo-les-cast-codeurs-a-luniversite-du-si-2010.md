@@ -20,6 +20,6 @@ Pour ceux qui ne connaissent pas, je résumerai en deux concepts :
 
 Pour fêter cela, on a préparé une petite vidéo promotionnelle :)
 
-<object width='640' height='505' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0'><param name='allowFullScreen' value='true'/><param name='allowscriptaccess' value='always'/><param name='src' value='http://www.youtube.com/v/gGxWzVMRpHo&amp;hl=en_US&amp;fs=1&amp;rel=0'/><param name='allowfullscreen' value='true'/><embed allowscriptaccess='always' allowfullscreen='true' width='640' height='505' type='application/x-shockwave-flash' src='http://www.youtube.com/v/gGxWzVMRpHo&amp;hl=en_US&amp;fs=1&amp;rel=0'/></object>
+<iframe width="420" height="315" src="//www.youtube.com/embed/gGxWzVMRpHo" frameborder="0" allowfullscreen></iframe>
 
 Venez nous [rejoindre](http://universite-du-si.com/fr/conferences/6-paris-usi-2010/sessions/859-il-est-frais-mon-java).
