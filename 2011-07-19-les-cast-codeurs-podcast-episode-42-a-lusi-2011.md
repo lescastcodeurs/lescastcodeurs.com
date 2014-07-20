@@ -33,4 +33,3 @@ sur le groupe Google [http://groups.google.com/group/lescastcodeurs](http://grou
 ou sur le site Web [http://lescastcodeurs.com/](http://lescastcodeurs.com/)  
 
 Flattr-ez nous (dons) sur [http://lescastcodeurs.com/](http://lescastcodeurs.com/)  
-  
