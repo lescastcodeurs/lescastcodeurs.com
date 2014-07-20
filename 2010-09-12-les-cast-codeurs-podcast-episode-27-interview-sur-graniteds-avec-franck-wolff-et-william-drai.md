@@ -25,7 +25,6 @@ Bean Validation et BigNumber sous Flex [http://in.relation.to/Bloggers/BeanVali
 Errai [http://jboss.org/errai](http://jboss.org/errai)
 
 ## Nous contacter
-
 Contactez-nous via Twitter [http://twitter.com/lescastcodeurs](http://twitter.com/lescastcodeurs)  
 sur le groupe Google [http://groups.google.com/group/lescastcodeurs](http://groups.google.com/group/lescastcodeurs)  
 ou sur le site Web [http://lescastcodeurs.com/](http://lescastcodeurs.com/)
