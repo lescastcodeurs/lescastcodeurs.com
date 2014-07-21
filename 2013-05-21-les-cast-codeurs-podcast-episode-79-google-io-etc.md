@@ -29,7 +29,7 @@ Android, c'est 48 milliards d'apps installées, [900 millions de téléphones ac
 [750M d'utilisateurs Chrome](http://techcrunch.com/2013/05/15/googles-chrome-browser-now-has-750-million-active-users/), et Chrome permet la recherche vocale quand on lui dit "ok google", propose l'implémentation de WebP  
 [Google Wallet](http://techcrunch.com/2013/05/15/death-by-a-thousand-cuts-google-wallets-plan-to-take-on-paypal-leverages-chrome-android-google-gmail-more/) va permettre de s'envoyer de l'argent par l'intermédiaire de Gmail, de stocker ses détails de paiement pour les faire fonctionner sur différents sites automatiquement  
 [Nouveau design Google+](http://techcrunch.com/2013/05/15/google-redesigns-its-stream-to-include-multi-column-google-now-esque-cards-auto-hashtags-and-more/) avec des colonnes, avec de l'[amélioration de photo automatique](http://techcrunch.com/2013/05/15/google-photos-can-now-automatically-create-animated-gifs-panoramas-hdr-images-and-better-group-shots/) (HDR, skin softening, Gif animé, exposition...), [Cross platform / SSO Google+ signin](http://googleplusplatform.blogspot.fr/2013/05/cross-platform-single-sign-on.html), tag automatique des photos reconnues  
-[Google Maps](http://google-latlong.blogspot.fr/2013/05/meet-new-google-maps-map-for-every.html) remis à jour, avec affichage de carte personnalisé en fonction des recherches, avec fusion avec Google Earth, visualisation de la terre, des nuages en temps réel, de nouvelles capacité de calcul d'itinéraire en fonction du moyen de transport, un mapping 3D généré avec des photos aériennes et d'utilisateurs pour les intérieurs. L'[API pour Android](http://mashable.com/2013/05/15/google-location-services/) proposera de nouveaux services en plus : le "Fuse Location Provider" pour avoir de la localisation plus rapide et consommant moins d'énergie, une API de Geo Fencing, et d'activity tracking (avec l'accéléromètre pour détecter les types de mouvements de marche, course, etc) pour faire concurrence aux services et gadgets type FitBit  
+[Google Maps](http://google-latlong.blogspot.fr/2013/05/meet-new-google-maps-map-for-every.html) remis à jour, avec affichage de carte personnalisée en fonction des recherches, avec fusion avec Google Earth, visualisation de la terre, des nuages en temps réel, de nouvelles capacités de calcul d'itinéraire en fonction du moyen de transport, un mapping 3D généré avec des photos aériennes et d'utilisateurs pour les intérieurs. L'[API pour Android](http://mashable.com/2013/05/15/google-location-services/) proposera de nouveaux services en plus : le "Fuse Location Provider" pour avoir de la localisation plus rapide et consommant moins d'énergie, une API de Geo Fencing, et d'activity tracking (avec l'accéléromètre pour détecter les types de mouvements de marche, course, etc) pour faire concurrence aux services et gadgets type FitBit  
 [Google Hangouts](http://techcrunch.com/2013/05/15/google-hangouts-messaging-app/) disponible sur toutes les plateformes, fusionnant les différents systèmes de messagerie de Google, et qui aura sans doute le [support des SMS](http://thenextweb.com/google/2013/05/16/googles-hangouts-service-will-rival-imessage-with-support-for-sms-google-play-listing-reveals/) plus tard, et sinon il y a aussi le [partage de desktop avec Google Hangouts](http://www.theverge.com/2013/5/1/4291220/google-adds-remote-desktop-to-hangouts)  
 [Google Cloud Messaging](http://mashable.com/2013/05/15/google-cloud-messaging-updates/) qui permet de synchroniser les notifications, communication bidirectionnelle avec le serveur  
 [Google Now](http://insidesearch.blogspot.fr/2013/05/a-multi-screen-and-conversational.html) intègre de nouvelles "cartes", des rappels vocaux  
@@ -52,7 +52,7 @@ Librarie pour faire de la [détection de language](https://code.google.com/p/lan
 
 ### Frameworks et plateformes
 
-Java EE 7 apprové <https://blogs.oracle.com/theaquarium/entry/java_ee_7_platform_completes>  
+Java EE 7 approuvé <https://blogs.oracle.com/theaquarium/entry/java_ee_7_platform_completes>  
 Wildfly [Roadmap](https://issues.jboss.org/browse/WFLY?selectedTab=com.atlassian.jira.plugin.system.project%3Aroadmap-panel) et [planning](http://lists.jboss.org/pipermail/wildfly-dev/2013-May/000062.html) - Java EE 7, Hibernate ORM perf, Undertow   
 Restx <http://xhab.blogspot.fr/2013/05/introducing-restx-lightweight-open.html>  
 Dagger 1.0 <http://corner.squareup.com/2013/05/dagger-1.0.html>  
@@ -83,7 +83,7 @@ Geek stuff, Guillaume a reçu sa montre [Pebble](http://getpebble.com/) ! Ils on
 
 Tig <http://blogs.atlassian.com/2013/05/git-tig/>
 
-## JUG et Conferences
+## JUGs et conférences
 
 - [BrownBagLunch](http://www.brownbaglunch.fr)
 - [GR8Conf 22 au 24 mai](http://gr8conf.eu/index)
@@ -96,8 +96,8 @@ Tig <http://blogs.atlassian.com/2013/05/git-tig/>
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

@@ -46,14 +46,14 @@ Les slides de l'épisode <http://www.parleys.com/#play/5159c07ee4b0c779d788146e/
 <http://parisjug.org/xwiki/bin/view/Blog/Sondage+sur+le+cloud>  
 
 - les prestataires les plus utilisés
-- avez-vous déjà milité auprès de votre DSI pour l'utilisation de services clouds?
-- votre demande a-t-elle été prise en compte?
-- utilisez-vous le cloud de votre propre initiative?
-- utilisez-vous des services payants?
-- les faites-vous passer en note de frais?
-- a combien estimez-vous le coût annuel de votre utilisation personnelle du cloud?
-- comment qualiferiez-vous vos relations avec votre service production?
-- vous arrive-t-il de bypasser la production en utilisant le cloud
+- avez-vous déjà milité auprès de votre DSI pour l'utilisation de services clouds ?
+- votre demande a-t-elle été prise en compte ?
+- utilisez-vous le cloud de votre propre initiative ?
+- utilisez-vous des services payants ?
+- les faites-vous passer en note de frais ?
+- à combien estimez-vous le coût annuel de votre utilisation personnelle du cloud ?
+- comment qualiferiez-vous vos relations avec votre service production ?
+- vous arrive-t-il de bypasser la production en utilisant le cloud ?
 
 ### Devoxx 2013
 
@@ -64,11 +64,11 @@ Les slides de l'épisode <http://www.parleys.com/#play/5159c07ee4b0c779d788146e/
 - après midi des DSI
 - Golo <http://golo-lang.org>  
 - Code Story <http://code-story.net>  
-- les mercenaires du DevOps <http://www.devopsmercenaries.org> et [@@devopsmercs](http://twitter.com/devopsmercs)
+- les mercenaires du DevOps <http://www.devopsmercenaries.org> et [@devopsmercs](http://twitter.com/devopsmercs)
 - Devoxx4Kids
 - Raspberry Pi <http://www.raspberrypi.org/faqs>
 
-## JUG et Conferences
+## JUGs et conférences
 
 - [DevopsDays Paris](http://devopsdays.org/events/2013-paris/) 18-19 avril
 - [Mix-IT 25 et 26 avril](http://www.mix-it.fr/article/31/breaking-news-mix-it-2013-aura-lieu-les-25-et-26)  
@@ -78,8 +78,8 @@ Les slides de l'épisode <http://www.parleys.com/#play/5159c07ee4b0c779d788146e/
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
-Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+ou sur le site Web <http://lescastcodeurs.com/>  
+Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

@@ -1,5 +1,5 @@
 ---
-title: Les Cast Codeurs Podcast - Episode 73 - la securite du developpeur mi DevOps
+title: Les Cast Codeurs Podcast - Episode 73 - la sécurité du développeur mi DevOps
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 73
@@ -18,14 +18,14 @@ VMWare licencie et embauche <http://www.theregister.co.uk/2013/01/29/vmware_q4_2
 
 ### Java et langages
 
-Des infos sur les lambda <http://zeroturnaround.com/labs/java-8-the-first-taste-of-lambdas/>  
+Des infos sur les lambdas <http://zeroturnaround.com/labs/java-8-the-first-taste-of-lambdas/>  
 Article d'Olivier Croisier sur Joda Time <https://twitter.com/OlivierCroisier/status/296500044939554816>  
 Scala en 2012 et 2013 par TypeSafe <http://java.dzone.com/articles/state-scala-2013>  
 Un retour sur Scala en Français <http://the-babel-tower.blogspot.fr/2013/02/why-scala.html?spref=tw>  
 La sortie de Groovy 2.1 <http://groovy.codehaus.org/Groovy+2.1+release+notes>  
 The Groovy conundrum <http://www.drdobbs.com/jvm/the-groovy-conundrum/240147731>
 
-Les problèmes de sécurité à répétition:
+Les problèmes de sécurité à répétition :
 
 - Oracle sort Java 7u13 <http://www.oracle.com/technetwork/java/javase/downloads/index.html>
 - <http://timboudreau.com/blog/The_Java_Security_Exploit_in_(Mostly)_Plain_English/read>
@@ -44,13 +44,13 @@ Schemaless <http://martinfowler.com/articles/schemaless/>
 ### Outils
 
 Eclipse éteint son CVS <http://mmilinkov.wordpress.com/2012/12/21/eclipse-says-goodbye-to-cvs/>  
-La débacle Jenkins 1.49x <http://jenkins-ci.org>  
+La débâcle Jenkins 1.49x <http://jenkins-ci.org>  
 L'histoire derrière Bazaar <http://www.stationary-traveller.eu/pages/bzr-a-retrospective.html>  
 
 ### Services
 
 Post mortem de GitHub <https://github.com/blog/1397-recent-code-search-outages>  
-Les données des Velib ouvertes bientôt <http://www.01net.com/editorial/585929/les-donnees-du-systeme-velib-seront-bientot-ouvertes/>  
+Les données des Velibs ouvertes bientôt <http://www.01net.com/editorial/585929/les-donnees-du-systeme-velib-seront-bientot-ouvertes/>  
 Microsoft offre des VM pour tester la compatibilité des IE <http://www.modern.ie/virtualization-tools>  
 Java/Knowledge Black Belt c'est fini  
 BinTray <http://jaxenter.com/github-of-packages-bintray-opens-public-beta-46002.html>  
@@ -58,11 +58,11 @@ BinTray <http://jaxenter.com/github-of-packages-bintray-opens-public-beta-46002.
 ### Performance
 
 invokedynamic: tales from the trenches <http://www.slideshare.net/CharlesNutter/invokedynamic-tales-from-the-trenches>  
-Presentation Twitter sur la VM <http://www.slideshare.net/aszegedi/everything-i-ever-learned-about-jvm-performance-tuning-twitter>
+Présentation Twitter sur la VM <http://www.slideshare.net/aszegedi/everything-i-ever-learned-about-jvm-performance-tuning-twitter>
 
   - en particulier, comment éviter les GC qui créent de la latence
 
-### l'humain
+### L'humain
 
 Développeurs seniors <http://www.ekito.fr/people/?p=51>  
 Outsourcer son boulot en Chine <http://www.theregister.co.uk/2013/01/16/developer_oursources_job_china/>  
@@ -73,7 +73,7 @@ jenv <https://github.com/hikage/jenv#readme>
 Weechat <http://weechat.org>  
 CLAHub <http://www.clahub.com>
 
-## JUG et Conferences
+## JUGs et conférences
 
 - [EclipseCon - Boston](http://www.eclipsecon.org/2013/) 25-28 mars
 - [Devoxx France](http://devoxx.fr) 27-29 mars
@@ -85,7 +85,7 @@ CLAHub <http://www.clahub.com>
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

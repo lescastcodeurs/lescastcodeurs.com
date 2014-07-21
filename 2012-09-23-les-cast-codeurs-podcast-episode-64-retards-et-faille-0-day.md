@@ -21,20 +21,24 @@ Les brevets LTE de Samsung et l'iPhone 5 <http://mashable.com/2012/09/12/samsung
 #### Faille 0-day
 
 Qu'est-ce qu'une attaque "0-day" <http://en.wikipedia.org/wiki/Zero-day_attack>  
+
 La faille Java
 
 - <http://www.programmez.com/actualites.php?id_actu=11954&xtor=EPR-144>  
 - <http://www.deependresearch.org/2012/08/java-7-0-day-vulnerability-information.html?m=1&utm_source=buffer&buffer_share=17b39>
 
-Oracle connaissait le problème <https://www.pcworld.com/businesscenter/article/261612/oracle_knew_about_currently_exploited_java_vulnerabilities_for_months_researcher_says.html>  
-Xavier Hanin de l'OSSGTP qui couvrait aussi le sujet avec des conseils pour pallier à cette faille <http://xhaj.blogspot.fr/2012/08/faille-java-0-day-aout-2012.html>
+Oracle connaissait le problème  
+<https://www.pcworld.com/businesscenter/article/261612/oracle_knew_about_currently_exploited_java_vulnerabilities_for_months_researcher_says.html>  
+
+Xavier Hanin de l'OSSGTP qui couvrait aussi le sujet avec des conseils pour pallier à cette faille  
+<http://xhaj.blogspot.fr/2012/08/faille-java-0-day-aout-2012.html>
 
 #### Jigsaw: un puzzle plus dur que prévu
 
 Annonce de Mark Reinhold <http://mreinhold.org/blog/late-for-the-train>  
 Q&A de Mark Reinhold <http://mreinhold.org/blog/late-for-the-train-qa>  
 Réactions de Alexis <http://alexismp.wordpress.com/2012/08/28/jigsaw-qa/>  
-BLog de Paul Sandoz <http://earthly-powers.blogspot.se>  
+Blog de Paul Sandoz <http://earthly-powers.blogspot.se>  
 
 Java Date and Time (JSR-310) <http://sourceforge.net/apps/mediawiki/threeten/index.php?title=ThreeTen>  
 Patch permgen <http://hg.openjdk.java.net/hsx/hotspot-gc/hotspot/rev/da91efe96a93>  
@@ -47,7 +51,7 @@ Lambda, default methods etc <http://datumedge.blogspot.se/2012/06/java-8-lambdas
 
 ### Plateforme
 
-Red Hat rachete FuseSource <http://www.zdnet.com/blog/open-source/red-hat-acquires-fusesource/11367>
+Red Hat rachète FuseSource <http://www.zdnet.com/blog/open-source/red-hat-acquires-fusesource/11367>
 
 ### Langages
 
@@ -63,8 +67,12 @@ Une spec pour les logs? <http://antoniogoncalves.org/2012/09/06/i-need-you-for-l
 
 ### Autres sorties...
 
-Jean-François a sorti la version 1.0 de Atmosphere <http://jfarcand.wordpress.com/2012/09/04/atmosphere-1-0-the-asynchronous-javascriptjava-framework-now-available/>  
-XWiki 4.1.4 est sorti ! 4.2 se rapproche avec les install et mises a jour automatique <http://www.xwiki.org/xwiki/bin/view/ReleaseNotes/ReleaseNotesXWikiEnterprise42M3#HExperimentalinstall2Fupgradewizard>  
+Jean-François a sorti la version 1.0 de Atmosphere  
+<http://jfarcand.wordpress.com/2012/09/04/atmosphere-1-0-the-asynchronous-javascriptjava-framework-now-available/>
+
+XWiki 4.1.4 est sorti ! 4.2 se rapproche avec les installs et mises à jour automatiques  
+<http://www.xwiki.org/xwiki/bin/view/ReleaseNotes/ReleaseNotesXWikiEnterprise42M3#HExperimentalinstall2Fupgradewizard>
+
 eXo platform 3.5.4 released !! Cloud-IDE, support des projets Java/Maven <http://cloud-ide.com>
 
 ### Outils
@@ -80,7 +88,7 @@ textmate 2 est OSS <http://blog.macromates.com/2012/textmate-2-at-github/>
 sublime text <http://www.sublimetext.com/2>  
 Dashlane <https://www.dashlane.com/fr/cs/3b9b7f0c> pour stocker les mots de passes sur Windows, Mac, Android, iOS, avec synchronisation dans le nuage
 
-## JUG et Conferences
+## JUGs et conférences
 
 JUG Summer Camp <https://sites.google.com/site/jugsummercamp/>  
 Java One <http://www.oracle.com/javaone/index.html>  
@@ -90,7 +98,7 @@ Devoxx <http://www.devoxx.com/display/DV12/Home>
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

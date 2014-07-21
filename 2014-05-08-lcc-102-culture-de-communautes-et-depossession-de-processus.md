@@ -24,18 +24,18 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-102.mp3](http://traffic.
 ### Langage
 
 [Noms de paramètres en Java 8](http://blog.javabien.net/2014/04/24/get-parameter-names-in-java-8/)  
-[Vous avez ruiné JavaScripts](http://codeofrob.com/entries/you-have-ruined-javascript.html)  
+[Vous avez ruiné JavaScript](http://codeofrob.com/entries/you-have-ruined-javascript.html)  
 [Nake - ligne de commanded Nashorn](http://winterbe.com/posts/2014/04/17/writing-nashorn-scripts-with-nake/)  
-[Annotation type expliques](http://jaxenter.com/jsr-308-explained-java-type-annotations-49929.html)  
+[Annotation type expliquées](http://jaxenter.com/jsr-308-explained-java-type-annotations-49929.html)  
 [Présentation sur le côté noir de Scala](http://nurkiewicz.github.io/talks/2014/scalar/)  
 [Microsoft sort ses compilos VB et C# en open source](http://Codeplex.com/Roslyn)  
 [False sharing et @Contended](http://linuxfr.org/news/openjdk-8-jep-142-false-sharing)  
-[Les choses accidentellement Turing complet](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)  
+[Les choses accidentellement Turing complètes](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)  
 
 ### Plateformes
 
 [JCache dans Spring](https://spring.io/blog/2014/04/14/cache-abstraction-jcache-jsr-107-annotations-support)  
-[Presentation sur la JSR date and time](http://vimeo.com/87157763)  
+[Présentation sur la JSR date and time](http://vimeo.com/87157763)  
 [Spring boot GA](http://j.mp/1mwSSWy)  
 [HikariCP pour Spring et Hibernate](http://www.3riverdev.com/blog/tutorial-spring-hibernate-hikaricp/)  
 [Heartbleed](http://dankaminsky.com/2014/04/10/heartbleed/)  
@@ -44,7 +44,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-102.mp3](http://traffic.
 
 ### Services et produits
 
-[Retrospective Google+](http://techcrunch.com/2014/04/25/a-personal-reflection-on-google/?ncid=twittersocialshare)  
+[Rétrospective Google+](http://techcrunch.com/2014/04/25/a-personal-reflection-on-google/?ncid=twittersocialshare)  
 [Produits et SaaS pour gérer vos logs](http://www.takipiblog.com/2014/04/23/the-7-log-management-tools-you-need-to-know/)  
 [Docker bash functions](http://kartar.net/2014/03/some-useful-docker-bash-functions-and-aliases/)  
 [Blink un an après](http://blog.chromium.org/2014/04/blinks-first-birthday.html)
@@ -57,8 +57,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-102.mp3](http://traffic.
 
 ### Inspirations et people
 
-[TEDxParis: embrasser le stress](http://bit.ly/1ctvXdp)  
-[GitHub, Le départ du CEO et l'avenir des projets open source](http://readwrite.com/2014/04/21/tom-preston-werner-departure-github#awesm=~oCxjoH3wav5nGA)  
+[TEDxParis : embrasser le stress](http://bit.ly/1ctvXdp)  
+[GitHub, le départ du CEO et l'avenir des projets open source](http://readwrite.com/2014/04/21/tom-preston-werner-departure-github#awesm=~oCxjoH3wav5nGA)  
 [L'histoire de l'image de Windows XP](http://po.st/uJdpG5)  
 [High Dynamic Range](https://en.wikipedia.org/wiki/High-dynamic-range_imaging)  
 
@@ -82,8 +82,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-102.mp3](http://traffic.
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

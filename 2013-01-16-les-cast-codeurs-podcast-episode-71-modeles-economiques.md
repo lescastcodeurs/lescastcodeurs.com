@@ -1,5 +1,5 @@
 ---
-title: Les Cast Codeurs Podcast - Episode 71 - Modeles economiques
+title: Les Cast Codeurs Podcast - Episode 71 - Modèles économiques
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 71
@@ -44,7 +44,7 @@ intéressés.
 
 GitHub un peu dans les choux en ce moment  
 [Suppression des uploads](https://github.com/blog/1302-goodbye-uploads)  
-[Creer des fichiers sur GitHub](https://github.com/blog/1327-creating-files-on-github)  
+[Créer des fichiers sur GitHub](https://github.com/blog/1327-creating-files-on-github)  
 [Profil utilisateur amélioré sur GitHub](https://github.com/blog/1360-introducing-contributions)  
 
 [Google App Engine](http://googleappengine.blogspot.fr/2012/12/app-engine-174-released.html)  
@@ -52,7 +52,7 @@ GitHub un peu dans les choux en ce moment
 ### Politique
 
 [La fiscalité et l'entrepreunariat](http://www.lesechos.fr/opinions/points_vue/0202476072060-pourquoi-nous-entrepreneurs-n-en-pouvons-plus-de-subir-une-fiscalite-confiscatoire-525084.php)  
-[Petits revenus, grosses facture](http://www.contrepoints.org/2012/12/28/109462-lassassinat-des-entrepreneurs)  
+[Petits revenus, grosses factures](http://www.contrepoints.org/2012/12/28/109462-lassassinat-des-entrepreneurs)  
 
 Xavier Niel fait un bras de fer avec Google en prenant ses utilisateurs comme "otages" #adgate :
 
@@ -62,30 +62,30 @@ Xavier Niel fait un bras de fer avec Google en prenant ses utilisateurs comme "o
 
 > @DEVOPS_BORAT In devops we are face fiscal cliff every year when Oracle license is up for renew.
 
-### Conferences
+### Conférences
 
 [Devoxx France 2013](http://devoxx.fr)  
 [CodeStory a ouvert](http://code-story.net)  
 [Mix-IT 25 et 26 avril](http://www.mix-it.fr/article/31/breaking-news-mix-it-2013-aura-lieu-les-25-et-26)  
 [Hands-on Cloud Foundry chez Valtech](http://cloudfoundryvaltechfr.eventbrite.fr/)
 
-### Retrospective 2012
+### Rétrospective 2012
 
 Basée sur <http://java.dzone.com/articles/significant-software-0>  
 
-### Previsions 2013
+### Prévisions 2013
 
 C'est la fin du monde pour de vrai.
 
 ## Outils de l'épisode
 
-- @Rule JUnit a la place de extends 
+- @Rule JUnit à la place de extends 
 - [JBoss Tattletale](http://www.jboss.org/tattletale)
 - [Maven duplicate checker plugin](https://github.com/ning/maven-duplicate-finder-plugin)
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

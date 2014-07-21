@@ -1,5 +1,5 @@
 ---
-title: LCC 86 - Le mauvais developpeur met la main a la poche
+title: LCC 86 - Le mauvais développeur met la main à la poche
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 86
@@ -20,7 +20,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-86.mp3](http://traffic.l
 Version et sémantique <http://netty.io/news/2013/08/27/semantic-versioning.html>  
 Contributor License Agreement <http://julien.ponge.org/blog/in-defense-of-contributor-license-agreements/>  
 Travailler autrement <http://www.eventuallycoding.com/index.php/travailler-autrement/>  
-Le coût du mauvais développement <http://codeulate.com/2013/08/how-much-should-global-variables-cost/> 
+Le coût du mauvais développement <http://codeulate.com/2013/08/how-much-should-global-variables-cost/>  
 Le meilleur développeur de France <http://blog.mageekbox.net/?post/2013/08/27/Le-meilleur-developpeur-de-France-acte-2>  
 
 ### Java et Algorithmes
@@ -34,7 +34,9 @@ Deployment ruleset <https://blogs.oracle.com/java-platform-group/entry/introduci
 Vulnérabilité Play! <http://www.playframework.com/security/vulnerability/20130806-SessionInjection>  
 Tim Fox sur vert.x <http://www.infoq.com/news/2013/07/tim_fox_vertx_2>  
 Immutant (Clojure) <http://immutant.org/news/2013/07/31/announcing-1-0-0/>  
-Initiative moving to Java 6 : <https://docs.google.com/document/d/1pi8OsiG-hPDjqSge4xqmpZTshryUkMdF4QLBeCf0GXo/edit#>  
+
+Initiative moving to Java 6  
+<https://docs.google.com/document/d/1pi8OsiG-hPDjqSge4xqmpZTshryUkMdF4QLBeCf0GXo/edit#>  
 
 #### Spring news
 
@@ -48,7 +50,7 @@ Reactive manifesto <http://www.reactivemanifesto.org>
 
 ### Devops
 
-Puppet Conf : Les slides <http://t.co/pxOtek0kQa>, et les vidéos (ASAP) <https://t.co/OAQSjSNtTN>  
+Puppet Conf : les slides <http://t.co/pxOtek0kQa>, et les vidéos (ASAP) <https://t.co/OAQSjSNtTN>  
 Fabric moi un cluster : <http://www.eventuallycoding.com/index.php/fabric-moi-un-cluster/>  
 Vagrant et Fabric : <http://www.eventuallycoding.com/index.php/fabric-vagrant/>  
 Travis CI - Solving the Puzzle of Scalable Log Processing : <http://about.travis-ci.org/blog/2013-08-08-solving-the-puzzle-of-scalable-log-processing/>  
@@ -86,7 +88,7 @@ Comment structurer la documentation texte
 * une clause par ligne <http://rhodesmill.org/brandon/2012/one-sentence-per-line/>
 * quels passages à la ligne <http://emmanuelbernard.com/blog/2013/08/08/one-line-per-idea/>
 
-## JUG et Conferences
+## JUGs et conférences
 
 - JUG Summer Camp - 20 septembre <https://sites.google.com/site/jugsummercamp/>
 - Codeurs en Seine - 17 octobre 2013 - <http://www.codeursenseine.com/>
@@ -96,8 +98,8 @@ Comment structurer la documentation texte
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

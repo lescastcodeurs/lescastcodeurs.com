@@ -26,8 +26,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-90.mp3](http://traffic.l
 * [Java Mission Control](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/index.html)  
 
 [Deadlock et cache-cache](http://javaeesupportpatterns.blogspot.de/2013/01/java-concurrency-hidden-thread-deadlocks.html)  
-[Intrinsèques (intrinsics)? et les optimisation de la JVM](http://bad-concurrency.blogspot.co.uk/2012/08/arithmetic-overflow-and-intrinsics.html)  
-[Groovy rentre dans le top 20 du TIOBE index](http://glaforge.appspot.com/article/groovy-enters-top-20-of-the-tiobe-language-index) (et Martin Odersky - comme tout le monde - pose la question sur [l'intéret du TIOBE](https://twitter.com/odersky/status/388647165800636417))  
+[Intrinsèques (intrinsics) ? et les optimisation de la JVM](http://bad-concurrency.blogspot.co.uk/2012/08/arithmetic-overflow-and-intrinsics.html)  
+[Groovy rentre dans le top 20 du TIOBE index](http://glaforge.appspot.com/article/groovy-enters-top-20-of-the-tiobe-language-index) (et Martin Odersky - comme tout le monde - pose la question sur [l'intérêt du TIOBE](https://twitter.com/odersky/status/388647165800636417))  
 
 ###  Plateformes
 
@@ -50,11 +50,11 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-90.mp3](http://traffic.l
 ### Industrie et communauté
 
 [Tableau de l'industrie française du logiciel](http://www.oezratty.net/wordpress/2013/industrie-francaise-logiciel/)  
-[Oracle envahi les JUGs?](http://markmail.org/message/xa27gx7hdmh4ffqv?q=jug-leaders+list:net.java.dev.jugs.jug-leaders)  
+[Oracle envahit les JUGs ?](http://markmail.org/message/xa27gx7hdmh4ffqv?q=jug-leaders+list:net.java.dev.jugs.jug-leaders)  
 [Oracle et open source - passionnément... pas du tout](http://readwrite.com/2013/10/15/oracle-opens-both-barrels-on-open-source-software-in-military-whitepaper#awesm=~okrkWxXPf8Jbur)  
 Retours sur le Meilleur développeur de France (David Gageot : [Une bonne idée mal implémentée](http://blog.javabien.net/2013/10/11/meilleur-de-dev-de-france-1023/))  
 
-##  Outil de l'épisode
+##  Outils de l'épisode
 
 [Jpm4j analyse des dépendances](http://jpm4j.org)  
 [Dotfiles](http://net.tutsplus.com/tutorials/tools-and-tips/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles/)  
@@ -68,8 +68,8 @@ Retours sur le Meilleur développeur de France (David Gageot : [Une bonne idée 
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

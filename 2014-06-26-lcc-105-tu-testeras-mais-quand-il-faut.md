@@ -28,7 +28,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-105.mp3](http://traffic.
 [Swift](https://developer.apple.com/swift/)  
 [Guide du langage Swift](https://itunes.apple.com/gb/book/swift-programming-language/id881256329?mt=11)  
 [Une FAQ sur Swift](http://www.raywenderlich.com/74138/swift-language-faq)  
-[Les benchmarks sur Swift par forcement bons](http://www.infoq.com/news/2014/06/apple-swift-performance-hit)  
+[Les benchmarks sur Swift par forcément bons](http://www.infoq.com/news/2014/06/apple-swift-performance-hit)  
 [TestFlight](http://www.infoq.com/news/2014/06/apple-ios8-testflight)  
 
 [Android : Mort de Dalvik](http://m.nextinpact.com/news/88246-android-google-remplace-officiellement-dalvik-par-son-android-runtime.htm)  
@@ -62,9 +62,9 @@ Le débat: #isTDDDead avec Martin Fowler, Kent Beck et David Heinemeier Hansson 
 [Slack](https://slack.com)  
 [Duchess France et les femmes dans les conférences](http://www.duchess-france.org)  
 
-### Du coté des startups
+### Du côté des startups
 
-[Mesosphere (SAAS de Mesos) leve 10.5m$](http://gigaom.com/2014/06/09/mesosphere-raises-10-5m-to-push-virtualization-a-la-google/)  
+[Mesosphere (SAAS de Mesos) lève 10.5m$](http://gigaom.com/2014/06/09/mesosphere-raises-10-5m-to-push-virtualization-a-la-google/)  
 [Lima lève 2.5m$](http://www.rudebaguette.com/2014/06/04/frances-biggest-kickstarter-success-lima-raises-2-5m-series-partech-ventures/)  
 [France Digital fait un bilan stats des startups](http://www.rudebaguette.com/2014/06/12/france-digitales-annual-report-shows-startup-growth-strong-france/)  
 
@@ -85,8 +85,8 @@ Le débat: #isTDDDead avec Martin Fowler, Kent Beck et David Heinemeier Hansson 
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

@@ -5,8 +5,8 @@ layout: blog-post
 episode: 103
 mp3_length: 65709944
 ---
-Emmanuel, Arnaud, Vincent et Antonio discutent inbox zero, les profiles Java SE, l'étude de ZeroTurnaround sur la population Java,
-le côté obscure des microservices.
+Emmanuel, Arnaud, Vincent et Antonio discutent inbox zero, les profiles Java SE, l'étude de ZeroTurnaround sur 
+la population Java, le côté obscur des microservices.
 Ils se penchent aussi sur l'impact du procès Oracle / Google et la nouvelle licence open source proposée par Oracle.
 Un grand merci à CloudBees pour le double sponsoring épisode / web.
 
@@ -17,9 +17,9 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-103.mp3](http://traffic.
 ## Sponsor - CloudBees
 
 <div style='background-image: url(/images/promo/sponsors/cloudbees-200x134px.png);background-size:200px 134px;background-repeat:no-repeat;margin-top:0px;padding-left:210px;'>
-<a href="http://cloudbees.com">CloudBees</a> est le leader des solutions d'intégration continue et de delivery continu autour de Jenkins,
+<a href="http://cloudbees.com">CloudBees</a> est le leader des solutions d'intégration continue et de delivery continue autour de Jenkins,
 accélérant le cycle de développement et permettant aux organisations de concrétiser les attentes d'agilité d'aujourd'hui.
-Basé sur la force du projet open source Jenkins, la plateforme de delivery continu de CloudBees fournit un large choix de solutions, en interne ou hébergée dans le Cloud,
+Basée sur la force du projet open source Jenkins, la plateforme de delivery continue de CloudBees fournit un large choix de solutions, en interne ou hébergée dans le Cloud,
 qui assurent les besoins de sécurité, élasticité et de maintenabilité requis dans un contexte d'entreprise.
 <br/>
 Essayez les solutions de CloudBees gratuitement. Dans le Cloud, <a href="https://www.cloudbees.com/signup">notre PaaS de Continuous Delivery basé sur Jenkins</a>,
@@ -75,12 +75,12 @@ ou en interne <a href="http://www.cloudbees.com/jenkins-enterprise-by-cloudbees-
 
 > @aphyr: Reminder that Java literally has a ManagementFactory class. You know, in case you wanted to create more management.
 
-[Ratio homme femme dans certaines entreprises](http://do-better.herokuapp.com/)  
+[Ratio homme/femme dans certaines entreprises](http://do-better.herokuapp.com/)  
 [Oracle Universal Permissive License](http://h30499.www3.hp.com/t5/HP-Software-Solutions-Blog/Use-Oracle-s-UPL-Abandon-Your-Intellectual-Property/ba-p/6485626#.U4RIql5DwnE)  
 [Montebourg et un système d'exploitation français](http://www.zdnet.fr/actualites/montebourg-serait-favorable-a-la-creation-d-un-os-made-in-france-xptdr-39801597.htm)  
 [Ce que vaut un développeur web](http://aeon.co/magazine/living-together/james-somers-web-developer-money/)  
 [La fragmentation des langages](http://redmonk.com/dberkholz/2014/05/02/github-language-trends-and-the-fragmenting-landscape/)  
-[Plus de développeurs dans les confs agiles?](http://agilewarrior.wordpress.com/2014/05/13/where-did-all-the-developers-go/)  
+[Plus de développeurs dans les confs agiles ?](http://agilewarrior.wordpress.com/2014/05/13/where-did-all-the-developers-go/)  
 
 ## Outil de l'épisode
 
@@ -88,7 +88,7 @@ ou en interne <a href="http://www.cloudbees.com/jenkins-enterprise-by-cloudbees-
 
 ## Les mains dans le cambouis
 
-[Que se passe-t'il avec TrueCrypt](http://korben.info/truecrypt.html)  
+[Que se passe-t'il avec TrueCrypt ?](http://korben.info/truecrypt.html)  
 [TrueCrypt site officiel](http://truecrypt.org)  
 [Le site alternatif TrueCrypt](http://truecrypt.ch)  
 [EncFS](http://www.arg0.net/encfs)  
@@ -105,8 +105,8 @@ ou en interne <a href="http://www.cloudbees.com/jenkins-enterprise-by-cloudbees-
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

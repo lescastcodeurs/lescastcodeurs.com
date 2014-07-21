@@ -126,8 +126,8 @@ Un article sur l'administration de Jenkins en utilisant la puissance de GRoooooo
 [http://bazoud.free.fr/post/2010/05/31/groovy-aime-hudson/](http://bazoud.free.fr/post/2010/05/31/groovy-aime-hudson/)
 
 ## Nous contacter  
-Contactez-nous via twitter [http://twitter.com/lescastcodeurs](http://twitter.com/lescastcodeurs)  
-sur le groupe Google [http://groups.google.com/group/lescastcodeurs](http://groups.google.com/group/lescastcodeurs)  
-ou sur le site web [http://lescastcodeurs.com/](http://lescastcodeurs.com/)  
 
-Flattr-ez nous sur [http://lescastcodeurs.com/](http://lescastcodeurs.com/)  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
+sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
+ou sur le site Web <http://lescastcodeurs.com/>  
+Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

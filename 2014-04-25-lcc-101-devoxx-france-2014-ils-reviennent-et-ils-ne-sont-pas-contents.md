@@ -6,7 +6,7 @@ episode: 101
 mp3_length: 41631183
 ---
 Les Cast Codeurs clôturent Devoxx France 2014 en direct.
-Ils y fêtent leur 100éme épisode et vous offrent une rétrospective
+Ils y fêtent leur 100ème épisode et vous offrent une rétrospective
 biaisée mais sympathique de la conférence.
 
 Enregistré le 18 avril 2014
@@ -86,8 +86,8 @@ Du 8 au 10 avril 2015 au [Palais des Congrès](http://www.devoxx.fr/2014/04/devo
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

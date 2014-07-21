@@ -29,7 +29,8 @@ Toutes les fonctions sont-elle des monoids?
 [Concurrence et JDK 9](http://www.infoq.com/fr/news/2014/01/propositions_preliminaires_jdk9_)  
 [NUMA: Non Uniform Memory Access](https://en.wikipedia.org/wiki/Non-uniform_memory_access)  
 [Patchs critiques pour Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)   
-Comment mettre a jour des VM de dev automatiquement?
+
+Comment mettre à jour des VMs de dev automatiquement?
 
 - [jenv](http://www.jenv.be)
 - [java_home](http://stackoverflow.com/questions/6588390/where-is-java-home-on-osx-lion-10-7-mountain-lion-10-8-or-mavericks-10-9)
@@ -62,17 +63,17 @@ Comment mettre a jour des VM de dev automatiquement?
 [Google Apps for iOS and Android tournent avec Apache Cordova](http://blog.chromium.org/2014/01/run-chrome-apps-on-mobile-using-apache.html)  
 [Note des FAI sur la qualité de YouTube](http://www.presse-citron.net/google-veut-noter-votre-fai-sur-la-base-de-la-qualite-du-streaming-youtube)  
 [L'univers Marvel accessible en REST](http://developer.marvel.com/docs)  
-[Fusionner et minifier CSS et JS pourraient être une mauvaise chose?](http://raibledesigns.com/rd/entry/you_shouldn_t_have_to)  
+[Fusionner et minifier CSS et JS pourrait être une mauvaise chose ?](http://raibledesigns.com/rd/entry/you_shouldn_t_have_to)  
 [La neutralité du Net cassée par la justice américaine, Verizon jubile](http://www.zdnet.fr/actualites/la-neutralite-du-net-cassee-par-la-justice-americaine-verizon-jubile-39797076.htm)  
 
 ### People
 
 [Kohsuke Kawaguchi CTO de CloudBees](http://www.cloudbees.com/press-room/cloudbees-appoints-kohsuke-kawaguchi-chief-technology-officer.cb)  
-[JVZ n'est plus CTO de Sonatype?](http://www.sonatype.com/news/sonatype-names-prominent-security-strategist-joshua-corman-as-cto#.Ut2D22Q1hFZ)  
+[JVZ n'est plus CTO de Sonatype ?](http://www.sonatype.com/news/sonatype-names-prominent-security-strategist-joshua-corman-as-cto#.Ut2D22Q1hFZ)  
 [Greg Luck quitte Terracotta et rejoins Hazelcast](http://gregluck.com/blog/archives/2014/01/i-will-be-joining-hazelcast-as-cto/)  
 [Le top 100 des développeurs français](https://medium.com/p/e222faa21947)   
-[Ne dîtes pas à ma mère que je suis développeur](http://business.lesechos.fr/directions-generales/partenaire/partenaire-23-ne-dites-pas-a-ma-mere-que-je-suis-developpeur-59682.php)  
-[Si vous n'etes pas là pour aider vos equipes à developer, vous n'etes pas un (bon) manager](http://blogs.hbr.org/2014/01/if-youre-not-helping-people-develop-youre-not-management-material/)  
+[Ne dites pas à ma mère que je suis développeur](http://business.lesechos.fr/directions-generales/partenaire/partenaire-23-ne-dites-pas-a-ma-mere-que-je-suis-developpeur-59682.php)  
+[Si vous n'êtes pas là pour aider vos equipes à développer, vous n'êtes pas un (bon) manager](http://blogs.hbr.org/2014/01/if-youre-not-helping-people-develop-youre-not-management-material/)  
 [GitHub est ton CV](https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/)  
 [Ohloh](https://www.ohloh.net)  
 [Masterbranch](https://masterbranch.com)  
@@ -82,7 +83,7 @@ Comment mettre a jour des VM de dev automatiquement?
 [MailMate](http://www.macdrifter.com/2013/11/mailmate-explorations.html)  
 [Regex 101](http://regex101.com)  
 
-## Debat
+## Débat
 
 > Rule of thumb.  
 > Lightweight = users happy  
@@ -93,9 +94,9 @@ Comment mettre a jour des VM de dev automatiquement?
 
 ##  Conférences
 
-[Les principaux coworking en France](http://www.startup365.fr/coworking/)  
+[Les principaux coworkings en France](http://www.startup365.fr/coworking/)  
 Le [CfP](http://cfp.devoxx.fr/) de Devoxx France se termine dimanche  
-457 speakers 537 proposals
+457 speakers 537 proposals  
 Il y aura un [Devoxx4Kids](http://www.devoxx4kids.org/) à Devoxx France
 FOSDEM 2014, ce WE, avec une wiki dev room 
 BreizhCamp  
@@ -111,8 +112,8 @@ BreizhCamp
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

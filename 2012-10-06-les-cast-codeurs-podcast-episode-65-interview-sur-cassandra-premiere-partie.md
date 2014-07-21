@@ -1,5 +1,5 @@
 ---
-title: Les Cast Codeurs Podcast - Episode 65 - Interview sur Cassandra avec Sylvain Lebresne et Michael Figuiere (premiere partie)
+title: Les Cast Codeurs Podcast - Episode 65 - Interview sur Cassandra avec Sylvain Lebresne et Michael Figuière (première partie)
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 65
@@ -14,7 +14,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-65.mp3](http://traffic
 ### Introduction
 
 Sylvain Lebresne <http://twitter.com/pcmanus>  
-Michael Figuiere <http://twitter.com/mfiguiere>  
+Michael Figuière <http://twitter.com/mfiguiere>  
 Blog Datastax <http://www.datastax.com/blog>  
 
 Apache Cassandra <http://cassandra.apache.org>  
@@ -29,7 +29,7 @@ Time series <http://en.wikipedia.org/wiki/Time_series>
 
 Column family <http://en.wikipedia.org/wiki/Column_family>  
 Papier Big Table <http://research.google.com/archive/bigtable.html>  
-Base de donnée orientée colonne <http://en.wikipedia.org/wiki/Column-oriented_DBMS>  
+Base de données orientée colonne <http://en.wikipedia.org/wiki/Column-oriented_DBMS>  
 Vertica <http://www.vertica.com>  
 
 ### Réplication et tolérance aux pannes
@@ -61,7 +61,7 @@ Cassandra summit <http://www.datastax.com/events/cassandrasummit2012>
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

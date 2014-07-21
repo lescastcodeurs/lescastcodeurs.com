@@ -1,11 +1,11 @@
 ---
-title: LCC 104 - Interview diversité avec Agnes Crepet et Maxime Tiran
+title: LCC 104 - Interview diversité avec Agnès Crepet et Maxime Tiran
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 104
 mp3_length: 50001921
 ---
-Agnes, Maxime et Emmanuel discutent de la diversité et de la domination dans l'IT de l'homme, blanc, < 30 ans, qui boit de la bière.
+Agnès, Maxime et Emmanuel discutent de la diversité et de la domination dans l'IT de l'homme, blanc, < 30 ans, qui boit de la bière.
 Après un état des lieux, ils décrivent la pression que peuvent subir les minorités puis comment améliorer les choses.
 
 Enregistré le 13 juin 2014
@@ -16,7 +16,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-104.mp3](http://traffic.
 
 ### Ta vie, ton oeuvre
 
-[Agnes Crepet](https://twitter.com/agnes_crepet)  
+[Agnès Crepet](https://twitter.com/agnes_crepet)  
 [Ninja Squad](http://ninja-squad.com)  
 [Mix-IT](http://www.mix-it.fr)  
 [LyonJUG](http://www.lyonjug.org)  
@@ -49,8 +49,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-104.mp3](http://traffic.
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

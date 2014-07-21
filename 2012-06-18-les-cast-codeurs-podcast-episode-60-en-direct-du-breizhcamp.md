@@ -68,14 +68,14 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-60.mp3](http://traffic
 
 [Gitective](https://github.com/kevinsawicki/gitective)
 
-## JUG et Conferences
+## JUGs et conférences
 
 - JBoss World et JUDCon 26-29 juin <http://www.redhat.com/summit/>
 - Google IO Extension 27 juin <https://plus.google.com/100575125902423385750/posts/5ESacFpF576>
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

@@ -1,5 +1,5 @@
 ---
-title: LCC 99 - Java SE 8 tu prends tes doc et tes lint et...
+title: LCC 99 - Java SE 8 tu prends tes docs et tes lints et...
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 99
@@ -7,7 +7,7 @@ mp3_length: 65118732
 ---
 Emmanuel, Guillaume, Vincent et Arnaud discutent la sortie de Java 8,
 le stockage des données dans les nuages, comment savoir où le temps passe,
-l'initiative EasyEclipse et pleins d'autres choses.
+l'initiative EasyEclipse et plein d'autres choses.
 
 Enregistré le 25 mars 2014
 
@@ -42,12 +42,12 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-99.mp3](http://traffic.l
 [1M de connections /s sur un serveur banalisé](http://www.techempower.com/blog/2014/03/04/one-million-http-rps-without-load-balancing-is-easy/)  
 [Undertow](http://undertow.io)  
 [JBoss Community Asylum](http://asylum.jboss.org)  
-[Bonnes pratiques sur les Docker file](http://crosbymichael.com/dockerfile-best-practices-take-2.html)  
+[Bonnes pratiques sur les Docker files](http://crosbymichael.com/dockerfile-best-practices-take-2.html)  
 
 ### Architecture et cloud
 
 [Micro services](http://martinfowler.com/articles/microservices.html)  
-Définition plus concises des [micro services](http://klangism.tumblr.com/post/80087171446/microservices) par Victor Klang  
+Définition plus concise des [micro services](http://klangism.tumblr.com/post/80087171446/microservices) par Victor Klang  
 [Exploring micro-frameworks: Spring Boot](http://www.infoq.com/articles/microframeworks1-spring-boot)  
 [iPaaS](https://www.openshift.com/developers/jboss-fuse)  
 [Fabric8](http://fabric8.io)  
@@ -74,8 +74,9 @@ GitHub et le scandale Horvath vu de [Julie](http://techcrunch.com/2014/03/15/jul
 
 ##  Outil de l'épisode
 
-Ecrire une LogRule junit pour capturer les outputs de logs dans des tests:
+Ecrire une LogRule junit pour capturer les outputs de logs dans des tests :  
 <https://github.com/xwiki/xwiki-commons/blob/master/xwiki-commons-core/xwiki-commons-test/xwiki-commons-test-simple/src/main/java/org/xwiki/test/LogRule.java>  
+
 [Toggl](https://www.toggl.com)  
 
 ##  Conférences
@@ -88,8 +89,8 @@ Ecrire une LogRule junit pour capturer les outputs de logs dans des tests:
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

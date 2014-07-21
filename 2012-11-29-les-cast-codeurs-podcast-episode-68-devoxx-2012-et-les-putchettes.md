@@ -1,5 +1,5 @@
 ---
-title: Les Cast Codeurs Podcast - Episode 68 - Devoxx 2012 et les putchesses contre le Choupinou geant
+title: Les Cast Codeurs Podcast - Episode 68 - Devoxx 2012 et les putchesses contre le Choupinou géant
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 68
@@ -9,7 +9,7 @@ Enregistré le 16 novembre 2012
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-68.mp3](http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-68.mp3)
 
-[Les sides de la présentation](http://www.slideshare.net/emmanuelbernard/les-cast-codeurs-podcast-68-devoxx-2012-15402982)
+[Les slides de la présentation](http://www.slideshare.net/emmanuelbernard/les-cast-codeurs-podcast-68-devoxx-2012-15402982)
 
 ## Atlassian
 
@@ -82,7 +82,7 @@ Merci pour les bières et les pizzas [Atlassian](http://atlassian.fr)
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

@@ -1,5 +1,5 @@
 ---
-title: Les Cast Codeurs Podcast - Episode 72 - Interview sur les closures avec David Gageot et Jose Paumard
+title: Les Cast Codeurs Podcast - Episode 72 - Interview sur les closures avec David Gageot et José Paumard
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 72
@@ -19,7 +19,7 @@ Contactez nous à sponsors@lescastcodeurs.com
 ### Introduction
 
 José Paumard [@JosePaumard](http://twitter.com/josepaumard)  
-Maitre de conf universite paris 13 <http://www.univ-paris13.fr>  
+Maître de conf université paris 13 <http://www.univ-paris13.fr>  
 Java Le soir <http://blog.paumard.org>  
 ParisJUG <http://parisjug.org>  
 Devoxx France <http://devoxx.fr>  
@@ -56,7 +56,7 @@ Defender methods <http://www.javabeat.net/2012/05/virtual-extension-methods-in-j
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

@@ -1,5 +1,5 @@
 ---
-title: LCC 93 - Pas de manifesto ? Tu as rate ta vie
+title: LCC 93 - Pas de manifesto ? Tu as raté ta vie
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 93
@@ -15,7 +15,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-93.mp3](http://traffic.l
 
 ## Sponsors
 
-Merci à nos sponsors:
+Merci à nos sponsors :
 
 * Soat
 * Nudge
@@ -43,7 +43,7 @@ Deux [Cast Codeurs sont des Java rock stars](http://steveonjava.com/congrats-to-
 ### Open Source
 
 Twitter publie son [Open Source Code Conduct](https://engineering.twitter.com/opensource/code-of-conduct)  
-Dans la meme veine (mais moins poussé) que le manifest de XWiki <http://www.xwiki.com/lang/en/Company/Manifesto>  
+Dans la même veine (mais moins poussé) que le manifest de XWiki <http://www.xwiki.com/lang/en/Company/Manifesto>  
 
 ### Frameworks
 
@@ -64,7 +64,7 @@ Un pool de connection super méga optimisé <https://github.com/brettwooldridge/
 
 ###  Plateformes
 
-Survey [Java EE 8](https://www.surveymonkey.com/s/KGV7RWS) et [CDI 2.0](http://t.co/Sv3HwVI1lM)
+Survey [Java EE 8](https://www.surveymonkey.com/s/KGV7RWS) et [CDI 2.0](http://t.co/Sv3HwVI1lM)  
 Un tutoriel pratique sur comment [implémenter son propre GC](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)  
 Cheatsheet sur les [paramètres de Garbage Collection](http://blog.ragozin.info/2013/11/hotspot-jvm-garbage-collection-options.html)  
 Les [micro-services à la unix](http://www.infoq.com/presentations/Micro-Services)  
@@ -89,13 +89,13 @@ Toujours [multiplier ses estimations par Pi](http://www.altdevblogaday.com/2013/
 [Paypal passe de Java à JavaScript](http://www.zdnet.com/how-replacing-java-with-javascript-is-paying-off-for-paypal-7000023697/)  
 Une matrice de toutes les [bizarreries de JavaScript](http://zero.milosz.ca/)  
 [Le mythe du facteur 10 de productivité](http://t.co/gbdlp1bHii)  
-[Le cri taux de chômage des informaticiens en France](http://pro.01net.com/editorial/608836/le-vrai-taux-de-chomage-des-informaticiens-depasse-les-8-7-pour-cent/)  
+[Le vrai taux de chômage des informaticiens en France](http://pro.01net.com/editorial/608836/le-vrai-taux-de-chomage-des-informaticiens-depasse-les-8-7-pour-cent/)  
 
 ##  Outil de l'épisode
 
 [Websocketd](https://github.com/joewalnes/websocketd) de Joe Walnes pour transformer toute appli qui lit écrit sur la sortie standard en appli Websocket  
 La sortie d'[Intellij IDEA 13](http://blog.jetbrains.com/idea/2013/12/intellij-idea-13-is-released-work-miracles-in-java-and-beyond)  
-GitHub rajoute la [visualisation du code autour des diffs](https://github.com/blog/1705-expanding-context-in-diffs) pour plus de lisibilité pour les code review  
+GitHub rajoute la [visualisation du code autour des diffs](https://github.com/blog/1705-expanding-context-in-diffs) pour plus de lisibilité pour les code reviews  
 [TotalTerminal](http://totalterminal.binaryage.com)  
 [Size Up](http://www.irradiatedsoftware.com/sizeup/)  
 [Command-line one-liners](http://arturoherrero.com/2013/11/29/command-line-one-liners/) (en particulier la Russian roulette)  
@@ -111,8 +111,8 @@ FOSDEM 2014, wiki dev room
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

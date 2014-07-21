@@ -13,7 +13,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-62.mp3](http://traffic
 
 ### People
 
-[Larry Ellison s'achete une ile](http://datanews.levif.be/ict/actualite/apercu/2012/06/21/larry-ellison-le-ceo-d-oracle-s-achete-une-ile-hawaienne/article-4000120077234.htm)  
+[Larry Ellison s'achète une île](http://datanews.levif.be/ict/actualite/apercu/2012/06/21/larry-ellison-le-ceo-d-oracle-s-achete-une-ile-hawaienne/article-4000120077234.htm)  
 [Oracle FUD](http://howtojboss.com/2012/06/26/true-false-oracle-fud/)
 
 ### Java
@@ -22,6 +22,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-62.mp3](http://traffic
 [OVal](http://oval.sourceforge.net/)  
 [Hibernate Validator 5 alpha 1](http://in.relation.to/Bloggers/FirstAlphaReleaseOfHibernateValidator5)  
 [Rod Johnson s'en va](http://blog.springsource.org/2012/07/03/oh-the-places-youll-go/)  
+
 Le bug de la leap seconde
 
 - <http://blog.wpkg.org/2012/07/01/java-leap-second-bug-30-june-1-july-2012-fix/>
@@ -58,6 +59,7 @@ GWT se dote d'un groupe de surveillance
 [Les prix OpenShift annoncés](https://openshift.redhat.com/community/blogs/new-openshift-release-june-26-2012-jboss-eap-hot-deployments-pricing-and-more)  
 
 [Amazon se casse la gueule dans l'escalier](http://www.theverge.com/2012/7/3/3135646/amazon-explains-electrical-outage-netflix-instagram)  
+
 Google Compute Engine
 
 - [Google I/O](http://www.wired.com/cloudline/2012/06/google-public-cloud/)
@@ -79,20 +81,20 @@ Vim:
 - [question sur stackoverflow à savoir quel est le shortcut le plus productif](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
 - [Un utilisateur venant de SubEthaEdit et TextMate migrant vers Vim](http://stevelosh.com/blog/2010/09/coming-home-to-vim/)
 
-<http://www.michenux.net>:
+<http://www.michenux.net> :
 
-- Vmstax : c'est un outil fait en Flex, gratuit, qui crée des graphiques à partir de fichiers de log vmstat ou dstat
+- Vmstax : c'est un outil fait en Flex, gratuit, qui créé des graphiques à partir de fichiers de log vmstat ou dstat
 - des tutoriaux principalement Android
 
 Faire une code retreat
 
-[Sublime Text 2 es sorti](http://www.sublimetext.com/blog/articles/sublime-text-2-0-released)  
+[Sublime Text 2 est sorti](http://www.sublimetext.com/blog/articles/sublime-text-2-0-released)  
 
-## JUG et Conferences
+## JUGs et conférences
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

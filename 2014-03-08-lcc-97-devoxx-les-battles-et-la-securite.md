@@ -1,5 +1,5 @@
 ---
-title: LCC 97 - Devoxx les battles et la securite
+title: LCC 97 - Devoxx les battles et la sécurité
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 97
@@ -14,7 +14,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-97.mp3](http://traffic.l
 
 ## News
 
-### Conferences
+### Conférences
 
 [Le programme Devoxx France](http://cfp.devoxx.fr/devoxxfr2014)  
 [Les têtes à claques - Le willy Waller 2006](https://www.youtube.com/results?search_query=les%20tetes%20a%20claque%20willy%20waller)  
@@ -102,9 +102,9 @@ BreizhCamp
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
 

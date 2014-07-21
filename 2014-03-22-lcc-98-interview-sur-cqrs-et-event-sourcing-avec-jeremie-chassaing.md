@@ -1,5 +1,5 @@
 ---
-title: LCC 98 - Interview sur CQRS et Event Sourcing avec Jeremie Chassaing
+title: LCC 98 - Interview sur CQRS et Event Sourcing avec Jérémie Chassaing
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 98
@@ -59,8 +59,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-98.mp3](http://traffic.l
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

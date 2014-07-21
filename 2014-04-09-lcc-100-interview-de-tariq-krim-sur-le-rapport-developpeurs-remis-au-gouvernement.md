@@ -45,12 +45,12 @@ Quels sont les buts de cette démarche ?
 
 ## La liste
 
-Pourquoi l'idée d'une liste?  
+Pourquoi l'idée d'une liste ?  
 
 [Une version de la fameuse liste](http://www.usine-digitale.fr/article/decouvrez-la-liste-de-developpeurs-francais-selectionnes-par-tariq-krim.N250762)  
 
-Un mot sur le making of?  
-Quels sont les grands thèmes de la liste?  
+Un mot sur le making of ?  
+Quels sont les grands thèmes de la liste ?  
 
 ## Le rapport
 
@@ -58,7 +58,7 @@ Quels sont les grands thèmes de la liste?
 
 ### Les propositions
 
-Un CTO de la France, qu-est-ce que cela fait?  
+Un CTO de la France, qu'est-ce que cela fait ?  
 L’excellence technique non reconnue en France  
 
 [Joel Spolsky](http://www.joelonsoftware.com/items/2009/03/09.html)  
@@ -71,11 +71,11 @@ Le problème de la prise de risque en France
 [Bonitasoft](http://www.bonitasoft.com)  
 [Talend](http://www.talend.com)  
 
-Pourquoi un GitHub à la française?
+Pourquoi un GitHub à la française ?
 
 [Bootstrap](http://getbootstrap.com)  
 
-Les tensions sur le marcher de l'emploi  
+Les tensions sur le marché de l'emploi  
 
 ### L’avenir
 
@@ -96,8 +96,8 @@ La technologie et le remplacement des emplois
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

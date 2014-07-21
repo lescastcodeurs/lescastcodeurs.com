@@ -5,8 +5,10 @@ layout: blog-post
 episode: 106
 mp3_length: 57025384
 ---
-Les cinq cast codeurs sont réunis pour discuter fonctionnalités Java 8 et après, des backports de certaines vers Java 7, de l'expérience sur Eclipse et IntelliJ IDEA.
-Ils apprennent aussi à Vincent comment installer des logiciels sous Mac OS X, discutent de l'effet vacances et de biens d'autres choses encore.
+Les cinq cast codeurs sont réunis pour discuter fonctionnalités Java 8 et après, des backports de certaines vers Java 7,
+de l'expérience sur Eclipse et IntelliJ IDEA.
+Ils apprennent aussi à Vincent comment installer des logiciels sous Mac OS X, discutent de l'effet vacances et de bien
+d'autres choses encore.
 
 Enregistré le 11 juillet 2014
 
@@ -26,7 +28,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-106.mp3](http://traffic.
 
 [Un article sur le post permgem](http://www.infoq.com/articles/Java-PERMGEN-Removed)  
 [Java 8 optionals](http://www.oracle.com/technetwork/articles/java/java8-optional-2175753.html)  
-[Certain pièges de parallel stream](http://zeroturnaround.com/rebellabs/java-parallel-streams-are-bad-for-your-health/)  
+[Certains pièges de parallel stream](http://zeroturnaround.com/rebellabs/java-parallel-streams-are-bad-for-your-health/)  
 [ThreeTen backport](http://www.threeten.org/threetenbp/index.html) Joda-Stephen a sorti la version 1.0 du backport the date/time de Java 8, pour JDK < 8  
 [RetroLambda](https://github.com/orfjackal/retrolambda), comme Retrotranslator, permet d'utiliser des lambdas sur Java < 8 et du coup [même sur Android](http://zserge.com/blog/android-lambda.html)  
 [Project Jigsaw](http://mreinhold.org/blog/jigsaw-phase-two), phase 2, par Mark Reinhold  
@@ -98,8 +100,8 @@ JetBrains sort l'EAP de [IntelliJ IDEA 14](http://blog.jetbrains.com/idea/2014/0
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

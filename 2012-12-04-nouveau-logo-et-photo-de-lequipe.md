@@ -1,11 +1,11 @@
 ---
-title: Un nouveau logo et une photo de l'equipe
+title: Un nouveau logo et une photo de l'équipe
 author: 'Emmanuel Bernard'
 layout: blog-post
 ---
 Aussi rapide que l'éclair - juste pas dans le vide -
 [Nicolas Martignole](http://www.touilleur-express.fr) nous a refait
-le logo en vectoriel. On peut voir venir avec les ecrans
+le logo en vectoriel. On peut voir venir avec les écrans
 post-retina et les affiches 4 par 3 à travers la France.
 Un grand merci à lui.
 

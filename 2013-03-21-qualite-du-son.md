@@ -5,7 +5,7 @@ layout: blog-post
 ---
 
 Cela fait quelques fois que l'on me pose des questions sur la qualité du son du
-podcast.  Si je devais résumer, les emails disent un truc comme ceci:
+podcast.  Si je devais résumer, les emails disent un truc comme ceci :
 
 > Sur l'épisode XX le son était mauvais du coup c'est difficile à écouter dans les
 > transports.
@@ -17,7 +17,7 @@ Ou alors
 
 Personnellement ça me touche parce que je pense que notre son est de bonne
 qualité par rapport à beaucoup de podcasts dans la nature et que je passe facile
-5 ou 6 heures (voire plus quand le nombres de voix augmente) sur le mixage
+5 ou 6 heures (voire plus quand le nombre de voix augmente) sur le mixage
 alors que je pourrais faire un truc crados en 3 ou 4 fois moins de temps.
 
 Il arrive que les dieux soient contre nous et que la qualité sonore de certains
@@ -44,12 +44,12 @@ Je suis preneur de trucs et astuces, voici un résumé de notre méthodologie:
 - Les 3 à 5 pistes sont mixées sur Audacity.
 - Quand quelqu'un parle, je supprime le son des autres pistes (clavier, respiration,
   barbe, téléphone, toilettes, perceuse etc).
-- le passe un filtre passe haut et passe bas (peu d'effet je pense).
+- Je passe un filtre passe haut et passe bas (peu d'effet je pense).
 - S'il y a un bruit de fond (clim, ventilo etc), je le supprime avec le noise
   filter (pour chaque piste).
 - J'applique une (parfois deux) passes du filtre compressor pour booster les sons bas
   plus que les sons hauts histoire de niveler (chaque piste).
-- Je supprimes les pics histoire d'amplifier chaque piste finale de quelques dB.
+- Je supprime les pics histoire d'amplifier chaque piste finale de quelques dB.
   C'est un processus itératif qui prend entre 4 et 5 boucles par piste.
 
 Chaque filtre appliqué sur une piste d'une heure prend entre 2 et 5 minutes sur

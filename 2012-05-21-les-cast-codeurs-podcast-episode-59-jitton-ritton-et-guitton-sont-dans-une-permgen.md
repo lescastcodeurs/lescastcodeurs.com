@@ -23,8 +23,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-59.mp3](http://traffic
 
 [Java 7 update 4 et Java FX 2.1](https://blogs.oracle.com/java/entry/five_update_java_releases)  
 [Sans PermGem, c'est pas pour tout de suite](https://blogs.oracle.com/java/entry/java_7_questions_answers)  
-
-Henri Gomez se fache <http://mail.openjdk.java.net/pipermail/jdk7u-dev/2012-May/002944.html> <http://mail.openjdk.java.net/pipermail/jdk7u-dev/2012-May/002940.html>
+Henri Gomez se fâche <http://mail.openjdk.java.net/pipermail/jdk7u-dev/2012-May/002944.html>
 
 ### Platformes et outils
 
@@ -32,7 +31,7 @@ Henri Gomez se fache <http://mail.openjdk.java.net/pipermail/jdk7u-dev/2012-May/
 [Vert.x benchmark](http://vertxproject.wordpress.com/2012/05/09/vert-x-vs-node-js-simple-http-benchmarks/)
 
 [Crash 1.0](http://blog.julienviet.com/2012/04/23/crash-1_0-released/)  
-[Demo de Crash en ligne](http://crash.vietj.cloudbees.net/)  
+[Démo de Crash en ligne](http://crash.vietj.cloudbees.net/)  
 
 [Kotlin 1.0 M1 est sorti](http://blog.jetbrains.com/kotlin/2012/04/kotlin-m1-is-out/)
 
@@ -44,9 +43,10 @@ Henri Gomez se fache <http://mail.openjdk.java.net/pipermail/jdk7u-dev/2012-May/
 
 ### Cloud
 
-[Google App Engine master/slave datastore déprecié](http://googleappengine.blogspot.fr/2012/04/masterslave-datastore-thanks-for-all.html)  
+[Google App Engine master/slave datastore déprécié](http://googleappengine.blogspot.fr/2012/04/masterslave-datastore-thanks-for-all.html)  
 [Enfin le full text search sur Google App Engine](http://googleappengine.blogspot.fr/2012/05/looking-for-search-find-it-on-google.html)  
 [OpenShift est open source](https://openshift.redhat.com/community/blogs/announcing-openshift-origin-the-open-source-platform-as-a-service-paas)  
+
 ### Architecture
 
 <http://highscalability.com>  
@@ -55,7 +55,10 @@ Henri Gomez se fache <http://mail.openjdk.java.net/pipermail/jdk7u-dev/2012-May/
 ### Persistence
 
 Martin Fowler sur ORM <http://martinfowler.com/bliki/OrmHate.html>  
-Hish Scalability site: pourquoi NoSQL <http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html>  
+
+High Scalability site : pourquoi NoSQL  
+<http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html>  
+
 [Cassandra 1.1](http://www.datastax.com/dev/blog/whats-new-in-cassandra-1-1)  
 [Hibernate](http://hibernate.org)  
 [LiquidBase](http://www.liquibase.org/)
@@ -66,7 +69,7 @@ Hish Scalability site: pourquoi NoSQL <http://highscalability.com/blog/2010/12/6
 [Montre geek Pebble](http://www.kickstarter.com/projects/597507018/pebble-e-paper-watch-for-iphone-and-android)  
 [NipTech](http://www.niptech.com/)  
 
-## JUG et Conferences
+## JUGs et conférences
 
 - Breizh Camp <http://www.breizhcamp.org/>
 - JBoss World et JUDCon <http://www.redhat.com/summit/>
@@ -74,7 +77,7 @@ Hish Scalability site: pourquoi NoSQL <http://highscalability.com/blog/2010/12/6
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

@@ -1,5 +1,5 @@
 ---
-title: Les Cast Codeurs Podcast - Episode 70 - Interview sur Clojure avec Christophe Grand et Cedric Pineau
+title: Les Cast Codeurs Podcast - Episode 70 - Interview sur Clojure avec Christophe Grand et Cédric Pineau
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 70
@@ -18,7 +18,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-70.mp3](http://traffic
 [Christophe Grand](http://clj-me.cgrand.net)  
 [Clojure Programming](http://oreilly.com/catalog/0636920013754/)  
 
-### Qu'est que cette bête?
+### Qu'est-ce que cette bête?
 
 [Clojure](http://en.wikipedia.org/wiki/Clojure)  
 [Site officiel](http://clojure.org/)  
@@ -62,7 +62,7 @@ LISP <http://en.wikipedia.org/wiki/Lisp_(programming_language)>
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

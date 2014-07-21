@@ -19,7 +19,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-91.mp3](http://traffic.l
 [Devoxx](http://www.devoxx.be/#/)  
 [Movember](http://fr.movember.com)  
 
-Un grand merci à [Atlassian](http://atlassian.fr) pour les pizzas!  
+Un grand merci à [Atlassian](http://atlassian.fr) pour les pizzas !  
 
 ### Généralités sur Devoxx
 
@@ -37,7 +37,7 @@ Les thèmes :
 * mobile
 * Future<Devoxx>
 
-Format:
+Format :
 
 * 2 jours université
 * 3 jours conférences
@@ -85,7 +85,7 @@ Rémi et l'interception via invoke dynamic
 
 ###  Données
 
-Big Data par ci, big Data par la  
+Big Data par ci, big Data par là  
 Google big query  
 [Hazelcast](http://www.hazelcast.com)  
 [Infinispan](http://infinispan.org)  
@@ -106,7 +106,7 @@ The internet of things
 ### Cloud
 
 Cloud patterns  
-Monitoring as à Service  
+Monitoring as a Service  
 
 ### Méthodologie
 
@@ -126,8 +126,8 @@ Musique en clojure
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

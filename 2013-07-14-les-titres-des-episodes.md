@@ -3,13 +3,13 @@ title: Les titres des épisodes
 author: 'Emmanuel Bernard'
 layout: blog-post
 ---
-J'ai une question existentielle. Je ne suis pas content de la structure des titres:
+J'ai une question existentielle. Je ne suis pas content de la structure des titres :
 
-- ils sont trop long (spécialement sur le site web)
-- ils ne sont spécifiques qu'au bout du 37ème caractère ce que rend la liste sur des écrans de
+- ils sont trop longs (spécialement sur le site Web)
+- ils ne sont spécifiques qu'au bout du 37ème caractère ce qui rend la liste sur des écrans de
   mobile relativement inutile
 
-J'ai plusieurs alternatives en tête:
+J'ai plusieurs alternatives en tête :
 
 1. Les Cast Codeurs Podcast - Episode 666 - Interview sur l'enfer avec Satan
 2. Les Cast Codeurs - 666 - Interview sur l'enfer avec Satan

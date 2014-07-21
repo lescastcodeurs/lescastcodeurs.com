@@ -50,14 +50,14 @@ Antoine Sabot-Durand
 [Delta Spike](https://cwiki.apache.org/confluence/display/DeltaSpike/)  
 [Agorava Socializer](https://github.com/agorava/agorava-socializer)  
 
-### Reseau social d'entreprise
+### Réseau social d'entreprise
 
 [Yammer](https://www.yammer.com/)  
 [BlueKiwi](http://www.bluekiwi-software.com/fr/)  
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>

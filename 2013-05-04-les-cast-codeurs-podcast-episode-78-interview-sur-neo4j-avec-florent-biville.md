@@ -41,7 +41,7 @@ Hadoop <http://hadoop.apache.org>
 Neo Technology <http://www.neotechnology.com>  
 Licenses Neo4J <http://www.neo4j.org/learn/licensing>  
 
-### Outils et operations
+### Outils et opérations
 
 Gephi <https://gephi.org>  
 Linkurious <http://linkurio.us>  
@@ -57,8 +57,8 @@ Meetup Paris <http://www.meetup.com/graphdb-france/>
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

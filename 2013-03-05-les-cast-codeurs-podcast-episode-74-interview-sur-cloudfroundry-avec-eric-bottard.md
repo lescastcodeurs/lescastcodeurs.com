@@ -86,7 +86,7 @@ Le blog CloudFoundry <http://blog.cloudfoundry.com>
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
-Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>
+ou sur le site Web <http://lescastcodeurs.com/>  
+Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  

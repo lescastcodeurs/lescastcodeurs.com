@@ -1,5 +1,5 @@
 ---
-title: Les Cast Codeurs Podcast - Episode 77 - Google par-ci Google par la
+title: Les Cast Codeurs Podcast - Episode 77 - Google par-ci Google par là
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 77
@@ -25,10 +25,11 @@ de motivation.
 
 ### Langages
 
-Pour en apprendre plus sur les grandes nouveautés de Java 8:
+Pour en apprendre plus sur les grandes nouveautés de Java 8 :
 
 - La liste des JEPs <http://openjdk.java.net/projects/jdk8/features>
-- Un article de survol de toutes les nouveautés avec exemples <http://www.techempower.com/blog/2013/03/26/everything-about-java-8/>
+- Un article de survol de toutes les nouveautés avec exemples  
+<http://www.techempower.com/blog/2013/03/26/everything-about-java-8/>
 
 Retour d'expérience sur Dart <http://bit.ly/ZDsUC3>  
 API et copyright, l'appel des grands du soft <http://insights.wired.com/m/blogpost?id=6544125%3ABlogPost%3A25356>  
@@ -42,7 +43,7 @@ Interview détaillée des développeurs de Groovy par ZeroTurnaround <http://zer
 
 Spring et l'initiative Pivotal <http://blog.springsource.org/2013/04/03/spring-and-open-source-at-the-pivotal-initiative/>  
 JavaFX 2 et IntelliJ IDEA <http://blogs.jetbrains.com/idea/2013/03/packaging-javafx-2-applications-in-intellij-idea-121/>   
-Deux articles intéressant sur l'approche callback vs promises <http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/> et <http://blog.jcoglan.com/2013/04/01/callbacks-promises-and-simplicity/>  
+Deux articles intéressants sur l'approche callback vs promises <http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/> et <http://blog.jcoglan.com/2013/04/01/callbacks-promises-and-simplicity/>  
 Reactive4Java <http://code.google.com/p/reactive4java/>  
 React.js <http://www.reactjs.com>  
 
@@ -53,8 +54,11 @@ Google Cloud Compute vs Amazon Web Services <http://gigaom.com/2013/03/15/by-the
 
 ### Web
 
-Comparaisons des performances de divers frameworks "web" <http://www.techempower.com/blog/2013/03/28/framework-benchmarks/>  <http://www.techempower.com/blog/2013/04/05/frameworks-round-2/>  
-Google forke WebKit et crée Blink <http://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html>  
+Comparaisons des performances de divers frameworks "web"  
+<http://www.techempower.com/blog/2013/03/28/framework-benchmarks/>  
+<http://www.techempower.com/blog/2013/04/05/frameworks-round-2/>  
+
+Google forke WebKit et créé Blink <http://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html>  
 Blink, des mécontents <http://prng.net/blink-faq.html>  
 Qu'est-ce que WebKit <http://paulirish.com/2013/webkit-for-developers/>  
 Podcast Debug sur Safari <http://www.imore.com/debug-11-don-melton-and-safari>  
@@ -81,7 +85,7 @@ Lettre ouverte de OCTO à Xavier Niel <http://blog.octo.com/lettre-ouverte-a-xav
 Google Authenticator <http://emmanuelbernard.com/blog/2013/03/26/making-the-best-of-google-authenticator-for-one-time-passwords/>  
 Plusieurs alias dans iOS mails <http://emmanuelbernard.com/blog/2013/03/24/multiple-email-aliases-in-ios/>  
 
-## JUG et Conferences
+## JUGs et conférences
 
 Le scandale de PyCon <http://femalecomputerscientist.blogspot.com/2013/03/terrifying-escalating-sexism.html>  
 
@@ -98,8 +102,8 @@ Le scandale de PyCon <http://femalecomputerscientist.blogspot.com/2013/03/terrif
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
-Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+ou sur le site Web <http://lescastcodeurs.com/>  
+Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

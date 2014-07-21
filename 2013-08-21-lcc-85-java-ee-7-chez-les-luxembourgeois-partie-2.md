@@ -15,7 +15,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-85.mp3](http://traffic.l
 
 ...
 
-### Implementations
+### Implémentations
 
 - Java EE : GlassFish (WildFly en novembre / TomEE)
 - CDI : Weld (OpenWebBeans / Caucho) - Red Hat
@@ -44,7 +44,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-85.mp3](http://traffic.l
 - Immuabilité
 - Templating
 - Configuration
-- Sécurité simplifié
+- Sécurité simplifiée
 
 ### Livres et IDEs Java EE 7
 
@@ -71,8 +71,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-85.mp3](http://traffic.l
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

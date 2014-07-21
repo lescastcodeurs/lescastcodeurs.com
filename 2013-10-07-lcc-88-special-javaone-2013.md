@@ -1,5 +1,5 @@
 ---
-title: LCC 88 - Special JavaOne 2013
+title: LCC 88 - Spécial JavaOne 2013
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 88
@@ -26,7 +26,7 @@ Petit tour de table sur JavaOne dans son ensemble.
 
 [JavaOne](http://www.oracle.com/javaone/)  
 [Oracle OpenWorld](http://www.oracle.com/openworld/)  
-[Track sécurité](https://oracleus.activeevents.com/2013/connect/search.ww?eventRef=javaone#loadSearch-event=null&searchPhrase=&searchType=session&tc=0&sortBy=&p=&i(11180)=20801&i(10038)=21519)  
+[Track sécurité](https://oracleus.activeevents.com/2013/connect/search.ww?eventRef=javaone#loadSearch-event=null&searchPhrase=&searchType=session&tc=0&sortBy=&p=&i\(11180\)=20801&i\(10038\)=21519)  
 Les sessions seront sur [Parleys](http://parleys.com)  
 Larry Ellison sèche sa deuxième keynote pour voir l'America's cup: [lien](http://www.cio.com/article/740304/Larry_Ellison_Skips_Openworld_Keynote_to_Watch_America_39_s_Cup)  
 [Projet Avatar](https://avatar.java.net)  
@@ -49,7 +49,7 @@ Un petit tour d'horizon de certaines sessions.
 [Cognitect](http://www.cognitect.com)  
 [Typesafe](http://typesafe.com)  
 
-Moteur Javascript en Java: [Nashorn](http://openjdk.java.net/projects/nashorn/)  
+Moteur Javascript en Java : [Nashorn](http://openjdk.java.net/projects/nashorn/)  
 [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript)  
 
 [REST](https://en.wikipedia.org/wiki/REST)  
@@ -83,8 +83,8 @@ Garbage Collector
 
 ## Nous contacter
 
-Contactez-nous via twitter <http://twitter.com/lescastcodeurs>  
+Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>  
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <http://lescastcodeurs.com/>  
+ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com

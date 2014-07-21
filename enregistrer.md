@@ -21,15 +21,15 @@ Il vous faut:
 
 ## Pendant
 
-Quelques petits conseils:
+Quelques petits conseils :
 
 * Mettre son téléphone portable en mode avion
 * Couper les torrents et autres conférences vidéos
 * Eviter de taper au clavier, cela s'entend et il faut le retravailler au montage
 * Couper le son Skype ne change rien, on enregistre le micro
 * Couper le son du micro quand on ne parle pas est idéal
-    * Sur Max OS X, [Shush](https://itunes.apple.com/us/app/shush-microphone-manager/id496437906?mt=12) permet de couper le son en soft ; J'utilise l'option Toggle et la touch `fn`
-* Garder le son du casque aussi bas que raisonable: il arrive que le son d'un casque trop fort soit réenregistrer par le micro et c'est la galère
+    * Sur Max OS X, [Shush](https://itunes.apple.com/us/app/shush-microphone-manager/id496437906?mt=12) permet de couper le son en soft ; J'utilise l'option Toggle et la touche `fn`
+* Garder le son du casque aussi bas que raisonable : il arrive que le son d'un casque trop fort soit réenregistré par le micro et c'est la galère
 * Si Skype coupe, ne pas arrêter l'enregistrement
 ** Si quelqu'un l'a quand même fait, refaire un 3, 2, 1, top (voir ci dessous)
 
@@ -40,7 +40,7 @@ Vérifier que la courbe de son ne sature pas.
 Ajuster l'entrée son au cas où (`System` -> `Sound` -> `Input` sous Mac OS X).
 Un réglage est possible dans Audacity même (non testé).
 
-Le rituel de démarrage est le suivant:
+Le rituel de démarrage est le suivant :
 
 * Emmanuel donne un 3, 2, 1, top et tout le monde démarre l'enregistrement au top
 * Quelques secondes de silence
@@ -50,7 +50,7 @@ Cela permet de synchroniser les pistes.
 
 ## Après
 
-Enregistrer le projet Audacity (c'est plus sûr avant les autres manipulations.
+Enregistrer le projet Audacity (c'est plus sûr avant les autres manipulations).
 Exporter sous format `AIFF`.
 
 Partager le fichier via Dropbox, Google Drive ou autre.
