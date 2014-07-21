@@ -1,5 +1,9 @@
 #Ignored files
 
+#Rake
+.bundle
+_bin/forrake
+
 #OS
 .DS_Store
 

@@ -35,24 +35,23 @@ Installer Git. [La page d'aide de GitHub](http://help.github.com/) est un bon
 point de départ. [Le blog d'Emmanuel](http://in.relation.to/Bloggers/HibernateMovesToGitGitTipsAndTricks)
 sur les trucs et astuces de Git est utile également.
 
-Installer Awestruct, un générateur de site basé sur Ruby.
-
-    gem install awestruct 
-    # ou
-    sudo gem install awestruct
-
-La version d'Awestruct testée est 0.2.18
-
-    sudo gem install awestruct --version 0.2.18
-
 Récupérer les sources du site web de GitHub.
 
     git clone git@github.com:lescastcodeurs/lescastcodeurs.com.git
 
+Installer `Rake` et `Bundle`:
+
+    gem install rake
+    gem install bundle
+
+Installer `Awestruct` et ses dépendances
+
+    rake setup
+
 ### Servir le site localement
 
 * Aller dans votre répertoire `~/lescastcodeurs.com`
-* Lancer  `awestruct -d`
+* Lancer `rake clean preview`
 * Ouvrir votre navigateur à <http://localhost:4242>
 
 Les changements sont automatiquement vu et le site reconstruit sauf pour les nouvelles
@@ -63,8 +62,7 @@ entrées de blog.
 Si pour une raison quelconque vos changement ne sont pas visibles,
 vous pouvez regénérer complètement le site:
 
-    rm -fR _site
-    awestruct -d
+    rake clean preview
 
 #### Si les pages sont lentes à être servies...
 
@@ -74,7 +72,7 @@ Sous Linux, servir les pages peut être attrocement lent
 Utiliser l'approche suivante:
 
 * Aller dans le répertoire `~/lescastcodeurs.com`  
-* Lancer  `awestruct --auto -P development`
+* Lancer  `rake gen`
 * En parallèle, aller dans `~/lescastcodeurs.com/_site`
 * Lancer `python -m SimpleHTTPServer 4242`
 
