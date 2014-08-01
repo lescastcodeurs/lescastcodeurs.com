@@ -1,7 +1,12 @@
-$gridColumnWidth:75px;
+//$gridColumnWidth:75px;
 
 @import "bootstrap";
 
+body {
+  padding-top: 50px;
+}
+
+/*
 $primary-color:#997704;
 //$dark-background-color:#2E1B08;
 $dark-background-color:#5E361A;
@@ -75,14 +80,14 @@ h2 {
 
 #sidebar {
   font-size:80%;
-  background: #d5cea6; /* Old browsers */
-  background: -moz-linear-gradient(-45deg,  #d5cea6 0%, #f7f0cf 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#d5cea6), color-stop(100%,#f7f0cf)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%); /* IE10+ */
-  background: linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d5cea6', endColorstr='#f7f0cf',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+  background: #d5cea6;
+  background: -moz-linear-gradient(-45deg,  #d5cea6 0%, #f7f0cf 100%);
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#d5cea6), color-stop(100%,#f7f0cf));
+  background: -webkit-linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%);
+  background: -o-linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%);
+  background: -ms-linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%);
+  background: linear-gradient(-45deg,  #d5cea6 0%,#f7f0cf 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d5cea6', endColorstr='#f7f0cf',GradientType=1 );
 
   padding: 5px;
   border: solid $primary-color 1px;
@@ -164,3 +169,4 @@ h2 {
 
 // Include responsive Bootstrap styles
 //@import "bootstrap-responsive";
+*/
