@@ -1,3 +1,4 @@
+require 'bootstrap-sass'
 require 'atomizer_custom'
 
 Awestruct::Extensions::Pipeline.new do
