@@ -2,43 +2,38 @@
 title: Podcasts
 layout: default
 ---
-.prominent-box
+.jumbotron
   %h1 Le podcast Java en Français
-  %p#tagline
-    Les Cast Codeurs est un podcast en français 
-    %strong
-      de, par et pour les développeurs.
-    %br
-    Prenez connaissance des 
-    %strong
-      dernières nouvelles
-    de la sphère
-    %strong
-      Java
-    et du développement en général.
-    Plongez sur un sujet précis avec les épisodes
-    %strong
-      interview.
-    %br
-    Supportez les radotages de vos hôtes : 
-    %strong
-      Emmanuel Bernard 
-    (JBoss, Hibernate), 
-    %strong
-      Arnaud Héritier 
-    (eXo, Maven),
-    %strong
-      Guillaume Laforge 
-    (VMWare, Groovy), 
-    %strong
-      Antonio Goncalves 
-    (freelance, auteur), 
-    %strong
-      Vincent Massol 
-    (XWiki, Maven).
-    %a{:href=>'/concept/'}
-      En savoir plus...
-%hr
+  .row
+    .col-md-3
+      %img.img-responsive.logo{ :src => "/images/logo_carre_transparent_150height.png", :alt => "logo" }
+    .col-md-9
+      %p
+        Les Cast Codeurs est un podcast en français
+        %strong de, par et pour les développeurs.
+        %br
+        Prenez connaissance des
+        %strong dernières nouvelles
+        de la sphère
+        %strong Java
+        et du développement en général.
+        Plongez sur un sujet précis avec les épisodes
+        %strong interview.
+        %br
+        Supportez les radotages de vos hôtes :
+        %strong Emmanuel Bernard
+        (JBoss, Hibernate),
+        %strong Arnaud Héritier
+        (eXo, Maven),
+        %strong Guillaume Laforge
+        (VMWare, Groovy),
+        %strong Antonio Goncalves
+        (freelance, auteur),
+        %strong Vincent Massol
+        (XWiki, Maven).
+      %p
+        %a.btn.btn-primary.btn-lg{ :href => '/concept/', :role => "button" }
+          En savoir plus
 - for post in page.posts
   .blogpost
     %h2
