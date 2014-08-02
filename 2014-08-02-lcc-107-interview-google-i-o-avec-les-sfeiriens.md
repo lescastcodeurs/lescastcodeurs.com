@@ -15,7 +15,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-107.mp3](http://traffic.
 ## Interview
 
 Grand merci à [Sfeir](http://www.sfeir.com) non seulement de venir parler de Google I/O mais aussi de sponsoriser l'épisode.
-Tout ça parce ce qu'il aiment bien ce que l'on fait.
+Tout ça parce ce qu'ils aiment bien ce que l'on fait.
 Nous aussi on les aime bien :)
 
 [![Sfeir](/images/promo/sponsors/sfeir-noir-200x67px.png)](http://www.sfeir.com)  
