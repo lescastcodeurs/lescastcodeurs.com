@@ -8,6 +8,7 @@ $jumbotron-font-size: ceil(($font-size-base * 1.3));
 
 body {
   padding-top: 50px;
+  word-wrap: break-word;
 }
 
 .jumbotron h1 {
