@@ -10,7 +10,7 @@ layout: default
     .teamheader
       %h2 #{member.name}
       .teamlinks
-        - if member.website 
+        - if member.website
           %a{:href=>"#{member.website}"}
             %img{:src=>'/images/services/web_32.png'}
             Site
@@ -23,9 +23,9 @@ layout: default
             %img{:src=>'/images/services/twitter_32.png'}
             Twitter
     .row
-      .span2
-        .teammemberphoto
-          %img{:src=>"http://www.gravatar.com/avatar/#{member.gravatar_hash}?s=150", :height=>"150px", :width=>"150px"}
-      .span7
+      .col-md-2
+        %img.img-responsive{:src=>"http://www.gravatar.com/avatar/#{member.gravatar_hash}?s=150",
+          :height=>"150px", :width=>"150px"}
+      .col-md-10
         .teammemberbio
           #{member.content}
