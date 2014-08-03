@@ -2,7 +2,9 @@
 layout: default
 title: Le concept
 ---
-# Le concept
+<div class=page-header>
+<h1>Le concept</h1>
+</div>
 
 Les Cast Codeurs discutent des nouvelles fraîches du monde Java en Français s’il vous plaît.
 

@@ -2,7 +2,8 @@
 title: L&apos;&eacute;quipe
 layout: default
 ---
-%h1 #{page.title}
+.page-header
+  %h1 #{page.title}
 
 - members = site.team.values.sort_by{|a| [a.name]}
 - for member in members
@@ -22,10 +23,6 @@ layout: default
           %a{:href=>"http://twitter.com/#{member.twitter}"}
             %img{:src=>'/images/services/twitter_32.png'}
             Twitter
-    .row
-      .col-md-2
-        %img.img-responsive{:src=>"http://www.gravatar.com/avatar/#{member.gravatar_hash}?s=150",
-          :height=>"150px", :width=>"150px"}
-      .col-md-10
-        .teammemberbio
-          #{member.content}
+    %p
+      %img.teamphoto{:src=>"http://www.gravatar.com/avatar/#{member.gravatar_hash}?s=150"}
+      #{member.content}

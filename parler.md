@@ -2,7 +2,9 @@
 layout: default
 title: (en) Parler
 ---
-# (en) Parler
+<div class="page-header">
+<h1>(en) Parler</h1>
+</div>
 
 ## Comment nous joindre
 

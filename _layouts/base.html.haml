@@ -30,11 +30,12 @@
               %a{ :href=>"/concept" } Le Concept
             %li
               %a{ :href=>"/parler" } (en) Parler
-    .container-fluid.content
-      ~ content
-      %hr
-      %footer
-        %p &copy; 2009-#{Date.today.year} Emmanuel Bernard - Tous droits réservés
+
+    ~ content
+
+    .footer
+      %p &copy; 2009-#{Date.today.year} Emmanuel Bernard - Tous droits réservés
+
     -# Uncomment script tags (remove leading -#) when you're ready to use behaviors
     -# %script{ :type=>'text/javascript', :src=>'//cdnjs.cloudflare.com/ajax/libs/jquery/1.7.1/jquery.min.js' }
     -# %script{ :type=>'text/javascript', :src=>"#{site.base_url}/javascripts/bootstrap-collapse.js" }

@@ -1,53 +1,96 @@
 ---
 title: Podcasts
-layout: default
+layout: base
 ---
 .jumbotron
-  %h1 Le podcast Java en Français
-  .row
-    .col-md-3
-      %img.img-responsive.logo{ :src => "/images/logo_carre_transparent_150height.png", :alt => "logo" }
-    .col-md-9
-      %p
-        Les Cast Codeurs est un podcast en français
-        %strong de, par et pour les développeurs.
-        %br
-        Prenez connaissance des
-        %strong dernières nouvelles
-        de la sphère
-        %strong Java
-        et du développement en général.
-        Plongez sur un sujet précis avec les épisodes
-        %strong interview.
-        %br
-        Supportez les radotages de vos hôtes :
-        %strong Emmanuel Bernard
-        (JBoss, Hibernate),
-        %strong Arnaud Héritier
-        (eXo, Maven),
-        %strong Guillaume Laforge
-        (VMWare, Groovy),
-        %strong Antonio Goncalves
-        (freelance, auteur),
-        %strong Vincent Massol
-        (XWiki, Maven).
-      %p
-        %a.btn.btn-primary.btn-lg{ :href => '/concept/', :role => "button" }
-          En savoir plus
-- for post in page.posts
-  .blogpost
-    %h2
-      %a{:href=>post.url}= post.title
-    .blogtagbar
-      Posté par #{post.author} le
-      #{post.date.strftime( '%d/%m/%Y' )}
-      &nbsp;|&nbsp;
-      = page.flattr_compact_counter(:url=>"http://lescastcodeurs.com" + post.url, 
-                                    :title=>post.title, 
-                                    :tags=>'podcast, java') 
+  .container
+    %h1 Le podcast Java en Français
     %p
-      ~ post.content
-    .disqus-short
-      = post.disqus_comments_link
-    %hr.separator
-= page.posts.links
+      %img.img-responsive.logo{ :src => "/images/logo_carre_transparent_150height.png", :alt => "logo" }
+      Les Cast Codeurs est un podcast en français
+      %strong de, par et pour les développeurs.
+    %p
+      Prenez connaissance des
+      %strong dernières nouvelles
+      de la sphère
+      %strong Java
+      et du développement en général.
+      Plongez sur un sujet précis avec les épisodes
+      %strong interview.
+    %p
+      Supportez les radotages de vos hôtes :
+      %strong Emmanuel Bernard
+      (JBoss, Hibernate),
+      %strong Arnaud Héritier
+      (eXo, Maven),
+      %strong Guillaume Laforge
+      (VMWare, Groovy),
+      %strong Antonio Goncalves
+      (freelance, auteur),
+      %strong Vincent Massol
+      (XWiki, Maven).
+    .pull-right
+      %a.btn.btn-lg.btn-primary{ :href => '/concept/', :role => "button" } En savoir plus
+
+.container
+  .row
+    .col-md-9
+      - for post in page.posts
+        .blog-post
+          %h2.blog-post-title
+            %a{:href=>post.url}= post.title
+          %p.blog-post-meta
+            Posté par #{post.author} le
+            #{post.date.strftime( '%d/%m/%Y' )}
+            &nbsp;|&nbsp;
+            = page.flattr_compact_counter(:url=>"http://lescastcodeurs.com" + post.url,
+                                          :title=>post.title,
+                                          :tags=>'podcast, java')
+          %p
+            ~ post.content
+          .disqus-short
+            = post.disqus_comments_link
+          %hr.separator
+      = page.posts.links
+    .col-md-3
+      .sidebar-module
+        %h2 Syndication
+        %p
+          %a{:href=>'/podcast-rss'}
+            %img{:src=>'/images/services/rss_32.png'}
+            Feed
+        %p
+          %a{:href=>'http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=312239675'}
+            %img{:src=>'/images/services/itunes.jpg', :width=>'32px', :height=>'32px'}
+            Souscrire dans iTunes
+
+      .sidebar-module
+        %h2 Sponsors
+        .center
+          %a{:href=>'http://www.cloudbees.com'}
+            %img{:src=>'/images/promo/sponsors/cloudbees-112x75px.png', :width=>'112px', :height=>'75px'}
+
+      .sidebar-module
+        %h2 Contacts
+        %p
+          %a{:href=>'mailto:commentaire@lescastcodeurs.com'}
+            %img{:src=>'/images/services/email_32.png'}
+            Mail
+        %p
+          %a{:href=>'http://twitter.com/lescastcodeurs'}
+            %img{:src=>'/images/services/twitter_32.png'}
+            @lescastcodeurs
+
+      .sidebar-module
+        %h2 Discuter
+        %p
+          %a{:href=>'http://groups.google.com/group/lescastcodeurs'}
+            %img{:src=>'/images/services/google_groups.png', :width=>'32px', :height=>'32px'}
+            Joindre le Google group
+
+      .sidebar-module
+        %h2 Aimer
+        .center
+          = page.flattr_large_counter(:url=>"http://lescastcodeurs.com",
+            :title=>"Les Cast Codeurs Podcast",
+            :tags=>"lescastcodeurs,podcast,java")
