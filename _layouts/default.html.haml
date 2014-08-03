@@ -6,44 +6,4 @@ layout: base
     .col-md-9
       ~ content
     .col-md-3
-      .sidebar-module
-        %h2 Syndication
-        %p
-          %a{:href=>'/podcast-rss'}
-            %img{:src=>'/images/services/rss_32.png'}
-            Feed
-        %p
-          %a{:href=>'http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=312239675'}
-            %img{:src=>'/images/services/itunes.jpg', :width=>'32px', :height=>'32px'}
-            Souscrire dans iTunes
-
-      .sidebar-module
-        %h2 Sponsors
-        .center
-          %a{:href=>'http://www.cloudbees.com'}
-            %img{:src=>'/images/promo/sponsors/cloudbees-112x75px.png', :width=>'112px', :height=>'75px'}
-
-      .sidebar-module
-        %h2 Contacts
-        %p
-          %a{:href=>'mailto:commentaire@lescastcodeurs.com'}
-            %img{:src=>'/images/services/email_32.png'}
-            Mail
-        %p
-          %a{:href=>'http://twitter.com/lescastcodeurs'}
-            %img{:src=>'/images/services/twitter_32.png'}
-            @lescastcodeurs
-
-      .sidebar-module
-        %h2 Discuter
-        %p
-          %a{:href=>'http://groups.google.com/group/lescastcodeurs'}
-            %img{:src=>'/images/services/google_groups.png', :width=>'32px', :height=>'32px'}
-            Joindre le Google group
-
-      .sidebar-module
-        %h2 Aimer
-        .center
-          = page.flattr_large_counter(:url=>"http://lescastcodeurs.com",
-            :title=>"Les Cast Codeurs Podcast",
-            :tags=>"lescastcodeurs,podcast,java")
+      #{site.haml_elements.sidebar.content}
