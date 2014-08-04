@@ -1,11 +1,20 @@
 /*
+ * Custom SASS variables
+ */
+
+$title-color: #997704;
+$dark-brown: #251509;
+
+/*
  * Boostrap SASS variables redefinitions
  * (see http://getbootstrap.com/customize/#less-variables)
  */
 
 $font-size-base: 14px;
+$navbar-inverse-bg: $dark-brown;
 $jumbotron-padding: 10px;
 $jumbotron-font-size: ceil(($font-size-base * 1.3));
+$jumbotron-heading-color: $title-color;
 
 @import "bootstrap";
 
@@ -14,7 +23,6 @@ $jumbotron-font-size: ceil(($font-size-base * 1.3));
  */
 
 body {
-  color: #555;
   padding-top: 50px;
   word-wrap: break-word;
 }
@@ -27,7 +35,7 @@ img {
 
 .logo {
   float: left;
-  padding: 10px 20px 0 0;
+  margin: 10px 20px 0 0;
 }
 
 h1, .h1,
@@ -37,9 +45,8 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
   margin-top: 0;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  color: #333;
+  color: $title-color;
 }
 
 @media (min-width: 1200px) {
@@ -50,6 +57,10 @@ h6, .h6 {
 
 .center {
   text-align:center;
+}
+
+.content > .row > .col-md-9 > .blog-post:first-child {
+  padding-top: 20px;
 }
 
 /*
@@ -110,9 +121,9 @@ h6, .h6 {
 
 .footer {
   padding: 20px 0;
-  color: #999;
+  color: $navbar-inverse-color;
   text-align: center;
-  background-color: #f9f9f9;
+  background-color: $dark-brown;
   border-top: 1px solid #e5e5e5;
 }
 
