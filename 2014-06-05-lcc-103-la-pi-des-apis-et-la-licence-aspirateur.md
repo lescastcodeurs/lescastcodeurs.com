@@ -16,7 +16,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-103.mp3](http://traffic.
 
 ## Sponsor - CloudBees
 
-<div style='background-image: url(/images/promo/sponsors/cloudbees-200x134px.png);background-size:200px 134px;background-repeat:no-repeat;margin-top:0px;padding-left:210px;'>
+<p>
+<img src="/images/promo/sponsors/cloudbees-200x134px.png" alt="Cloudbees" class="logo" />
 <a href="http://cloudbees.com">CloudBees</a> est le leader des solutions d'intégration continue et de delivery continue autour de Jenkins,
 accélérant le cycle de développement et permettant aux organisations de concrétiser les attentes d'agilité d'aujourd'hui.
 Basée sur la force du projet open source Jenkins, la plateforme de delivery continue de CloudBees fournit un large choix de solutions, en interne ou hébergée dans le Cloud,
@@ -24,7 +25,7 @@ qui assurent les besoins de sécurité, élasticité et de maintenabilité requi
 <br/>
 Essayez les solutions de CloudBees gratuitement. Dans le Cloud, <a href="https://www.cloudbees.com/signup">notre PaaS de Continuous Delivery basé sur Jenkins</a>,
 ou en interne <a href="http://www.cloudbees.com/jenkins-enterprise-by-cloudbees-download.cb">notre distribution Jenkins Enterprise by CloudBees</a>.
-</div>
+</p>
 
 ## Préambule
 

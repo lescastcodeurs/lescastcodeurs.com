@@ -15,12 +15,11 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-101.mp3](http://traffic.
 
 ## Sponsor
 
-<div style='background-image: url(/images/promo/sponsors/atlassian-200px.png);background-size:200px 42px;background-repeat:no-repeat;margin-top:0px;padding-left:210px;height:42px;'>
-<br/>
+<p>
+<img src="/images/promo/sponsors/atlassian-200px.png" alt="Atlassian" class="logo" />
 Les bières ont été sympathiquement offertes par <a href="http://atlassian.fr">Atlassian</a>.
 Un grand merci à eux.
-<br/>
-</div>
+</p>
 
 ## Slides et photos
 
