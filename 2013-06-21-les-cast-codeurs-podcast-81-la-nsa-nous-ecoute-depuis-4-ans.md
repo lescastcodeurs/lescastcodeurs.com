@@ -11,13 +11,15 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-81.mp3](http://traffic.l
 
 ## Sponsors - OCTO
 
-<div style='background-image: url(/images/promo/sponsors/octo-200x75px.png);background-size:200px 75px;background-repeat:no-repeat;margin-top:0px;padding-left:210px;'>
+<p>
+<img src="/images/promo/sponsors/octo-200x75px.png" alt="Octo" class="logo" />
 Nous croyons que l'informatique transforme nos sociétés.<br/>
 Nous voyons en chaque développeur un ouvrier aux mains d'or et un artisan travaillant dans les règles de l'art.<br/>
 Toi aussi viens rejoindre la tribu OCTO pour partager ton savoir et apporter ta pierre à l'édifice.<br/>
-Au delà du développement, tu découvriras que la création de valeur se fait à tous les niveaux du SI : dans l'architecture, les projets et les produits innovants. Tu verras la transformation à l'oeuvre chez nos clients et tu en deviendras l'acteur et le promoteur.<br/>
+Au delà du développement, tu découvriras que la création de valeur se fait à tous les niveaux du SI : dans l'architecture, 
+les projets et les produits innovants. Tu verras la transformation à l'oeuvre chez nos clients et tu en deviendras l'acteur et le promoteur.<br/>
 <a href="http://www.octo.com">En savoir plus...</a>
-</div>
+</p>
 
 ## Coup de pouce
 

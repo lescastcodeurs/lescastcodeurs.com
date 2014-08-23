@@ -11,7 +11,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-77.mp3](http://traffic.l
 
 ## Sponsor - Masternaut
 
-<div style='background-image: url(/images/promo/sponsors/logo-masternaut-200px.jpg);background-size:200px 109px;background-repeat:no-repeat;margin-top:0px;padding-left:210px;'>
+<p>
+<img src="/images/promo/sponsors/logo-masternaut-200px.jpg" alt="Masternaut" class="logo" />
 Masternaut est à la recherche d’un développeur <b>Java passionné</b>, pour intégrer une équipe
 de développement d’API REST et des moteurs de collectes de données. Venez rejoindre une équipe
 de 12 personnes travaillant en mode <b>Agile</b> (kanban) et un service R&D européen (<b>anglais obligatoire</b>).
@@ -19,7 +20,7 @@ Nous nous trouvons au sud de Rouen. Si vous êtes intéressé, n'oubliez pas vot
 de motivation.  
 <br/>
 <a href="http://www.express-board.fr/offre-d-emploi/h-f-ingenieur-de-developpement-java-spring/dc73938c3d8854c7013dda618bd0001f">En savoir plus...</a>
-</div>
+</p>
 
 ## News
 

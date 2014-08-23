@@ -13,10 +13,11 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-68.mp3](http://traffic
 
 ## Atlassian
 
+<p>
+<img src="/images/promo/sponsors/atlassian-200px.png" alt="Atlassian" class="logo" />
 Les bières et les pizzas ont été fièrement sponsorisées
-par [Atlassian](http://atlassian.fr). Un grand merci à eux.
-
-<img href='http://atlassian.fr' src='http://lescastcodeurs.com/images/promo/sponsors/logo_atlassian.png'/>
+par <a href="http://atlassian.fr">Atlassian</a>. Un grand merci à eux.
+</p>
 
 ## News
 
