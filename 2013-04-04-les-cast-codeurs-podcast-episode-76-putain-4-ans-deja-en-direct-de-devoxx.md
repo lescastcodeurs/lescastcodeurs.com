@@ -11,8 +11,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-76.mp3](http://traffic.l
 
 ## Sponsors
 
-<p>
-<img src="/images/promo/sponsors/sfeir-playoffs-200px.png" alt="Playoffs" class="logo" />
+<p class="sponsor">
+<img src="/images/promo/sponsors/sfeir-playoffs-200px.png" alt="Playoffs" />
 Les Playoffs sont une succession d'entretiens techniques qui permet aux
 candidats de rencontrer 4 à 5 développeurs SFEIR. Le candidat a une meilleure
 perception de SFEIR, SFEIR a une compréhension plus approfondie des compétences,
@@ -25,8 +25,8 @@ conditions. Toutes les personnes qui sont passées aux PlayOffs ont apprécié l
 <a href="http://blog.sfeir.com/2013/02/le-vendredi-apres-midi-jai-playoffs.html">En savoir plus...</a>
 </p>
 
-<p>
-<img src="/images/promo/sponsors/atlassian-200px.png" alt="Atlassian" class="logo" />
+<p class="sponsor">
+<img src="/images/promo/sponsors/atlassian-200px.png" alt="Atlassian" />
 Les bières ont été sympatiquement offertes par <a href="http://atlassian.fr">Atlassian</a>.
 Un grand merci à eux.
 </p>

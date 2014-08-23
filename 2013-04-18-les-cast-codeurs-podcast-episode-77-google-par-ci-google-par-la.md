@@ -11,8 +11,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-77.mp3](http://traffic.l
 
 ## Sponsor - Masternaut
 
-<p>
-<img src="/images/promo/sponsors/logo-masternaut-200px.jpg" alt="Masternaut" class="logo" />
+<p class="sponsor">
+<img src="/images/promo/sponsors/logo-masternaut-200px.jpg" alt="Masternaut" />
 Masternaut est à la recherche d’un développeur <b>Java passionné</b>, pour intégrer une équipe
 de développement d’API REST et des moteurs de collectes de données. Venez rejoindre une équipe
 de 12 personnes travaillant en mode <b>Agile</b> (kanban) et un service R&D européen (<b>anglais obligatoire</b>).
