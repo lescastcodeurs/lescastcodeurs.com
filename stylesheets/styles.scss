@@ -23,9 +23,15 @@ $blockquote-font-size: $font-size-base;
  * Globals
  */
 
+html {
+  position: relative;
+  min-height: 100%;
+}
+
 body {
   padding-top: 50px;
   word-wrap: break-word;
+  padding-bottom: 60px;
 }
 
 img {
@@ -136,6 +142,9 @@ h6, .h6 {
   text-align: center;
   background-color: $dark-brown;
   border-top: 1px solid #e5e5e5;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 .footer p:last-child {
@@ -145,6 +154,7 @@ h6, .h6 {
 /*
  * Team page
  */
+
 .teammember {
   margin-bottom: 2em;
   min-height: 180px;
