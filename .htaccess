@@ -11,6 +11,9 @@ RewriteRule ^(.*)$ http://lescastcodeurs.com/$1 [R=301,L]
 RewriteCond %{HTTP_HOST} ^lescastcodeurs.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www.lescastcodeurs.com$
 
+# Generic redirect
+RewriteRule podsourcing[/]? http://lescastcodeurs.com/crowdcasting/ [R=301,L]
+
 # Libsyn feed
 RewriteRule ^podcast\-rss$ "http\:\/\/lescastcodeurs\.libsyn\.com\/rss" [R=302,L]
 
