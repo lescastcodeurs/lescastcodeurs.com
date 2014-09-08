@@ -1,10 +1,7 @@
 ---
 title: Comment enregistrer
-layout: default
+layout: page
 ---
-<div class=page-header>
-<h1>Comment enregistrer</h1>
-</div>
 
 Cette page décrit comment participer à un enregistrement des cast codeurs.
 

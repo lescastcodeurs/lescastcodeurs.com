@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: page
 title: (en) Parler
 ---
-<div class="page-header">
-<h1>(en) Parler</h1>
-</div>
 
 ## Comment nous joindre
 

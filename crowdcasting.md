@@ -1,10 +1,7 @@
 ---
 title: Crowdcasting
-layout: default
+layout: page
 ---
-<div class=page-header>
-<h1>Crowdcasting</h1>
-</div>
 
 Le crowdcasting retourne les micros et demande aux auditeurs de préparer des petites rubriques.
 Vous êtes intéressé ?

@@ -1,0 +1,11 @@
+---
+layout: base
+---
+.container
+  .row
+    .col-md-9
+      .page-header
+        %h1 #{page.title}
+      ~ content
+    .col-md-3
+      #{site.haml_elements.sidebar.content}
