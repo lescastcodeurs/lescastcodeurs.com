@@ -14,7 +14,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-109.mp3](http://traffic.
 
 ## Interview
 
-### introduction
+### Introduction
 
 [Benjamin Guinebertiere](http://3-4.fr)  
 [@benjguin](https://twitter.com/benjguin)  
@@ -55,7 +55,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-109.mp3](http://traffic.
 
 ### Les couches classiques et frameworks
 
-#### les approches
+#### Les approches
 
 [Attributs](http://msdn.microsoft.com/en-us/library/aa287992\(v=vs.71\).aspx)  
 [yield return](http://msdn.microsoft.com/en-us/library/9k7k7cf0.aspx)  
@@ -85,7 +85,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-109.mp3](http://traffic.
 [Managed Extensibility Framework (MEF)](http://msdn.microsoft.com/en-us/library/dd460648\(v=vs.110\).aspx)  
 [Unity Container](http://msdn.microsoft.com/library/ff647202.aspx)  
 
-#### Frameworks webs
+#### Frameworks web
 
 [ASP.NET](https://en.wikipedia.org/wiki/ASP.NET)  
 [IIS](https://en.wikipedia.org/wiki/Internet_Information_Services)  

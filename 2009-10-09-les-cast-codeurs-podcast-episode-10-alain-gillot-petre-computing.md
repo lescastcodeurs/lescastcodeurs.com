@@ -5,8 +5,9 @@ layout: blog-post
 episode: 10
 mp3_length: 49776624
 ---
-## Interview Jerôme Bernard sur l'état du Cloud Computing
 Enregistré le 7 octobre 2009
+
+## Interview Jerôme Bernard sur l'état du Cloud Computing
 
 Elastic Grid [http://www.elastic-grid.com/](http://www.elastic-grid.com/)  
 Elastic Grid sur Twitter [http://twitter.com/elasticgrid](http://twitter.com/elasticgrid)  

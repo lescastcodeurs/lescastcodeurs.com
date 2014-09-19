@@ -1,0 +1,12 @@
+---
+title: Liste des épisodes
+layout: default
+---
+.page-header
+  %h1 #{page.title}
+
+- for post in page.posts
+  %h4
+    %a{:href=>post.url}= post.title
+  %p= /.*?\n\n/mu.match(post.content)
+  %hr

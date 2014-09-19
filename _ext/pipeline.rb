@@ -5,6 +5,7 @@ Awestruct::Extensions::Pipeline.new do
   extension Awestruct::Extensions::DataDir.new
   extension Awestruct::Extensions::Posts.new('', :posts)
   extension Awestruct::Extensions::Paginator.new( :posts, '/index', :per_page=>10 )
+  extension Awestruct::Extensions::Paginator.new( :posts, '/episodes', :per_page=>10000 )
   extension Awestruct::Extensions::Indexifier.new
   extension Awestruct::Extensions::Atomizer.new( 
     :posts, 
