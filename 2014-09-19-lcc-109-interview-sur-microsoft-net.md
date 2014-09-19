@@ -17,7 +17,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-109.mp3](http://traffic.
 ### introduction
 
 [Benjamin Guinebertiere](http://3-4.fr)  
-[@bengui](https://twitter.com/benjguin)  
+[@benjguin](https://twitter.com/benjguin)  
 [Microsoft](http://www.microsoft.com/fr-fr/default.aspx)  
 [Microsoft Azure](http://azure.microsoft.com/en-us/)  
 
