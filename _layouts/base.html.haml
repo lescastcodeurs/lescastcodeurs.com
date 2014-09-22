@@ -30,6 +30,10 @@
               %a{ :href=>"/concept" } Le Concept
             %li
               %a{ :href=>"/parler" } (en) Parler
+            %li
+              %form.navbar-form{ :method => "get", :action => "https://google.com/" }
+                %input{ :type => "hidden", :name => "sitesearch", :value => site.base_url }
+                %input.form-control{ :value => "", :type => "text", :name => "q", :placeholder => "Chercher dans le site..." }
 
     ~ content
 
