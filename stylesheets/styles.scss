@@ -80,6 +80,19 @@ h6, .h6 {
 }
 
 /*
+ * Navigation bar
+ */
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar-form {
+    max-width: 115px;
+    .form-control {
+       max-width: 110px;
+       font-size: 10px;
+    }
+  }
+}
+
+/*
  * Sidebar
  */
 .sidebar-module {
