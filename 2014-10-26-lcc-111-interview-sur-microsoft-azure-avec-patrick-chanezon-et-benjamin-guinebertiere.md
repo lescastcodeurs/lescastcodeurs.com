@@ -20,7 +20,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-111.mp3](http://traffic.
 ### Ta vie, ton oeuvre
 
 [Benjamin Guinebertiere](http://3-4.fr)  
-[@bengui](https://twitter.com/benjguin)  
+[@benjguin](https://twitter.com/benjguin)  
 [Microsoft](http://www.microsoft.com/fr-fr/default.aspx)  
 
 [Patrick Chanezon](http://wordpress.chanezon.com)  
