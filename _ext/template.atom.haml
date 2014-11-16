@@ -5,8 +5,9 @@
 %feed{ 'xml:lang'=>'en-US', :xmlns=>'http://www.w3.org/2005/Atom' }
   %id= "#{page.content_url}/"
   %title= escape_once( page.title )
-  - if ( defined?( site.author ) )
+  - if ( site.author )
     %author
+      /- FIXME defined? always return false it seems
       - if ( defined?( site.author.name ) )
         %name= site.author.name
         - if ( site.author.email )
@@ -24,10 +25,10 @@
         %updated= entry.date.xmlschema
         %published= entry.date.xmlschema
         %link{:rel=>"alternate", :type=>"text/html", :href=>"#{site.base_url}#{entry.url}" }
-        - if ( defined?( entry.episode ) )
+        - if ( entry.episode )
           %link{:rel=>"enclosure", :type=>"audio/mpeg", :length=>"#{entry.mp3_length}", |
             :href=>"http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-#{entry.episode}.mp3" }
-        - if ( defined?( entry.author ) )
+        - if ( entry.author )
           %author
             - if ( defined?( entry.author.name ) )
               %name= entry.author.name
