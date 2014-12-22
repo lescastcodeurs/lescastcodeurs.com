@@ -17,7 +17,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-115.mp3](http://traffic.l
 ### Ta vie, ton oeuvre
 
 [@samklr](https://twitter.com/samklr)  
-[Ses présentations](https://speakerdeck.com/samklri), [encore ici](http://www.slideshare.net/samkiller) et [là](https://parleys.com/search/bessalah/PRESENTATIONS)  
+[Ses présentations](https://speakerdeck.com/samklr), [encore ici](http://www.slideshare.net/samkiller) et [là](https://parleys.com/search/bessalah/PRESENTATIONS)  
 
 ### Data scientist
 
