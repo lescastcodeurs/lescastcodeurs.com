@@ -1,5 +1,5 @@
 ---
-title: LCC 116 - X-Charlie: Je suis Charlie
+title: "LCC 116 - X-Charlie: Je suis Charlie"
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 116
