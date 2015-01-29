@@ -5,6 +5,10 @@ layout: blog-post
 episode: 117
 mp3_length: 69084318
 ---
+Cette semaine on invite Cédric Beust pour discuter de choses et d'autres autour de sa carrière à Sun, BEA, Google, LinkedIn, Yahoo!.
+TestNG, jcommander, GMail, Android sont quelques boites et projets sur lesquels il a eu une influence.
+On parle aussi de langages, de méthodologies, d'IDEs... et de jeux vidéos.
+
 Enregistré le 27 janvier 2015
 
 Téléchargement de l'épisode [LesCastCodeurs-Episode-117.mp3](http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-117.mp3)  
