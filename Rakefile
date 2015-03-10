@@ -77,7 +77,7 @@ end
 desc 'Publish website (requires the right SSH key'
 task :publish do
   Rake::Task["gen"].execute({:profile => 'production'})
-  cmd = "rsync -avz --delete --filter=\"- /video/\" --filter=\"- /cgi-bin/\" _site/ emmanuelbernard:public_html/lescastcodeurs"
+  cmd = "rsync -avz --delete --filter=\"- /video/\" --filter=\"- /cgi-bin/\" _site/ lcc:/var/www/lescastcodeurs"
   system cmd
 end
 
