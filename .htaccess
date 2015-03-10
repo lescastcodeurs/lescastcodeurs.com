@@ -5,7 +5,9 @@ ErrorDocument 404 /404.html
 
 RewriteEngine on
 
-RewriteCond %{HTTP_HOST} ^(www\.)?castcodeurs\.com [NC]
+RewriteCond %{HTTP_HOST} ^(www\.)?castcodeurs\.(com|net|org)$ [OR]
+RewriteCond %{HTTP_HOST} ^(www\.)?lescastcodeurs\.(net|org)$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.lescastcodeurs\.com$
 RewriteRule ^(.*)$ http://lescastcodeurs.com/$1 [R=301,L]
 
 RewriteCond %{HTTP_HOST} ^lescastcodeurs.com$ [OR]
