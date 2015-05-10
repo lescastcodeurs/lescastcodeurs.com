@@ -12,7 +12,7 @@ RewriteRule ^(.*)$ https://lescastcodeurs.com/$1 [R=301,L]
 
 # Move to HTTPS
 RewriteCond %{HTTPS} !=on
-RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R=301,L]
 
 RewriteCond %{HTTP_HOST} ^lescastcodeurs.com$ [OR]
 RewriteCond %{HTTP_HOST} ^www.lescastcodeurs.com$
