@@ -11,7 +11,7 @@ Awestruct::Extensions::Pipeline.new do
     :posts, 
     '/feed-intern.atom', 
     :num_entries=>10000,
-    :content_url=>'http://lescastcodeurs.com',
+    :content_url=>'https://lescastcodeurs.com',
     :feed_title=> 'Les Cast Codeurs Podcast' )
   extension Awestruct::Extensions::Flattr.new
   extension Awestruct::Extensions::Disqus.new

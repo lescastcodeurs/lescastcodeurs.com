@@ -9,9 +9,9 @@ La manière la plus efficace de nous joindre est de poster sur notre [Google gro
 Si vous préférez une manière plus personnelle, utilisez [commentaire@lescastcodeurs.com][email]. 
 Si vous êtes 2.0 jusqu’aux bouts des doigts, suivez nous sur twitter [@lescastcodeurs][twitter].
 
-[google-group]: http://groups.google.com/group/lescastcodeurs
+[google-group]: https://groups.google.com/group/lescastcodeurs
 [email]: mailto:commentaire@lescastcodeurs.com
-[twitter]: http://twitter.com/lescastcodeurs
+[twitter]: https://twitter.com/lescastcodeurs
 
 ## Comment montrer qu’on vous aime et qu’on vous écoute?
 
@@ -19,11 +19,11 @@ Merci :)
 Il suffit de faire du bouche à oreille. Bloguez, postez sur votre site, parlez-en à vos collègues et amis. 
 Vous pouvez aussi mettre cette balise sur votre site
 
-    <a href="http://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="http://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png" /></a>
+    <a href="https://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="https://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png" /></a>
 
 pour ajouter le bouton
 
-<a href="http://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="/images/promo/jecoute_les_castcodeurs_200px.png" /></a>
+<a href="https://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="/images/promo/jecoute_les_castcodeurs_200px.png" /></a>
 
 ## Non mais sérieusement, on vous adore
 

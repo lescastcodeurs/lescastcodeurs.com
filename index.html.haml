@@ -43,7 +43,7 @@ layout: base
             Posté par #{post.author} le
             #{post.date.strftime( '%d/%m/%Y' )}
             &nbsp;|&nbsp;
-            = page.flattr_compact_counter(:url=>"http://lescastcodeurs.com" + post.url,
+            = page.flattr_compact_counter(:url=>"https://lescastcodeurs.com" + post.url,
                                           :title=>post.title,
                                           :tags=>'podcast, java')
           %p
