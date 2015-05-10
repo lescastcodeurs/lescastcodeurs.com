@@ -1,5 +1,6 @@
 require 'bootstrap-sass'
 require 'atomizer_custom'
+require 'flattr'
 
 Awestruct::Extensions::Pipeline.new do
   extension Awestruct::Extensions::DataDir.new
