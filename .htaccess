@@ -21,7 +21,7 @@ RewriteCond %{HTTP_HOST} ^www.lescastcodeurs.com$
 RewriteRule podsourcing[/]? https://lescastcodeurs.com/crowdcasting/ [R=301,L]
 
 # Libsyn feed
-RewriteRule ^podcast\-rss$ "https\:\/\/lescastcodeurs\.libsyn\.com\/rss" [R=302,L]
+RewriteRule ^podcast\-rss$ "http\:\/\/lescastcodeurs\.libsyn\.com\/rss" [R=302,L]
 
 # images
 RewriteRule ^img/jecoute_les_castcodeurs_200px.png$ https://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png [R=301,L]
