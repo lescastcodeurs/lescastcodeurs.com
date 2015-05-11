@@ -27,10 +27,11 @@ RewriteRule ^podcast\-rss$ "http\:\/\/lescastcodeurs\.libsyn\.com\/rss" [R=302,L
 RewriteRule ^img/jecoute_les_castcodeurs_200px.png$ https://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png [R=301,L]
 
 # feed redirected
-## old feed
-RewriteRule ^feed/?$ "https\:\/\/lescastcodeurs\.com\/feed\.atom" [R=301,L]
 ## new feed
-RewriteRule ^feed\.atom$ /feed-intern.atom [PT]
+#RewriteRule ^feed\.atom$ /feed-intern.atom [PT] # fails http://lescastcodeurs.com/feed for some reason
+RewriteRule ^feed\.atom/?$ https://lescastcodeurs.com/feed-intern.atom [R,L]
+## old feed
+RewriteRule ^feed/$ https://lescastcodeurs.com/feed-intern.atom [R=301,L]
 ## old rule that was failing with a trailer /
 # RewriteRule ^feed[\/]?$ "https\:\/\/lescastcodeurs\.com\/feed\.atom" [R=301,L]
 
