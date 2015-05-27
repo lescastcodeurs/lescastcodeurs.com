@@ -50,6 +50,8 @@ Cela permet de synchroniser les pistes.
 ## Après
 
 Enregistrer le projet Audacity (c'est plus sûr avant les autres manipulations).
+Si l'enregistrement a été fait en stéréo, aller dans `Tracks->Stereo to mono`
+
 Exporter sous format `AIFF`.
 
 Partager le fichier via Dropbox, Google Drive ou autre.
