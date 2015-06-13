@@ -7,7 +7,7 @@ mp3_length: 68703193
 ---
 Les cast codeurs sont accompagnés d'Etienne pour discuter de Java 9, des promesses, des code HTTP 7xx.
 On y discute aussi IDE et de pleins d'autres choses.
-Un grand merci à Obeo pour leur soutient !
+Un grand merci à Obeo pour leur soutien !
 
 Enregistré le 8 juin 2015
 
