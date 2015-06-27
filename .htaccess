@@ -22,6 +22,8 @@ RewriteRule podsourcing[/]? https://lescastcodeurs.com/crowdcasting/ [R=301,L]
 
 # Libsyn feed
 RewriteRule ^podcast\-rss$ "http\:\/\/lescastcodeurs\.libsyn\.com\/rss" [R=302,L]
+# Note that we also have a feedburner feed at http://feeds.feedburner.com/LesCastCodeurs
+# It contains images, authors and description: make sure to update when necessary
 
 # images
 RewriteRule ^img/jecoute_les_castcodeurs_200px.png$ https://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png [R=301,L]
