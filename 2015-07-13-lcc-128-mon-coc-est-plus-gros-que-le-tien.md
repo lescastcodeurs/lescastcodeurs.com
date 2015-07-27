@@ -76,7 +76,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-128.mp3](http://traffic.l
 ##  Débat
 
 [Les codes de conduite](http://nocodeofconduct.com/ncoc)  
-[Une opinion sur les dérives des CoC](http://bit.ly/1LpIVFH)  
+[Une opinion sur les dérives des CoC](http://bit.ly/1LpIVFH) (le lien a été depuis retiré par Twitter ou l'utilisateur de Twitter)  
 [StrangeLoop dégage un speaker pour ses vues politiques](http://www.breitbart.com/london/2015/06/05/strange-loop-tech-conference-bans-software-engineer-over-political-views/)  
 
 ##  Outils de l'épisode
