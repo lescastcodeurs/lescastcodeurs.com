@@ -16,7 +16,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-133.mp3](http://traffic.
 ## Sponsor - Google
 
 <p class="sponsor">
-<img src="/images/promo/sponsors/google-200px.png" alt="Google" />
+<img src="/images/promo/sponsors/google-gcpworldtour-200px.png" alt="Google" />
 L'événement gratuit GCP Next à Paris le 13 octobre, c'est l'occasion pour les développeurs de mieux comprendre le Cloud de Google
 et de ses technologies de conteneur, sa solutions de backend pour mobile et web, son BigData au delà de map-reduce
 et sans oublier ses offres d'infrastructure et de plateforme.
