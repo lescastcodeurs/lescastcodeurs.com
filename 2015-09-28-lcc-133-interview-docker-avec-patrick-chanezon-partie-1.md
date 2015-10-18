@@ -18,7 +18,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-133.mp3](http://traffic.
 <p class="sponsor">
 <img src="/images/promo/sponsors/google-gcpworldtour-200px.png" alt="Google" />
 L'événement gratuit GCP Next à Paris le 13 octobre, c'est l'occasion pour les développeurs de mieux comprendre le Cloud de Google
-et de ses technologies de conteneur, sa solutions de backend pour mobile et web, son BigData au delà de map-reduce
+et de ses technologies de conteneur, sa solution de backend pour mobile et web, son BigData au delà de map-reduce
 et sans oublier ses offres d'infrastructure et de plateforme.
 La journée comprend une keynote, des sessions techniques, des démos, des codelabs et bien entendu une opportunité de networking.
 <a href="https://goo.gl/7wWQGv">Inscrivez-vous</a>.
@@ -57,7 +57,7 @@ dockerfile et les images
 Quid de la maintenance de ces images (sécurité etc)  
 Docker et/vs ansible chef ou puppet  
 
-Y a-t-il des distributions spécial docker ?
+Y a-t-il des distributions spéciales docker ?
 
 Je peux faire tourner une distribution entière dedans ? Y compris le graphique ?  
 Docker natif Linux, natif Windows ? Et les Mac ? Et les téléphones mobiles ?  
@@ -83,12 +83,12 @@ Faire tourner un web server une base de données
 - construire les images
 - comment passer des variables à l'image
 - comment ouvrir les ports
-- comment je connais l'ip de l'autre image?
+- comment je connais l'IP de l'autre image ?
 - comment partager des fichiers entre docker et le monde extérieur
 - quand je redémarre, je perds les données "transitantes"
 - le backup des images
 - le backup des données
-- donner une image a mon collègue
+- donner une image à mon collègue
 
 [Exemple d'application Java avec un dockerfile et compose](https://github.com/joshlong/spring-doge)  
 [Version avec le plugin Maven Spotify](https://github.com/joshlong/spring-doge/pull/11/commits)  
