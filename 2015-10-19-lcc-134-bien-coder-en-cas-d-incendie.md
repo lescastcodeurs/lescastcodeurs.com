@@ -18,7 +18,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-134.mp3](http://traffic.l
 
 <p class="sponsor">
 <img src="/images/promo/sponsors/creativedata-200px.png" alt="Creative Data" />
-<a href="https://www/creativedata.fr/">Creative Data</a> est une startup créée en 2013 accompagnant les entreprises de tous secteurs d’activité souhaitant placer la donnée au cœur de leur culture.
+<a href="https://www.creativedata.fr/">Creative Data</a> est une startup créée en 2013 accompagnant les entreprises de tous secteurs d’activité souhaitant placer la donnée au cœur de leur culture.
 Nous vous proposons une <strong>plateforme prête à l’emploi de bout en bout orientée métier</strong> qui vous apporte le meilleur des technologies <strong>Big Data</strong>.
 <br/>
 
