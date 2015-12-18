@@ -43,7 +43,7 @@ Quelles sont ses caractéristiques principales ?
 Pointeurs  
 Garbage collection  
 Slices  
-Duplication de code (generiques, ?)  
+Duplication de code (génériques, ?)  
 [Java value type](http://cr.openjdk.java.net/~jrose/values/values-0.html)  
 Heritage  
 Interface (Structural typing)  
@@ -60,7 +60,7 @@ Communication inter machine
 
 ### Le SDK
 
-Quel est la richesse du SDK et de la librairie standard  
+Quelle est la richesse du SDK et de la librairie standard  
 [Golang packages](https://golang.org/pkg/)  
 [godoc.org](https://godoc.org)  
 Comment on gère les dépendances  
@@ -79,8 +79,8 @@ Compilation cross-OS
 
 ### La communauté et les news
 
-Taille de communauté
-A quoi est dû le succès
+Taille de communauté  
+A quoi est dû le succès  
 
 Est-ce que tu pourrais nous donner une liste de personnes à suivre absolument dans la communauté ?  
 
@@ -92,7 +92,7 @@ Des personnes qui tweetent / blogguent souvent sur Go, des sites de news intére
 - [blog.golang.org](http://blog.golang.org)  
 - [OnGolang News](http://on-golang.appspot.com/)
 
-Pourquoi apprendre Go quand je connais Java, JavaScript?  
+Pourquoi apprendre Go quand je connais Java, JavaScript ?  
 Plus précisément, dans un environnement enterprise, de type applis de gestion, Go peut-il apporter qq chose ou est-il plutot restreint a un cadre d’utilisation particulier ?  
 [Martini](https://github.com/go-martini/martini)  
 [Beego](http://beego.me)  
