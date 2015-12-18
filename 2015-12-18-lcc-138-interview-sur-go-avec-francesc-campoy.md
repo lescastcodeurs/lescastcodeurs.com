@@ -90,7 +90,7 @@ Est-ce que tu pourrais nous donner une liste de personnes à suivre absolument d
 Des personnes qui tweetent / blogguent souvent sur Go, des sites de news intéressants ?  
 
 - [blog.golang.org](http://blog.golang.org)  
-- <http://on-golang.appspot>
+- [OnGolang News](http://on-golang.appspot.com/)
 
 Pourquoi apprendre Go quand je connais Java, JavaScript?  
 Plus précisément, dans un environnement enterprise, de type applis de gestion, Go peut-il apporter qq chose ou est-il plutot restreint a un cadre d’utilisation particulier ?  
