@@ -6,7 +6,7 @@ episode: 140
 mp3_length: 34811558
 ---
 Un épisode en direct du Snowcamp 2016 à Grenoble.
-On y discute la conférence, des thèses, CommitStrip.
+On y discute la conférence, des thèses, CommitStrip et de médecine.
 
 Enregistré le 22 janvier 2016
 
@@ -24,7 +24,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-140.mp3](http://traffic.l
 
 ### Kezako SnowCamp
 
-[A l'arrache](https://fr.wiktionary.org/wiki/à_l’arrache)  
+A l'arrache
 
 ### Keynotes
 
