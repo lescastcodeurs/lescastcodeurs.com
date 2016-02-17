@@ -48,7 +48,7 @@ Discussion sur [Devoxx France](http://devoxx.fr)
 [GitHub pages: mon Markdown et pas d'autres](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)  
 [JUnit 5 Alpha 1](http://junit-team.github.io/junit5/#release-notes)  
 [JUnit 5 expliqué](http://blog.so-geht-software.de/2016/02/whats-new-in-junit-5/)  
-[JForg lève 50 millions de dollars](http://www.frenchweb.fr/jfrog-leve-50-millions-de-dollars-pour-conquerir-les-developpeurs/224053)  
+[JFrog lève 50 millions de dollars](http://www.frenchweb.fr/jfrog-leve-50-millions-de-dollars-pour-conquerir-les-developpeurs/224053)  
 
 Les outils de Quentin Adam
 
