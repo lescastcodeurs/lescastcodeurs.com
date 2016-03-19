@@ -92,7 +92,6 @@ La GED et la GEX, c'est quoi, on utilise quoi ?
 ## Rubrique débutant
 
 [Google Summer of Code](http://www.xwiki.org/xwiki/bin/view/Blog/XWiki+is+participating+in+Google+Summer+of+Code+2016)  
-Passage par valeur vs passage par référence.
 
 ## Outil de l'épisode
 
