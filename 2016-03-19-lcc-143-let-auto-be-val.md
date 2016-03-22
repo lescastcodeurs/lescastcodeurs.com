@@ -22,7 +22,7 @@ Discussion sur Devoxx
 
 [Java : proposition de factory pour les collections](http://mail.openjdk.java.net/pipermail/platform-jep-discuss/2016-March/000041.html)  
 [Proposition var/val dans Java 9?](http://openjdk.java.net/jeps/286)  
-[Soudage sur la proposition var/val](https://www.surveymonkey.com/r/KGPTHCG)  
+[Sondage sur la proposition var/val](https://www.surveymonkey.com/r/KGPTHCG)  
 [Point sur Jigsaw](http://openjdk.java.net/projects/jigsaw/spec/sotms/)  
 
 [Mettre Java dans son docker c'est comme cracher dans son Yop... pour Oracle](http://blog.takipi.com/running-java-on-docker-youre-breaking-the-law/)  
