@@ -37,6 +37,10 @@ RewriteRule ^feed/$ https://lescastcodeurs.com/feed-intern.atom [R=301,L]
 ## old rule that was failing with a trailer /
 # RewriteRule ^feed[\/]?$ "https\:\/\/lescastcodeurs\.com\/feed\.atom" [R=301,L]
 
+# Manual redirect from incorrect URL with '
+RewriteRule 2016/05/04/lcc-146-interview-developpeurs-d’asie-avec-ludwine-probst[/]? https://lescastcodeurs.com/2016/05/04/lcc-146-interview-developpeurs-d-asie-avec-ludwine-probst/ [R=301,L]
+RewriteRule ^2016/05/04/lcc-146-interview-developpeurs-d$ https://lescastcodeurs.com/2016/05/04/lcc-146-interview-developpeurs-d-asie-avec-ludwine-probst/ [R=301,L]
+
 # Manual redirect form old URL scheme yyyy/mm to new blog yyyy/mm/dd
 RewriteRule 2009/03/en-construction[/]? https://lescastcodeurs.com/2009/03/25/en-construction/ [R=301,L]
 RewriteRule 2009/04/le-premier-episode-est-enregistre[/]? https://lescastcodeurs.com/2009/04/08/le-premier-episode-est-enregistre/ [R=301,L]
