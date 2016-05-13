@@ -4,20 +4,9 @@ gravatar_hash: 9dec3dd95fe76a6719fae939b368d1a5
 blog: http://aheritier.net/
 twitter: aheritier
 ---
-Arnaud Héritier est architecte. Il a plus de dix années d'expériences professionnelles acquises au sein d'éditeurs de logiciels, de sociétés de services et de cabinets de conseil.
-Il a rejoint en Juillet 2009 [eXo Platform][exo], société éditrice de logiciels, pour laquelle il est responsable des méthodes et outils nécessaires à la production des applications pour la plate-forme eXo (gestion de contenus, gestion des connaissances, collaboration, sociales).
 
-Arnaud [participe][masterbranch] à divers projets open-source depuis plusieurs années. 
-Sa contribution principale est pour le projet [Apache Maven][maven] qu'il a rejoint en 2004 et dont il fait parti du comité de direction (PMC).
-Il contribue aussi régulièrement au serveur d'intégration continue [Jenkins][jenkins] (qui de nos jours fait bien plus que de l'intégration continue).
-Il est régulièrement [speaker][slideshare] dans des conférences et JUGs, et est le co-auteur du livre français [“Apache Maven” aux éditions Pearson][book].
+Spécialisé dans le développement logiciels et l'automatisation des processus, il contribue depuis de nombreuses années à divers [projets opensource](https://www.ohloh.net/accounts/aheritier) comme [Jenkins](http://jenkins-ci.org) ou [Apache Maven](http://maven.apache.org). et à différentes communautés autour de Java et DevOps. Il intervient régulièrement dans [diverses conférences et JUGs](http://www.aheritier.net/a-propos/) et participe à l'organisation de [Devoxx France](http://www.devoxx.fr).
 
-Arnaud est diplômé d'un [DESS en génie des logiciels applicatifs][dess] (renommé DESS Technologies Applicatives depuis) à l'université de Jussieu, Paris VI.
+En 2015, il rejoint en tant qu'ingénieur support [CloudBees, Inc.](http://www.cloudbees.com), éditeur de logiciels spécialisé dans la livraison en continu et contributeur majeur à [Jenkins](http://jenkins-ci.org).
 
-[exo]: http://www.exoplatform.com
-[masterbranch]: https://masterbranch.com/aheritier
-[maven]: http://maven.apache.org
-[jenkins]: http://www.jenkins-ci.org
-[book]: http://www.pearson.fr/livre/?GCOI=27440100487310
-[slideshare]: http://www.slideshare.net/aheritier/presentations
-[dess]: http://ta-stl.infop6.jussieu.fr/
+Arnaud est diplômé d'un [DESS en génie des logiciels applicatifs](http://ta-stl.infop6.jussieu.fr/) (renommé DESS Technologies Applicatives depuis) à l'université de Jussieu, Paris VI.
