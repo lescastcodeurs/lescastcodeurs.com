@@ -124,7 +124,7 @@ La composition et la réutilisation de morceaux de documentation
 [deckjs avec Asciidoctor](http://asciidoctor.org/docs/install-and-use-deckjs-backend/)  
 [Bespoke avec Asciidoctor](https://github.com/asciidoctor/asciidoctor-bespoke)  
 
-[Exemple de présentation](http://mgreau.com/slides/devnation2015/slides.htm) de Maxime en dzslides + Asciidoctor - [source](https://github.com/mgreau/asciidoc-create-publish-everywhere-from-anywhere/tree/master/slides)  
+[Exemple de présentation](http://mgreau.com/slides/devnation2015/slides.html) de Maxime en dzslides + Asciidoctor - [source](https://github.com/mgreau/asciidoc-create-publish-everywhere-from-anywhere/tree/master/slides)  
 
 ### Quelques points précis
 
