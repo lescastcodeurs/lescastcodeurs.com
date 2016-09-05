@@ -119,4 +119,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  Bean Validation 2.0](http://beanvalidation.org/news/2016/07/15/bean-validation-2-0-is-coming/)  
+En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
