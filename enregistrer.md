@@ -16,6 +16,10 @@ Il vous faut:
 * Un casque
 * Idéalement un micro
     * Le micro intégré des MacBook Pro est plus que correct
+* Optionellement, de quoi muter le micro:
+    * [Shush](https://itunes.apple.com/us/app/shush-microphone-manager/id496437906?mt=12) sous Mac OS X
+    * [micmute](https://sourceforge.net/projects/micmute/) sous Windows (pas sûr que cela fonctionne sous Windows 10)
+    * sous Linux, ils marchent les micros ? ;P - on plaisante bien sûr, dites-nous ce que vous utilisez
 
 
 ## Pendant
