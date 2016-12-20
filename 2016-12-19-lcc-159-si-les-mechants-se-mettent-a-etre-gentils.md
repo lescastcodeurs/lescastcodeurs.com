@@ -97,7 +97,7 @@ Héritage OO et REST vs message.
 ## Conférences
 
 [Snowcamp les 8-10 fevrier](http://snowcamp.io)  
-[Devoxx France](http://www.devoxx.fr) les 5-7 avril 2016  
+[Devoxx France](http://www.devoxx.fr) les 5-7 avril 2017  
 [Mix-IT](https://www.mix-it.fr) les 20-21 avril 2017  
 [Breizhcamp](http://www.breizhcamp.org) les 19-21 avril 2017  
 [RivieraDev](http://rivieradev.fr) les 11-12 mai 2017  
