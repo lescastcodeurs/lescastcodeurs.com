@@ -27,7 +27,7 @@ pour ajouter le bouton
 
 ## Non mais sérieusement, on vous adore
 
-Vous pouvez nous flattrez en cliquant sur le bouton flattr à gauche. Vous pouvez aussi nous envoyer :
+Vous pouvez nous flattrez en cliquant sur le bouton flattr à droite. Vous pouvez aussi nous envoyer :
 
 - les derniers gadgets électroniques, spécialement d'Apple
 - des bonnes bouteilles de vin et de whisky
