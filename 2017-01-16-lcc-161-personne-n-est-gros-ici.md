@@ -51,7 +51,7 @@ L'affaire Oracle qui fait payer Java
 [Java EE ne peut pas faire de cloud native d'après Gartner](http://gtnr.it/2gDTH1g)  
 [Gartner est à la ramasse d'après un développeur](http://www.pscheidl.cz/opinions/Gartner-JavaEE-report/) 
 
-### Ninja Squad
+### Sponsors - Ninja Squad
 
 ![Ninja Squad](/images/promo/sponsors/ninja-squad-400px.png)
 
