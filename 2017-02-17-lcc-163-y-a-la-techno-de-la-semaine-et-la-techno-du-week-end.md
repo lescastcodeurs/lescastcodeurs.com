@@ -5,7 +5,7 @@ layout: blog-post
 episode: 163
 mp3_length: 85017000
 ---
-Eépisode chargé en sujets: langages, web, data, big data, sécurité, organisation sans oublier Donald (pas le neveu de Picsou).
+Episode chargé en sujets: langages, web, data, big data, sécurité, organisation sans oublier Donald (pas le neveu de Picsou).
 Merci à Saagie pour leur aide !
 
 Enregistré le 15 février 2017
