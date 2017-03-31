@@ -6,7 +6,7 @@ episode: 166
 mp3_length: 25638731
 tweet: Retour sur Eclipse Converge et Eclipse IoT avec @melaniebats @kartben et @fbricon
 ---
-Lors d'Eclipse Converge et Eclipse IoT à San Diego, Emmanuel discute des nouveautés de la fondation Eclipse avec Benjamin, Mélanie et Frédéric.
+Lors d'Eclipse Converge et Eclipse IoT à San Jose, Emmanuel discute des nouveautés de la fondation Eclipse avec Benjamin, Mélanie et Frédéric.
 
 Enregistré le 22 mars 2017
 
