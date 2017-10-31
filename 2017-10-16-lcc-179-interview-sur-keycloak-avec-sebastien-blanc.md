@@ -55,7 +55,7 @@ Realm
 
 Comment ça marche et dans quel contexte cela s'utilise ?
 
-- [OpenID](http://openidexplained.com)
+- [OpenID Connect]( http://openid.net/connect/)
 - [OAuth 2](https://oauth.net/2/)
 - [JWT](https://jwt.io)
 - [SAML 2](https://en.wikipedia.org/wiki/SAML_2.0)
