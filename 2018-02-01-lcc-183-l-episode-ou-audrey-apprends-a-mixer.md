@@ -1,5 +1,5 @@
 ---
-title: LCC 183 - L'épisode où Audrey apprends à mixer
+title: LCC 183 - L'épisode où Audrey apprend à mixer
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 183
