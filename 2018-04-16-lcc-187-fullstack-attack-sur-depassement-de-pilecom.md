@@ -4,7 +4,7 @@ author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 187
 mp3_length: 41704297
-tweet: FullStack Attack sur dépassement de pile.com : retour sur le sondage @StackOverflow 2018
+tweet: FullStack Attack sur dépassement de pile.com - retour sur le sondage @StackOverflow 2018
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Dans cet épisode Emmanuel, Audrey et Guillaume passent à la loupe les résultats du sondage 2018 de StackOverflow : on discute profils, technologies, valeurs et éthique dans le code.
