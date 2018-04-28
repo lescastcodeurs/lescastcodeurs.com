@@ -97,7 +97,7 @@ La FCC enterre la neutralité du net aux Etats Unis:
 [BreizhCamp du 28 au 30 Mars 2018](http://www.breizhcamp.org/)  
 [Devoxx France du 18 au 20 avril 2018](https://www.devoxx.fr/)  
 [MixIT le 19-20 avril 2018 à Lyon](https://mixitconf.org)  
-[Riviera Dev les 2, 3 et 4 mai 2018 à Sophia Antipolis](http://rivieradev.fr/) - Le [CfP](http://rivieradev.fr/cfp) est ouvert.  
+[Riviera Dev les 16, 17 et 18 mai 2018 à Sophia Antipolis](http://rivieradev.fr/) - Le [CfP](http://rivieradev.fr/cfp) est ouvert.  
 [NCrafts les 18 et 19 mai 2018](http://ncrafts.io/) - Le [CfP](http://cfp.ncrafts.io/?utm_content=bufferc3f36&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/login) est ouvert.  
 [Best Of Web les 7 et 8 juin 2018](http://bestofweb.paris/) - Le [CfP](https://checkout.eventlama.com/#/events/best-of-web-2018/cfp) est ouvert.  
 [DevFest Lille le 21 juin 2018](https://devfest.gdglille.org/) - Le [CfP](https://devfestlille.cfp.io/#/dashboard) est ouvert.  

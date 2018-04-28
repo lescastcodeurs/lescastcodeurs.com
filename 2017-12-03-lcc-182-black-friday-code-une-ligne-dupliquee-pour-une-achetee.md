@@ -89,7 +89,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-182.mp3](http://traffic.l
 [Touraine Tech le 23 février 2018](https://touraine.tech/) - Le [CfP](https://tourainetech.cfp.io/#/dashboard) est ouvert.  
 [Devoxx France du 18 au 20 avril 2018](https://www.devoxx.fr/) - Le [CfP](http://cfp.devoxx.fr/) est ouvert.  
 [MixIT le 19-20 avril 2018 à Lyon](https://mixitconf.org) - Le [CfP](https://mix-it.cfp.io/#/dashboard) est ouvert.    
-[Riviera Dev les 2, 3 et 4 mai 2018 à Sophia Antipolis](http://rivieradev.fr/) - Le [CfP](http://rivieradev.fr/cfp) est ouvert.  
+[Riviera Dev les 16, 17 et 18 mai 2018 à Sophia Antipolis](http://rivieradev.fr/) - Le [CfP](http://rivieradev.fr/cfp) est ouvert.  
 
 ## Nous contacter
 

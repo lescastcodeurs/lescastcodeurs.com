@@ -112,7 +112,7 @@ Morgan Durand sur les logs
 
 [Devoxx France du 18 au 20 avril 2018](https://www.devoxx.fr/) - Le programme est publié dites nous ce qui vous plait ( [mercredi](http://cfp.devoxx.fr/2018/byday/wed), [jeudi](http://cfp.devoxx.fr/2018/byday/thu), [vendredi](http://cfp.devoxx.fr/2018/byday/fri) )   
 [MixIT le 19-20 avril 2018 à Lyon](https://mixitconf.org)  
-[Riviera Dev les 2, 3 et 4 mai 2018 à Sophia Antipolis](http://rivieradev.fr/)  
+[Riviera Dev les 16, 17 et 18 mai 2018 à Sophia Antipolis](http://rivieradev.fr/)  
 [NCrafts les 18 et 19 mai 2018](http://ncrafts.io/)  
 [Best Of Web les 7 et 8 juin 2018](http://bestofweb.paris/)  
 [EclipseCon les 13 et 14 juin 2018](https://www.eclipsecon.org/france2018/)  
