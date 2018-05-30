@@ -7,7 +7,7 @@ mp3_length:
 tweet: Conférences et tests par mutation
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Julien et Reda viennet nous parler de Gerrit et de son système de revue de code ; puis de l'outil Vet qu'ils ont open sourcé.
+Julien et Reda viennent nous parler de Gerrit et de son système de revue de code ; puis de l'outil Vet qu'ils ont open sourcé.
 Et José Paumard nous fait
 
     try ( José josé = new José(2018) ) {
