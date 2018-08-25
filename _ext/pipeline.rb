@@ -1,6 +1,5 @@
 require 'bootstrap-sass'
 require 'atomizer_custom'
-require 'flattr'
 require 'disqus'
 
 Awestruct::Extensions::Pipeline.new do
@@ -15,7 +14,6 @@ Awestruct::Extensions::Pipeline.new do
     :num_entries=>10000,
     :content_url=>'https://lescastcodeurs.com',
     :feed_title=> 'Les Cast Codeurs Podcast' )
-  extension Awestruct::Extensions::Flattr.new
   extension Awestruct::Extensions::Disqus.new
   helper Awestruct::Extensions::GoogleAnalytics
 end

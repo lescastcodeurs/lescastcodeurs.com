@@ -44,10 +44,6 @@ layout: base
           %p.blog-post-meta
             Posté par #{post.author} le
             #{post.date.strftime( '%d/%m/%Y' )}
-            &nbsp;|&nbsp;
-            = page.flattr_compact_counter(:url=>"https://lescastcodeurs.com" + post.url,
-                                          :title=>post.title,
-                                          :tags=>'podcast, java')
           %p
             ~ post.content
           .disqus-short
