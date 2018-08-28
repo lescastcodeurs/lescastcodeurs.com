@@ -5,7 +5,8 @@ title: Soutenir Les Cast Codeurs
 ## tl;dr
 
 Vous pouvez désormais soutenir Les Cast Codeurs grâce à la plateforme de financement participatif Patreon.
-Vous pouvez nous envoyer une petite somme tous les mois et nous aider à continuer à vous fournir ce podcast.
+Si écouter les cast codeurs vous apporte quelque chose,
+vous pouvez nous envoyer une petite somme tous les mois et nous aider à continuer à vous fournir ce podcast.
 
 [<img width="32px" height="32px" src="/images/services/patreon.png" /> **Devenez un Patron des cast codeurs sur patreon.com/LesCastCodeurs**](https://www.patreon.com/LesCastCodeurs)
 
