@@ -42,21 +42,16 @@ L'étape d'après c'est atteindre un surplus financier pour envisager les projet
 
 Et quelques autres idées mais on préfère être raisonnable.
 
-### Pourquoi pas une association ?
-
-L'esprit de l'association est le soutien de projets à bien commun dans un esprit de bénévolat. Les Cast Codeurs bien que libre au sens Open Source n'est pas dans nos esprits du bénévolat. Donc on a préféré monter une petite boîte. 
-
-Certes, une asso nous aurait permis d'économiser pleins d'impôts et autres taxes. Mais bon les impôts ça sert à quelque chose aussi :)
-
 ### Pourquoi Patreon ?
 
 Nous voulions un modèle récurrent pour ne pas être tributaire de "variations saisonnière" et de devoir lancer des campagnes régulièrement. Ce genre d'effort (campagnes tous les x mois) prend beaucoup de temps que l'on préfère passer sur le contenu du podcast. 
 
-### Vos goals sur Patreon sont élevés 
+### Vos goals sur Patreon sont élevés, ça coûte si cher un podcast ?
 
-En fait en prenant en compte les coûts des intermédiaires financiers, de la plateforme de financement participatif, et surtout des taxes et impôts, ce sont les chiffres auxquels on est arrivé. 
+En fait en prenant en compte les coûts des intermédiaires financiers, de la plateforme de financement participatif, et surtout des taxes et impôts, ce sont les chiffres auxquels on est arrivé.
+On ajustera en fonction de la réalité.
 
-### Pourquoi vous n'avez pas de tiers plus bas / plus haut ?
+### Pourquoi vous n'avez pas de tiers de contribution plus bas / plus haut ?
 
 Sur Patreon, vous pouvez ajuster le prix de votre donation voire mettre un montant libre. 
 Les petites donations (e.g. 1$ par mois sont fortement érodées par le système bancaire (facile 45% partent en fumée). Et vu que l'on fait en gros deux podcast par mois, ça fait 1$ par épisode. 
