@@ -1,3 +1,5 @@
+require 'extend_string'
+
 module Awestruct
   module Extensions
     class Atomizer

@@ -55,7 +55,7 @@ class String
     str = String.new(self)
     String::ACCENTS_MAPPING.each {|letter,accents|
       packed = accents.pack('U*')
-      rxp = Regexp.new("[#{packed}]", nil, 'U')
+      rxp = Regexp.new("[#{packed}]", nil) #used to be nil, 'U')
       str.gsub!(rxp, letter)
     }
     
@@ -93,5 +93,19 @@ class String
     str.downcase! if options[:downcase]
     str.gsub!(/\ /,'_') if options[:convert_spaces]
     str.gsub(options[:regexp], '')
+  end
+
+  def better_html_to_xml
+    #TODO at some point do proper escaping of accents as XML entities vs non accented today
+    str = self
+    str = str.gsub( /<[^>]+>/, '' ).gsub( /&nbsp;/, ' ' )
+    str = str.gsub( /&egrave;/, '&#200;').gsub( /&eacute;/, '&#233;').gsub( /&ccedil;/, '&#199;').gsub( /&icirc;/, '&#206;')
+    str = str.gsub( /&quot;/, '&#34;' ).gsub(/&apos;/, "&#39;").gsub( /&([^#])/, '&amp;\1' )
+  end
+  def better_html_to_text
+    str = self
+    str = str.gsub( /<[^>]+>/, '' ).gsub( /&nbsp;/, ' ' )
+    str = str.gsub( /&egrave;/, '&#200;').gsub( /&eacute;/, '&#233;').gsub( /&ccedil;/, '&#199;').gsub( /&icirc;/, '&#206;')
+    str = str.gsub( /&quot;/, '&#34;' ).gsub(/&apos;/, "&#39;").gsub( /&([^#])/, '&amp;\1' )
   end
 end
