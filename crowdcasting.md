@@ -21,12 +21,14 @@ et que c'est entre l'épisode qui annonce le crowdcasting et le prochain épisod
 Trouver un micro, un casque et une salle calme.  
 Préparer si vous voulez les shownotes (un lien, un nom) en Markdown.
 
+<!-- 
 Ensuite il y a la façon facile, et la façon guerrier.
 
 Le plus facile est de **lancer Firefox ou Google Chrome et d'aller sur le [site d'enregistrement](https://usercast.listeningfrog.com/u/lescastcodeurs)** fait par Pierre Carion (merci Pierre !).
 En trois clicks vous enregistrez votre crowdcast de 90 secondes max et hop il arrive dans notre boite aux lettres.
 
 La version guerrier.  
+-->
 Enregistrer le son au format MP3 (ou AIFF si vous partagez le fichier via Dropbox ou équivalent). Un bon enregistreur gratuit est [Audacity](http://audacity.sourceforge.net).  
 Laisser 10 secondes d'enregistrement avant de parler: cela permet d'enlever certains bruits parasites.  
 Dites nous votre nom et éventuellement ce que vous faîtes en 10 secondes.  
