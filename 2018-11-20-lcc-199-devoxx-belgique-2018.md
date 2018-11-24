@@ -60,6 +60,7 @@ Les handicaps
 [Sitting Considered Deadly - Marek Stój](https://www.youtube.com/watch?v=GaxM5nlPnQU)  
 [Less Process, more Guidance with a Team Playbook - Sven Peters](https://www.youtube.com/watch?v=DonWQh-JxHk)  
 [Why you're failing your remote workers - Vincent Kok (Atlassian)](https://www.youtube.com/watch?v=YS62e9IokTY)  
+[The dyslexic programmer, creativity did not kill the cat by Pieter Van Der Meer](https://www.youtube.com/watch?v=K1tH6W8qylc)  
 
 Ignite : le code en chantant
 
