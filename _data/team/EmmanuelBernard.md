@@ -4,12 +4,16 @@ gravatar_hash: 34a47bd77922181070aef96782110714
 blog: https://emmanuelbernard.com/blog/
 twitter: emmanuelbernard
 ---
-Emmanuel Bernard est architecte plate-forme données à JBoss by Red Hat et un membre de l'équipe Hibernate.  
-Diplômé de Supélec, Emmanuel Bernard a passé quelques années dans le secteur de la grande distribution où il a 
-commencé à s'impliquer dans le monde de l'ORM. Il a rejoint l'équipe Hibernate en 2003.  
-Emmanuel a dirigé l'implementation JPA d'Hibernate. Il a fondé et dirige Hibernate Search, Hibernate Validator 
-et le petit nouveau Hibernate OGM. Emmanuel est membre de l'expert group JPA 2.1 et spec lead de Bean Validation. 
-Il est aussi membre de l'équipe Ceylon où il contribue au type checker et à l'infrastructure.  
-Il intervient régulièrement dans diverses conférences et JUGs, dont JavaOne, JBoss World, Devoxx et est le co-auteur 
-d'Hibernate Search in Action publié par Manning. Il est aussi le fondateur et co-hôte de deux podcasts: 
-[Les Cast Codeurs](https://lescastcodeurs.com) (français) et [JBoss Community Asylum](http://asylum.jboss.org) (anglais).
+
+Emmanuel est Java Champion, Distinguished Engineer et Chief Architect Données chez Red Hat (middleware).
+Son travail est Open Source.
+Il est connu pour ses contributions et sa direction des projets Hibernate
+ainsi qu'à ses contributions aux standards Java.
+
+Son aventure la plus récente est [Quarkus](https://quarkus.io) (Une stack Java Native Kubernetes optimisée pour GraalVM & OpenJDK HotSpot, ciselé à partir du meilleurs des librairies et standards Java).
+
+Il parle régulièrement dans des conférences et JUGs notamment
+JavaOne, Red Hat Summit et Devoxx.
+Il est l'hôte de plusieurs podcasts et notamment [Les Cast Codeurs](https://lescastcodeurs.com).
+
+ #quarkus #debezium #infinispan #hibernate-orm #hibernate-search #hibernate-validator #hibernate-ogm #ceylon #JPA #bean-validation #lescastcodeurs
