@@ -36,7 +36,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-207.mp3](https://traffic.
 
 * Container first philosophy
     * Démarrage rapide
-    * Emprunte mémoire (et disque) réduite
+    * Empreinte mémoire (et disque) réduite
 * Que peut-on faire avec ?
     * Antonio peut faire des EJBs ? Hibernate peut-être ?
     * Quels sont les case d'usages ? Micro-Services, FAAS, Serverless, ...
