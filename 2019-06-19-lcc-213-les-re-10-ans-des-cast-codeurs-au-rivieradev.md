@@ -1,5 +1,5 @@
 ---
-title: LCC 213 - les re-10 ans des cast codeurs au RivieraDEV
+title: LCC 213 - Les re-10 ans des cast codeurs au RivieraDEV
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 213
