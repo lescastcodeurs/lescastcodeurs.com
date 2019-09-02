@@ -127,7 +127,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-215.mp3](https://traffic.
 
 ### Loi, société et organisation
 
-[Le code source de l'ordinateur de guidage de module lunaire et du module de commande d'Apollon 11 open sourcé sur GitHub](https://github.com/chrislgarry/Apollo-11)  
+[Le code source de l'ordinateur de guidage de module lunaire et du module de commande d'Apollo 11 open sourcé sur GitHub](https://github.com/chrislgarry/Apollo-11)  
 [Quand GitHub applique la legislation US et bloque brutalement les utilisateurs d'Iran et autres pays sous sanction](https://medium.com/@hamed/github-blocked-my-account-and-they-think-im-developing-nuclear-weapons-e7e1fe62cb74) ([Et avec moins d'affectif](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions/)). [Des projets comme Nuxt.js impactés](https://twitter.com/nuxt_js/status/1154835177115455488)  
 [L’Assemblée nationale adopte la loi sur la cyberhaine](https://www.numerama.com/politique/532530-lassemblee-nationale-adopte-la-loi-sur-la-cyberhaine.html)  
 [Facebook écope d’une amende historique de 5 milliards de dollars et repense son fonctionnement](https://www.numerama.com/politique/535888-facebook-ecope-dune-amende-historique-de-5-milliards-de-dollars-et-repense-son-fonctionnement.html)  
