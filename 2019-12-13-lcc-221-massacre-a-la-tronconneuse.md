@@ -32,27 +32,27 @@ Trois JEPs prévus pour être intégrés à Java 14 :
 
 [Tricher le GC de Go avec du poids mort](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/)  
 
-* le GC se declence tous les 2x de heap
-* si pas d'alloc, ca veut dire qu'il vide jusqu'à 1x amis declenche des GC super fréquement
-* donc en allouant (virtuellement) in tableau de 10Go, on reduit de temps entre GC
-* le cout d'un concurrent mark sweep c'est de marquer les objets vivants (les morts ont peut de cout)
-* et les co-routines pendant une phase de mark-sweep doivent faire un travaille de mark ce qui les ralenties
+* le GC se déclenche tous les 2x de heap
+* si pas d'alloc, ca veut dire qu'il vide jusqu'à 1x mais déclenche des GC super fréquement
+* donc en allouant (virtuellement) un tableau de 10Go, on réduit le temps entre GC
+* le cout d'un concurrent mark sweep c'est de marquer les objets vivants (les morts ont peu de cout)
+* et les co-routines pendant une phase de mark-sweep doivent faire un travail de mark ce qui les ralenties
 * donc moins de GC veut dire plus rapide
 * c'est le cout a payer pour un GC avec 1 ou peu de parametres.
 
-[Shenandoah: eliminer les mote de pointeurs en avant](https://developers.redhat.com/blog/2019/06/28/shenandoah-gc-in-jdk-13-part-2-eliminating-the-forward-pointer-word/)  
+[Shenandoah: éliminer les mots de pointeurs en avant](https://developers.redhat.com/blog/2019/06/28/shenandoah-gc-in-jdk-13-part-2-eliminating-the-forward-pointer-word/)  
 
-* Shenandoah bouge les objets sans mettre a jour ses pointeurs
-    * juste garde une copie dans l'objet meme de ses references
-    * puis mets a jour les references de maniere concurrente en parallele de l'appli
+* Shenandoah bouge les objets sans mettre à jour ses pointeurs
+    * juste garde une copie dans l'objet même de ses references
+    * puis met à jour les references de maniere concurrente en parallele de l'appli
     * et enfin peut virer les objets.
-* par default Shenandoah demande un word supplémentaire par objet
+* par défaut Shenandoah demande un word supplémentaire par objet
     * si le word == l'objet, on est normal, sinon il pointe vers la nouvelle copie de l'objet
-    * 5 à 10% de mémoire suppl´mentaire en pratique
-* peut reutiliser le mark word mais comparaison chere surtout a faire a chaque read-barrier
-    * uniquement pendnt un GC et sur les objkets dans des colelctions set => peu frequents
+    * 5 à 10% de mémoire supplémentaire en pratique
+* peut réutiliser le mark word mais comparaison chère surtout à faire à chaque read-barrier
+    * uniquement pendant un GC et sur les objets dans des collections set => peu fréquents
     * dans les tests le code de décoding supplémentaire est pas visible dans les benchmarks
-* mais ils ont eliminé les read barrier en load-reference-barrier qui sont moins frequentes en nombre d'objet
+* mais ils ont éliminé les read barrier en load-reference-barrier qui sont moins fréquentes en nombre d'objet
 * meilleure densité mémoire, moins de pression sur le CPU cache, plus de throughput
 
 ### Librairies
@@ -72,11 +72,11 @@ Trois JEPs prévus pour être intégrés à Java 14 :
 * un ensemble de projets (Camel, Camel K, Camel extensions pour Quarkus)
 * nouveau site web
 * Java 11 support et abandon de Java 8 durant 2020
-* Camel core modularisé et moins de classes à démarrer, reduire la reflection
+* Camel core modularisé et moins de classes à démarrer, réduire la reflection
 * support de GraalVM via Quarkus
-* DSL typesafe de definition de endpoint
-* Coeur reactif
-* Integration avec microprofile
+* DSL typesafe de définition de endpoint
+* Coeur réactif
+* Intégration avec microprofile
 * nouveaux composants ( - graphql - 4 more AWS components - Debezium components)
 
 ### Infrastructure
@@ -98,34 +98,34 @@ Trois JEPs prévus pour être intégrés à Java 14 :
 
 ### Web
 
-[.org est vendu](https://www.theregister.co.uk/2019/11/20/org_registry_sale_shambles/), [sauvons les .org](https://savedotorg.org/)  ( Ils ont réussit à [fâcher Kohsuke](https://givesignup.blog/2019/11/24/org-for-profit/) ).   
+[.org est vendu](https://www.theregister.co.uk/2019/11/20/org_registry_sale_shambles/), [sauvons les .org](https://savedotorg.org/)  ( Ils ont réussi à [fâcher Kohsuke](https://givesignup.blog/2019/11/24/org-for-profit/) ).   
 
 ### Data
 
 [R2DBC 0.8](https://r2dbc.io/2019/12/02/r2dbc-0-8-0-goes-ga)  
 [Exposer les entités persistées dans vos API ou pas](https://thoughts-on-java.org/dont-expose-entities-in-api/)  
 
-* Plus simple, une seul objet
-* plus compliquer des details d'implementations (nouveau champ d'un cote ou de l'autre)
-* accumulation d'annotations pour abstraire ses mod¡eles (JSON, JPA)
-* associations géré en proxy dans JPA et en id ou null dans API
+* Plus simple, un seul objet
+* plus compliqué des détails d'implémentations (nouveau champ d'un cote ou de l'autre)
+* accumulation d'annotations pour abstraire ses modèles (JSON, JPA)
+* associations gérées en proxy dans JPA et en id ou null dans API
 * V2 de l'API
-* aggregation des données dans l'API
+* aggrégation des données dans l'API
 
 ### Outillage
 
 [La matrice arrive dans Jenkins Pipelines](https://jenkins.io/blog/2019/11/22/welcome-to-the-matrix/).  
 [Jenkins Health Advisor par CloudBees](https://jenkins.io/blog/2019/11/22/jenkins-health-advisor-by-cloudbees/).   
-[L'experience zsh de Julien Ponge](https://julien.ponge.org/blog/a-good-terminal-experience-with-iterm2-and-zsh-on-macos/)  
+[L'expérience zsh de Julien Ponge](https://julien.ponge.org/blog/a-good-terminal-experience-with-iterm2-and-zsh-on-macos/)  
 
 [Cédric explose le mythe du scripting vs déclaratif dans Gradle](https://melix.github.io/blog/2019/11/gradle-scripting.html)  
 [Comment éviter l'enfer des dépendances avec Gradle 6](https://blog.gradle.org/avoiding-dependency-hell-gradle-6)  
 
 ### Méthodologies
 
-[L'humain est résiliant aux chocs de la vie mais pas tant que cela `au chomage de longue durée](https://twitter.com/DKThomp/status/1201177826428215297)  
+[L'humain est résiliant aux chocs de la vie mais pas tant que cela au chomage de longue durée](https://twitter.com/DKThomp/status/1201177826428215297)  
 
-* [etude](https://ourworldindata.org/happiness-and-life-satisfaction)
+* [étude](https://ourworldindata.org/happiness-and-life-satisfaction)
 * Plus on est dans un pays développé, plus on est heureux
 * on est plus heureux maintenant qu'il y a quelques années (croissance)
 * plus on est riche, plus on est heureux
