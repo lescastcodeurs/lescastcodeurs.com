@@ -7,7 +7,7 @@ mp3_length: 101996858
 tweet: Interview sur la virtualisation avec @waxzce
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Dans cet épisode, Emamnuel s'assoie autour de la table avec Romain Guy et Pierre-Yves Ricau pour discuter Android.
+Dans cet épisode, Emmanuel s'assoie autour de la table avec Romain Guy et Pierre-Yves Ricau pour discuter Android.
 Cela fait longtemps que la partie 1 est sortie.
 Désolé de ce retard.
 Du coup cet épisode reprend l'entièreté de l'interview.
