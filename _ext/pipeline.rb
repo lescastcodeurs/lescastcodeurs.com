@@ -1,6 +1,7 @@
 require 'bootstrap-sass'
 require 'atomizer_custom'
 require 'disqus'
+require 'posts'
 
 Awestruct::Extensions::Pipeline.new do
   extension Awestruct::Extensions::DataDir.new
