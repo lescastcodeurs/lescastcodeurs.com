@@ -71,7 +71,7 @@ Maven est de retour, et il est pas content !
 
 * [Old GroupIds Alerter : un plugin pour vérifier les couples groupId+artifactId dépréciés](https://github.com/jonathanlermitage/oga-maven-plugin)  
 * [Provisio : un plugin pour remplacer Maven assembly](https://github.com/jvanzyl/provisio)  
-* [MPV : une fonctin BASH pour récupérer la version d'un projet depuis le pom.xml](https://github.com/jvanzyl/mpv)    
+* [MPV : une fonction BASH pour récupérer la version d'un projet depuis le pom.xml](https://github.com/jvanzyl/mpv)    
 * [Central 501 HTTPS Required](https://support.sonatype.com/hc/en-us/articles/360041287334)  
 
 [Gradle 6.2](https://docs.gradle.org/6.2/release-notes.html)  
