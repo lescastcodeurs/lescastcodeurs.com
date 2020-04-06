@@ -45,7 +45,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-229.mp3](http://traffic.l
 
 ##### Carbonalyser
 
-[Carbonalyser : l’extension de navigateur qui rend visible l’invisible impact environnemental du net](w)  
+[Carbonalyser : l’extension de navigateur qui rend visible l’invisible impact environnemental du net](https://theshiftproject.org/en/carbonalyser-browser-extension/)  
 
 #### Déployer la sobriété numérique
 
