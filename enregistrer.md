@@ -5,7 +5,58 @@ layout: page
 
 Cette page décrit comment participer à un enregistrement des cast codeurs.
 
-## Avant
+## Avec Zencastr
+
+### Avant
+
+Il vous faut:
+
+* Google Chrome (ou Firefox) dernière version
+* Une bonne bande passante (filaire c'est un poil mieux et prédictible)
+* Une pièce calme
+* Un casque
+* Idéalement un micro
+    * Le micro intégré des MacBook Pro est plus que correct
+* Optionellement, de quoi muter le micro:
+    * [Shush](https://itunes.apple.com/us/app/shush-microphone-manager/id496437906?mt=12) sous Mac OS X
+    * [micmute](https://sourceforge.net/projects/micmute/) sous Windows (pas sûr que cela fonctionne sous Windows 10)
+    * sous Linux, ils marchent les micros ? ;P - on plaisante bien sûr, dites-nous ce que vous utilisez
+
+### Pendant
+
+En lançant [Zencastr](https://zencastr.com/), permettez l'envoie de notification.
+C'est important pour permettre à Zencastr d'enregistrer votre audio en local.
+
+N'utilisez pas le micro des Apple AirPods (problème de fréquence) - vous pouvez les utiliser en mode casque.
+
+Sur macOs ou Windows, sélectionner le bon micro et le bon casque dans vos sources / destinations par défaut (Dans Settings ...).
+
+Dans Zencastr, cliquer sur l'icone de configuration et véfrifier que Audio Input correspond à votre micro et Audio output votre casque. Désactiver l'option Moniteur. Garder l'option Echo cancellation activée. Utiliser le Built-in VOIP.
+
+Quelques petits conseils :
+
+* Mettre son téléphone portable en mode avion
+* Couper les torrents et autres conférences vidéos
+* Eviter de taper au clavier, cela s'entend et il faut le retravailler au montage
+* Couper le son du micro quand on ne parle pas est idéal
+    * Sur Max OS X, [Shush](https://itunes.apple.com/us/app/shush-microphone-manager/id496437906?mt=12) permet de couper le son en soft ; J'utilise l'option Toggle et la touche `fn`
+* Garder le son du casque aussi bas que raisonable : il arrive que le son d'un casque trop fort soit réenregistré par le micro et c'est la galère
+* Si Zencastr coupe, ne pas arrêter l'enregistrement, attendez que tout le monde revienne
+
+Faites un petit test, parler normalement puis un peu enflammé dans les débats.
+Vérifier que la courbe de son ne sature pas.
+Ajuster l'entrée son au cas où (`System` -> `Sound` -> `Input` sous Mac OS X).
+
+
+### Après
+
+Laisser Zencastr ouvert le temps de l'upload des formats mp3 et wav. Il devrait vous notifier quand c'est fini.
+
+Une fois l'enregistrement publié, n'oubliez pas de retweeter, Gplusser, etc, etc.
+
+## Avec Skype et Audacity
+
+### Avant
 
 Il vous faut:
 
@@ -22,7 +73,7 @@ Il vous faut:
     * sous Linux, ils marchent les micros ? ;P - on plaisante bien sûr, dites-nous ce que vous utilisez
 
 
-## Pendant
+### Pendant
 
 Quelques petits conseils :
 
@@ -51,7 +102,7 @@ Le rituel de démarrage est le suivant :
 
 Cela permet de synchroniser les pistes.
 
-## Après
+### Après
 
 Enregistrer le projet Audacity (c'est plus sûr avant les autres manipulations).
 Si l'enregistrement a été fait en stéréo, aller dans `Tracks->Stereo to mono`
