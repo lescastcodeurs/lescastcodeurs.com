@@ -28,7 +28,7 @@ Le thème musical du podcast est le thème numéro 3 offert par <http://podcastt
 Vous avez besoin de:
 
 - Git
-- Ruby 1.8
+- Ruby 2.7
 - sur Mac OS X, XCode (pour les gems natives)
 
 Installer Git. [La page d'aide de GitHub](http://help.github.com/) est un bon
