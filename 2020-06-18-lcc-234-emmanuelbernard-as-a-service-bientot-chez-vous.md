@@ -4,7 +4,7 @@ author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 234
 mp3_length: 77534544
-tweet: @emmanuelbernard -as-a-service, bientôt chez vous ! #Java #Quarkus #GraalVM #Trump #Twitter #LoiAvia #StopCovid
+tweet: #emmanuelbernard as-a-service, bientôt chez vous #Java #Quarkus #GraalVM #Trump #Twitter #LoiAvia #StopCovid
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 L'épisode news du mois de juin avec Arnaud, Guillaume et Audrey derrière le micro pour fêter les 25 ans de Java, parler de son futur, mais aussi de son écosystème avec Quarkus et GraalVM entre autre. Et avec bien sûr, une rubrique loi société et organisation toujours aussi dense !
