@@ -1,5 +1,8 @@
 #Ignored files
 
+#Intellij Idea
+.idea
+
 #Rake
 .bundle
 _bin/forrake
