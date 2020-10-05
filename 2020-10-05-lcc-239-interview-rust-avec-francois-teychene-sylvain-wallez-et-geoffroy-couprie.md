@@ -19,7 +19,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-239.mp3](http://traffic.l
 
 Sylvain Wallez - [Twitter](https://twitter.com/bluxte/) - [LinkedIn](https://www.linkedin.com/in/swallez/) : Développeur passionné pratiquant Java depuis la fin du 20ème siècle, les langages m'intéressent, surtout quand ils sont fortement typés ! Je suis tombé dans Rust lors de l'écriture d'un [blog post sur Go](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/). Cofondateur du JUG et du Rust meetup toulousains, membre de la Fondation Apache depuis plus de 15 ans, j'ai été cofondateur d'une boîte d'expertise Java, CTO de startup, freelance et j'ai monté le bureau toulousain d'OVH. Je travaille actuellement chez Elastic où après 4 ans dans l'équipe Cloud je viens de bouger vers l'équipe "Clients" qui développe les SDK où j'ai en charge les SDK Java et Rust.  
 
-[Geoffroy Couprie](https://twitter.com/gcouprie/) : Geoffroy Couprie est Consultant Indépendant en développement logiciel. Basé à Nantes, il se passionne pour l'open source, les problématiques de performance et la sécurité.  
+[Geoffroy Couprie](https://twitter.com/gcouprie/) : Geoffroy Couprie travaille chez [Clever Cloud](https://www.clever-cloud.com/) en développement logiciel. Basé à Nantes, il se passionne pour l'open source, les problématiques de performance et la sécurité.  
 
 ### Rust en 2 phrases
 
