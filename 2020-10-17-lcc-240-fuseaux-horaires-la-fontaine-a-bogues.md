@@ -1,10 +1,10 @@
 ---
-title: LCC 240 - Fuseaux horaires : la fontaine à bogues
+title: LCC 240 - Fuseaux horaires - la fontaine à bogues
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 240
 mp3_length: 63145077
-tweet: Fuseaux horaires : la fontaine à bogues #java15 #memoire #quarkus #micronaut
+tweet: Fuseaux horaires - la fontaine à bogues #java15 #memoire #quarkus #micronaut
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Cet épisode consacre Java le langage et sa version 15 en particulier. On discute aussi l'impact des mémoires fautives sur la JVM, le réactif, les frameworks backends et bien d'autres choses. Et nous avons deux crowdcasts! 🕺
