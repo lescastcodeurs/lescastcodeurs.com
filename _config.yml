@@ -20,8 +20,11 @@ minima:
 encoding: 'utf-8'
 timezone: 'Europe/Paris'
 permalink: '/:year/:month/:day/:title/'
+paginate: 10
+paginate_path: "/page/:num"
 plugins:
   - 'jekyll-feed'
+  - 'jekyll-paginate'
   - 'jekyll-seo-tag'
 
 exclude:
