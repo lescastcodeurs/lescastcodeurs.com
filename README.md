@@ -57,10 +57,10 @@ Si pour une raison quelconque vos changements ne sont pas visibles, vous pouvez 
     bundle exec jekyll clean
     bundle exec jekyll serve --livereload
 
-### Activation de Google Analytics
+### Activation des intégrations Google Analytics / Disqus
 
-Google Analytics n'est pas actif en mode `development`. Si vous souhaitez l'activer il vous faudra lancer le site en mode `production` à l'aide de la variable
-[`JEKYLL_ENV`](https://jekyllrb.com/docs/configuration/environments/) :
+Les intégrations Google Analytics et Disqus ne sont pas actives en mode `development`. Si vous souhaitez les activer il vous faudra lancer le site en mode
+`production` à l'aide de la variable [`JEKYLL_ENV`](https://jekyllrb.com/docs/configuration/environments/) :
 
     JEKYLL_ENV=production bundle exec jekyll serve --livereload
 
