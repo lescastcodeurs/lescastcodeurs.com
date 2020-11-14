@@ -12,10 +12,10 @@ title: Read me
 
 ## Remerciements
 
-Ce site est construit avec:
+Ce site est construit avec :
 
-- [Awestruct][Awestruct]: un framework pour créer des sites HTML statiques
-- [Twitter bootstrap][Twitter bootstrap]: une boite à outils d'interfaces web (HTML, CSS Javascript)
+- [Jekyll][Jekyll] : un framework pour créer des sites HTML statiques
+- [Twitter bootstrap][Twitter bootstrap] : une boite à outils d'interfaces web (HTML, CSS Javascript)
 - certains icônes de [Komodo Media, Rogie King][Komodo]
 
 Le logo a été crée par [Nicolas Martignole][touilleur]. 
@@ -23,60 +23,41 @@ Le thème musical du podcast est le thème numéro 3 offert par <http://podcastt
 
 ## Comment construire le site
 
-### Infrastructure
+### Pré-requis
 
-Vous avez besoin de:
+Pour construire le site vous aurez tout d'abord besoin de Git. [La page d'aide de GitHub](http://help.github.com/) est un bon point de départ, [le blog
+d'Emmanuel](http://in.relation.to/Bloggers/HibernateMovesToGitGitTipsAndTricks) sur les trucs et astuces de Git est utile également.
 
-- Git
-- Ruby 2.7
-- sur Mac OS X, XCode (pour les gems natives)
+Vous aurez aussi besoin de Jekyll. Pour son installation référez-vous à [la documentation officielle de Jekyll](https://jekyllrb.com/docs/installation/)) et
+suivez la procédure en fonction de votre système d'exploitation.
 
-Installer Git. [La page d'aide de GitHub](http://help.github.com/) est un bon
-point de départ. [Le blog d'Emmanuel](http://in.relation.to/Bloggers/HibernateMovesToGitGitTipsAndTricks)
-sur les trucs et astuces de Git est utile également.
-
-Récupérer les sources du site web de GitHub.
+### Servir le site localement
+Récupérez les sources du site web de GitHub :
 
     git clone git@github.com:lescastcodeurs/lescastcodeurs.com.git
 
-Installer `Rake` et `Bundle`:
+Puis lancez les commandes suivantes :
 
-    gem install rake
-    gem install bundle
+    cd lescastcodeurs.com
+    bundle install # seulement nécessaire après le clonage du dépôt ou quand il y a eu une mise à jour des dépendances
+    bundle exec jekyll serve --livereload
 
-Installer `Awestruct` et ses dépendances
+Et enfin ouvrez votre navigateur à l'adresse http://localhost:4000.
 
-    rake setup
+Les modifications sur les pages du site (ajout, modification, suppression) sont automatiquement détectées. À chaque changement le site est automatiquement
+reconstruit et les pages ouvertes dans votre navigateur sont rafraichies (grâce à l'option `--livereload`). À noter que le rechargement ne fonctionne pas si
+vous êtes sur la page 404.
 
-### Servir le site localement
-
-* Aller dans votre répertoire `~/lescastcodeurs.com`
-* Lancer `rake clean preview`
-* Ouvrir votre navigateur à <http://localhost:4242>
-
-Les changements sont automatiquement vu et le site reconstruit sauf pour les nouvelles
-entrées de blog.
+Les modifications de configuration (`_config.yml`) nécessitent quant à elles un redémarrage.
 
 #### Si vos changements ne sont pas visibles...
 
-Si pour une raison quelconque vos changement ne sont pas visibles,
-vous pouvez regénérer complètement le site:
+Si pour une raison quelconque vos changements ne sont pas visibles, vous pouvez régénérer complètement le site :
 
-    rake clean preview
+    bundle exec jekyll clean
+    bundle exec jekyll serve --livereload
 
-#### Si les pages sont lentes à être servies...
-
-Sous Linux, servir les pages peut être attrocement lent
-(problème de WEBRick).
-
-Utiliser l'approche suivante:
-
-* Aller dans le répertoire `~/lescastcodeurs.com`  
-* Lancer  `rake gen`
-* En parallèle, aller dans `~/lescastcodeurs.com/_site`
-* Lancer `python -m SimpleHTTPServer 4242`
-
-Vous devriez avoir des pages rendues en quelques millisecondes :) 
+## Procédures
 
 ### Comment ajouter un membre à l'équipe
 
@@ -102,7 +83,7 @@ vous acceptez de fournir votre contribution sous la licence mentionnée au dessu
 Le texte et le logo sont la propriété d'[Emmanuel Bernard][emmanuel-site].
 
 [Wattie]: http://www.flickr.com/photos/wattie/2113068944/in/photostream
-[Awestruct]: http://awestruct.org/
+[Jekyll]: https://jekyllrb.com
 [Twitter bootstrap]: http://twitter.github.com/bootstrap/
 [Komodo]: http://www.komodomedia.com
 [cc]: http://creativecommons.org/licenses/by-sa/3.0/
