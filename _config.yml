@@ -1,19 +1,26 @@
 # Site settings
 title: 'Les Cast Codeurs Podcast'
-author: 'Les Cast Codeurs'
-email: 'commentaire@lescastcodeurs.com'
+url: 'https://lescastcodeurs.com/'
+author:
+  name: 'Les Cast Codeurs'
+  email: 'commentaire@lescastcodeurs.com'
 description: >-
   Les Cast Codeurs est un podcast en français de, par et pour les développeurs. Prenez connaissance des dernières nouvelles de la sphère Java et du
   développement en général. Plongez sur un sujet précis avec les épisodes interview.
-baseurl: ''
-url: 'https://lescastcodeurs.com/'
-twitter_username: 'lescastcodeurs'
-github_username:  'lescastcodeurs'
+
+show_excerpts: false
+minima:
+  date_format: '%d/%m/%Y'
+  social_links:
+    twitter: 'lescastcodeurs'
+    github:  'lescastcodeurs'
+    youtube: 'lescastcodeurs'
 
 # Build settings
-theme: 'minima'
 plugins:
   - 'jekyll-feed'
+  - 'jekyll-seo-tag'
+
 exclude:
   - '.idea'
   - '.jekyll-cache/'
