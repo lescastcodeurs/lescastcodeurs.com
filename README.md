@@ -50,12 +50,19 @@ vous êtes sur la page 404.
 
 Les modifications de configuration (`_config.yml`) nécessitent quant à elles un redémarrage.
 
-#### Si vos changements ne sont pas visibles...
+### Si vos changements ne sont pas visibles...
 
 Si pour une raison quelconque vos changements ne sont pas visibles, vous pouvez régénérer complètement le site :
 
     bundle exec jekyll clean
     bundle exec jekyll serve --livereload
+
+### Activation de Google Analytics
+
+Google Analytics n'est pas actif en mode `development`. Si vous souhaitez l'activer il vous faudra lancer le site en mode `production` à l'aide de la variable
+[`JEKYLL_ENV`](https://jekyllrb.com/docs/configuration/environments/) :
+
+    JEKYLL_ENV=production bundle exec jekyll serve --livereload
 
 ## Procédures
 
