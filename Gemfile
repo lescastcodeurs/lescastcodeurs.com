@@ -5,6 +5,7 @@ gem "jekyll", "~> 4.1.1"
 # Jekyll plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15"
+  gem "jekyll-paginate", "~> 1.1"
   gem "jekyll-seo-tag", "~> 2.1"
 end
 
