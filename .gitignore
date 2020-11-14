@@ -1,17 +1,14 @@
-#Ignored files
+# Ignored files
 
-#Intellij Idea
+# Intellij Idea
 .idea
 
-#Rake
-.bundle
-_bin/forrake
-
-#OS
+# OS
 .DS_Store
 
-#Awestruct
-/.sass-cache
-/_site
-/_tmp
-/.awestruct
+# Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
