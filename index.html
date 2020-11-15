@@ -49,7 +49,7 @@ title: Le podcast Java en Français
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
-        <span class="post-meta">Posté par {{ post.author | default: site.author.name }} le {{ post.date | date: date_format }}</span>
+        <span class="post-meta">Posté le {{ post.date | date: date_format }}</span>
       </h3>
 
       {%- if site.show_excerpts -%}
