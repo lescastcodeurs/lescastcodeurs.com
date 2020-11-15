@@ -52,3 +52,12 @@
     }
   }
 }
+
+//
+// Footer
+//
+
+.footer-copyright {
+  @extend .social-links;
+  text-align: center;
+}
