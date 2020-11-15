@@ -10,7 +10,7 @@ description: >-
 lang: 'fr'
 
 header_pages:
-  - 'episodes.md'
+  - 'episodes.html'
   - 'equipe.html'
   - 'concept.md'
   - 'crowdcasting.md'
