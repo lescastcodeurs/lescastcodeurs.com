@@ -13,21 +13,23 @@ Si vous êtes 2.0 jusqu’aux bouts des doigts, suivez nous sur twitter [@lescas
 [email]: mailto:commentaire@lescastcodeurs.com
 [twitter]: https://twitter.com/lescastcodeurs
 
-## Comment montrer qu’on vous aime et qu’on vous écoute?
+## Comment montrer qu’on vous aime et qu’on vous écoute ?
 
 Merci :)  
 Il suffit de faire du bouche à oreille. Bloguez, postez sur votre site, parlez-en à vos collègues et amis. 
 Vous pouvez aussi mettre cette balise sur votre site
 
-    <a href="https://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="https://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png" /></a>
+{% highlight html %}
+<a href="https://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="https://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png" /></a>
+{% endhighlight %}
 
 pour ajouter le bouton
 
-<a href="https://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="/images/promo/jecoute_les_castcodeurs_200px.png" /></a>
+<a href="https://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="https://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png" /></a>
 
 ## Non mais sérieusement, on vous adore
 
-Vous pouvez nous flattrez en cliquant sur le bouton flattr à droite. Vous pouvez aussi nous envoyer :
+Vous pouvez nous _flattrez_ en cliquant sur le bouton flattr à droite. Vous pouvez aussi nous envoyer :
 
 - les derniers gadgets électroniques, spécialement d'Apple
 - des bonnes bouteilles de vin et de whisky
