@@ -9,6 +9,9 @@ description: >-
   développement en général. Plongez sur un sujet précis avec les épisodes interview.
 lang: 'fr'
 
+collections:
+  - 'team'
+
 header_pages:
   - 'episodes.html'
   - 'equipe.html'

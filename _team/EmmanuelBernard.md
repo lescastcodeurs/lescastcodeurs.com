@@ -10,7 +10,7 @@ Son travail est Open Source.
 Il est connu pour ses contributions et sa direction des projets Hibernate
 ainsi qu'à ses contributions aux standards Java.
 
-Son aventure la plus récente est [Quarkus](https://quarkus.io) (Une stack Java Native Kubernetes optimisée pour GraalVM & OpenJDK HotSpot, ciselé à partir du meilleurs des librairies et standards Java).
+Son aventure la plus récente est [Quarkus](https://quarkus.io) (Une stack Java Native Kubernetes optimisée pour GraalVM & OpenJDK HotSpot, ciselé à partir du meilleur des librairies et standards Java).
 
 Il parle régulièrement dans des conférences et JUGs notamment
 JavaOne, Red Hat Summit et Devoxx.

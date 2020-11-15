@@ -5,7 +5,7 @@
 "minima/initialize";
 
 //
-// Custom style for homepage
+// Homepage / Les épisodes
 //
 
 .home .home-logo {
@@ -16,4 +16,39 @@
 .post-list-item {
   padding-bottom: 1rem;
   border-bottom: 1px solid lightgray;
+}
+
+//
+// L'équipe
+//
+
+.team-member {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid lightgray;
+
+  .team-member-header {
+    margin-bottom: 1rem;
+
+    h2 {
+      display: inline;
+      margin-right: 0.5rem;
+    }
+
+    .team-member-links {
+      display: inline-block;
+      vertical-align: super;
+    }
+  }
+
+  .team-member-description {
+    min-height: 150px;
+    margin-bottom: 1rem;
+
+    .team-member-photo {
+      width: 150px;
+      height: 150px;
+      margin-right: 1rem;
+      float: left;
+    }
+  }
 }

@@ -1,0 +1,38 @@
+---
+title: L'équipe
+layout: page
+---
+
+<div class="team">
+  {% for member in site.team %}
+  <div class="team-member">
+    <div class="team-member-header">
+      <h2>{{ member.name }}</h2>
+
+      <div class="team-member-links">
+        {% if member.website %}
+        <a href="{{ member.website }}">
+          <img src="{% link /images/services/web_32.png %}" alt="site"/>
+          Site
+        </a>
+        {% endif %}
+
+        {% if member.blog %}
+        <img src="{% link /images/services/rss_32.png %}" alt="blog"/>
+        <a href="{{ member.blog }}">Blog</a>
+        {% endif %}
+
+        {% if member.twitter %}
+        <img src="{% link /images/services/twitter_32.png %}" alt="twitter"/>
+        <a href="http://twitter.com/{{ member.twitter }}">Twitter</a>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="team-member-description">
+      <img class="team-member-photo" src="https://www.gravatar.com/avatar/{{ member.gravatar_hash }}?s=150" alt="photo"/>
+      {{ member.content | markdownify }}
+    </div>
+  </div>
+  {% endfor %}
+</div>

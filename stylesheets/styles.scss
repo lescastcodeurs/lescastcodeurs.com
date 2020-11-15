@@ -145,34 +145,3 @@ h6, .h6 {
 .footer p:last-child {
   margin-bottom: 0;
 }
-
-/*
- * Team page
- */
-
-.teammember {
-  margin-bottom: 2em;
-  min-height: 180px;
-}
-
-.teamheader {
-  margin-bottom: 1em;
-
-  h2 {
-    display:inline;
-    margin-right: 0.5em;
-  }
-
-  .teamlinks {
-    display:inline-block;
-    vertical-align: super;
-  }
-}
-
-.teamphoto {
-  width: 150px;
-  height: 150px;
-  float: left;
-  margin-right: 20px;
-  margin-bottom: 10px;
-}
