@@ -48,7 +48,8 @@ Les modifications sur les pages du site (ajout, modification, suppression) sont 
 reconstruit et les pages ouvertes dans votre navigateur sont rafraichies (grâce à l'option `--livereload`). À noter que le rechargement ne fonctionne pas si
 vous êtes sur la page 404.
 
-Les modifications de configuration (`_config.yml`) nécessitent quant à elles un redémarrage.
+Les modifications de layout nécessitent un rechargement manuel de la page. Et les modifications de configuration (`_config.yml`) nécessitent une régénération du
+site.
 
 ### Si vos changements ne sont pas visibles...
 
