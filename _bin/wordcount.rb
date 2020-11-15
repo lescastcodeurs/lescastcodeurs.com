@@ -14,7 +14,7 @@ exclude = ["http", "org", "lescastcodeurs", "a", "div", "com", "www", "de", "le"
 "03", "home", "5", "emmanuelbernard", "ul", "php", "4", "amp", "r", "11", "uk", "08", "view", "of", "jroller", "is",
 "29", "ce", "il", "je", "style", "son", "25", "thread_id", "qu", "26"]
 words = Hash.new(0)
-Dir.foreach("../") { |file| 
+Dir.foreach("../_posts") { |file|
     if (file =~ /20.*/)
         File.open("../" + file).each do |line|
             line.scan(/\w+/) do |word|
