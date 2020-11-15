@@ -8,7 +8,14 @@ description: >-
   Les Cast Codeurs est un podcast en français de, par et pour les développeurs. Prenez connaissance des dernières nouvelles de la sphère Java et du
   développement en général. Plongez sur un sujet précis avec les épisodes interview.
 
-show_excerpts: false
+header_pages:
+  - 'episodes.md'
+  - 'equipe.html'
+  - 'concept.md'
+  - 'crowdcasting.md'
+  - 'soutenir.md'
+show_excerpts: true
+
 minima:
   date_format: '%d/%m/%Y'
   social_links:
