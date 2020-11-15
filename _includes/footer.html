@@ -1,5 +1,5 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <data class="u-url" href="{{ '/' | relative_url }}"></data>
 
   <div class="wrapper">
 
@@ -9,20 +9,23 @@
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
+            </svg>
+            <span>Subscribe</span>
           </a>
         </p>
-      {%- if site.author %}
+
+        {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
+          <li class="p-name">{{ site.author.name | escape }}</li>
           {% endif -%}
           {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+          <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
           {%- endif %}
         </ul>
-      {%- endif %}
+        {%- endif %}
       </div>
+
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
@@ -32,6 +35,11 @@
       {%- include social.html -%}
     </div>
 
+    <div class="footer-copyright">
+      {%- assign legal_page = site.pages | where: "path", 'legal.md' | first -%}
+      &copy; 2009-{{ 'now' | date: "%Y" }} Codagora (Emmanuel Bernard)
+      - Tous droits réservés
+      - <a class="page-link" href="{{ legal_page.url | relative_url }}">{{ legal_page.title | escape }}</a>
+    </div>
   </div>
-
 </footer>
