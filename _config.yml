@@ -18,7 +18,6 @@ header_pages:
   - 'concept.md'
   - 'crowdcasting.md'
   - 'soutenir.md'
-show_excerpts: true
 
 minima:
   date_format: '%d/%m/%Y'

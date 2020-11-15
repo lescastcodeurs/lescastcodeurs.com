@@ -52,9 +52,7 @@ title: Le podcast Java en Français
         <span class="post-meta">Posté le {{ post.date | date: date_format }}</span>
       </h3>
 
-      {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
-      {%- endif -%}
+      {{ post.content }}
 
       <div class="disqus-short">
         <a href="{{ post.url | absolute_url }}#disqus_thread">Commentaires</a>
