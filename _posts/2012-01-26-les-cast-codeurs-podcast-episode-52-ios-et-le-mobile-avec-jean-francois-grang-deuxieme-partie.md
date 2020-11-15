@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 52 - iOS et le mobile avec Jean-Fran&ccedil;ois Grang (deuxième partie)'
+title: Les Cast Codeurs Podcast - Episode 52 - iOS et le mobile avec Jean-François Grang (deuxième partie)
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 52

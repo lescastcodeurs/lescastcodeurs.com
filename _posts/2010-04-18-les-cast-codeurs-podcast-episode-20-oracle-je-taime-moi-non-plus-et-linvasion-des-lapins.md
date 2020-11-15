@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 20 - Oracle je t&#039;aime moi non plus et l&#039;invasion des lapins'
+title: Les Cast Codeurs Podcast - Episode 20 - Oracle je t'aime moi non plus et l'invasion des lapins
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 20

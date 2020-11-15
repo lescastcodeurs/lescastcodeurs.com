@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 6 - Portal M&amp;A'
+title: Les Cast Codeurs Podcast - Episode 6 - Portal M&A
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 6

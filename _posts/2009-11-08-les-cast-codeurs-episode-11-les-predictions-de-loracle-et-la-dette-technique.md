@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Episode 11 - Les prédictions de l&#039;Oracle et la dette technique'
+title: Les Cast Codeurs Episode 11 - Les prédictions de l'Oracle et la dette technique
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 11

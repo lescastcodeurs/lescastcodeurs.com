@@ -1,5 +1,5 @@
 ---
-title: 'Vidéo promo Les Cast Codeurs &agrave; l&#039;Universit&eacute; du SI 2010'
+title: Vidéo promo Les Cast Codeurs à l'Université du SI 2010
 author: 'Emmanuel Bernard'
 layout: blog-post
 ---

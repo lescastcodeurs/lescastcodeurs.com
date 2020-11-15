@@ -1,5 +1,5 @@
 ---
-title: Les Cast Codeurs Podcast - Episode 62 - Rod va sur l'&icirc;le de Larry
+title: Les Cast Codeurs Podcast - Episode 62 - Rod va sur l'île de Larry
 author: Emmanuel Bernard
 layout: blog-post
 episode: 62

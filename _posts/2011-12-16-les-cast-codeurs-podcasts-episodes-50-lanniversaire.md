@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcasts - Episodes 50 - L&#039;anniversaire!'
+title: Les Cast Codeurs Podcasts - Episodes 50 - L'anniversaire!
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 50
