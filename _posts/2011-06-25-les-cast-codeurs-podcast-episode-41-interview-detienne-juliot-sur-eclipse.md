@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 41 - Interview d&#039;Etienne Juliot sur Eclipse'
+title: Les Cast Codeurs Podcast - Episode 41 - Interview d'Etienne Juliot sur Eclipse
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 41

@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 37 - J&#039;peux pas j&#039;ai piscine'
+title: Les Cast Codeurs Podcast - Episode 37 - J'peux pas j'ai piscine
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 37

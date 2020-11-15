@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 42 - A l&#039;USI 2011'
+title: Les Cast Codeurs Podcast - Episode 42 - A l'USI 2011
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 42

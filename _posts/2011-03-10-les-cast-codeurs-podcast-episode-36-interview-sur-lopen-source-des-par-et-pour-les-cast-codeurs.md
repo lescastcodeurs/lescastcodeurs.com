@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 36 - Interview sur l&#039;Open Source des par et pour Les Cast Codeurs'
+title: Les Cast Codeurs Podcast - Episode 36 - Interview sur l'Open Source des par et pour Les Cast Codeurs
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 36

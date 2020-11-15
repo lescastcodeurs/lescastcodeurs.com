@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 29 - La forge logicielle et l&#039;industrialisation chez un éditeur - Guest star Vincent Massol mais aussi Nicolas De Loof et Arnaud Héritier'
+title: Les Cast Codeurs Podcast - Episode 29 - La forge logicielle et l'industrialisation chez un éditeur - Guest star Vincent Massol mais aussi Nicolas De Loof et Arnaud Héritier
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 29

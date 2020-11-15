@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 21 - Interview indépendants partie 2 - Aucune SSII n&#039;a été martyrisée pendant l&#039;enregistrement'
+title: Les Cast Codeurs Podcast - Episode 21 - Interview indépendants partie 2 - Aucune SSII n'a été martyrisée pendant l'enregistrement
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 21

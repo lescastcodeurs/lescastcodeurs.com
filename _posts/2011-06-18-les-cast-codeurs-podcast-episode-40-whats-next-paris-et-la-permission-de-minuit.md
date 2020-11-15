@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 40 - What&#039;s Next Paris et la permission de minuit'
+title: Les Cast Codeurs Podcast - Episode 40 - What's Next Paris et la permission de minuit
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 40

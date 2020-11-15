@@ -1,5 +1,5 @@
 ---
-title: 'L&#039;épisode 25 (USI 2010) en vidéo est arriv&eacute;'
+title: L'épisode 25 (USI 2010) en vidéo est arrivé
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 25

@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 25 - Interview du public en direct de l&#039;USI 2010'
+title: Les Cast Codeurs Podcast - Episode 25 - Interview du public en direct de l'USI 2010
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 25
