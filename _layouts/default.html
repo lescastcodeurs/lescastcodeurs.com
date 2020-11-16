@@ -1,19 +1,18 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "fr" }}">
+---
+layout: base
+---
+<div class="container pt-4">
+  <div class="row">
+    <div class="col-md-9">
+      <main class="page-content flex-fill" aria-label="Content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+      </main>
+    </div>
 
-  {%- include head.html -%}
-
-  <body>
-
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include footer.html -%}
-
-  </body>
-</html>
+    <div class="col-md-3">
+      {%- include sidebar.html -%}
+    </div>
+  </div>
+</div>

@@ -1,12 +1,19 @@
 <head>
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   {%- seo -%}
 
+  {%- for css in site.dependencies.css -%}
+  <link rel="stylesheet" href="{{ css.href }}" integrity="{{ css.integrity }}" crossorigin="anonymous">
+  {%- endfor -%}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
   {%- feed_meta -%}
+
+  {%- for script in site.dependencies.scripts -%}
+  <script src="{{ script.src }}" integrity="{{ script.integrity }}" crossorigin="anonymous"></script>
+  {%- endfor -%}
+
   {%- include google-analytics.html -%}
 </head>

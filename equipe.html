@@ -5,33 +5,27 @@ layout: page
 
 <div class="team">
   {% for member in site.team %}
-  <div class="team-member">
-    <div class="team-member-header">
-      <h2>{{ member.name }}</h2>
-
-      <div class="team-member-links">
+  <div class="card border-0 border-bottom">
+    <div class="card-body ml-0 pl-0 mr-0 pr-0">
+      <div class="card-title">
+        <h2 class="d-inline mb-0">{{ member.name }}</h2>
+        <span class="team-member-links align-super">
         {% if member.website %}
-        <a href="{{ member.website }}">
-          <img src="{% link /images/services/web_32.png %}" alt="site"/>
-          Site
-        </a>
+        <a href="{{ member.website }}"><img src="{% link /images/services/web_32.png %}" alt="site"/> Site</a>
         {% endif %}
-
         {% if member.blog %}
-        <img src="{% link /images/services/rss_32.png %}" alt="blog"/>
-        <a href="{{ member.blog }}">Blog</a>
+        <a href="{{ member.blog }}"><img src="{% link /images/services/rss_32.png %}" alt="blog"/> Blog</a>
         {% endif %}
-
         {% if member.twitter %}
-        <img src="{% link /images/services/twitter_32.png %}" alt="twitter"/>
-        <a href="http://twitter.com/{{ member.twitter }}">Twitter</a>
+        <a href="http://twitter.com/{{ member.twitter }}"><img src="{% link /images/services/twitter_32.png %}" alt="twitter"/> Twitter</a>
         {% endif %}
+        </span>
       </div>
-    </div>
 
-    <div class="team-member-description">
-      <img class="team-member-photo" src="https://www.gravatar.com/avatar/{{ member.gravatar_hash }}?s=150" alt="photo"/>
-      {{ member.content | markdownify }}
+      <p class="card-text">
+        <img class="float-left mt-2 mr-2" src="https://www.gravatar.com/avatar/{{ member.gravatar_hash }}?s=150" alt="{{ member.name }}"/>
+        {{ member.content | markdownify }}
+      </p>
     </div>
   </div>
   {% endfor %}

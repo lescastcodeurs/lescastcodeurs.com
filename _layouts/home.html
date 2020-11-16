@@ -1,0 +1,44 @@
+---
+layout: base
+---
+<div class="home">
+  {{ content }}
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-9">
+        <main class="page-content" aria-label="Content">
+          <div class="post-list">
+            {%- for post in paginator.posts -%}
+            <div class="card post-list-item border-0">
+              <div class="card-body ml-0 pl-0 mr-0 pr-0">
+                <h2 class="card-title">
+                  <a class="post-link" href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                  </a>
+                </h2>
+                <span class="card-subtitle mb-2 text-muted">Posté le {{ post.date | date: site.date_format }}</span>
+
+                <p class="card-text">{{ post.content }}</p>
+
+                <div class="disqus-short">
+                  <a href="{{ post.url | absolute_url }}#disqus_thread">Commentaires</a>
+                </div>
+              </div>
+            </div>
+            <hr>
+            {%- endfor -%}
+          </div>
+
+          {%- include pagination.html -%}
+        </main>
+      </div>
+
+      <div class="col-md-3">
+        {%- include sidebar.html -%}
+      </div>
+    </div>
+  </div>
+</div>
+
+{%- include disqus_comments_count_script.html -%}

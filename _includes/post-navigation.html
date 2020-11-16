@@ -1,0 +1,13 @@
+<ul class="nav post-nav">
+  <li class="nav-item rounded-lg mr-auto">
+    {% if page.previous.url %}
+    <a href="{{ page.previous.url }}" class="btn btn-outline-primary">&laquo; {{ page.previous.title | truncate: 25 }}</a>
+    {% endif %}
+  </li>
+
+  <li class="nav-item rounded-lg">
+    {% if page.next.url %}
+    <a href="{{ page.next.url }}" class="btn btn-outline-primary">{{ page.next.title | truncate: 25 }} &raquo;</a>
+    {% endif %}
+  </li>
+</ul>

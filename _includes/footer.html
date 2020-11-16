@@ -1,38 +1,7 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ '/' | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ 'feed.xml' | relative_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg>
-            <span>Subscribe</span>
-          </a>
-        </p>
-
-        <ul class="contact-list">
-          <li class="p-name">{{ site.author.name | escape }}</li>
-          <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
-
-    <div class="footer-copyright">
-      &copy; 2009-{{ 'now' | date: "%Y" }} Codagora (Emmanuel Bernard)
-      - Tous droits réservés
-      - <a class="page-link" href="{% link legal.md %}">Mentions légales</a>
+<footer id="site-footer">
+  <div class="container">
+    <div class="text-center">
+      &copy; 2009-{{ 'now' | date: "%Y" }} Codagora (Emmanuel Bernard) &ndash; Tous droits réservés &ndash; <a href="{% link legal.md %}">Mentions légales</a>
     </div>
   </div>
 </footer>
