@@ -1,28 +1,26 @@
 <div id="site-sidebar">
-  {%- for card in site.sidebar_cards -%}
+  {% for card in site.sidebar_cards %}
   <div class="card mb-4">
     <div class="card-body">
       <h4 class="card-title h3">{{ card.name }}</h4>
       <ul class="list-group list-group-flush">
-        {%- for link in card.links -%}
-        {% capture url %}
-        {%- if link.url -%}
-        {{ link.url }}
-        {%- elsif link.path -%}
-        {{ link.path | relative_url }}
-        {%- else -%}
-        {% link {{ link.file }} %}
-        {%- endif -%}
-        {% endcapture %}
+        {% for link in card.links %}
         <li class="list-group-item">
-          <a href="{{ url }}">
+          {% if link.url %}
+          <a href="{{ link.url }}">
             <img src="{% link {{ link.image }} %}" style="max-width: 2rem;"/>
             {{ link.name }}
           </a>
+          {%- else -%}
+          <a href="{% link {{ link.file }} %}">
+            <img src="{% link {{ link.image }} %}" style="max-width: 2rem;"/>
+            {{ link.name }}
+          </a>
+          {%- endif -%}
         </li>
-        {%- endfor -%}
+        {% endfor %}
       </ul>
     </div>
   </div>
-  {%- endfor -%}
+  {% endfor %}
 </div>

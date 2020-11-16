@@ -1,6 +1,7 @@
 # Site settings
 title: 'Les Cast Codeurs Podcast'
 url: 'https://lescastcodeurs.com'
+podcast_url: 'https://traffic.libsyn.com/lescastcodeurs'
 author:
   name: 'Les Cast Codeurs'
   email: 'commentaire@lescastcodeurs.com'
@@ -33,7 +34,7 @@ sidebar_cards:
         file: 'episodes.html'
       - name: 'Feed'
         image: '/images/services/rss_32.png'
-        path: 'feed.xml'
+        file: 'feed.atom'
       - name: 'iTunes'
         image: '/images/services/itunes.jpg'
         url: 'https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=312239675'
