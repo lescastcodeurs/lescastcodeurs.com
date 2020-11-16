@@ -2,11 +2,8 @@
 layout: default
 title: Le podcast Java en Français
 ---
-
 <div class="home">
-  {%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <h1 class="page-heading">{{ page.title | escape }}</h1>
 
   <div class="jumbotron">
     <div class="container">
@@ -42,14 +39,13 @@ title: Le podcast Java en Français
   {%- endif -%}
 
   <ul class="post-list">
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {%- for post in paginator.posts -%}
     <li class="post-list-item">
       <h2>
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
         </a>
-        <span class="post-meta">Posté le {{ post.date | date: date_format }}</span>
+        <span class="post-meta">Posté le {{ post.date | date: site.date_format }}</span>
       </h2>
 
       {{ post.content }}
@@ -70,9 +66,11 @@ title: Le podcast Java en Français
         <div class="pager-edge">•</div>
       </li>
       {%- endif %}
+
       <li>
         <div class="current-page">{{ paginator.page }}</div>
       </li>
+
       {%- if paginator.next_page %}
       <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
       {%- else %}
