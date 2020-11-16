@@ -94,6 +94,10 @@ layout: none
         <summary type="html">{{ post.excerpt | strip_html | normalize_whitespace | xml_escape }}</summary>
       {% endif %}
 
+      {% if post.episode and post.mp3_length %}
+        <link rel="enclosure" type="audio/mpeg" title="{{ post_title }}" length="{{ post.mp3_length }}" href="{{ podcast_url }}/LesCastCodeurs-Episode-{{ post.episode }}.mp3" />
+      {% endif %}
+
       {% assign post_image = post.image.path | default: post.image %}
       {% if post_image %}
         {% unless post_image contains "://" %}
