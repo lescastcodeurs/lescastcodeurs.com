@@ -14,16 +14,10 @@
           </a>
         </p>
 
-        {%- if site.author %}
         <ul class="contact-list">
-          {% if site.author.name -%}
           <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
           <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
         </ul>
-        {%- endif %}
       </div>
 
       <div class="footer-col">
@@ -36,10 +30,9 @@
     </div>
 
     <div class="footer-copyright">
-      {%- assign legal_page = site.pages | where: "path", 'legal.md' | first -%}
       &copy; 2009-{{ 'now' | date: "%Y" }} Codagora (Emmanuel Bernard)
       - Tous droits réservés
-      - <a class="page-link" href="{{ legal_page.url | relative_url }}">{{ legal_page.title | escape }}</a>
+      - <a class="page-link" href="{% link legal.md %}">Mentions légales</a>
     </div>
   </div>
 </footer>

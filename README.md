@@ -21,7 +21,7 @@ Ce site est construit avec :
 Le logo a été crée par [Nicolas Martignole][touilleur]. 
 Le thème musical du podcast est le thème numéro 3 offert par <http://podcastthemes.com>.
 
-## Comment construire le site
+## Comment construire le site ?
 
 ### Pré-requis
 
@@ -64,6 +64,14 @@ Les intégrations Google Analytics et Disqus ne sont pas actives en mode `develo
 `production` à l'aide de la variable [`JEKYLL_ENV`](https://jekyllrb.com/docs/configuration/environments/) :
 
     JEKYLL_ENV=production bundle exec jekyll serve --livereload
+
+### Recommandations
+
+Pour créer des liens vers des pages, posts, images ou tout autre fichier présent dans ce dépôt de code préférez l'utilisation de tags
+[`link`](https://jekyllrb.com/docs/liquid/tags/#link) ou [`post_url`](https://jekyllrb.com/docs/liquid/tags/#linking-to-posts) à celle des filtres
+[`relative_url`](https://jekyllrb.com/docs/liquid/filters/) ou [`absolute_url`](https://jekyllrb.com/docs/liquid/filters/). L'utilisation de ces tags est plus
+concise que celle des filtres, et surtout quand on utilise les tags les liens sont validés et Jekyll ne build pas si la ressource n'est pas trouvée. Cette
+recommandation ne s'applique pas aux liens externes ou au contenu généré (flux RSS, feuille de style...).
 
 ## Procédures
 
