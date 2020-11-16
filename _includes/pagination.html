@@ -1,0 +1,48 @@
+<nav aria-label="Pagination">
+  <ul class="pagination justify-content-center">
+    {%- if paginator.previous_page -%}
+    <li class="page-item">
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="page-link">&laquo; Précédent</a>
+    </li>
+    {%- else -%}
+    <li class="page-item disabled">
+      <span class="page-link">&laquo; Précédent</span>
+    </li>
+    {%- endif -%}
+
+    {%- assign penultimate_page_number = paginator.total_pages | minus: 1 -%}
+    {%- for page in (1..paginator.total_pages) -%}
+    {%- if page == paginator.page -%}
+    <li class="page-item active">
+      <span class="page-link">
+        {{ paginator.page }}
+        <span class="sr-only">(page courante)</span>
+      </span>
+    </li>
+    {%- elsif page == 1 -%}
+    <li class="page-item">
+      <a href="{{ '/' | relative_url }}" class="page-link">{{ page }}</a>
+    </li>
+    {%- elsif page == paginator.total_pages or page == paginator.previous_page or page == paginator.next_page -%}
+    <li class="page-item">
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="page-link">
+        {{ page }}
+      </a>
+    </li>
+    {%- elsif page == 2 or page == penultimate_page_number -%}
+    <li class="page-item disabled">
+      <span class="page-link">...</span>
+    </li>
+    {%- endif -%}
+    {%- endfor -%}
+    {%- if paginator.next_page -%}
+    <li class="page-item">
+      <a href="{{ paginator.next_page_path | relative_url }}" class="page-link">Suivant &raquo;</a>
+    </li>
+    {%- else -%}
+    <li class="page-item disabled">
+      <span class="page-link">Suivant &raquo;</span>
+    </li>
+    {%- endif -%}
+  </ul>
+</nav>

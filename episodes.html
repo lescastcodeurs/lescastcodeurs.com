@@ -3,17 +3,23 @@ title: Liste des épisodes
 layout: page
 ---
 
-<ul class="post-list">
+<div class="post-list">
   {%- for post in site.posts -%}
-  <li class="post-list-item">
-    <h2>
-      <a class="post-link" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-      <span class="post-meta">Posté le {{ post.date | date: site.date_format }}</span>
-    </h2>
+  <div class="card post-list-item border-0">
+    <div class="card-body ml-0 pl-0 mr-0 pr-0">
+      <h2 class="card-title">
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h2>
+      <span class="card-subtitle mb-2 text-muted">Posté le {{ post.date | date: site.date_format }}</span>
 
-    {{ post.excerpt }}
-  </li>
+      <p class="card-text">{{ post.excerpt }}</p>
+
+      <div class="disqus-short">
+        <a href="{{ post.url | absolute_url }}#disqus_thread">Commentaires</a>
+      </div>
+    </div>
+  </div>
   {%- endfor -%}
-</ul>
+</div>
