@@ -6,20 +6,16 @@ layout: page
 <div class="post-list">
   {%- for post in site.posts -%}
   <div class="card post-list-item border-0">
-    <div class="card-body ml-0 pl-0 mr-0 pr-0">
-      <h2 class="card-title">
+    <div class="card-body m-0 p-0">
+      <h2 class="card-title h4">
         <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
+          {{ post.title | escape }} ({{ post.date | date: site.date_format }})
         </a>
       </h2>
-      <span class="card-subtitle mb-2 text-muted">Posté le {{ post.date | date: site.date_format }}</span>
 
-      <p class="card-text">{{ post.excerpt }}</p>
-
-      <div class="disqus-short">
-        <a href="{{ post.url | absolute_url }}#disqus_thread">Commentaires</a>
-      </div>
+      {{ post.excerpt }}
     </div>
   </div>
+  <hr>
   {%- endfor -%}
 </div>

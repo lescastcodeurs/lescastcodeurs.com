@@ -4,6 +4,7 @@
 
 - install site build script on server + github push notif (cgi)
 - keep video directory
+- trouver un moyen de traduire les titres des pages "paginées" (pas faisable avec jekyll-paginate ?)
 - remove todo :)
 
 ## Remerciements
