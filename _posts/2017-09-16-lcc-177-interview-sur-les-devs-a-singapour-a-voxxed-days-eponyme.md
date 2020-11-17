@@ -3,7 +3,7 @@ title: LCC 177 - Interview sur les devs à Singapour à Voxxed Days Eponyme
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 177
-mgp3_length: 85017000
+mp3_length: 85017000
 tweet: Interview devs à Singapour @voxxedsingapore @AlanMenant @gpotet @matieuxx et Nida
 # 92
 ---

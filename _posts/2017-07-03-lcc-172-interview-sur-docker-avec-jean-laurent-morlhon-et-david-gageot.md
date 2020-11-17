@@ -3,7 +3,7 @@ title: LCC 172 - Interview sur Docker avec Jean-Laurent Morlhon et David Gageot
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 172
-mgp3_length: 85017000
+mp3_length: 85017000
 tweet: Interview sur l'écosystème Docker et l'aventure Docker France avec @dgageot et @morlhon
 ---
 Antonio, Vincent et Guillaume sont allé dans les bureaux de Docker France pour interviewer Jean-Laurent et David sur l'univers Docker et leur aventure Docker France.

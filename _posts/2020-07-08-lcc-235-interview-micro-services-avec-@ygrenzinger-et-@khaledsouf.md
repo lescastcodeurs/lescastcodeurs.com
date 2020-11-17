@@ -3,7 +3,7 @@ title: LCC 235 - Interview Micro Services avec @ygrenzinger et @khaledsouf
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 235
-mgp3_length: 85017000
+mp3_length: 85017000
 tweet: Interview Micro Services avec @ygrenzinger et @khaledsouf
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---

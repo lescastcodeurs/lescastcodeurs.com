@@ -3,7 +3,7 @@ title: LCC 176 - Le paradoxe de la fondation
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 176
-mgp3_length: 85017000
+mp3_length: 85017000
 tweet: Le paradoxe de la fondation #diversité #container #javaee #licence
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---

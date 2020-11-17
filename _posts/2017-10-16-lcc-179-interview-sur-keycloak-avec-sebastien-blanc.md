@@ -3,7 +3,7 @@ title: LCC 179 - Interview sur Keycloak avec Sébastien Blanc
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 179
-mgp3_length: 85017000
+mp3_length: 85017000
 tweet: Interview sur Keycloak avec @sebi2706
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
