@@ -37,7 +37,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-242.mp3](https://traffic.
 ### Infrastructure
 
 [Les bonnes pratiques de sécurité pour ses Dockerfiles](https://cloudberry.engineering/article/dockerfile-security-best-practices/)  
-[Docker mets en pause l'application de sa nouvelle police de gestion des images](https://www.docker.com/blog/docker-hub-image-retention-policy-delayed-and-subscription-updates/)  
+[Docker met en pause l'application de sa nouvelle police de gestion des images](https://www.docker.com/blog/docker-hub-image-retention-policy-delayed-and-subscription-updates/)  
 
 ### Cloud
 

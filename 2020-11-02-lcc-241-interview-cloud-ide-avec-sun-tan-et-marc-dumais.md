@@ -38,7 +38,7 @@ Beaucoup de rachats d’IDEs dans le cloud :
 - [GitHub Codespaces](https://github.com/features/codespaces)  
 - [Cloud9](https://aws.amazon.com/cloud9/)
 
-[Boradwayd](https://developer.gnome.org/gtk3/stable/broadwayd.html)  
+[Broadwayd](https://developer.gnome.org/gtk3/stable/broadwayd.html)  
 
 
 ### Le cloud IDE au quotidien
