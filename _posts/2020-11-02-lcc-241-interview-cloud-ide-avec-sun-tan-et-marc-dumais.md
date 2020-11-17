@@ -3,7 +3,7 @@ title: LCC 241 - Interview Cloud IDE avec Sun Tan et Marc Dumais
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 241
-mgp3_length: 85017000
+mp3_length: 85017000
 tweet: Interview Cloud IDE avec Sun Tan et Marc Dumais
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---

@@ -3,7 +3,7 @@ title: LCC 239 - Interview Rust avec François Teychene, Sylvain Wallez et Geoff
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 239
-mgp3_length: 85017000
+mp3_length: 85017000
 tweet: Interview Rust avec @fteychene @bluxte et @gcouprie
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---

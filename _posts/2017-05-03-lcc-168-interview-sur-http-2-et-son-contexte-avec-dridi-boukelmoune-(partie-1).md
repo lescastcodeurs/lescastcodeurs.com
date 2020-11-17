@@ -3,7 +3,7 @@ title: LCC 168 - Interview sur HTTP 2 et son contexte avec Dridi Boukelmoune (pa
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 168
-mgp3_length: 85017000
+mp3_length: 85017000
 tweet: "Interview sur HTTP 2, l'histoire d'HTTP et les couches sous HTTP avec @dboukelmoune (partie 1)"
 ---
 Dans cette épisode on discute d'HTTP/2 avec Dridi Boukelmoune.

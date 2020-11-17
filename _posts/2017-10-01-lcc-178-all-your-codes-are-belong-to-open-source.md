@@ -3,7 +3,7 @@ title: LCC 178 - All YOUR CODES ARE BELONG TO OPEN SOURCE
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 178
-mgp3_length: 85017000
+mp3_length: 85017000
 tweet: ALL YOUR CODES ARE BELONG TO OPEN SOURCE
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---

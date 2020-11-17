@@ -3,7 +3,7 @@ title: LCC 174 - Interview sur la build avec Cédric Champeau et Arnaud Héritie
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 174
-mgp3_length: 85017000
+mp3_length: 85017000
 tweet: Build, Maven et Gradle - @cedricchampeau et @aheritier sur le ring
 ---
 Guillaume, Cédric et Arnaud se retrouvent autour du micro pour parler pendant une session marathon de 3h30 du build, de Maven et de Gradle.
