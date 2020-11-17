@@ -11,7 +11,7 @@ layout: base
           <div class="post-list">
             {%- for post in paginator.posts -%}
             <div class="card post-list-item border-0">
-              <div class="card-body ml-0 pl-0 mr-0 pr-0">
+              <div class="card-body m-0 p-0">
                 <h2 class="card-title">
                   <a class="post-link" href="{{ post.url | relative_url }}">
                     {{ post.title | escape }}
@@ -20,10 +20,6 @@ layout: base
                 <span class="card-subtitle mb-2 text-muted">Posté le {{ post.date | date: site.date_format }}</span>
 
                 <p class="card-text">{{ post.content }}</p>
-
-                <div class="disqus-short">
-                  <a href="{{ post.url | absolute_url }}#disqus_thread">Commentaires</a>
-                </div>
               </div>
             </div>
             <hr>
@@ -40,5 +36,3 @@ layout: base
     </div>
   </div>
 </div>
-
-{%- include disqus_comments_count_script.html -%}
