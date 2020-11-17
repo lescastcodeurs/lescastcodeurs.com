@@ -1,7 +1,3 @@
----
-layout: default
-title: Read me
----
 # Read me
 
 ## Todo

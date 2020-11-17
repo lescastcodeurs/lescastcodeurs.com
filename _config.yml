@@ -99,6 +99,7 @@ exclude:
   - 'Gemfile.lock'
   - 'node_modules/'
   - 'LICENSE'
+  - 'README.md'
   - 'vendor/bundle/'
   - 'vendor/cache/'
   - 'vendor/gems/'
