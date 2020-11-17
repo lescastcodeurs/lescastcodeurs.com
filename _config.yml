@@ -94,6 +94,7 @@ exclude:
   - '.idea'
   - '.jekyll-cache/'
   - '.sass-cache/'
+  - 'CONTRIBUTING.md'
   - 'gemfiles/'
   - 'Gemfile'
   - 'Gemfile.lock'
