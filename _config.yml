@@ -5,10 +5,12 @@ podcast_url: 'https://traffic.libsyn.com/lescastcodeurs'
 author:
   name: 'Les Cast Codeurs'
   email: 'commentaire@lescastcodeurs.com'
+  twitter: 'lescastcodeurs'
 description: >-
   Les Cast Codeurs est un podcast en français de, par et pour les développeurs. Prenez connaissance des dernières nouvelles de la sphère Java et du
   développement en général. Plongez sur un sujet précis avec les épisodes interview.
 lang: 'fr'
+locale: 'fr_FR' # jekyll-seo-tag
 date_format: '%d/%m/%Y'
 
 collections:
@@ -63,6 +65,7 @@ disqus:
   shortname: 'lescastcodeurs'
 
 defaults:
+  # jekyll-sitemap - excludes
   - scope:
       path: "presentations/"
     values:
