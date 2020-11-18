@@ -50,7 +50,7 @@ Acteurs par Alex Miller [http://tech.puredanger.com/presentations/actor-concurre
 Xmind [http://www.xmind.net/](http://www.xmind.net/)  
 Freemind [http://freemind.sourceforge.net/](http://freemind.sourceforge.net/)
 
-## Vos retours</h2>
+## Vos retours
 Valtech Days [http://www.valtech.fr/fr/index/valtech_days.html/](http://www.valtech.fr/fr/index/valtech_days.html/)  
 Nicolas Martignole, notre créateur de logo [http://www.touilleur-express.fr/](http://www.touilleur-express.fr/)
 
