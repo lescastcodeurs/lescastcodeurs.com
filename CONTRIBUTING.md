@@ -37,8 +37,7 @@ récupérez les sources de lescastcodeurs.com et créez une nouvelle branche :
 
 Quand vous aurez récupéré les sources et créé votre branche de développement, lancez les commandes suivantes à partir de la racine du dépôt :
 
-    bundle install # seulement nécessaire après le clonage du dépôt ou quand il y a eu une mise à jour des dépendances
-    bundle exec jekyll serve --livereload
+    ./bin/serve
 
 Apportez ensuite vos modifications et pré-visualisez les au fur et à mesure [dans votre navigateur](http://localhost:4000/).
 
@@ -49,10 +48,7 @@ fonctionne pas si vous êtes sur une page 404.
 Les modifications de layout nécessitent un rechargement manuel de la page. Et les modifications de configuration (i.e. du fichier `_config.yml`) nécessitent un
 redémarrage du site.
 
-Si pour une raison quelconque vos changements ne sont pas visibles, vous pouvez régénérer complètement lescastcodeurs.com :
-
-    bundle exec jekyll clean
-    bundle exec jekyll serve --livereload
+Si pour une raison quelconque vos changements ne sont pas visibles, redémarrez à l'aide de `./bin/serve`.
 
 ### Proposer une pull-request au mainteneur du dépôt
 
@@ -62,18 +58,26 @@ sur le sujet.
 
 ## Procédures
 
+### Construire le site
+
+Pour construire le site exécuter :
+
+    ./bin/build
+
+Le site est alors disponible dans le répertoire `_site`.
+
 ### Mise à jour de Jekyll et de ses dépendances
 
 Pour la mise à jour de Jekyll et de ses dépendances, exécuter tout d'abord :
 
-    bundle outdated
+    ./bin/update-dependencies
 
-Si une mise à jour est disponible et que c'est une mise à jour mineure ou majeure, modifier le [Gemfile](/Gemfile) (les mises à jour correctives sont
-automatiquement appliquées). Exécuter ensuite :
+Cette commande applique les mises à jour corrective et liste les dépendances directes pour lesquelles une nouvelle version mineure ou majeure est disponible.
 
-    bundle update
+Les mises à jour mineures ou majeures doivent être réalisée à la main en modifiant le [Gemfile](/Gemfile). Une fois ces mises à jour terminées pensez à relancer
+`./update-dependencies` pour mettre à jour le [Gemfile.lock](/Gemfile.lock).
 
-Le fichier [Gemfile.lock](/Gemfile.lock) est alors mis à jour, il ne reste plus qu'à tester que tout fonctionne puis commiter le tout.
+Il ne reste plus qu'à tester que le site fonctionne bien puis commiter le tout.
 
 ### Mise à jour de Bootstrap
 
@@ -101,7 +105,7 @@ Les propriétés du fichier sont les suivantes :
 Les intégrations Google Analytics et Disqus ne sont pas actives en mode `development`. Si vous souhaitez les activer il vous faudra lancer le site en mode
 `production` à l'aide de la variable [`JEKYLL_ENV`](https://jekyllrb.com/docs/configuration/environments/) :
 
-    JEKYLL_ENV=production bundle exec jekyll serve --livereload
+    ./bin/serve --prod
 
 
 ## Notes et recommandations

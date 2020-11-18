@@ -98,6 +98,7 @@ exclude:
   - '.jekyll-cache/'
   - '.sass-cache/'
   - 'CONTRIBUTING.md'
+  - 'bin'
   - 'gemfiles/'
   - 'Gemfile'
   - 'Gemfile.lock'
