@@ -1,8 +1,8 @@
 ---
 name: Antonio Goncalves
 gravatar_hash: 1fc6aa04011b2f0f9721df913b0fd415
-blog: http://agoncal.wordpress.com/
-website: http://www.antoniogoncalves.org/
+blog: https://agoncal.wordpress.com/
+website: https://www.antoniogoncalves.org/
 twitter: agoncal
 ---
 Ingénieur du Cnam, Antonio a découvert Java en 1998 avant de rentrer chez BEA Systems. Là il se spécialise sur la 
