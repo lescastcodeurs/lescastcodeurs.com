@@ -1,0 +1,9 @@
+#!/bin/sh
+
+if [ ! -z "$1" -a "$1" = '--prod' ]; then
+  export JEKYLL_ENV="production"
+fi
+
+bundle install
+bundle exec jekyll clean
+bundle exec jekyll serve --livereload --trace
