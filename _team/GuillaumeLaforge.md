@@ -1,7 +1,7 @@
 ---
 name: Guillaume Laforge
 gravatar_hash: 137d3908243acfc30e126615d59d4e6d
-blog: http://glaforge.appspot.com/
+blog: https://glaforge.appspot.com/
 twitter: glaforge
 ---
 De jour, Guillaume Laforge est Developer Advocate chez Google, sur les produits et services de Google Cloud Platform. De nuit, il est vice-président du Project Management Committee du langage de programmation Apache Groovy, au sein de la fondation Apache.
