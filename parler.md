@@ -26,10 +26,3 @@ Vous pouvez aussi mettre cette balise sur votre site
 pour ajouter le bouton
 
 <a href="https://lescastcodeurs.com"><img border="0" alt="J'ecoute les Cast Codeurs" src="https://lescastcodeurs.com/images/promo/jecoute_les_castcodeurs_200px.png" /></a>
-
-## Non mais sérieusement, on vous adore
-
-Vous pouvez nous _flattrez_ en cliquant sur le bouton flattr à droite. Vous pouvez aussi nous envoyer :
-
-- les derniers gadgets électroniques, spécialement d'Apple
-- des bonnes bouteilles de vin et de whisky
