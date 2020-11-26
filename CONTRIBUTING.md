@@ -129,7 +129,7 @@ Si un jour l'hébergement sur GitHub Page est souhaité il faudra bien faire att
 
 [jekyll-feed](https://github.com/jekyll/jekyll-feed) n'est pas utilisé car l'ajout d'[enclosure](https://bjohas.de/wiki/Enclosures_in_yahoo_media,_rss,_and_atom#Atom),
 nécessaire pour les posts relatifs aux épisodes, n'est pas supporté. Le [template utilisé dans le plugin](https://github.com/jekyll/jekyll-feed/blob/702dd896f1351f84c7d284b7867096ee3a275241/lib/jekyll-feed/feed.xml)
-a néanmoins servi de base pour [celui du site](/feed.atom).
+a néanmoins servi de base pour [celui du site](/feed-intern.atom).
 
 ### De la bonne utilisation des plugins Jekyll
 
