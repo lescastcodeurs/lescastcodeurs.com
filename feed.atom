@@ -10,7 +10,7 @@ layout: none
   <link href="{{ page.url | absolute_url }}" rel="self" type="application/atom+xml" />
   <link href="{{ '/' | absolute_url }}" rel="alternate" type="text/html" {% if site.lang %}hreflang="{{ site.lang }}" {% endif %}/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>{{ page.url | absolute_url | xml_escape }}</id>
+  <id>{{ site.url | absolute_url | xml_escape }}</id>
 
   {% assign title = site.title | default: site.name %}
   {% if page.collection != "posts" %}
@@ -23,7 +23,7 @@ layout: none
   {% endif %}
 
   {% if title %}
-    <title type="html">{{ title | smartify | xml_escape }}</title>
+    <title type="html">{{ site.title | smartify | xml_escape }}</title>
   {% endif %}
 
   {% if site.description %}
@@ -95,7 +95,7 @@ layout: none
       {% endif %}
 
       {% if post.episode and post.mp3_length %}
-        <link rel="enclosure" type="audio/mpeg" title="{{ post_title }}" length="{{ post.mp3_length }}" href="{{ podcast_url }}/LesCastCodeurs-Episode-{{ post.episode }}.mp3" />
+        <link rel="enclosure" type="audio/mpeg" title="{{ post_title }}" length="{{ post.mp3_length }}" href="{{ site.podcast_url }}/LesCastCodeurs-Episode-{{ post.episode }}.mp3" />
       {% endif %}
 
       {% assign post_image = post.image.path | default: post.image %}
