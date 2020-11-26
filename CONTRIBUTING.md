@@ -9,7 +9,7 @@ et suivez la procédure en fonction de votre système d'exploitation.
 Pour les habitués la procédure est la suivante une fois [Ruby 2.5+](https://www.ruby-lang.org/en/downloads/), [RubyGems](https://rubygems.org/pages/download),
 et GCC / Make (pour les gems natives) installés :
 
-    gem install jekyll bundler
+    gem install bundler
 
 
 ## Mettre à jour lescastcodeurs.com
