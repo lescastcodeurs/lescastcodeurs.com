@@ -13,6 +13,9 @@ lang: 'fr'
 locale: 'fr_FR' # jekyll-seo-tag
 date_format: '%d/%m/%Y'
 
+feed:
+  posts_limit: 10
+
 collections:
   - 'team'
 
