@@ -9,7 +9,7 @@
   {% endfor %}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-  <link type="application/atom+xml" rel="alternate" href="{{ '/feed.xml' | relative_url }}" title="{{ site.title | escape }}" />
+  <link type="application/atom+xml" rel="alternate" href="{{ '/feed.atom' | relative_url }}" title="{{ site.title | escape }}" />
 
   {% for script in site.dependencies.scripts %}
   <script src="{{ script.src }}" integrity="{{ script.integrity }}" crossorigin="anonymous"></script>
