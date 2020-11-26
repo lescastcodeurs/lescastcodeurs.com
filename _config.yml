@@ -14,7 +14,7 @@ locale: 'fr_FR' # jekyll-seo-tag
 date_format: '%d/%m/%Y'
 
 feed:
-  posts_limit: 10
+  posts_limit: 10000
 
 collections:
   - 'team'
@@ -39,7 +39,7 @@ sidebar_cards:
         file: 'episodes.html'
       - name: 'Feed'
         image: '/images/services/rss_32.png'
-        file: 'feed.atom'
+        url: 'https://lescastcodeurs.com/podcast-rss'
       - name: 'iTunes'
         image: '/images/services/itunes.jpg'
         url: 'https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=312239675'
