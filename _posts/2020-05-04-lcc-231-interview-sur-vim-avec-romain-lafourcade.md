@@ -7,7 +7,7 @@ mp3_length: 76420215
 tweet: Interview sur la sobriété numérique avec Richard Hanna, contributeur @theShiftPR0JECT
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Romain Lafourcade échange avec Guillaume et Emmanuel sur Vim: comment il y est venu, ce qu'il a d'unique, comment l'appréhender, et bien d'autres choses encore.
+Romain Lafourcade échange avec Guillaume et Emmanuel sur Vim : comment il y est venu, ce qu'il a d'unique, comment l'appréhender, et bien d'autres choses encore.
 
 Enregistré le 16 avril 2020
 
@@ -35,7 +35,7 @@ Et Vim, bien sûr.
 
 Vim est un éditeur de texte orienté programmation, puissant et non-conformiste.
 
-#### Que peut on dire de la différence entre un IDE et un éditeur ?
+#### Que peut-on dire de la différence entre un IDE et un éditeur ?
 
 Dans son expression la plus simple, un éditeur de texte est un outil permettant l’édition de fichiers de texte brut. Certains sont "standalone", comme Vim, Nano ou Gedit, se concentrant pour la majeure partie sur des questions liées à l’édition de texte et déléguant les autres tâches liée au développement logiciel à d’autres outils "standalone". C’est la vision UNIX traditionnelle :
 
@@ -68,13 +68,13 @@ Neovim est un fork récent promettant une modernisation des processus de dévelo
 
 ### Vim au quotidien
 
-#### Pas de curseur?????
+#### Pas de curseur ?????
 
 On a bien un curseur, mais les dispositifs de pointage sont rarement activés par défaut. Même si c’est tout à fait possible d’utiliser la souris ou le trackpad (`:help 'mouse'`), on est clairement dans un monde centré autour du clavier.
 
 #### Les modes (normal, insert, visual, etc.)
 
-L’édition modale, un concept initié par vi, ne fait pas l’unanimité. L’idée, c’est qu’on est toujours dans un mode réservé à une certaine catégorie d’activités. Un des effets positifs, et aussi un des repoussoirs de ce mécanisme est que ça permet d’avoir un vocabulaire plus varié et expressif que dans un éditeur classique. Le déplacement du curseur, par exemple, se fait traditionnellement avec une combinaison de 4 touches de directions et 1 modificateurs, donc 8 déplacements possibles : 1 caractère vers la droite ou la gauche, 1 mot vers la droite ou la gauche, 1 ligne vers le haut ou le bas, 1 paragraphe vers le haut ou le bas. C’est très pauvre, même en ajoutant Home, End, Page Up et Page Down. Dans vim, on a tout ça, bien sûr, plus "début du mot", "fin du mot", "prochaine/précédente occurrence de <caractère imprimable>", "prochaine/précédente occurrence de <pattern>", "ligne numéro X", "n lignes vers le haut ou le bas", "haut/bas/milieu de la fenêtre", "marqueur X", etc. Rien jjque ça c’est dingue. Et comme on est dans un éditeur modal, tous ces mouvement peuvent être utilisés avec des opérateurs et là c’est la folie.
+L’édition modale, un concept initié par vi, ne fait pas l’unanimité. L’idée, c’est qu’on est toujours dans un mode réservé à une certaine catégorie d’activités. Un des effets positifs, et aussi un des repoussoirs de ce mécanisme est que ça permet d’avoir un vocabulaire plus varié et expressif que dans un éditeur classique. Le déplacement du curseur, par exemple, se fait traditionnellement avec une combinaison de 4 touches de directions et 1 modificateurs, donc 8 déplacements possibles : 1 caractère vers la droite ou la gauche, 1 mot vers la droite ou la gauche, 1 ligne vers le haut ou le bas, 1 paragraphe vers le haut ou le bas. C’est très pauvre, même en ajoutant Home, End, Page Up et Page Down. Dans vim, on a tout ça, bien sûr, plus "début du mot", "fin du mot", "prochaine/précédente occurrence de <caractère imprimable>", "prochaine/précédente occurrence de <pattern>", "ligne numéro X", "n lignes vers le haut ou le bas", "haut/bas/milieu de la fenêtre", "marqueur X", etc. Rien que ça c’est dingue. Et comme on est dans un éditeur modal, tous ces mouvements peuvent être utilisés avec des opérateurs et là c’est la folie.
 
 Les modes les plus couramment utilisés sont :
 
@@ -92,7 +92,7 @@ C’est pour moi LA killer feature de Vim, surtout visible dans les modes normal
 * des compléments d’objet indirects comme "en dessous de la ligne 27" ou "au début du buffer",
 * et des compléments circonstanciels comme "10 fois".
 
-Avec tout ça, on donne des commandes à la machine selon une syntaxe proche de celle d’un langage parlé et elle obéit : "colle le texte contenu dans le presse papier 50 fois", "copie (d’ici) jusqu’à la prochaine parenthèse ouvrante", etc. Dans un éditeur de texte classique, la première se dit "ctrl+v ctrl+v ... ctrl+v", ce qui n’a presque rien à voir avec la tâche telle qu’imaginée : "colle truc 50 fois" est devenu "colle colle ... colle", ce qui est très peu expressif. Notre pensée abstraite de haut niveau doit être transformée en une série d’action concrètes de bas niveau qui n’ont que très peu de sens et souvent rien à voir avec la pensée haut niveau. Dans Vim, la première commande se dit "50p", ce qui est très proche de la tâche telle qu’imaginée.
+Avec tout ça, on donne des commandes à la machine selon une syntaxe proche de celle d’un langage parlé et elle obéit : "colle le texte contenu dans le presse-papier 50 fois", "copie (d’ici) jusqu’à la prochaine parenthèse ouvrante", etc. Dans un éditeur de texte classique, la première se dit "ctrl+v ctrl+v ... ctrl+v", ce qui n’a presque rien à voir avec la tâche telle qu’imaginée : "colle truc 50 fois" est devenu "colle colle ... colle", ce qui est très peu expressif. Notre pensée abstraite de haut niveau doit être transformée en une série d’actions concrètes de bas niveau qui n’ont que très peu de sens et souvent rien à voir avec la pensée haut niveau. Dans Vim, la première commande se dit "50p", ce qui est très proche de la tâche telle qu’imaginée.
 
 La syntaxe est peut-être un peu sèche et les éléments sont peut-être ordonnés différemment qu’en français, mais ça reste tout à fait abordable et très proche de ce qu’on a dans la tête. L’étape suivante est exactement la même que lorsqu’on apprend une langue étrangère : penser dans la langue.
 
@@ -116,13 +116,13 @@ C'est d’une élégance insoutenable.
 
 On a toujours au moins un "buffer", une "fenêtre" et une "tab page". Un buffer peut être affiché dans une ou plusieurs "fenêtres", une "tab page" est un rassemblement de "fenêtres". Contrairement à la plupart des éditeurs de texte il ne peut pas y avoir de relation 1-à-1 entre un buffer et une fenêtre ou entre un buffer et une tab page. C’est un piège dans lequel tous les nouveaux tombent.
 
-#### Tu l’utilises pour quels genre d’édition
+#### Tu l’utilises pour quels genres d’édition
 
 J’utilise Vim de deux façons différentes : de longues sessions de programmation et des éditions rapides (config, git commit, etc.), pratiquement tout le temps dans un terminal.
 
 #### Les colorschemes
 
-La dernière fois que j’ai checké il y en avait littéralement des milliers, du simple qui marche partout, utilisé par quelques barbus ronchons, à l’usine à gaz buggée à mort, utilisée par la dernière génération de boutonneux. J’en ai réalisé quelques uns, même, comme [Apprentice](https://github.com/romainl/Apprentice), ainsi qu’[un modèle simple à utiliser](https://github.com/romainl/vim-rnb). Maintenant qu’on peut utiliser toutes les valeurs hexadécimales, même dans le terminal, c’est la fête.
+La dernière fois que j’ai checké il y en avait littéralement des milliers, du simple qui marche partout, utilisé par quelques barbus ronchons, à l’usine à gaz buggée à mort, utilisée par la dernière génération de boutonneux. J’en ai réalisé quelques-uns, même, comme [Apprentice](https://github.com/romainl/Apprentice), ainsi qu’[un modèle simple à utiliser](https://github.com/romainl/vim-rnb). Maintenant qu’on peut utiliser toutes les valeurs hexadécimales, même dans le terminal, c’est la fête.
 
 Pour trouver des colorschemes, je recommande [VimColors](http://vimcolors.com/).
 
@@ -150,7 +150,7 @@ Les plugins les plus utilisés
 
 Vim et les plugins VSCode (via LSP)
 
-Les spécifications de pas mal de fonctionnalités de Visual Studio Code sont actuellement publiées, ce qui permet à d’autres outils de développement de bénéficier de l’étendue de son ecosystème. Il y a [LSP](https://langserver.org/), par exemple, qui permet d’implémenter des serveurs pour n’importe quel langage et des clients pour n’importe quel éditeur. Les clients à suivre pour Vim son [lsc](https://github.com/natebosch/vim-lsc) et [CoC](https://github.com/neoclide/coc.nvim). Peut-être aurons-nous une intégration native un jour ? Il y a aussi [DAP](https://microsoft.github.io/debug-adapter-protocol/) qui est utilisé par [Vimspector](https://github.com/puremourning/vimspector) pour fournir une interface de débogage avancée.
+Les spécifications de pas mal de fonctionnalités de Visual Studio Code sont actuellement publiées, ce qui permet à d’autres outils de développement de bénéficier de l’étendue de son écosystème. Il y a [LSP](https://langserver.org/), par exemple, qui permet d’implémenter des serveurs pour n’importe quel langage et des clients pour n’importe quel éditeur. Les clients à suivre pour Vim son [lsc](https://github.com/natebosch/vim-lsc) et [CoC](https://github.com/neoclide/coc.nvim). Peut-être aurons-nous une intégration native un jour ? Il y a aussi [DAP](https://microsoft.github.io/debug-adapter-protocol/) qui est utilisé par [Vimspector](https://github.com/puremourning/vimspector) pour fournir une interface de débogage avancée.
 
 #### La navigation entre fichiers
 
@@ -172,7 +172,7 @@ La fonctionnalité est incluse de base. Il faut néanmoins l’activer avec `:he
 
 #### Paramètres custom par fichier via modeline
 
-Voir `:help modeline` pour des exemples. Je ne suis pas hyper fan en général que je trouve ça un peu sale de mélanger data et metada mais ça peut être bien en bas d’un fichier Markdown dont on sait qu’il va être édité dans Vim :
+Voir `:help modeline` pour des exemples. Je ne suis pas hyper fan en général que je trouve ça un peu sale de mélanger data et metadata mais ça peut être bien en bas d’un fichier Markdown dont on sait qu’il va être édité dans Vim :
 
     [//]: # ( Vim: set spell spelllang=en: )
 
@@ -206,7 +206,7 @@ Les macros sont un outil d’automatisation extraordinaire qui épate facilement
 
 Pour ça, l’idéal est d’avoir un Vim compilé avec la fonctionnalité "clipboard". Si c’est pas possible on peut bricoler des trucs avec `xclip`/`pbcopy`/etc. ou utiliser les fonctionnalités de copier/coller du terminal.
 
-Le clipboard système est représenté par le registre `+` dans vim. Donc copier dans le clipboard: `"+y`, et ensuite coller, `"+p`. Note que `"` est la sélection de registre.
+Le clipboard système est représenté par le registre `+` dans vim. Donc copier dans le clipboard : `"+y`, et ensuite coller, `"+p`. Note que `"` est la sélection de registre.
 
 #### Remplacer via des expressions régulières
 

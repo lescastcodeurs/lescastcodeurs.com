@@ -31,10 +31,10 @@ Géraldine Karila
 ### Liens
 
 
-[Test: avez vous des slgnes de burn out](https://controverses.github.io/burn-out/Maslach%20Burnout%20Inventory.pdf)  
+[Test: avez vous des signes de burn out](https://controverses.github.io/burn-out/Maslach%20Burnout%20Inventory.pdf)  
 [Témoignage sur le burn out dans l'IT ops](https://www.usenix.org/conference/lisa14/conference-program/presentation/lehtonen)  
 [Gérer le burn out](https://www.irishlifehealth.ie/blog/manage-workplace-burnout)  
-[Géré son équilibre et sa réslience au travail](https://www.irishlifehealth.ie/blog/resilience-in-the-workplace)  
+[Géré son équilibre et sa résilience au travail](https://www.irishlifehealth.ie/blog/resilience-in-the-workplace)  
 [Le syndrome de l'épuisement au travail (français)](https://travail-emploi.gouv.fr/IMG/pdf/Exe_Burnout_21-05-2015_version_internet.pdf)  
 [Les causes de burn out](https://www.gallup.com/workplace/237059/employee-burnout-part-main-causes.aspx)  
 [La confiance](https://hbr.org/2019/02/the-3-elements-of-trust?referral=03758&cm_vc=rr_item_page.top_right)  

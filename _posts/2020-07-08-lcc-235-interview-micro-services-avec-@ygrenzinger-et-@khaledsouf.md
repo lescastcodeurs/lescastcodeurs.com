@@ -7,7 +7,7 @@ mp3_length: 85017000
 tweet: Interview Micro Services avec @ygrenzinger et @khaledsouf
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Dans cet épisode, Audrey et Antonio ont invité Yannick Grenzinger et Kahled Souf pour parler micro services : pour quelle équipe, quel projet, avec quels outils ... ? Nos invités vous partagent leurs retours d'expérience et leurs conseils.
+Dans cet épisode, Audrey et Antonio ont invité Yannick Grenzinger et Kahled Souf pour parler microservices : pour quelle équipe, quel projet, avec quels outils ... ? Nos invités vous partagent leurs retours d'expérience et leurs conseils.
 
 Enregistré le 3 juillet 2020  
 
@@ -17,11 +17,11 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-235.mp3](http://traffic.l
 
 ### Ta vie, ton oeuvre
 
-[Yannick Grenzinger](https://twitter.com/ygrenzinger): Jardinier logiciel depuis plus de 15 ans. Actuellement coach tech et flow, je suis passionné par l'artisanat logiciel, les langages, l'architecture de systèmes complexes et la livraison de valeur métier en continue. Je suis aussi co-organisateur de la conférence FlowCon et du meetup Paris Continuous Delivery, mais c'est plus dur avec des triplés :D  
+[Yannick Grenzinger](https://twitter.com/ygrenzinger): Jardinier logiciel depuis plus de 15 ans. Actuellement coach tech et flow, je suis passionné par l'artisanat logiciel, les langages, l'architecture de systèmes complexes et la livraison de valeur métier en continu. Je suis aussi co-organisateur de la conférence FlowCon et du meetup Paris Continuous Delivery, mais c'est plus dur avec des triplés :D  
 
 [Khaled Souf](https://twitter.com/khaledsouf) est un Globe-trotter et développeur passionné. Il a vécu à Paris où il a travaillé pour des sociétés de conseil telles que Zenika et Arolla. il a participé à la communauté des software crafters à Paris et en Europe.Il a participe à des événements locaux, tels que les meetups Software Crafters Paris, Craft your skills, Coding Dojo. Il vit actuellement à Montréal au Canada et co-organise le Meetup Software Crafters Montréal et la conférence de SOCRATES Canada. Il aime parler de Domain Driven Design, d’architecture, d’artisanat du code, de Clean Code, des pratiques eXtreme Programming et DevOps. [ksouf.com](https://ksouf.com)  
 
-### Les micro services qu’est ce que c’est ? 
+### Les microservices qu’est-ce que c’est ? 
 
 #### En théorie
 
@@ -29,7 +29,7 @@ Monolithe / Macroservices / Microservices / Fonction ? Microservices vs SOA ?
 
 Microservices, dans quel cas ? Monolithe à découper ou nouvelle app from scratch ? Patterns de migration ?
 
-Comment on découpe ses services ? Est ce qu’il y a des méthodos qui aident ? (nombre de lignes de code, nombre de pizzas par équipe, DDD)
+Comment on découpe ses services ? Est-ce qu’il y a des méthodos qui aident ? (nombre de lignes de code, nombre de pizzas par équipe, DDD)
 
 Une base de données unique pour tous les services ? Une par service ? Consistance des données ? Synchronisation des données entre bases ?
 
@@ -37,15 +37,15 @@ Pour quelles équipes ? (DevOps, DevSecOps ...)
 
 #### En pratique
 
-C’est quoi les reco techniques ? (frameworks Java ou autres, plateformes de déploiement, etc... ) 
+C’est quoi les recos techniques ? (frameworks Java ou autres, plateformes de déploiement, ...) 
 
 Et dans le monde Java ? Qu’en est-il de la suite Netflix OSS (Eureka, Hystrix, Zuul, Ribbon) ? 
 
 Comment on déploie / scale / fait communiquer entre eux (bloquant, non bloquant, HTTP, broker, message) ?
 
-On-premise, Cloud privée/public/hybride ?
+On-premise, Cloud privé/public/hybride ?
 
-Si tu fais pas du k8s tu as loupé ta vie ? Et si tu fais pas du Kafka tu as aussi loupé ta vie ?
+Si tu ne fais pas du k8s tu as loupé ta vie ? Et si tu ne fais pas du Kafka tu as aussi loupé ta vie ?
 
 Comment monitorer ?
 
@@ -55,7 +55,7 @@ Micro frontend : comment et pourquoi ?
 
 #### Le mot de la fin
 
-Phénomène de mode ou les MS sont-ils là pour rester ? Quelles sont les évolution possibles des archi MS (vers les fonctions) ?
+Phénomène de mode ou les MS sont-ils là pour rester ? Quelles sont les évolutions possibles des archis MS (vers les fonctions) ?
 
 #### Les resources utiles
 
@@ -63,7 +63,7 @@ Phénomène de mode ou les MS sont-ils là pour rester ? Quelles sont les évolu
 
 [Le livre Microservices Patterns de Chris Richardson](https://www.manning.com/books/microservices-patterns)  
 
-Pour mieux appréhender la complexité de l’aventure et ses prérequis:
+Pour mieux appréhender la complexité de l’aventure et ses prérequis :
 
 * [La rubrique microservices du site de Martin Fowler](https://www.martinfowler.com/microservices/)  
 * [11 raisons pour lesquelles vous allez échouer avec les microservices](https://medium.com/xebia-engineering/11-reasons-why-you-are-going-to-fail-with-microservices-29b93876268b)  
@@ -78,7 +78,7 @@ Pour les meilleures pratiques :
 * [Le site de Microsoft](https://docs.microsoft.com/en-us/azure/architecture/patterns/)  
 * [Le site d’IBM](https://www.ibm.com/cloud/learn/microservices)  
 
-DDD et microservices: 
+DDD et microservices : 
 
 * [DDD and Microservices: At Last, Some Boundaries! (vidéo)](https://www.youtube.com/watch?v=sFCgXH7DwxM)  
 * [Strategic Microservice Patterns - Nick Tune (vidéo)](https://www.youtube.com/watch?v=ZZXMMnV3EoU)  
@@ -118,4 +118,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>

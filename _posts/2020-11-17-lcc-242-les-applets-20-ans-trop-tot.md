@@ -7,7 +7,7 @@ mp3_length: 75018942
 tweet: Les Applets, 20 ans trop tôt #Quarkus #Spring #ReactiveProgramming #Gradle #Docker #Secu #Kotlin
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Guillaume n'était pas présent dans cet épisode, mais rassurez vous Emmanuel assure la permanence des blagues et accompagné d'Antonio et d'Audrey il commente les actus du mois de novembre : ça discute de Quarkus, Spring Boot, Gradle, Reactive Programming, Docker, sécurité et bien sûr, loi, société et organisation.
+Guillaume n'était pas présent dans cet épisode, mais rassurez-vous Emmanuel assure la permanence des blagues et accompagné d'Antonio et d'Audrey il commente les actus du mois de novembre : ça discute de Quarkus, Spring Boot, Gradle, Reactive Programming, Docker, sécurité et bien sûr, loi, société et organisation.
 
 Enregistré le 13 novembre 2020
 
@@ -62,7 +62,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-242.mp3](https://traffic.
 
 [Il y a le bon câble USB et le mauvais câble USB](https://blog.networkprofile.org/usb-load-testing-chargers-and-cables)  
 
-* USB power meter/analyzer et USB load tester pour detecter les mauvais cables
+* USB power meter/analyzer et USB load tester pour détecter les mauvais cables
 * Des cables qui gardent les 5v d'autres qui descendent à 4,1v  
 
 ### Méthodologies
@@ -88,18 +88,18 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-242.mp3](https://traffic.
 * [L'alerte de la défenseure des droits](https://www.defenseurdesdroits.fr/fr/communique-de-presse/2020/11/proposition-de-loi-securite-globale-lalerte-de-la-defenseure-des-droits)  
 * [Tribune : “L’article 24 de la future loi ʻsécurité globale’ menace la liberté d’informer”](https://www.telerama.fr/medias/larticle-24-de-la-future-loi-securite-globale-menace-la-liberte-dinformer-6739125.php)  
 
-[Identité numérique et reconnaissance faciale : le Conseil d'Etat a rendu son verdict](https://www.laquadrature.net/2020/11/06/identite-numerique-et-reconnaissance-faciale-defaite-au-conseil-detat-le-combat-continue/)  
+[Identité numérique et reconnaissance faciale : le Conseil d'État a rendu son verdict](https://www.laquadrature.net/2020/11/06/identite-numerique-et-reconnaissance-faciale-defaite-au-conseil-detat-le-combat-continue/)  
 
 ## Outils de l'épisode
 
 Crowdcast de Youri sur ses podcasts préférés
 
-* [Message A Carractere Informatique](https://www.clever-cloud.com/fr/podcast/)
+* [Message A Caractère Informatique](https://www.clever-cloud.com/fr/podcast/)
 * [Electro Monkeys](https://electro-monkeys.fr/)
 * [If This Then Dev](https://ifttd.io/)
 * [Tech Rocks Podcasts](https://www.tech.rocks/les-podcasts)
 * [No Limit Secu](https://www.nolimitsecu.fr/)
-* [La Méthode Scinetifique](https://www.franceculture.fr/emissions/la-methode-scientifique)
+* [La Méthode Scientifique](https://www.franceculture.fr/emissions/la-methode-scientifique)
 * [C'est Plus Que De La SF](https://www.actusf.com/detail-d-une-rubrique/plus-que-de-la-sf)
 
 ## Conférences

@@ -8,7 +8,7 @@ tweet: Télétravailler une corona dans une main et un gamin dans l'autre #coron
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Cet épisode parle du coronavirus, des conférences annulées, de la popularité des langages, de GraphQL, de Ghostcat et pleins d'autres choses encore.
-L'intro date un peu: les infos sur le coronavirus étant encore plus fréquentes que les nouveaux framework JavaScript.
+L'intro date un peu : les infos sur le coronavirus étant encore plus fréquentes que les nouveaux frameworks JavaScript.
 
 Enregistré le 13 mars 2020
 
@@ -36,10 +36,10 @@ Les actions des grosses boites
 
 [InfoQ meta sondage](https://www.infoq.com/news/2020/02/developer-surveys/)  
 
-* Java 8 le plus déployé en prod, 25% Java 11 et non LTS derrière
-* Spring 60-80%
-* IntelliJ 60-80%, Eclipse 20-25%
-* mavenjvs Gradle 66-33 ou 50-50
+* Java 8 le plus déployé en prod, 25 % Java 11 et non LTS derrière
+* Spring 60-80 %
+* IntelliJ 60-80 %, Eclipse 20-25 %
+* maven vs Gradle 66-33 ou 50-50
 
 [Sondage sur Scala](https://scalacenter.github.io/scala-developer-survey-2019/)  
 
@@ -47,7 +47,7 @@ Les actions des grosses boites
 
 * 7 ans de dev
 * not binary compatible with 0.6 nor 1.0RCx
-* Ecrire en scala des applications front
+* Écrire en scala des applications front
 * interop avec les libraries JavaScript
 
 [GraalVM se dote d'un advisory board](https://jaxenter.com/graalvm-project-advisory-board-168885.html?utm_source=twitter&utm_medium=social&utm_campaign=1week)
@@ -62,7 +62,7 @@ Les actions des grosses boites
 
 [Eclipse MicroProfile GraphQL 1.0](https://microprofile.io/2020/02/25/microprofile-graphql-1-0-released/)  
 
-* GraphQL: spec pour generaliser les endpoints en leur donnat lflexibilite en terme de requetage et graph retourné
+* GraphQL : spec pour généraliser les endpoints en leur donnant de la flexibilité en termes de requêtage et graph retourné
 * make GraphSQL schema available
 * execute GraphQL requests
 * code first approach
@@ -72,7 +72,7 @@ Les actions des grosses boites
 
 * amélioration de mémoire
 
-[Lightbend recoit 25M d'investissement](https://www.benzinga.com/pressreleases/20/03/g15505587/lightbend-closes-25-million-investment-round-led-by-dell-technologies-capital#/.XmZXZGRo7yc.twitter)  
+[Lightbend reçoit 25M d'investissement](https://www.benzinga.com/pressreleases/20/03/g15505587/lightbend-closes-25-million-investment-round-led-by-dell-technologies-capital#/.XmZXZGRo7yc.twitter)  
 
 * de Dell capital
 * pour la partie reactive
@@ -91,7 +91,7 @@ OPTIONNEL [LightBend - Article sur pourquoi une architecture reactive est import
 
 * les concepts de base (Clusters, Nodes, Indices and Shards)
 * Quorum
-* comment des noeuds rejoingnent le cluster
+* comment des noeuds rejoignent le cluster
 * segments et le merge
 * gestion de la memoire (compressed pointers /!\ inversé, 30GB, 2x memoire sur la machine par rapport au heap) voir <https://stackoverflow.com/questions/25120546/trick-behind-jvms-compressed-oops#25120926>
 * options par workload (write heavy vs read heavy
@@ -112,7 +112,7 @@ OPTIONNEL [LightBend - Article sur pourquoi une architecture reactive est import
 
 ### Cloud
 
-Les gens ralent car les clusters GKE vont avoir un cout de management de 10c/heure, ce qui change la relation du cluster au développeur (nombre de clusters en parallèle)  
+Les gens râlent car les clusters GKE vont avoir un cout de management de 10c/heure, ce qui change la relation du cluster au développeur (nombre de clusters en parallèle)  
 [Une comparaison des prix des clusters en fonction de leur taille et de leur host provider](https://devopsdirective.com/posts/2020/03/managed-kubernetes-comparison/)  
 
 Amazon annonce [Bottlerocket](https://aws.amazon.com/fr/bottlerocket/)
@@ -126,7 +126,7 @@ Amazon annonce [Bottlerocket](https://aws.amazon.com/fr/bottlerocket/)
 
 [IntelliJ Big Data Tools](https://blog.jetbrains.com/blog/2020/02/25/update-on-big-data-tools-plugin-spark-hdfs-parquet-and-more/)  
 
-* un IDE pour le big data!
+* un IDE pour le big data !
 * deja integration avec Zeppelin S3 
 * nouveau Spark, HDFS, Paquet
 
@@ -138,20 +138,20 @@ Amazon annonce [Bottlerocket](https://aws.amazon.com/fr/bottlerocket/)
 * plus rapide de monter en competence
 * trouver la cause est plus rapide
 * solutions simples, plus d'alternatives disponibles
-* regles: les fonctionalités de justifient pas la complexité, les idées complexes amènent des implémentations complexes, modifier avant d'ajouter
-* challenge de l'automation pour faire avec moins de gens?
+* règles : les fonctionnalités ne justifient pas la complexité, les idées complexes amènent des implémentations complexes, modifier avant d'ajouter
+* challenge de l'automation pour faire avec moins de gens ?
 
 OPTIONNEL [11 raisons pour lesquelles vous allez rater vos microservices](https://medium.com/xebia-engineering/11-reasons-why-you-are-going-to-fail-with-microservices-29b93876268b)  
 
 * voir les titres de section
 
-OPTIONNEL [Retour d'experience sur l'usage incorrect d'un outil bloom filters](https://blog.cloudflare.com/when-bloom-filters-dont-bloom/)  
+OPTIONNEL [Retour d'expérience sur l'usage incorrect d'un outil bloom filters](https://blog.cloudflare.com/when-bloom-filters-dont-bloom/)  
 
-* probleme idéal pour bloom filters
+* problème idéal pour bloom filters
 * mais suspicieusement plus long que prévu
 * profilers
 * random access memory >> sequential reading (trop grand pour L3)
-* alternative plus simple qui reduit le nombre le chargement memoire, pas la conso memoire
+* alternative plus simple qui réduit le nombre le chargement memoire, pas la conso memoire
 
 ### Méthodologies
 
@@ -159,26 +159,26 @@ OPTIONNEL [Retour d'experience sur l'usage incorrect d'un outil bloom filters](h
 
 * rebasing, la course au collègue
 * garder master green pour la CD
-* impossible de faire trops de merge en parallele ou doit faire pleins de rebase
-* merge train sequentialise et batch les merges
+* impossible de faire trop de merge en parallèle ou doit faire pleins de rebase
+* merge train séquentialise et batch les merges
 
 [Retour sur le modèle GitFlow](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/)  
 
-* pas intuitif (merge bidirectionels dans le temps entre develop, feature branch, release branch, hotfix et master) et cout cognitif haut
+* pas intuitif (merge bidirectionnels dans le temps entre develop, feature branch, release branch, hotfix et master) et cout cognitif haut
 * risque grandi de merge conflit
 * peut pas rebaser
 * continuous delivery != trop de barrières
 * en cas de repos multiples ou mono repos, impossible a gérer (microservices)
-* ok pour des cycles de release par trimestre avec des equipes sur des releases en parallele
+* ok pour des cycles de release par trimestre avec des équipes sur des releases en parallèle
 
 [Mesure de la complexité de code: une meilleure mesure](https://empear.com/blog/bumpy-road-code-complexity-in-context/)  
 
 * cyclomatic complexité est un mauvais oracle de la complexité de code
 * les logiques conditionnelles emboîtées utilisent notre mémoire de travail (~indentation)
-* les fonctions avec des dos d'anes d'indentation multiples sont les pires
+* les fonctions avec des dos d'ânes d'indentation multiples sont les pires
 * refactorer pour externaliser chaque
 
-Dans Sonarqube cela s'appelle Cognitive Complexity. Voici un exemple sur du code XWiki ou l'on voit très bien visuelement ce que cela veut dire: <https://sonarcloud.io/project/issues?id=org.xwiki.commons%3Axwiki-commons&issues=AWzY6RXo8pMOHxUYvkyE&open=AWzY6RXo8pMOHxUYvkyE>
+Dans Sonarqube cela s'appelle Cognitive Complexity. Voici un exemple sur du code XWiki ou l'on voit très bien visuellement ce que cela veut dire : <https://sonarcloud.io/project/issues?id=org.xwiki.commons%3Axwiki-commons&issues=AWzY6RXo8pMOHxUYvkyE&open=AWzY6RXo8pMOHxUYvkyE>
 
 ### Sécurité
 
@@ -197,24 +197,24 @@ Dans Sonarqube cela s'appelle Cognitive Complexity. Voici un exemple sur du code
 [Amicus brief sur le copyright d'API par IBM et Red Hat](https://www.redhat.com/en/blog/red-hat-urges-us-supreme-court-support-unrestricted-use-software-interfaces)  
 
 * computer interfaces ne sont pas copyrightable
-* moteur de l'economie du logiciel
-* va etre entendu au printemps
+* moteur de l'économie du logiciel
+* va être entendu au printemps
 
 [Amicus brief de chercheurs attaqué par Oracle](https://twitter.com/joshbloch/status/1237507340514889729)
 
 * payés par Google
 
-OPTIONNEL [Les hackers de Equifax contamnés pour crime](https://www.infoq.com/news/2020/02/equifax-charges/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=java)  
+OPTIONNEL [Les hackers de Equifax condamnés pour crime](https://www.infoq.com/news/2020/02/equifax-charges/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=java)  
 
-* DOJ charcge 4 militaires Chinois
+* DOJ charge 4 militaires Chinois
 * Struts CVE
 
 ## Rubrique débutant
 
-[La tonte de Yak appliquée à Donarld Knuth](https://yakshav.es/the-patron-saint-of-yakshaves/)
+[La tonte de Yak appliquée à Donald Knuth](https://yakshav.es/the-patron-saint-of-yakshaves/)
 
 * écrire un livre
-* écrire un programme pour ecrire un livre
+* écrire un programme pour écrire un livre
 * invente un langage de programmation pour écrire le programme
 * invente un mode de pagination
 * design une police de caractère

@@ -17,7 +17,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-229.mp3](http://traffic.l
 
 ### Ta vie, ton oeuvre
 
-[Richard Hanna](https://richardhanna.dev/), développeur et coopérateur [Fairness](https://fairness.coop/) et co-animateur du [podcast Techologie](https://techologie.net/).  
+[Richard Hanna](https://richardhanna.dev/), développeur et coopérateur [Fairness](https://fairness.coop/) et co-animateur du [podcast Technologie](https://techologie.net/).  
 
 ### Le Shift Project
 

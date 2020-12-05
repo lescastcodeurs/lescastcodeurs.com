@@ -7,7 +7,7 @@ mp3_length: 63145077
 tweet: Fuseaux horaires - la fontaine à bogues #java15 #memoire #quarkus #micronaut
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Cet épisode consacre Java le langage et sa version 15 en particulier. On discute aussi l'impact des mémoires fautives sur la JVM, le réactif, les frameworks backends et bien d'autres choses. Et nous avons deux crowdcasts! 🕺
+Cet épisode consacre Java le langage et sa version 15 en particulier. On discute aussi l'impact des mémoires fautives sur la JVM, le réactif, les frameworks backends et bien d'autres choses. Et nous avons deux crowdcasts ! 🕺
 
 Enregistré le 13 octobre 2020
 
@@ -20,7 +20,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-240.mp3](https://traffic.
 [Java 15](https://twitter.com/java/status/1305874025231650817) (plus de détails par [Remi Forax](https://groups.google.com/d/msgid/lescastcodeurs/63086933.1723204.1600182952350.JavaMail.zimbra%40u-pem.fr) ). 
 
 * unicode 13,  
-* hidden classes (non-discoverable implementation details of the framework eg classes générées au runtime, déchargement aggressif),  
+* hidden classes (non-discoverable implementation details of the framework e.g. classes générées au runtime, déchargement agressif),  
 * TreeMap amelioration de perf,  
 * check de revocation pour le jar signer,  
 * sha-3 support,  
@@ -101,17 +101,17 @@ Sortie de [Quarkus 1.8](https://quarkus.io/blog/quarkus-1-8-0-final-released/) (
 
 [NVidia rachète ARM à SoftBank pou 40Md$](https://www.engadget.com/nvidia-arm-acquisition-softbank-000846113.html), ça va faire un sacré concurrent à Intel et AMD. (<https://www.anandtech.com/show/16080/nvidia-to-acquire-arm-for-40-billion>)  
  
-[Retour d’experience sur l’utilisation de Kubernetes.](https://medium.com/better-programming/3-years-of-kubernetes-in-production-heres-what-we-learned-44e77e1749c8) Java et ses problèmes (spécialement 8, toujours grosse conso mémoire),  mettre à jour Kubernetes (ils créent des nouveaux clusters), corriger un index au démarrage vs liveness probe, exposer des IPs externes et la limite de connections parallèles.  
+[Retour d’experience sur l’utilisation de Kubernetes.](https://medium.com/better-programming/3-years-of-kubernetes-in-production-heres-what-we-learned-44e77e1749c8) Java et ses problèmes (spécialement 8, toujours grosse conso mémoire),  mettre à jour Kubernetes (ils créent des nouveaux clusters), corriger un index au démarrage vs liveness probe, exposer des IPs externes et la limite de connexions parallèles.  
 
 [Project Natick: Datacenter mis sous l’eau en 2018 par Microsoft](https://www.theverge.com/2020/9/14/21436746/microsoft-project-natick-data-center-server-underwater-cooling-reliability).  
 
-* 864 servers, 27.6 petabytes de stockage, 117 pieds au fond de l’ocean (Ecosse).  
+* 864 servers, 27.6 petabytes de stockage, 117 pieds au fond de l’ocean (Écosse).  
 * Aux dires de Microsoft, c’est un succès.  
 
 [Google est neutre en carbone, et a même racheté sa dette carbone depuis sa création](https://blog.google/outreach-initiatives/sustainability/our-third-decade-climate-action-realizing-carbon-free-future/).  
 
 * (1) We were the first major company to become carbon neutral in 2007. → Google a été “neutre” par compensation, chaque année depuis 2007, notamment en achetant autant d’énergie renouvelable que d’énergie carbonée.   
-* (2) We were the first major company to match our energy use with 100 percent renewable energy in 2017... We’re eliminating our entire carbon legacy, effective today. → Depuis 2017, Google a en plus acheté autant d’énergie renouvelable l’année N que d’énergie carbonée consommée l’année N+1. En Septembre 2020, Google a fini fini par être totalement “neutre” en ayant consommé autant d’énergie renouvelable que d’énergie carbonée depuis la création de Google.   
+* (2) We were the first major company to match our energy use with 100 percent renewable energy in 2017... We’re eliminating our entire carbon legacy, effective today. → Depuis 2017, Google a en plus acheté autant d’énergie renouvelable l’année N que d’énergie carbonée consommée l’année N+1. En septembre 2020, Google a fini par être totalement “neutre” en ayant consommé autant d’énergie renouvelable que d’énergie carbonée depuis la création de Google.   
 * (3) We are the first major company to make a commitment to operate on 24/7 carbon-free energy in all our data centers and campuses worldwide... by 2030. → Dans 10 ans, Google espère ne plus consommer d’énergie carbonée du tout.  
 
 ### Data
@@ -149,7 +149,7 @@ Un vieux truc, [le memo de Bezos sur la service oriented company](https://gist.g
 
 [Est-ce que le Hacktoberfest de Digital Ocean fait mal à l’Open Source ?](https://blog.domenic.me/hacktoberfest/)
 
-* plein de gens contribuent des commits à deux balles, juste pour gagner un t-shirt, et c’est les mainteneurs de projets open source qui sont obligés de se taper tous les pull requests comme des messages de spam
+* plein de gens contribuent des commits à deux balles, juste pour gagner un t-shirt, et c’est les mainteneurs de projets open source qui sont obligés de se taper toutes les pull-requests comme des messages de spam
 * [Update de DigitalOcean to reduce spam](https://hacktoberfest.digitalocean.com/hacktoberfest-update)
 * [Comment une personne (un YouTuber avec 600K followers a pourri le système)](https://joel.net/how-one-guy-ruined-hacktoberfest2020-drama)
 

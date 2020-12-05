@@ -17,8 +17,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-226.mp3](http://traffic.l
 
 ### Ta vie, ton oeuvre
 
-[François Desmier](@desmfr) Cyber-guru, crypto-saïyan, team ambiancer 2.4 alpha, bytes master et surtout architecte solution à la MAIF, engagé sur #OSSbyMAIF  
-[Mathieu Ancelin](@TrevorReznik) Développeur fullstack chez SERLI, je fais du web, des streams, de la data, du cloud majoritairement sur la JVM et j'ai un petit faible pour Scala et la programmation fonctionnelle. Je suis également lead développeur de quelques projets open-source comme Otoroshi, Daikoku, etc. et l'un des organisateurs des Human Talks Poitiers.
+[François Desmier](https://twitter.com/desmfr) Cyber-guru, crypto-saïyan, team ambiancer 2.4 alpha, bytes master et surtout architecte solution à la MAIF, engagé sur #OSSbyMAIF  
+[Mathieu Ancelin](https://twitter.com/TrevorReznik) Développeur fullstack chez SERLI, je fais du web, des streams, de la data, du cloud majoritairement sur la JVM et j'ai un petit faible pour Scala et la programmation fonctionnelle. Je suis également lead développeur de quelques projets open-source comme Otoroshi, Daikoku, etc. et l'un des organisateurs des Human Talks Poitiers.
 
 ### D’assureur à éditeur open source
 

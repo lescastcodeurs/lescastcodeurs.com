@@ -43,21 +43,21 @@ Beaucoup de rachats d’IDEs dans le cloud :
 
 ### Le cloud IDE au quotidien
 
-J’ai pris mon café, maintenant je fais quoi?  
-Chrome ou Firefox?  
+J’ai pris mon café, maintenant je fais quoi ?  
+Chrome ou Firefox ?  
 Comment je sync avec mon repo Git  
-Signer avec la clé GPG (sur le serveur?)  
+Signer avec la clé GPG (sur le serveur ?)  
 Je veux installer une extension je fais comment  
 
 Je partage du code avec quelqu’un, il se passe quoi  
-Je peux partager le même workspace?  
+Je peux partager le même workspace ?  
 
-Vous utilisez des workspaces différents comment?  
+Vous utilisez des workspaces différents comment ?  
 
 Parler de devfile  
 
 Comment j’installe Che ?  
-docker local?  
+docker local ?  
 kube  
 
 Experience  
@@ -69,23 +69,23 @@ La doc pour [installer Che dans GCP](https://www.eclipse.org/che/docs/che-7/inst
 
 Vs un IDE local
 
-Je peux avoir un IDE local et les avantages de l’IDE du cloud?
+Je peux avoir un IDE local et les avantages de l’IDE du cloud ?
 
 ### Sous le capot
 
 Comment ça s’écrit la partie interface IDE  
-Reactivité  
+Réactivité  
 Latence  
 Desktop vs cloud Thea  
 
 Eclipse Theia  
 Vient de quel besoin  
-separé d’éclipse classique?  
+séparé d’Eclipse classique ?  
 Qui utilise Theia ?  
 
 ### Architecture
 
-Il y a quoi derrière mon navigateur:
+Il y a quoi derrière mon navigateur :
 
 * Che server  
 * Che workspace  
@@ -109,7 +109,7 @@ Quel est l'écosystème
 
 Essayez Gitpod en ouvrant le project Eclipse Theia. Requiert un compte GitHub et un browser web moderne <https://gitpod.io/#https://github.com/eclipse-theia/theia>
 
-Exemple d’utilisation de Gitpod pour générer une version à jour des statistiques de contribution au projet: 
+Exemple d’utilisation de Gitpod pour générer une version à jour des statistiques de contribution au projet : 
 <https://gitpod.io/#https://github.com/marcdumais-work/gitstats>
 
 Twitter: [@eclipse_che](https://twitter.com/eclipse_che) et [\#Chejoy](https://twitter.com/search?q=%40eclipse_che%20%23chejoy&src=typed_query&f=live)  
@@ -122,5 +122,5 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>
 

@@ -1,10 +1,10 @@
 ---
-title: LCC 223 - On peut anonymiser mille fois une personne mais on ne peut pas anonymiser une fois mille personne
+title: LCC 223 - On peut anonymiser mille fois une personne mais on ne peut pas anonymiser une fois mille personnes
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 223
 mp3_length: 82368448
-tweet: On peut anonymiser mille fois une personne mais on ne peut pas anonymiser une fois mille personne. #Reactive #WASM #K8S #SurveillanceDeMasse
+tweet: On peut anonymiser mille fois une personne mais on ne peut pas anonymiser une fois mille personnes. #Reactive #WASM #K8S #SurveillanceDeMasse
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Premier épisode de l'année 2020 pour les cast codeurs avec Guillaume, Arnaud et Audrey autour du micro pour parler du JDK 14 bien sûr mais aussi de Quarkus, de WebAssembly, de Kubernetes mais aussi de l'actualité sociétale liée à la tech.
@@ -52,7 +52,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-223.mp3](https://traffic.
 ### Infrastructure
 
 [`kubectl tree`](https://github.com/ahmetb/kubectl-tree)  
-[Guide visuel de débug des deploiements Kubernetes](https://learnk8s.io/troubleshooting-deployments)  
+[Guide visuel de débug des déploiements Kubernetes](https://learnk8s.io/troubleshooting-deployments)  
 [Injecter des Secrets Vault dans des Pods Kubernetes via un Sidecar](https://www.hashicorp.com/blog/injecting-vault-secrets-into-kubernetes-pods-via-a-sidecar/)  
 [Hexa, un CLI sous stéroïdes pour les devs Azure](https://hexa.run/)  
 
@@ -74,7 +74,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-223.mp3](https://traffic.
 
 ### Méthodologies
 
-[CalVer, le versionning avec des dates](https://calver.org/)  
+[CalVer, le versioning avec des dates](https://calver.org/)  
 
 ### Sécurité
 
@@ -115,7 +115,7 @@ Spécial France WTF
 [DevFest Paris le 14 février 2020](https://devfest.gdgparis.com/)  
 [DevFest du Bout du Monde le 28 février](https://devfest.duboutdumonde.bzh/)
 [dotPy le 2 mars](https://www.dotpy.io/) - [Le CfP est ouvert](https://www.dotconferences.com/cfp)
-[Breizhcamp du 25 au 27 mars 2020](https://www.breizhcamp.org/) - [Le CfP est ouvert](breizhcamp.cfp.io)   
+[Breizhcamp du 25 au 27 mars 2020](https://www.breizhcamp.org/) - [Le CfP est ouvert](https://breizhcamp.cfp.io)   
 [dotGo le 30 mars](https://www.dotgo.eu/) - [Le CfP est ouvert](https://www.dotconferences.com/cfp)
 [Devoxx France du 15 au 17 avril 2020](https://www.devoxx.fr/)  
 [Android Makers Paris les 20 et 21 avril 2020](https://androidmakers.fr/) - [Le CfP est ouvert jusqu'au 19 janvier](https://sessionize.com/android-makers-paris-2020/)
