@@ -22,7 +22,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-225.mp3](https://traffic.
 [JDK 14 First Release Candidate](https://mail.openjdk.java.net/pipermail/jdk-dev/2020-February/003886.html)
 
 * [Présentation des records](https://www.infoq.com/articles/java-14-feature-spotlight/)  
-* [Ecrire des Records invariants avec Bean Validation](https://www.morling.dev/blog/enforcing-java-record-invariants-with-bean-validation/)  
+* [Écrire des Records invariants avec Bean Validation](https://www.morling.dev/blog/enforcing-java-record-invariants-with-bean-validation/)  
 * [Monitoring d'API Rest avec les évènements du JDK Flight Recorder](https://www.morling.dev/blog/rest-api-monitoring-with-custom-jdk-flight-recorder-events/)  
 
 [Est ce que le projet Loom menace les Java Futures ?](https://blog.softwaremill.com/will-project-loom-obliterate-java-futures-fb1a28508232)  
@@ -96,7 +96,7 @@ Maven est de retour, et il est pas content !
 
 ## Outils de l'épisode
 
-[JQ - un commmand line processor pour JSON](https://www.baeldung.com/linux/jq-command-json)  
+[JQ - un command line processor pour JSON](https://www.baeldung.com/linux/jq-command-json)  
 [Comment voir (et supprimer) les données envoyées à Facebook par des sites tiers](https://www.lemonde.fr/pixels/article/2020/01/29/activite-en-dehors-de-facebook-comment-voir-et-supprimer-les-donnees-envoyees-a-facebok-par-des-sites-tiers_6027688_4408996.html)  
 
 ## Rubrique débutant

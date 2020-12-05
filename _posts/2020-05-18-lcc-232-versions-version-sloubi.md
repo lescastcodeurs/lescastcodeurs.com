@@ -69,7 +69,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-232.mp3](https://traffic.
 
 [Spock 2.0 vs JUnit 5.0](https://blog.solidsoft.pl/2020/04/15/spock-vs-junit-5-the-ultimate-feature-comparison/)  
 
-[Controler Kubernetes de Google Spreadsheet](https://github.com/learnk8s/xlskubectl)  
+[Contrôler Kubernetes de Google Spreadsheet](https://github.com/learnk8s/xlskubectl)  
 
 [Gradle 6.4](https://docs.gradle.org/6.4/release-notes.html)  
 

@@ -7,7 +7,7 @@ mp3_length: 85017000
 tweet: Interview Rust avec @fteychene @bluxte et @gcouprie
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Dans cet épisode, Audrey a fait appel à l'aide d'un ami, François Teychéné pour interview Sylvain Wallez et Geoffroy Couprie sur le langage le plus populaire de ces dernières années : Rust.  
+Dans cet épisode, Audrey a fait appel à l'aide d'un ami, François Teychene pour interview Sylvain Wallez et Geoffroy Couprie sur le langage le plus populaire de ces dernières années : Rust.  
 
 Enregistré le 2 octobre 2020  
 
@@ -17,7 +17,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-239.mp3](http://traffic.l
 
 ### Ta vie, ton oeuvre
 
-Sylvain Wallez - [Twitter](https://twitter.com/bluxte/) - [LinkedIn](https://www.linkedin.com/in/swallez/) : Développeur passionné pratiquant Java depuis la fin du 20ème siècle, les langages m'intéressent, surtout quand ils sont fortement typés ! Je suis tombé dans Rust lors de l'écriture d'un [blog post sur Go](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/). Cofondateur du JUG et du Rust meetup toulousains, membre de la Fondation Apache depuis plus de 15 ans, j'ai été cofondateur d'une boîte d'expertise Java, CTO de startup, freelance et j'ai monté le bureau toulousain d'OVH. Je travaille actuellement chez Elastic où après 4 ans dans l'équipe Cloud je viens de bouger vers l'équipe "Clients" qui développe les SDK où j'ai en charge les SDK Java et Rust.  
+Sylvain Wallez - [Twitter](https://twitter.com/bluxte/) - [LinkedIn](https://www.linkedin.com/in/swallez/) : Développeur passionné pratiquant Java depuis la fin du 20e siècle, les langages m'intéressent, surtout quand ils sont fortement typés ! Je suis tombé dans Rust lors de l'écriture d'un [blog post sur Go](https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/). Cofondateur du JUG et du Rust meetup toulousains, membre de la Fondation Apache depuis plus de 15 ans, j'ai été cofondateur d'une boîte d'expertise Java, CTO de startup, freelance et j'ai monté le bureau toulousain d'OVH. Je travaille actuellement chez Elastic où après 4 ans dans l'équipe Cloud je viens de bouger vers l'équipe "Clients" qui développe les SDK où j'ai en charge les SDK Java et Rust.  
 
 [Geoffroy Couprie](https://twitter.com/gcouprie/) : Geoffroy Couprie travaille chez [Clever Cloud](https://www.clever-cloud.com/) en développement logiciel. Basé à Nantes, il se passionne pour l'open source, les problématiques de performance et la sécurité.  
 
@@ -96,5 +96,5 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>
 

@@ -22,9 +22,9 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-236.mp3](https://traffic.
 [Classes Sealed](https://www.infoq.com/articles/java-sealed-classes)
 
 * Les classes sealed arrivent dans Java 15 en septembre, ce sont des classes ou interfaces qui restreignent qui peut les étendre ou implémenter.
-* Un peu comme les enum les classes sealed représentent un nombre limité de valeurs possibles, ce qui permet de coder en terme d’exhaustivité (si c’est pas A ou B, alors c’est C, parce qu’il y a pas d’autres alternatives).
+* Un peu comme les enum les classes sealed représentent un nombre limité de valeurs possibles, ce qui permet de coder en terme d’exhaustivité (si c’est pas A ou B, alors c’est C, parce qu’il n’y a pas d’autres alternatives).
 * Avec ça, on peut faire des types sommes et produits, des structures de données algébriques, comme dans les langages fonctionnels.
-* Le développeurs qui les utilise est donc en contrôle de la hiérarchie de ces interfaces, et contrôler les implémentations autorisées.
+* Le développeur qui les utilise est donc en contrôle de la hiérarchie de ces interfaces, et contrôler les implémentations autorisées.
 * Les classes sealed fonctionnent avec les records et le pattern matching.
 
 [AdoptOpenJDK rejoint la fondation Eclipse](https://blog.adoptopenjdk.net/2020/06/adoptopenjdk-to-join-the-eclipse-foundation)
@@ -36,13 +36,13 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-236.mp3](https://traffic.
 
 [Histoire du langage Groovy](https://dl.acm.org/doi/pdf/10.1145/3386326)
 
-* Les opérateurs que Groovy a amené aux langagues modernes This includes Groovy’s dangling closure,Groovy builders, null-safe navigation, the Elvis operator, ranges, the spaceship operator, and flow typing. Formost languages, we don’t know to what extent Groovy played a part in their choices
+* Les opérateurs que Groovy a amené aux languages modernes This includes Groovy’s dangling closure,Groovy builders, null-safe navigation, the Elvis operator, ranges, the spaceship operator, and flow typing. For most languages, we don’t know to what extent Groovy played a part in their choices
 * Les choix fort dynamiques
 * Le passage par la JSR
 
 [Mandrel GraalVM](https://www.infoq.com/news/2020/07/mandrel-graalvm): une nouvelle distribution OpenJDK de RedHat spécifique pour GraalVM, ce qui montre l'implication de RedHat sur GraalVM et l'ouverture d'Oracle sur des collaborations sur ce projet.
 
-On entends parler souvent du [livre Clean Code de Uncle Bob Martin](https://qntm.org/clean), c’est souvent une référence dans les livres d'informatique à lire. Cet article critique ce livre, pour son inconsistence, ses conseils que l’auteur n’applique même pas dans ses propres exemples de code.
+On entend parler souvent du [livre Clean Code de Uncle Bob Martin](https://qntm.org/clean), c’est souvent une référence dans les livres d'informatique à lire. Cet article critique ce livre, pour son inconsistance, ses conseils que l’auteur n’applique même pas dans ses propres exemples de code.
 
 Il parait que les [tests unitaires c'est surfait](https://tyrrrz.me/blog/unit-testing-is-overrated).
 
@@ -52,7 +52,7 @@ Il parait que les [tests unitaires c'est surfait](https://tyrrrz.me/blog/unit-te
 
 * Micronaut Launch : permet de générer des apps Micronaut en configurant modules optionnels, langage, outil de build
 * JDK 14 et Groovy 3 supportés
-* Améliorations de performance de 20%
+* Améliorations de performance de 20 %
 * Support des plateformes serverless : Google Cloud Functions, Microsoft Azure Functions, Amazon Lambda
 * Nouveau plugin Maven
 * Possibilité de faire tourner ses applis Micronaut dans un conteneur de Servlet
@@ -101,7 +101,7 @@ CrowdCast fast Jar Quarkus par Emmanuel
 
 ### Data
 
-[Oracle annonce une version Community Edition de Coherence](https://blogs.oracle.com/oraclecoherence/announcing-coherence-community-edition) (in-memory data grid) open source, sous licence Universal Permissive License (supporté par l’OSI). Une version Enteprise continuera d’être proposée également.
+[Oracle annonce une version Community Edition de Coherence](https://blogs.oracle.com/oraclecoherence/announcing-coherence-community-edition) (in-memory data grid) open source, sous licence Universal Permissive License (supporté par l’OSI). Une version Enterprise continuera d’être proposée également.
 
 ### Outillage
 
@@ -115,7 +115,7 @@ CrowdCast fast Jar Quarkus par Emmanuel
 
 ## Conférences
 
-[JNation virtal conf pour 2020](https://twitter.com/JNationConf/status/1273755895516839937)
+[JNation virtual conf pour 2020](https://twitter.com/JNationConf/status/1273755895516839937)
 
 JNation est une conférence communautaire qui a lieu annuellement au Portugal. Suite au Covid ils ont décidé de ne pas annuler... mais de faire du remote (virtual conf). Ils viennent de mettre en ligne les 45 vidéos.
 

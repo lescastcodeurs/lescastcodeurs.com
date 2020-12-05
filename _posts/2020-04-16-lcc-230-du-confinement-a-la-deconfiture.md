@@ -82,7 +82,7 @@ JEP proposées pour le JDK 15 :
 ### Outillage
 
 [GitHub mobile](https://github.blog/2020-03-17-github-for-mobile-is-now-available/)  
-[On peut maintener repasser une PR ouverte en Draft sur GitHub](https://twitter.com/github/status/1247981718453334019?s=20)  
+[On peut maintenant repasser une PR ouverte en Draft sur GitHub](https://twitter.com/github/status/1247981718453334019?s=20)  
 
 [GitLab 12.8](https://about.gitlab.com/releases/2020/02/22/gitlab-12-8-released/)  
 

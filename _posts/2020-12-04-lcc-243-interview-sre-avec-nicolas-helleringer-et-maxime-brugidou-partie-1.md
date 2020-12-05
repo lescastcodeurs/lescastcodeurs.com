@@ -17,7 +17,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-243.mp3](http://traffic.l
 
 ### Ta vie, ton oeuvre
 
-[Twotter Nicolas](https://twitter.com/nhelleringer)  
+[Twitter Nicolas](https://twitter.com/nhelleringer)  
 [Twitter Maxime](https://twitter.com/brugidou)  
 [Criteo Labs](https://labs.criteo.com)  
 
@@ -43,7 +43,7 @@ On code en quoi?
 Pager (pendant les horaires travails vs dehors)  
 Les weekends
 
-Taille SRE pour pour du 24/7
+Taille SRE pour du 24/7
 
 Combien de fois est-on appelé par nuit ?
 Prod fallback
@@ -75,4 +75,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>

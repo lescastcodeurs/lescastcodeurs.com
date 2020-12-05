@@ -7,7 +7,7 @@ mp3_length: 80386492
 tweet: Tu as fais ta demande de hissage ? #github #go #arm #mauvaisesnouvelles
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Arnaud et Emmanuel vous commentent l'actualité au cœur de l'été. Do Go, du sansserveur, du arm, de la feuille de route, beaucoup de GitHub et bien sûr sans oublier notre rubrique impact du code sur la société.
+Arnaud et Emmanuel vous commentent l'actualité au cœur de l'été. Do Go, du sans-serveur, du arm, de la feuille de route, beaucoup de GitHub et bien sûr sans oublier notre rubrique impact du code sur la société.
 
 Enregistré le 14 août 2020
 
@@ -24,13 +24,13 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-237.mp3](https://traffic.
 * Meilleure allocation des petits objets en cas de grands nombre de cœurs.
 * macOS < 1.12 et app 32 bits dépréciées.
 * Derniers tours de roue pour ton pentium 4
-* Amélioration du linker en mémoire et cpu sur certaines archi (modifié)
+* Amélioration du linker en mémoire et cpu sur certaines archis (modifié)
 * Possibilité d.embarquer la time zone db. (Quid des évolutions, à recompiler)
 * C’est marrant la dépréciation « aggressive » de certaines architectures
 
 [Golang, un draft pour gérer nativement le packaging de resources statiques](https://go.googlesource.com/proposal/+/master/design/draft-embed.md)   
 
-[Redmonk sort son nouveau classement](https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/), Java #3, Kotlin #19 (un des plus grosses croissances en 5 ans)   
+[Redmonk sort son nouveau classement](https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/), Java #3, Kotlin #19 (une des plus grosses croissances en 5 ans)   
 
 ### Librairies
 
@@ -45,10 +45,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-237.mp3](https://traffic.
 
 * search pour un site statique
 * crée l'index à la compilation
-* reveille la lambda quand le champ de recherche est selectionné
+* reveille la lambda quand le champ de recherche est sélectionné
 * GraalVM
-* retour sur mettre en place une lambda en evitant de se faire déplummer
-* mettre les bons privileges dans AWS lamnbda est compliqué
+* retour sur mettre en place une lambda en évitant de se faire déplumer
+* mettre les bons privileges dans AWS lambda est compliqué
 * plus de CPU si plus de RAM
 
 
@@ -61,25 +61,25 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-237.mp3](https://traffic.
 
 [Docker vient d’annoncer de nouveaux Terms Of Services incluant une nouvelle retention policy pour les images publiées sur DockerHub](https://www.docker.com/pricing/retentionfaq)   
 
-* 6 mois de limite de retentions ur le plan gratuit
+* 6 mois de limite de rétention pour le plan gratuit
 * si pas de push ni de pull dans cette période
 
 ### Patreon
 
-[Aider les cast codeurs sur PAtreon](https://patreon.comn/lescastcodeurs.)  
+[Aider les cast codeurs sur Patreon](https://patreon.comn/lescastcodeurs.)  
 
 ### Web
 
 [Vue 3 arrive en release candidate](https://css-tricks.com/vue-3-0-has-entered-release-candidate-stage/)   
 
-* plus performant, completement réécrit
+* plus performant, complètement réécrit
 * tres similaire en terme d'APIs de surface
 * doc revisitée
 * Composition API (a la react hooks)
 
 [La roadmap Angular](https://angular.io/guide/roadmap)   
 
-* 50% de l’engineering sur la back log. Et ensuite 20%. Vous faites plus ou moins en général sur vos projets OSS?
+* 50 % de l’engineering sur la back log. Et ensuite 20 %. Vous faites plus ou moins en général sur vos projets OSS ?
 
 ### Data
 
@@ -94,7 +94,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-237.mp3](https://traffic.
 Jenkins [Controller/Agent pour remplacer Master/Slave](https://www.cloudbees.com/words-have-power-updating-industry-terms)  
 [Github stocke une archive de votre code Open Source dans une ancienne mine, dans le cercle arctique, au Svalbard](https://github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic/)   
 
-* 21TB sur 186 films numeriques photosensibles
+* 21TB sur 186 films numériques photosensibles
 * 8.8 millions de pixels par frame
 * 1000 ans
 * dans le permafrost d'une ancienne mine
@@ -104,7 +104,7 @@ Jenkins [Controller/Agent pour remplacer Master/Slave](https://www.cloudbees.com
 [Une roadmap publique pour GitHub](https://github.blog/2020-07-28-announcing-the-github-public-roadmap/)   
 [VSCode est-il réellement open-source?](https://underjord.io/the-best-parts-of-visual-studio-code-are-proprietary.html)   
 
-* telemetrie
+* télémétrie
 * extensions come liveshare et remote ne sont pas ouvertes
 * marketplace proprio aussi
 
@@ -114,7 +114,7 @@ Jenkins [Controller/Agent pour remplacer Master/Slave](https://www.cloudbees.com
 
 * demande de créance
 * demander le contrat signé pour porter plainte
-* aller a la Banque De France pour voir si vous etes fiché et faire les démarches d'ururpation d'identité
+* aller a la Banque De France pour voir si vous êtes fichés et faire les démarches d'usurpation d'identité
 * acheter un broyeur a papier
 
 [Les images OpenJDK Alpine sur DockerHub étendent une version 3.6 d’Alpine qui ne sont plus supportées depuis mai 2019](https://github.com/jenkinsci/docker/issues/957)  
@@ -136,11 +136,11 @@ Jenkins [Controller/Agent pour remplacer Master/Slave](https://www.cloudbees.com
 * Certains disent que les Dev tools vont être réduits.
 * [le message privé](https://blog.mozilla.org/wp-content/uploads/2020/08/Message-to-Employees-Change-in-Difficult-Times.pdf)
 * Firefox on users. Focus on new products and time to market.
-* Ça sent que Mozilla était sclérosée et qu’il fallait un changement. Vu par le gars qui fait làreorg.
+* Ça sent que Mozilla était sclérosée et qu’il fallait un changement. Vu par le gars qui fait la reorg.
 
 [La COO de Pinterest licenciée car elle parlait de la discrimination rampante.](https://medium.com/@francoise_93266/the-pinterest-paradox-cupcakes-and-toxicity-57ed6bd76960)   
 
-* Décisions par un sous groupe (conversation isolées). Refusant les contre points. Et donc avec infos parcellaires.
+* Décisions par un sous-groupe (conversation isolées). Refusant les contre points. Et donc avec infos parcellaires.
 * “the only way we get things done here is hiding things.”
 * Tout était secret et donc manque de transparence e
 * Découvre que sa compensation d’exécutif était différente des autres - on lui avait dit que tous étaient au même modèle
@@ -154,8 +154,8 @@ Jenkins [Controller/Agent pour remplacer Master/Slave](https://www.cloudbees.com
 
 [La CNIL tape publiquement sur les doigts de StopCovid.](https://www.cnil.fr/fr/application-stopcovid-la-cnil-tire-les-consequences-de-ses-controles)   
 
-* 3 controles organisés en juin
-* initialement remontait tous les contacts d'une utilisateur et pas seulement ceux susceptibles d'avoir été exposé
+* 3 contrôles organisés en juin
+* initialement remontait tous les contacts d'un utilisateur et pas seulement ceux susceptibles d'avoir été exposé
 * respect de l'essentiel de la RGPD
 * quelques trucs qui restent comme usage de Google re-captcha, anti DDOS etc
 
