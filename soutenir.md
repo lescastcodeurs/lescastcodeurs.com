@@ -55,11 +55,5 @@ On ajustera en fonction de la réalité.
 ### Pourquoi vous n'avez pas de tiers de contribution plus bas / plus haut ?
 
 Sur Patreon, vous pouvez ajuster le prix de votre donation voire mettre un montant libre. 
-Les petites donations (c-a-d 1$ par mois) sont fortement érodées par le système bancaire (facile 45% partent en fumée). Et vu que l'on fait en gros deux podcasts par mois, ça fait 1$ par épisode.
-Pour info d'après nos calculs sans garantie aucune :
-
-* 2$ par mois font 25 € par an pour vous tout compris (TVA et frais bancaires)
-* 4$ - 50 € par an
-* 8$ - 100 € par an
-* 16$ - 200 € par an
-* 256$ - 3200 € par an
+Les petites donations (c-a-d 1€  par mois) sont fortement érodées par le système bancaire.
+Et vu que l'on fait en gros deux podcasts par mois, ça fait 1€ par épisode.
