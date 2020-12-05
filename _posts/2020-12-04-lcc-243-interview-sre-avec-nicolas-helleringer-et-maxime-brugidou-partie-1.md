@@ -7,7 +7,7 @@ mgp3_length: 85017000
 tweet: Interview SRE avec @nhelleringer et @brugidou - partie 1
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Nicolas et Maxime de Critéo partagent avec Emmanuel leur expérience de mise en place d'une organisation SRE (Site Reliability Engineering).
+Nicolas et Maxime de Criteo partagent avec Emmanuel leur expérience de mise en place d'une organisation SRE (Site Reliability Engineering).
 
 Enregistré le 12 novembre 2020  
 
