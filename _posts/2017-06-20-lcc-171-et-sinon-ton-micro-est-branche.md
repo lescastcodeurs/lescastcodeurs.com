@@ -19,7 +19,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-171.mp3](http://traffic.l
 
 ### Langages et JVM
 
-Java 9 et Jigsaw, Mark Reinhold tient toujours la barre du navire... le titanic arrivera-t'il à quai ?
+Java 9 et Jigsaw, Mark Reinhold tient toujours la barre du navire... le titanic arrivera-t-il à quai ?
 
 * [Nouvelle date de release pour Java 9](http://mail.openjdk.java.net/pipermail/jdk9-dev/2017-May/005864.html) - To be specific, I propose that we move the GA date out by eight weeks, from 27 July to 21 September
 * [Proposal: #AutomaticModuleNames (revised)](http://mail.openjdk.java.net/pipermail/jpms-spec-experts/2017-May/000687.html)
@@ -100,7 +100,7 @@ Plugins de Vincent DABURON
 * [STS, Mini Serveur HTTP pour gérer les fichiers csv](https://jmeter-plugins.org/wiki/HttpSimpleTableServer/)
 * [Selenium pour JMeter, HtmlUnitDriver](https://jmeter-plugins.org/wiki/HtmlUnitDriverConfig/)
 
-#### Nombreux liens atour de JMeter
+#### Nombreux liens autour de JMeter
 
 [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
 
@@ -126,4 +126,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>

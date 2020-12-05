@@ -7,7 +7,7 @@ mp3_length: 90186624
 tweet: Encore une petite news #java9 #version #spring #kubernetes #react #connexionssh
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Dans cet épisode Audrey et Arnaud sont ensemble en même temps! Et nous parlent de... tout.
+Dans cet épisode Audrey et Arnaud sont ensemble en même temps ! Et nous parlent de... tout.
 Plus particulièrement, de Java 9, de ce que veut dire une version, de Spring 5, de la domination de Kubernetes, de la réécriture de React sans tout casser et surtout de comment reprendre la main sur un terminal donc la connexion ssh s'est cassée et qui semble ne servir plus à rien. Et bien d'autres choses encore.
 
 Enregistré le 30 octobre 2017
@@ -128,4 +128,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>

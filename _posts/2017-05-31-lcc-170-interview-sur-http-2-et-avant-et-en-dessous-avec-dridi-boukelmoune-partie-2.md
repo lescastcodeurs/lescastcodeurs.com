@@ -6,10 +6,10 @@ episode: 170
 mp3_length: 85017000
 tweet: "Interview sur HTTP 2, l'histoire d'HTTP et les couches sous HTTP avec @dboukelmoune"
 ---
-Dans cette épisode on discute d'HTTP/2 avec Dridi Boukelmoune.
-Pour bien tout comprendre, on discute des couches en dessous et associées: TLS, UDP, TCP, QUIC.
+Dans cet épisode on discute d'HTTP/2 avec Dridi Boukelmoune.
+Pour bien tout comprendre, on discute des couches en dessous et associées : TLS, UDP, TCP, QUIC.
 Et on parle d'HTTP/0.9 et après pour comprendre pourquoi on est à HTTP/2.
-Cette seconde partie aborde HTTPS, HTTP/2 et diverse autres sujets.
+Cette seconde partie aborde HTTPS, HTTP/2 et divers autres sujets.
 
 Enregistré le 17 mars 2017
 
@@ -67,4 +67,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

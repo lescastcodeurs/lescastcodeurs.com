@@ -91,7 +91,7 @@ Tout est en mémoire ?
 Et la partie client, qu'est-ce qui est fait en intégration particulière  
 Les extensions sont pour faire quoi ?  
 
-Vous garder comment les mots de passe (hash, salt, evolution, etc )  
+Vous gardez comment les mots de passe (hash, salt, evolution, etc )  
 
 ### Écosystème et communauté
 
@@ -114,4 +114,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>

@@ -42,7 +42,7 @@ Quelle est la compétition de vert.x ?
 ### Cas d'utilisation
 
 Discussion sur les cas d'utilisation typique.  
-Que faire si j'ai mon CRUD classique et un use cas réactif  
+Que faire si j'ai mon CRUD classique et un use-case réactif  
 
 [Netty](http://netty.io)  
 
@@ -69,16 +69,16 @@ C'est quoi le message bus dont on parle dans vert.x
 
 ### Partie Réactive et microservice
 
-A Devoxx France 2014, RxJava c'était de la bombe. C'est has-been maintenant ?  
+À Devoxx France 2014, RxJava c'était de la bombe. C'est has-been maintenant ?  
 Quel est le paysage réactif aujourd'hui.  
 
 Pour les microservices il y a plein de patterns à connaître.  
-Vous fournissez des choses?  
+Vous fournissez des choses ?  
 
 ### Le moteur vert.x
 
 Un seul thread ?  
-Quid du blocant  
+Quid du bloquant  
 Pourquoi un seul thread c'est peux que ce qu'on fait depuis des années ?  
 [Mechanical sympathy](https://dzone.com/articles/mechanical-sympathy) ?  
 
@@ -99,4 +99,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

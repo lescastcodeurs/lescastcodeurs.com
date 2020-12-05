@@ -5,7 +5,7 @@ layout: blog-post
 episode: 163
 mp3_length: 85017000
 ---
-Episode chargé en sujets: langages, web, data, big data, sécurité, organisation sans oublier Donald (pas le neveu de Picsou).
+Episode chargé en sujets : langages, web, data, big data, sécurité, organisation sans oublier Donald (pas le neveu de Picsou).
 Merci à Saagie pour leur aide !
 
 Enregistré le 15 février 2017
@@ -27,10 +27,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-163.mp3](http://traffic.l
 
 Le top 2016 du Javascript : [Basé sur les étoiles github](https://risingstars2016.js.org/) [Basé sur un sondage](http://stateofjs.com/2016/)
 
-* Front: Vue.Js au top
+* Front : Vue.Js au top
 * Build : Grunt est mort, Gulp en baisse et Webpack devient la référence.
 * IDE : Visual Studio Code et Atom
-* La : Jasmine et Mocha toujours là, AVA et Jest sont les nouveaux. Gros impact de facebook!
+* La : Jasmine et Mocha toujours là, AVA et Jest sont les nouveaux. Gros impact de facebook !
 
 [Déployer une application Ratpack sur Google App Engine Flex](https://medium.com/google-cloud/deploy-a-ratpack-app-on-google-app-engine-flex-6ab59a90f6cf)  
 [Les 10 meilleurs frameworks web Java de 2017](http://www.dailyrazor.com/blog/best-java-web-frameworks-for-2017/)
@@ -41,7 +41,7 @@ Le top 2016 du Javascript : [Basé sur les étoiles github](https://risingstars2
 
 [Hazelcast lance Jet, un stream processing engine OSS](https://www.infoq.com/news/2017/02/HazlecastJetOSS)  
 
-[MiniShift: deploiement local pour OpenShift](http://red.ht/2kBFZzQ)  
+[MiniShift : déploiement local pour OpenShift](http://red.ht/2kBFZzQ)  
 [Les produits Google résumés en 4 mots](https://twitter.com/gregsramblings/status/828124286758092800/photo/1)  
 [gRPC chez la Cloud Native Computing Foundation](https://github.com/caniszczyk/proposal/blob/e043ca5b3660da48bd5499d70951b031c4bf8d78/P1.md)  
 [Bean Validation 2.0 early draft](https://t.co/AELi9UH5Bt)  
@@ -52,7 +52,7 @@ Le top 2016 du Javascript : [Basé sur les étoiles github](https://risingstars2
 [Ransomware contre Elasticsearch](http://www.lemondeinformatique.fr/actualites/lire-apres-mongodb-les-ransomwares-ciblent-les-clusters-elasticsearch-67075.html)  
 
 [Google lance son Cloud Spanner, sa supra base de données distribuée ACID](https://cloudplatform.googleblog.com/2017/02/introducing-Cloud-Spanner-a-global-database-service-for-mission-critical-applications.html)  
-[Google Cloud Spanner viole-t-il le théorême de CAP?](https://cloudplatform.googleblog.com/2017/02/inside-Cloud-Spanner-and-the-CAP-Theorem.html)  
+[Google Cloud Spanner viole-t-il le théorème de CAP?](https://cloudplatform.googleblog.com/2017/02/inside-Cloud-Spanner-and-the-CAP-Theorem.html)  
 [Google Cloud Spanner](https://cloud.google.com/spanner/)  
 
 [Post-mortem ReThinkDB](http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html)  
@@ -69,7 +69,7 @@ Intel [Big DL](https://github.com/intel-analytics/BigDL), grosse bataille Intel 
 * [Les slides de Intel AI](http://www.inteldevconference.com/intel-ai-day-paris-slides/)
 * [la réponse de Nvidia](https://blogs.nvidia.com/blog/2016/08/16/correcting-some-mistakes/)
 
-[Construiser votre CSS avec du Deep Learning](https://huu.la/ai/cssrooster)  
+[Construisez votre CSS avec du Deep Learning](https://huu.la/ai/cssrooster)  
 
 [Jeff Dean sur l’état du Machine Learning aujourd’hui](https://cloud.google.com/blog/big-data/2017/02/jeff-dean-on-machine-learning-part-1-surveying-the-landscape)  
 [Jeff Dean sur Tensorflow](https://cloud.google.com/blog/big-data/2017/02/jeff-dean-on-machine-learning-part-2-tensorflow)  
@@ -137,13 +137,13 @@ Jenkins [Declarative Pipeline 1.0](https://jenkins.io/blog/2017/02/03/declarativ
 [10-ways-for-a-conference-to-upset-their-speakers - Troy Hunt](https://www.troyhunt.com/10-ways-for-a-conference-to-upset-their-speakers/)  
 [10-ways-for-speaker-to-upset-conference - Nicolas Deloof](http://blog.loof.fr/2017/02/10-ways-for-speaker-to-upset-conference.html)  
 
-Le ParisJUG se lance dans adopt-a-JSR: un message en crowdcast
+Le ParisJUG se lance dans adopt-a-JSR : un message en crowdcast
 
 * 15 mars 2017 : soirée Hands-on / Hackergarten sur Jigsaw, animée par Rémi Forax et l'équipe du Paris JUG.
 * [le site du Paris JUG](http://www.parisjug.org/)
 * le twitter : [@ParisJUG](https://twitter.com/ParsJUG)
 * les détails des soirées et la liste de ce qu'il faudra installer sur son portable pour la partie Hands-on / Hackergarten seront publiés sur le site du Paris JUG.
-* page communautaire d'écrivant le [programme Adopt a JSR](https://community.oracle.com/community/java/jcp/adopt-a-jsr)
+* page communautaire décrivant le [programme Adopt a JSR](https://community.oracle.com/community/java/jcp/adopt-a-jsr)
 * [blog d'oracle annonçant le programme Adopt a JSR](https://blogs.oracle.com/java/adopt-a-jsr)
 
 [Salon Big Data Paris](https://www.bigdataparis.com/) les 5-6 mars 2017  
@@ -161,4 +161,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
