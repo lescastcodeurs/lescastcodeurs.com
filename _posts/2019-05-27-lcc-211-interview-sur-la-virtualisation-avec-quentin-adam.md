@@ -49,7 +49,7 @@ Address virtuelle
 
 [QEMU](https://www.qemu.org/)  
 [VirtIO](https://www.linux-kvm.org/page/Virtio)  
-[Spectre and Metldown](https://meltdownattack.com/)  
+[Spectre and Meltdown](https://meltdownattack.com/)  
 
 ### Container (“Isolateur”)
 

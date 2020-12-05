@@ -42,9 +42,9 @@ Crowdcast de José Paumard sur les JEP sorties ce dernier mois
 
 [Avoir son serveur mail est dur... ou pas](https://poolp.org/posts/2019-08-30/you-should-not-run-your-mail-server-because-mail-is-hard/)  
 
-* [les commentaires sont interessants](https://github.com/poolpOrg/poolp.org_posts/issues/16)  
+* [les commentaires sont intéressants](https://github.com/poolpOrg/poolp.org_posts/issues/16)  
 
-[Comment monter son serveur email securisé en 2h](https://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/index.html)  
+[Comment monter son serveur email sécurisé en 2h](https://sealedabstract.com/code/nsa-proof-your-e-mail-in-2-hours/index.html)  
 
 ### Cloud
 
@@ -65,7 +65,7 @@ Crowdcast de José Paumard sur les JEP sorties ce dernier mois
 ### Data
 
 [SQL Server Change Data Capture et Debezium](https://medium.com/@mauridb/sql-server-change-stream-b204c0892641)  
-[Regression polynomique comme approximation et alternative à des réseaux neuronaux](https://arxiv.org/pdf/1806.06850.pdf)  
+[Regression polynomiale comme approximation et alternative à des réseaux neuronaux](https://arxiv.org/pdf/1806.06850.pdf)  
 
 ### Outillage
 
@@ -83,7 +83,7 @@ Crowdcast de José Paumard sur les JEP sorties ce dernier mois
 
 ### Loi, société et organisation
 
-[Tech Against Terrorism met en garde contre la décentralisation du Web et l'open-source, qui seraient profitables au terrorisme et l'extémisme.](https://www.techagainstterrorism.org/2019/09/02/analysis-the-use-of-open-source-software-by-terrorists-and-violent-extremists/)  
+[Tech Against Terrorism met en garde contre la décentralisation du Web et l'open-source, qui seraient profitables au terrorisme et l'extrémisme.](https://www.techagainstterrorism.org/2019/09/02/analysis-the-use-of-open-source-software-by-terrorists-and-violent-extremists/)  
 [Une base de donnée Facebook contenant des numéros de téléphones d'utilisateurs se retrouve en ligne](https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/)  
 [« Portabilité des données » : sous pression, Facebook riposte](https://www.lemonde.fr/economie/article/2019/09/04/portabilite-des-donnees-sous-pression-facebook-riposte_5506480_3234.html)  
 

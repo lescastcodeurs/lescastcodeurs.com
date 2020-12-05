@@ -16,7 +16,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-202.mp3](https://traffic.
 ## News
 
 [L'informatique devient une discipline](https://twitter.com/SocInfoFr/status/1082189049039896576) avec son CAPES d'informatique et plus tard son agrégation d'informatique   
-[La marmote est de retour](https://twitter.com/milkaofficiel/status/1082003872514801666)  
+[La marmotte est de retour](https://twitter.com/milkaofficiel/status/1082003872514801666)  
 
 ### Langages
 
@@ -28,7 +28,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-202.mp3](https://traffic.
 ### Frameworks
 
 [Hystrix en maintenance](https://github.com/Netflix/Hystrix)  
-[Micronaut ajoute le support du modele de programmation Spring Boot](https://www.infoq.com/news/2018/12/micronaut-for-spring-graalvm)  
+[Micronaut ajoute le support du modèle de programmation Spring Boot](https://www.infoq.com/news/2018/12/micronaut-for-spring-graalvm)  
 
 ### Web
 
@@ -56,7 +56,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-202.mp3](https://traffic.
 ### Architecture
 
 [L'art du diagramme d'architecture](https://www.infoq.com/articles/crafting-architectural-diagrams?utm_source=link&utm_medium=twitter&utm_campaign=calendar)  
-[Migrer de MongoDB vers Postgres: le proces du Guardian](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres)  
+[Migrer de MongoDB vers Postgres: le process du Guardian](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres)  
 
 ### Méthodologies
 

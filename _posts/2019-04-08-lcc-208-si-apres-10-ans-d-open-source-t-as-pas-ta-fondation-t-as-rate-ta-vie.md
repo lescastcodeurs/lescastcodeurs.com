@@ -74,7 +74,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-208.mp3](https://traffic.
 
 * et aussi [New CI/CD Foundation Draws Tech’s Big Beasts, Open Source Donations](https://www.cbronline.com/news/ci-cd-foundation)  
 
-[Gradle Entreprise pour accélerer votre build maven](https://gradle.com/enterprise/releases/2019.1/)  
+[Gradle Entreprise pour accélérer votre build maven](https://gradle.com/enterprise/releases/2019.1/)  
 
 [Creating a commit on behalf of an organization](https://github.blog/changelog/2019-03-15-creating-a-commit-on-behalf-of-an-organization/)   
 
@@ -91,7 +91,7 @@ La guerre de l'open source continue :
 * [A propos des distributions "ouvertes", de l'open source et de la création d'entreprise](https://www.elastic.co/fr/blog/on-open-distros-open-source-and-building-a-company)  
 * [Deprecation Notice: MIT and BSD](https://writing.kemitchell.com/2019/03/09/Deprecation-Notice.html)  
 
-Le parlement européen a voté pour la directive sur le droit d'auteur: 
+Le parlement européen a voté pour la directive sur le droit d'auteur : 
 
 * [EU’s Parliament Signs Off on Disastrous Internet Law: What Happens Next?](https://www.eff.org/deeplinks/2019/03/eus-parliament-signs-disastrous-internet-law-what-happens-next)  
 * [« Qwant va rémunérer les éditeurs de presse pour l'indexation de leurs articles », dit son patron](https://www.lesechos.fr/tech-medias/medias/qwant-va-remunerer-les-editeurs-de-presse-pour-lindexation-de-leurs-articles-dit-son-patron-1001961)  

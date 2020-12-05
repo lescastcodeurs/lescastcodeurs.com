@@ -7,7 +7,7 @@ mp3_length: 46045945
 tweet: Interview sur la virtualisation avec @waxzce
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Dans cet épisode, Emamnuel s'assoie autour de la table avec Romain Guy et Pierre-Yves Ricau pour discuter Android.
+Dans cet épisode, Emmanuel s'assoie autour de la table avec Romain Guy et Pierre-Yves Ricau pour discuter Android.
 Interview longue donc découpée en deux.
 
 Enregistré le 18 septembre 2019
@@ -25,16 +25,16 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-217.mp3](https://traffic.
 ### Intro
 
 [Android](https://www.android.com)  
-[Andoid sources](https://source.android.com/)  
+[Android sources](https://source.android.com/)  
 
 Android 10
 
 ### JetPack
 
 [JetPack](https://developer.android.com/jetpack/)  
-Supporter des versions differentes d'Android  
+Supporter des versions différentes d'Android  
 [JetPack Compose](https://developer.android.com/jetpack/compose)  
-Toolkit UI reactif  
+Toolkit UI réactif  
 
 
 [Jetifier](https://developer.android.com/studio/command-line/jetifier)  
@@ -52,7 +52,7 @@ Toolkit UI reactif
 
 ### optimisations
 
-Coeurs  
+Cœurs  
 Batterie  
 
 Dark theme et reduction de consommation de batterie

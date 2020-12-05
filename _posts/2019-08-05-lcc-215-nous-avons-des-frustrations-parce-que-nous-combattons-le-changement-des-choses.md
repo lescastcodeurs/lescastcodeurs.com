@@ -27,76 +27,76 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-215.mp3](https://traffic.
 [L'état des développeurs: sondage JetBrains2019](https://www.jetbrains.com/lp/devecosystem-2019/)
 
 * Langage
-    * Java le langage principal pour 34% (JavaScript 40%) mais leseul langage pour 44% de ceux ci
-    * OS de dev: Windows un peu en tête mais sinon égal
+    * Java le langage principal pour 34 % (JavaScript 40 %) mais le seul langage pour 44 % de ceux-ci
+    * OS de dev : Windows un peu en tête mais sinon égal
     * polyglot
 * Apps
-    * Backend 60% / front 46%)
-    * Mobile 23%
-    * data analysis (13%) / ML (7%)
-    * ne developpe pas (13%)
+    * Backend (60 %) / front (46 %)
+    * Mobile (23 %)
+    * data analysis (13 %) / ML (7 %)
+    * ne developpe pas (13 %)
     * polyapp
 * OpenSource
-    * 56% contribuent à l'open source dont 37% plusieurs fois par an ou plus
+    * 56 % contribuent à l'open source dont 37 % plusieurs fois par an ou plus
 * Tests
-    * aucun (16%)
+    * aucun (16 %)
 * Mobile
-    * 83% font de l'Android et 59% iOS
-    * Frameworks cross-platforms 42: react native, 30 flutter, 29: cordova, 28 Ionic
+    * 83 % font de l'Android et 59 % iOS
+    * Frameworks cross-platforms 42 % react native, 30 % flutter, 29 % cordova, 28 % Ionic
 * Outils
-    * 9% IDE cloud
-    * 10% code review
-    * 44% issue tracker (Excel sinon?)
-    * moi j'ai besoin gestion soirce, issue tracker, ide au minimum)
-    * 83% dark theme
+    * 9 % IDE cloud
+    * 10 % code review
+    * 44 % issue tracker (Excel sinon ?)
+    * moi j'ai besoin gestion source, issue tracker, ide au minimum
+    * 83 % dark theme
 * Fun
-    * 33% de chiens, 26% cats, 23% les deux, 17% sans ; 1% autre (alligator?)
-    * Code le week end 87%
-    * AI replace devs 6% oui completement, 57% partiellement
+    * 33 % de chiens, 26 % cats, 23 % les deux, 17 % sans ; 1 % autre (alligator ?)
+    * Code le week end 87 %
+    * AI remplace devs 6 % oui complètement, 57 % partiellement
 
-[Demographique du sondage](https://www.jetbrains.com/lp/devecosystem-2019/demographics/)
+[Démographique du sondage](https://www.jetbrains.com/lp/devecosystem-2019/demographics/)
 
-* 70% employee temps plein, 6% employeir, 6% freelance, 1% retraite
-* La societe 10% opensource 61% produit 47% dev interne 
-* taille de l'equipe 2-7: 51% 8-12 21%
-* methodo agile 40% scrum, 11% kanban, 3% XP, 32% programming mother fucker (none)
+* 70 % employés temps plein, 6 % employeur, 6 % freelance, 1 % retraite
+* La société : 10 % opensource, 61 % produit, 47 % dev interne 
+* taille de l'équipe : 51 % 2-7, 21 % 8-12
+* methodo agile : 40 % scrum, 11 % kanban, 3 % XP, 32 % programming mother fucker (none)
 
-[Ecosystème Java](https://www.jetbrains.com/lp/devecosystem-2019/java/)
+[Écosystème Java](https://www.jetbrains.com/lp/devecosystem-2019/java/)
 
-* Version: 11: 22%, 10 et 9: 13-14%, 8: 83%, 
-* Quel app serveur: 66% tomcat, 21% jetty, 5%: WL, WS, Wildfly, JBoss EAP, Glassfish, 23% aucun
-* si aucun, quoi? SB 61%, netty 12% Spark Java 6%, vert.x 4%, undertow 3%
-* embedded 62% , war: 53%
-* Web framework: Spring Boot 56% (ca fait peur, comme Google == internet), Spring MVC 43%
-* build system Maven 70%, gradle 53%, ant 13%
-* latest Java EE 39%
+* Version: 22 % 11, 13-14 % 10 et 9, 83 % 8, 
+* Quel app serveur: 66 % tomcat, 21% jetty, 5 % WL/WS/Wildfly/JBoss EAP/Glassfish, 23 % aucun
+* si aucun, quoi ? 61 % SB, 12 % netty, 6 % Spark Java, 4 % vert.x, 3 % undertow
+* 62 % embedded, 53 % war
+* Web framework : 56 % Spring Boot (ca fait peur, comme Google == internet), 43 % Spring MVC
+* build system : 70 % Maven, 53 % gradle, 13 % ant
+* latest Java EE : 39 %
 
 [Scala](https://www.jetbrains.com/lp/devecosystem-2019/scala/)  
 
-* versions 2.13: 20% 2.12: 68%, 2/11: 36%
-* sinon 73% utilisent Java 8, 28% java 11
-* unit test Scalatest 77%, JUnit 26%
-* 10% whitebox macros, 60% n'utilisent pas les macros
-* web framework akka-http: 39% Play 38% Spring 17%
-* libraries Akka 55% Spark 40% 
-* build system 71% sbt 39% maven 18% gradle
+* versions : 20 % 2.13, 68 % 2.12, 36 % 2.11
+* sinon 73 % utilisent Java 8, 28 % java 11
+* unit test : 77 % Scalatest, 26 % JUnit
+* 10 % whitebox macros, 60 % n'utilisent pas les macros
+* web framework : 39 % akka-http; 38 % Play, 17 % Spring
+* libraries : 55 % Akka, 40 % Spark
+* build system : 71 % sbt, 39 % maven, 18% gradle
 
 [Kotlin](https://www.jetbrains.com/lp/devecosystem-2019/kotlin/)
 
-* target: Android: 66% JVM 57% native 8%
-* JDK 11: 25% 10-9: 11-14% 8: 80%
-* Android: 74% Pie 9 79% 8 Oreo, sous 50% à la 4 KitKat
-* type of app: mobile: 62%, web abckend 41%, libraries 29%
-* 71% pour travail, 69% maison
-* autres langages 86% Java
+* target: 66 % Android, 57 % JVM, 8 % native
+* JDK : 25 % 11, 11-14 % 10-9, 80 % 8
+* Android : 74 % Pie 9, 79 % 8 Oreo, sous 50 % à la 4 KitKat
+* type of app : 62 % mobile, 41 % web backend, 29 % libraries
+* 71 % pour travail, 69 % maison
+* autres langages 86 % Java
 
 [Databases](https://www.jetbrains.com/lp/devecosystem-2019/databases/)  
 
-* usage MySQL 60%, PostgreSQL 32%, MongoDB 30%, Rediis 27% Oracle dB 16% ???
+* usage : 60 % MySQL, 32 % PostgreSQL, 30 % MongoDB, 27 % Redis, 16 % Oracle DB ???
 
 ### Frameworks
 
-[Quarkus 0.19 avec acces MongoDB, Neo4j, AWS DynamoDB et Apache Tika](https://quarkus.io/blog/quarkus-0-19.1-released/)  
+[Quarkus 0.19 avec accès MongoDB, Neo4j, AWS DynamoDB et Apache Tika](https://quarkus.io/blog/quarkus-0-19.1-released/)  
 
 ### Middleware
 
@@ -157,7 +157,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-215.mp3](https://traffic.
 [KOTLIN/EverywhereParis le 19 octobre 2019](https://everywhere.kotlin.paris/#/).  
 [DevFest Nantes les 21 et 22 octobre 2019](https://devfest.gdgnantes.com/).  
 [Voxxed Microservices 21 au 23 octobre 2019](https://voxxeddays.com/microservices/).  
-[ScalaIO](https://scala.io/) du 29 au 31 octobre a Lyon. Thème programmation fonctionelle.  
+[ScalaIO](https://scala.io/) du 29 au 31 octobre a Lyon. Thème programmation fonctionnelle.  
 [Devoxx Belgique du 4 au 8 novembre 2019](https://devoxx.be/)  
 [Bdx.io le 15 novembre 2019](https://www.bdx.io/#/home).  
 [DevOps D-Day les 13 et 14 novembre 2019](http://2019.devops-dday.com/) - Le [CfP](http://2019.devops-dday.com/index.html) est ouvert.  

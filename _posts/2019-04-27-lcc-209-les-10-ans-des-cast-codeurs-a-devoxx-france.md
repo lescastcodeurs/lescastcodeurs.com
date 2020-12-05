@@ -7,7 +7,7 @@ mp3_length: 33167157
 tweet: Les 10 ans de @lescastcodeurs à @DevoxxFR #ama video sur https://youtu.be/S5XdWN_pYxA
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Cet épisode en direct de Devoxx France est l'occasion pour la fine équipe de repondre aux questions que vous nous avez posé.
+Cet épisode en direct de Devoxx France est l'occasion pour la fine équipe de répondre aux questions que vous nous avez posés.
 
 Enregistré le 19 avril 2019
 
@@ -31,4 +31,3 @@ Soutenez Les Cast Codeurs sur Patreon <https://www.patreon.com/LesCastCodeurs>
 Contactez-nous via twitter <https://twitter.com/lescastcodeurs>  
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>
-<!-- vim:set spelllang=fr :-->

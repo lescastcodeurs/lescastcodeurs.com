@@ -84,7 +84,7 @@ AWS vs l'Open Source, la suite
 * [AWS gives open source the middle finger](https://techcrunch.com/2019/01/09/aws-gives-open-source-the-middle-finger/)
 * [AWS, MongoDB, and the Economic Realities of Open Source](https://stratechery.com/2019/aws-mongodb-and-the-economic-realities-of-open-source/)  
 
-Première amende pour non conformité au RGPD, de 50 millions d'euros à l'encontre de Google
+Première amende pour non-conformité au RGPD, de 50 millions d'euros à l'encontre de Google
 
 * [Premiere sanction contre Google suite à nos plaintes collectives](https://www.laquadrature.net/2019/01/21/premiere-sanction-contre-google-suite-a-nos-plaintes-collectives/)  
 * [La formation restreinte de la CNIL prononce une sanction de 50 millions d’euros à l’encontre de la société GOOGLE LLC](https://www.cnil.fr/fr/la-formation-restreinte-de-la-cnil-prononce-une-sanction-de-50-millions-deuros-lencontre-de-la)  

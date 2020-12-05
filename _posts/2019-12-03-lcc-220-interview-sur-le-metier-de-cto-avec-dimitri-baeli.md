@@ -20,10 +20,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-220.mp3](https://traffic.
 
 ### C’est quoi TechRocks ?
 
-Tech.Rocks c’est avant tout la volonté de construire un réseau de leaders tech qui échangent sur leur problématiques. 
+Tech.Rocks c’est avant tout la volonté de construire un réseau de leaders tech qui échangent sur leurs problématiques. 
 Activités :
 
-* Une conférence annuelle: 4 Dec
+* Une conférence annuelle : 4 Dec
 * Des Meetups mensuels à Paris (et j’espère en province en 2020)
 * Un Slack avec 500 CTOs
 * Un groupe dit « Core » à vocation de Think Tank pour explorer les questions difficiles des grosses équipes. Un groupe restreint pour vraiment bien se connaître en croissance maîtrisée.
@@ -37,7 +37,7 @@ Quels sont les “nice to have” dans une expérience professionnelle pour deve
 
 Est ce qu’un CTO doit maîtriser toute la stack ? 
 
-### Orga equipes (agilite, usine logicielle)
+### Orga équipes (agilité, usine logicielle)
 
 Responsabilité dans le choix de l’organisation des équipes
 
@@ -45,13 +45,13 @@ Responsabilité dans le choix de l’organisation des équipes
 
 C’est quoi la journée type d’un CTO ? 
 
-Est ce que l’on peut être CTO et avoir une vie perso ?
+Est-ce que l’on peut être CTO et avoir une vie perso ?
 
 Quelles sont les différentes facettes du rôle de CTO ?
 
 ### Management & Leadership
 
-Quel est le rôle du CTO en terme de management ? 
+Quel est le rôle du CTO en termes de management ? 
 
 Et si tu dois te faire accepter par une équipe déjà constituée ?
 
@@ -59,7 +59,7 @@ Board : Quand tu rentres dans une boite, comment tu vérifies que tu as carte bl
 
 ### Le recrutement
 
-Comment monter ton équipe au tout départ ? Tu prends plutot quelques personnes chacunes spécialisées dans son truc ou tu prends des profils plus généralistes ?
+Comment monter ton équipe au tout départ ? Tu prends plutôt quelques personnes chacunes spécialisées dans son truc ou tu prends des profils plus généralistes ?
 
 Comment identifier les profils dont tu as besoin quand l'équipe grossit ?
 
