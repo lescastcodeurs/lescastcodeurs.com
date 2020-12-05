@@ -5,10 +5,10 @@ title: Mentions légales
 ## Éditeur du site
 
 Codagora (Emmanuel Bernard)  
-9 rue des Fusillés de la Résistance  
-92800 Puteaux
+3 Chemin Pierreux
+78640 Neauphle-le-Château
 
-Nº SIRET 841625197 00014  
+Nº SIRET 841625197 00022  
 Dispensé d’immatriculation au registre du commerce et des sociétés (RCS) et au répertoire des métiers (RM)
 
 ## Directeur de la publication
