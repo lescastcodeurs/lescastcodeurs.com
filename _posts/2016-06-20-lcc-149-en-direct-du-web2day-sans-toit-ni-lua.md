@@ -47,7 +47,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-149.mp3](http://traffic.
 Nantes c'est génial  
 Zone artistique  
 
-Tous des camera sur pied  
+Tous des caméras sur pied  
 Beaucoup de panels  
 Ça casse beaucoup les grands du web (vie privée etc). Point de comparaison ?  
 
@@ -69,11 +69,11 @@ Utilisation des données.
 ### Autopartage
 
 Mixe achat voiture et location de sa voiture  
-Augmentation de 3 à 5%  
-Apport d'un nouveau publique  
+Augmentation de 3 à 5 %  
+Apport d'un nouveau public  
 Partenariat avec une startup vs innovation en interne  
 
-### Faut il congeler des ovocytes ?
+### Faut-il congeler des ovocytes ?
 
 Place de l'enfant  
 Un projet embêtant dans la vie ?  
@@ -135,7 +135,7 @@ Parler de System.out
 ###  Architecture
 
 [Architecture serverless expliquée par Amazon](http://www.allthingsdistributed.com/2016/05/aws-lambda-serverless-reference-architectures.html)  
-On gère ta donnée avec nos applis proprio ; et tu fais ton petit code  
+On gère ta donnée avec nos applis proprios ; et tu fais ton petit code  
 
 [Pourquoi DOS à un antislash](http://bit.ly/1UbphV4)  
 
@@ -165,4 +165,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

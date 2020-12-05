@@ -69,7 +69,7 @@ Initiative numérique ? Aidée par le gouvernement ?
 Les marchés de l'emploi (niveau de vie)  
 Embauche directe ou via société ?  
 Des différences de méthodes ou approches par rapport à ce que l'on connait en France ?  
-Des structures SSII comme en France, ou plutot indep comme en Angleterre ?  
+Des structures SSII comme en France, ou plutôt indep comme en Angleterre ?  
 9h-18h ?  
 
 Le gouvernement et les nouvelles technos (percée numérique / informatique)
@@ -105,4 +105,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

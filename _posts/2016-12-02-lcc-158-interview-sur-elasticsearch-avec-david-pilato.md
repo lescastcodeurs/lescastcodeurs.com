@@ -71,8 +71,8 @@ Tester / améliorer la perf de mes requêtes
 
 Quid des aggregations, je peux faire quoi
 
-Un cluster, des replicats, des indexés, des shards.  
-Quels sont les notions importantes pour le développeurs  
+Un cluster, des replicas, des indexés, des shards.  
+Quels sont les notions importantes pour les développeurs  
 
 Scaler  
 Comment ça se passe pour scaler  
@@ -92,4 +92,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

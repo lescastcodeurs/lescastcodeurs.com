@@ -8,7 +8,7 @@ mp3_length: 32752260
 L'enregistrement en direct des cast codeurs en clôture de Devoxx France.
 On parle un peu de Devoxx, mais on rigole beaucoup surtout.
 Grosse annonce en troisième tiers d'émission.
-Cet épisode est assez visuel, pour pouvez aussi le regarder sur [YouTube](https://youtu.be/h2hA3TSTdpw).
+Cet épisode est assez visuel, vous pouvez aussi le regarder sur [YouTube](https://youtu.be/h2hA3TSTdpw).
 
 Enregistré le 22 avril 2016
 
@@ -27,4 +27,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

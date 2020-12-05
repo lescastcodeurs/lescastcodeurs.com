@@ -13,7 +13,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-147.mp3](http://traffic.
 
 ## Retour de la BoF
 
-A noter: Les [videos](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A) de Devoxx France 2016 sont en ligne sur Youtube  
+À noter : Les [videos](https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A) de Devoxx France 2016 sont en ligne sur Youtube  
 [Faites-nous un petit crowdcast](https://lescastcodeurs.com/crowdcast/)  
 
 ##  News
@@ -54,7 +54,7 @@ Jigsaw: ça passe ou ça casse ?
 [Exposer vos services docker sur une seconde IP](https://blog.ouvrard.it/2016/04/18/docker-plusieurs-ips/)  
 [GitHub: nombre de repos illimités](https://github.com/blog/2164-introducing-unlimited-private-repositories)  
 [Jenkins 2.0](https://jenkins.io/2.0/) et [jenkins.io](https://jenkins.io)  
-  Pub: Soirées Jenkins 2.0 le [jeudi 19 mai au MarsJUG](http://marsjug.org/#reunions) et le [mardi 7 juin au ParisJUG](https://www.parisjug.org)
+  Pub : Soirées Jenkins 2.0 le [jeudi 19 mai au MarsJUG](http://marsjug.org/#reunions) et le [mardi 7 juin au ParisJUG](https://www.parisjug.org)
 [2 ans d'open source d'Atom](http://blog.atom.io/2016/05/06/two-years-open-source.html)  
 
 ### Divers
@@ -99,4 +99,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

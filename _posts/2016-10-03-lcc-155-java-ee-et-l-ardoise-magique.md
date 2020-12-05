@@ -59,7 +59,7 @@ Bean Validation 2.0 et les collections
 
 [Angular 2.0 est sorti](http://angularjs.blogspot.fr/2016/09/angular2-final.html?m=1)  
 [Overview de la fetch API](https://davidwalsh.name/fetch) (article de Guillaume avec un [exemple](http://glaforge.appspot.com/article/natural-language-api-and-javascript-promises-to-bind-them-all))  
-[Utiliser Ngrok pour déveloper ses webhooks](https://www.runtimerror.com/working-with-webhooks-in-development/)  
+[Utiliser Ngrok pour développer ses webhooks](https://www.runtimerror.com/working-with-webhooks-in-development/)  
 
 ### Data
 
@@ -96,11 +96,11 @@ Bean Validation 2.0 et les collections
 [Homebrew 1.0](http://brew.sh/2016/09/02/homebrew-1.0.0/)  
 [OSS projects on http://SonarQube.com : claim the ownership! ](https://groups.google.com/forum/#!msg/sonarqube/EPHbPVqS9U0/9SVGdfwXBQAJ) 
 
-[ripgrep - fast gret for all grep usage, build with rust](https://github.com/BurntSushi/ripgrep)
+[ripgrep - fast grep for all grep usage, build with rust](https://github.com/BurntSushi/ripgrep)
 
 ### Organisation, communication et politique
 
-[Accenture rachete Octo](https://www.zonebourse.com/ACCENTURE-PLC-11521/actualite/ACCENTURE-rachete-OCTO-TECHNOLOGY-pour-115-millions-d-euros-23057165/) [autre](http://www.lemondeinformatique.fr/actualites/lire-accenture-acquiert-octo-technology-115-meteuro-65924.html) 
+[Accenture rachète Octo](https://www.zonebourse.com/ACCENTURE-PLC-11521/actualite/ACCENTURE-rachete-OCTO-TECHNOLOGY-pour-115-millions-d-euros-23057165/) [autre](http://www.lemondeinformatique.fr/actualites/lire-accenture-acquiert-octo-technology-115-meteuro-65924.html) 
 
 ### Divers
 
@@ -114,9 +114,9 @@ Un crowdcast de Omar Mebarki
 
     $ netstat -anp | grep 8888
 
-* -a: Toues les sockets
-* -n: numeric, pas de resolution de non dns. Afficher les numéro de port au lieu du nom du protocole supposé (80 au lieu de http)
-* -p: affiche le PID (qui est le numéro du process)
+* -a : Toues les sockets
+* -n : numeric, pas de resolution de nom DNS. Afficher les numéros de port au lieu du nom du protocole supposé (80 au lieu de http)
+* -p : affiche le PID (qui est le numéro du process)
 
 Ce numéro peut être utilisé ensuite avec la command 'ps' pour avoir lus de détails
 
@@ -126,7 +126,7 @@ Ce numéro peut être utilisé ensuite avec la command 'ps' pour avoir lus de d�
 [Codeurs en Seine, le CfP](https://www.papercall.io/ces-2016) le jeudi 24 novembre (avec des ateliers le 26 novembre)  
 [DevFest Nantes, le CfP](https://cfp.gdgnantes.com/) les 9 et 10novembre à Nantes. CfP jusqu'à fin août.  
 [Devoxx Belgique du 7 au 11 novembre](https://devoxx.be)  
-[Snowcamp les 8-10 fevrier](http://snowcamp.io)  
+[Snowcamp les 8-10 février](http://snowcamp.io)  
 
 [scala.io 27 et 28 octobre + une track débutant total](http://scala.io)
 
@@ -136,4 +136,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

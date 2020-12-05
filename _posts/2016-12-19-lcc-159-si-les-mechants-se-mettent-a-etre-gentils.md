@@ -22,7 +22,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-159.mp3](http://traffic.
 [La mailing liste JDK 10 est ouverte](http://mail.openjdk.java.net/pipermail/jdk10-dev/2016-November/thread.html)  
 [Java 9 peut-être à l'heure mais sans les tests ?](https://www.infoq.com/news/2016/12/java9-latest-schedule-at-risk)  
 
-Les JEP pour Java 10+:
+Les JEP pour Java 10+ :
 
 * [Lambda](http://openjdk.java.net/jeps/302)
 * [Enums et Generics](http://openjdk.java.net/jeps/302)
@@ -49,13 +49,13 @@ Les JEP pour Java 10+:
 
 ### Infrastructure
 
-[Docker rachete Infinit](http://dockr.ly/2hdX2Jk)  
+[Docker rachète Infinit](http://dockr.ly/2hdX2Jk)  
 [Retour (naif) sur Docker](http://racknole.com/blog/running-docker-in-production-for-6-months/)  
 [Retour moins naif sur Docker](https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/?utm_content=buffer4b43e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer/) 
 
 [La mémoire des process expliques aux enfants](http://jvns.ca/blog/2016/12/03/how-much-memory-is-my-process-using-/) 
 
-AWS a fait sa grand-messe (quelqu'un a suivi d'un peu plus pret que moi?) Snowball, Snowmobile, glue, Lambda edge, lightsail (VPS)
+AWS a fait sa grand-messe (quelqu'un a suivi d'un peu plus près que moi ?) Snowball, Snowmobile, glue, Lambda edge, lightsail (VPS)
 
 [Ce que Dropbox a fait depuis qu'ils sont partis de AWS](https://www.infoq.com/podcasts/preslav-le-dropbox) 
 [StackOverflow: combien de serveurs](http://stackexchange.com/performance)  
@@ -96,7 +96,7 @@ Héritage OO et REST vs message.
 
 ## Conférences
 
-[Snowcamp les 8-10 fevrier](http://snowcamp.io)  
+[Snowcamp les 8-10 février](http://snowcamp.io)  
 [Devoxx France](http://www.devoxx.fr) les 5-7 avril 2017  
 [Mix-IT](https://www.mix-it.fr) les 20-21 avril 2017  
 [Breizhcamp](http://www.breizhcamp.org) les 19-21 avril 2017  
@@ -110,4 +110,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

@@ -54,7 +54,7 @@ Les outils de Quentin Adam
 
 * [autojump](https://github.com/wting/autojump#installation) qui permet de se déplacer vite dans son système
 * [autoenv](https://github.com/kennethreitz/autoenv#install), qui permet de peupler avec les variables d'env sa session shell
-* et le twitter de Quentin si il y a des questions : <https://twitter.com/waxzce>
+* et le twitter de Quentin s’il y a des questions : <https://twitter.com/waxzce>
 
 
 ###  Big Data
@@ -86,7 +86,7 @@ Les outils de Quentin Adam
 [Breizhcamp 23-26 mars](http://www.breizhcamp.org)  
 [Devoxx France 20/22 avril](http://www.devoxx.fr)  
 [Mix-IT 21 et 22 avril](http://www.mix-it.fr)  
-[EclipseCon Virginie, Etats-Unis, 7-10 mars 2016](https://www.eclipsecon.org/na2016/)  
+[EclipseCon Virginie, États-Unis, 7-10 mars 2016](https://www.eclipsecon.org/na2016/)  
 Voxxed Days Luxembourg:
 
 * Le site : [Voxxed Days Luxembourg](https://voxxeddays.com/luxembourg)  (Inscriptions, Informations)
@@ -100,4 +100,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

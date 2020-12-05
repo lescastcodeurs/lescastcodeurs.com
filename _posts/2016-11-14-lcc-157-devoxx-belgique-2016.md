@@ -39,7 +39,7 @@ Merci a tous les interviewés !
 
 ## DevFest Nantes 2016
 
-Pierre Boissinot, je suis en dernière année de master à ENI Ecole, je suis en alternance et en entreprise je fais du dev web (Angular2 actuellement). On peut me suivre sur twitter: [@PierreBoissinot](https://twitter.com/PierreBoissinot).
+Pierre Boissinot, je suis en dernière année de master à ENI École, je suis en alternance et en entreprise je fais du dev web (Angular2 actuellement). On peut me suivre sur twitter : [@PierreBoissinot](https://twitter.com/PierreBoissinot).
 
 [Twitter de DevFest](https://twitter.com/devfestnantes)  
 [Site de DevFest](https://devfest.gdgnantes.com/)  
@@ -49,7 +49,7 @@ Pierre Boissinot, je suis en dernière année de master à ENI Ecole, je suis en
 ## Conférences
 
 [Codeurs en Seine](http://www.codeursenseine.com) le jeudi 24 novembre (avec des ateliers le 26 novembre)  
-[Snowcamp les 8-10 fevrier](http://snowcamp.io)  
+[Snowcamp les 8-10 février](http://snowcamp.io)  
 
 ## Nous contacter
 
@@ -58,4 +58,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  
