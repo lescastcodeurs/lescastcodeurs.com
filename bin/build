@@ -5,3 +5,16 @@ set -e
 bundle install
 bundle exec jekyll clean
 bundle exec jekyll build
+
+while [[ $# -gt 0 ]]
+do
+  param="$1"
+  case $param in
+    -p|--publish)
+    # publish the website
+    shift # shift to next argument
+    rsync -avz --delete --filter="- /video/" --filter="- /cgi-bin/" _site/ lcc-web:/var/www/lescastcodeurs
+    ;;
+  esac
+done
+exit 0;

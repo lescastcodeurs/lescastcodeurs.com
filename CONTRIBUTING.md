@@ -66,6 +66,12 @@ Pour construire le site exécuter :
 
 Le site est alors disponible dans le répertoire `_site`.
 
+### Publier le site
+
+Uniquement Emmanuel peut publier le site
+
+    ./bin/build --publish
+
 ### Mise à jour de Jekyll et de ses dépendances
 
 Pour la mise à jour de Jekyll et de ses dépendances, exécuter tout d'abord :
