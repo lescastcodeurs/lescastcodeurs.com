@@ -83,7 +83,7 @@ Article de performance SpringBoot classique vs réactif
 
 ### Outillage
 
-[GitHub se fait gobber par Microsoft](https://www.linuxfoundation.org/blog/microsoft-buys-github-the-linux-foundations-reaction/)  
+[GitHub se fait gober par Microsoft](https://www.linuxfoundation.org/blog/microsoft-buys-github-the-linux-foundations-reaction/)  
 [L’équipe Java Mission Control virée par Oracle](https://www.infoq.com/news/2018/06/open-source-jmc)  
 [Gradle 4.8](https://docs.gradle.org/4.8/release-notes.html)  
 
@@ -107,7 +107,7 @@ Byteman et injection de faute
 ## Rubrique débutant
 
 Crowdcast de Pierre Carion  
-Pour un débutant qu'est-ce:
+Pour un débutant qu'est-ce :
 
 * les forces de Java ou de la JVM
 * qui rend Java encore attractif
@@ -124,7 +124,7 @@ Pour un débutant qu'est-ce:
 [Jug Summer Camp le 14 septembre 2018](http://www.jugsummercamp.org/edition/9) - Le [CfP](http://www.jugsummercamp.org/edition/9/cfp/new) est ouvert.    
 [Paris Web les 4, 5 et 6 octobre 2018](https://www.paris-web.fr/)  
 [DevFest Nantes les 18 et 19 octobre 2018](https://devfest.gdgnantes.com/) - Le [CfP](https://cfp.gdgnantes.com/public/event/inzOQDR94h4bAaOVd7Db) est ouvert.  
-[Jenkins World Europe du 22 au 25 octobre 2018 à Nice](https://www.cloudbees.com/jenkinsworld/home) - (utilisez le code JWAHERITIER pour obtenir 20% de réduction).  
+[Jenkins World Europe du 22 au 25 octobre 2018 à Nice](https://www.cloudbees.com/jenkinsworld/home) - (utilisez le code JWAHERITIER pour obtenir 20 % de réduction).  
 [VoxxedDays Microservices du 29 au 31 octobre 2018](https://voxxeddays.com/microservices/)  
 [DevFest Toulouse le 8 novembre 2018](https://devfesttoulouse.fr/)  
 [Codeurs en Seine le 22 novembre 2018](http://www.codeursenseine.com/2018/)  

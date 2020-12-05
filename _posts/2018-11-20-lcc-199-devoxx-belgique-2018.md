@@ -36,7 +36,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-199.mp3](https://traffic.
 #### Patreon
 
 [Soutenir les cast codeurs](https://patreon.com/LesCastCodeurs)  
-Porte jaretelle chaussette et chemises
+Porte-jarretelles, chaussettes et chemises
 
 #### Tendances
 

@@ -24,7 +24,7 @@ Merci aux premiers auditeurs qui ont sauté le pas en nous soutiennent sur Patre
 
 ### Kubernetes
 
-Orchestrateur open source de containeurs, avec déploiement, scaling et management automatisé.  
+Orchestrateur open source de containers, avec déploiement, scaling et management automatisé.  
 [Kubernetes](https://kubernetes.io/)  
 
 ### Istio
