@@ -33,26 +33,26 @@ Trois JEPs prévus pour être intégrés à Java 14 :
 [Tricher le GC de Go avec du poids mort](https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/)  
 
 * le GC se déclenche tous les 2x de heap
-* si pas d'alloc, ca veut dire qu'il vide jusqu'à 1x mais déclenche des GC super fréquement
+* si pas d'alloc, ca veut dire qu'il vide jusqu'à 1x mais déclenche des GC super fréquemment
 * donc en allouant (virtuellement) un tableau de 10Go, on réduit le temps entre GC
 * le cout d'un concurrent mark sweep c'est de marquer les objets vivants (les morts ont peu de cout)
 * et les co-routines pendant une phase de mark-sweep doivent faire un travail de mark ce qui les ralenties
 * donc moins de GC veut dire plus rapide
-* c'est le cout a payer pour un GC avec 1 ou peu de parametres.
+* c'est le coût à payer pour un GC avec 1 ou peu de paramètres.
 
 [Shenandoah: éliminer les mots de pointeurs en avant](https://developers.redhat.com/blog/2019/06/28/shenandoah-gc-in-jdk-13-part-2-eliminating-the-forward-pointer-word/)  
 
 * Shenandoah bouge les objets sans mettre à jour ses pointeurs
     * juste garde une copie dans l'objet même de ses references
-    * puis met à jour les references de maniere concurrente en parallele de l'appli
+    * puis met à jour les references de manière concurrente en parallèle de l'appli
     * et enfin peut virer les objets.
 * par défaut Shenandoah demande un word supplémentaire par objet
     * si le word == l'objet, on est normal, sinon il pointe vers la nouvelle copie de l'objet
-    * 5 à 10% de mémoire supplémentaire en pratique
+    * 5 à 10 % de mémoire supplémentaire en pratique
 * peut réutiliser le mark word mais comparaison chère surtout à faire à chaque read-barrier
     * uniquement pendant un GC et sur les objets dans des collections set => peu fréquents
     * dans les tests le code de décoding supplémentaire est pas visible dans les benchmarks
-* mais ils ont éliminé les read barrier en load-reference-barrier qui sont moins fréquentes en nombre d'objet
+* mais ils ont éliminé les read barrier en load-reference-barrier qui sont moins fréquentes en nombre d'objets
 * meilleure densité mémoire, moins de pression sur le CPU cache, plus de throughput
 
 ### Librairies
@@ -75,7 +75,7 @@ Trois JEPs prévus pour être intégrés à Java 14 :
 * Camel core modularisé et moins de classes à démarrer, réduire la reflection
 * support de GraalVM via Quarkus
 * DSL typesafe de définition de endpoint
-* Coeur réactif
+* Cœur réactif
 * Intégration avec microprofile
 * nouveaux composants ( - graphql - 4 more AWS components - Debezium components)
 
@@ -110,7 +110,7 @@ Trois JEPs prévus pour être intégrés à Java 14 :
 * accumulation d'annotations pour abstraire ses modèles (JSON, JPA)
 * associations gérées en proxy dans JPA et en id ou null dans API
 * V2 de l'API
-* aggrégation des données dans l'API
+* agrégation des données dans l'API
 
 ### Outillage
 
@@ -123,7 +123,7 @@ Trois JEPs prévus pour être intégrés à Java 14 :
 
 ### Méthodologies
 
-[L'humain est résiliant aux chocs de la vie mais pas tant que cela au chomage de longue durée](https://twitter.com/DKThomp/status/1201177826428215297)  
+[L'humain est résiliant aux chocs de la vie mais pas tant que cela au chômage de longue durée](https://twitter.com/DKThomp/status/1201177826428215297)  
 
 * [étude](https://ourworldindata.org/happiness-and-life-satisfaction)
 * Plus on est dans un pays développé, plus on est heureux
@@ -138,7 +138,7 @@ Trois JEPs prévus pour être intégrés à Java 14 :
 
 * [Snowcamp du 22 au 25 janvier 2020](https://snowcamp.io/fr/)
 * [DevFest Paris le 14 février 2020](https://devfest.gdgparis.com/) - Le [CfP](https://conference-hall.io/public/event/ODBtjOW9rpElZKnhzuXF) est ouvert.
-* [Breizhcamp du 25 au 27 mars 2020](https://www.breizhcamp.org/) - [Le CfP est ouvert](breizhcamp.cfp.io)   
+* [Breizhcamp du 25 au 27 mars 2020](https://www.breizhcamp.org/) - [Le CfP est ouvert](https://breizhcamp.cfp.io)   
 * [Devoxx France du 15 au 17 avril 2020](https://www.devoxx.fr/) - [Le CfP est ouvert](http://cfp.devoxx.fr/) - [Les places sont réservées en 57h](https://reg.devoxx.fr/)   
 * [RivieraDev du 13 au 15 mai 2020](https://rivieradev.fr/) - [Le CfP est ouvert](https://conference-hall.io/public/event/93yz1UrcsugPKYsoxJjL)   
 

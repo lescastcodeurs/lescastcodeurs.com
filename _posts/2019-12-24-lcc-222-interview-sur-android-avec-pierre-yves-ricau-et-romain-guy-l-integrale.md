@@ -28,16 +28,16 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-222.mp3](https://traffic.
 ### Intro
 
 [Android](https://www.android.com)  
-[Andoid sources](https://source.android.com/)  
+[Android sources](https://source.android.com/)  
 
 Android 10
 
 ### JetPack
 
 [JetPack](https://developer.android.com/jetpack/)  
-Supporter des versions differentes d'Android  
+Supporter des versions différentes d'Android  
 [JetPack Compose](https://developer.android.com/jetpack/compose)  
-Toolkit UI reactif  
+Toolkit UI réactif  
 
 
 [Jetifier](https://developer.android.com/studio/command-line/jetifier)  
@@ -55,7 +55,7 @@ Toolkit UI reactif
 
 ### optimisations
 
-Coeurs  
+Cœurs  
 Batterie  
 
 Dark theme et reduction de consommation de batterie
@@ -83,7 +83,7 @@ Fuite d'info par effet de bord
 
 ### Microservices
 
-De l'intéret pour le mobile ?  
+De l'intérêt pour le mobile ?  
 Innovation vs standardisation  
 Monorepo  
 [Gradle](https://gradle.org/)  
@@ -91,7 +91,7 @@ Monorepo
 
 ### Podcast et resources Android
 
-[Android Leaks](https://androidleakspodcast.com/) en Français  
+[Android Leaks](https://androidleakspodcast.com/) en français  
 [Android Developers Backstage](https://androidbackstage.blogspot.com/)  
 [Android Dialogs](https://fragmentedpodcast.com/tag/android-dialogs/)  
 

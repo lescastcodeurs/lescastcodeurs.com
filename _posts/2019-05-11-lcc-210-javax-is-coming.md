@@ -72,9 +72,9 @@ GraalVM et Quarkus dispo sur Clever Cloud:
 
 ### Méthodologies
 
-[Les projets ont besoin de héros](arxiv.org/abs/1904.09954)  
+[Les projets ont besoin de héros](https://arxiv.org/abs/1904.09954)  
 
-* 80% des commits fait par 20% de gens: ce sont les projets majoritaires sur GitHub
+* 80 % des commits fait par 20 % de gens : ce sont les projets majoritaires sur GitHub
 
 ### Sécurité
 
@@ -127,7 +127,7 @@ Soutenez Les Cast Codeurs sur Patreon <https://www.patreon.com/LesCastCodeurs>
 [Faire un crowdcast ou une crowdquestion](https://lescastcodeurs.com/crowdcasting/)  
 Contactez-nous via twitter <https://twitter.com/lescastcodeurs>  
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <https://lescastcodeurs.com/>wdquestion](https://lescastcodeurs.com/crowdcasting/)  
+ou sur le site web <https://lescastcodeurs.com/>  
 Contactez-nous via twitter <https://twitter.com/lescastcodeurs>  
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>

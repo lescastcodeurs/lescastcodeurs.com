@@ -27,7 +27,7 @@ Security [Vidéo](https://www.youtube.com/watch?v=mDdRGlSW9Ro)
 
 ### Trends
 
-Beaucoup de core java: cadence 6 mois, loom  
+Beaucoup de core java : cadence 6 mois, loom  
 GraalVM / Micronaut / Quarkus / Spring Boot  
 
 Event driven / Kafka  
@@ -79,7 +79,7 @@ API for the docker file directives
 But needs golang  
 
 **Jib**  
-Uses maven envrionment  
+Uses maven environment  
 No need for docker daemon, creates the right tarball and push it  
 
 negative:  

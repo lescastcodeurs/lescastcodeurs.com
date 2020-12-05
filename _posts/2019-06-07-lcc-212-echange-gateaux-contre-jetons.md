@@ -30,7 +30,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-212.mp3](https://traffic.
 [Utiliser les co-routines Kotlin pour utiliser Spring Reactive](https://spring.io/blog/2019/04/12/going-reactive-with-spring-coroutines-and-kotlin-flow#webflux-with-coroutines-api-in-kotlin)  
 
 * structured concurrency
-* trade off entre approche visuellement imperative et l'approache reactive
+* trade-off entre approche visuellement imperative et l'approche réactive
 
 [GraalVM 19.0](https://medium.com/graalvm/announcing-graalvm-19-4590cf354df8)  
 [Eclipse Vert.x 3.7.1](https://vertx.io/blog/eclipse-vert-x-3-7-1/)  
@@ -38,7 +38,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-212.mp3](https://traffic.
 
 [Quarkus 0.16.0](https://github.com/quarkusio/quarkus/releases/tag/0.16.0)  
 
-* emails blocking et non blocking
+* emails blocking et non-blocking
 * Configuration profiles
 * CORS
 * Camel AWS SQS
@@ -66,17 +66,17 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-212.mp3](https://traffic.
 [Build your Angular application with Bazel](https://blog.ninja-squad.com/2019/05/14/build-your-angular-application-with-bazel/)  
 [Build your own WebAssembly Compiler](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)  
 [W3C / WHATWG fusionnent](https://www.theregister.co.uk/2019/05/29/w3c_whatwg_working_on_one_html_dom_spec/)  
-[HTTP HEADERS du developpeur responsable](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)  
+[HTTP HEADERS du développeur responsable](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer)  
 
 * HSTS
 * Content-Security-Policy (upgrade insecure requests etc)
 * cache control, accept encoding (compression)
 * Accept and Accept CH
     * ramener un webp quand in .jpg est demandé
-    * CH: tailles etc
+    * CH : tailles etc
 
 
-[Gluon reutilise GraalVM pour faire des applis mobiles native](https://gluonhq.com/a-boost-for-java-on-the-client/)  
+[Gluon réutilise GraalVM pour faire des applis mobiles native](https://gluonhq.com/a-boost-for-java-on-the-client/)  
 
 * mentionne [jpackage](https://jdk.java.net/jpackage/)
 
@@ -90,7 +90,7 @@ Changer le schéma de base de données automatiquement [à SendGrid](https://sen
 [FreeCodeCamp quitte Medium](https://www.reddit.com/r/FreeCodeCamp/comments/bvaf9i/freecodecamp_is_leaving_medium/)  
 
 * Medium pousse pour un paywall
-* les gens redecouvrent que les blogs sont distribués par nature
+* les gens redécouvrent que les blogs sont distribués par nature
 * RSS FTW
 
 ### Architecture
@@ -117,10 +117,10 @@ Changer le schéma de base de données automatiquement [à SendGrid](https://sen
 )  
 [La mairie de Paris vs créer son propre data center](https://www.lebigdata.fr/paris-data-center)
 
-* Beaucoup de gens outrés qu'ils ne prennent pas OVH (securité, c'est un métier, etc)
+* Beaucoup de gens outrés qu'ils ne prennent pas OVH (sécurité, c'est un métier, etc)
 * [Pourquoi c'est pas si con](https://twitter.com/btreguier/status/1134576376101658624)  
     * durée de vie des données sur plus d'une vie humaine
-    * marché public de ~ 5 ans max: bouger données tous les 5 ans bonjour
+    * marché public de ~ 5 ans max : bouger les données tous les 5 ans bonjour
 
 ## Conférences
 
@@ -136,7 +136,7 @@ Changer le schéma de base de données automatiquement [à SendGrid](https://sen
 [DevFest Toulouse le 3 octobre 2019](https://devfesttoulouse.fr/) - Le [CfP](https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi) est ouvert.   
 [DevFest Nantes les 21 et 22 octobre 2019](https://devfest.gdgnantes.com/) - Le [CfP](https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z) est ouvert.  
 [Voxxed Microservices 21 au 23 octobre 2019](https://voxxeddays.com/microservices/) et le [CfP est ouvert](https://vxdms2019.cfp.dev/#/login).  
-[ScalaIO](https://scala.io/) du 29 au 31 octibre a Lyon. CFP ouvert jusqu'à fin juin. Thème programmation fonctionelle.  
+[ScalaIO](https://scala.io/) du 29 au 31 octobre a Lyon. CFP ouvert jusqu'à fin juin. Thème programmation fonctionnelle.  
 [Devoxx Belgique du 4 au 8 novembre 2019](https://devoxx.be/)  
 [Bdx.io le 15 novembre 2019](https://www.bdx.io/#/home) - Le [CfP](https://conference-hall.io/public/event/XGTzWawB3ZwLR7u462O8) est ouvert.    
 [DevOps D-Day les 13 et 14 novembre 2019](http://2019.devops-dday.com/) - Le [CfP](http://2019.devops-dday.com/index.html) est ouvert.  
@@ -148,7 +148,7 @@ Soutenez Les Cast Codeurs sur Patreon <https://www.patreon.com/LesCastCodeurs>
 [Faire un crowdcast ou une crowdquestion](https://lescastcodeurs.com/crowdcasting/)  
 Contactez-nous via twitter <https://twitter.com/lescastcodeurs>  
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <https://lescastcodeurs.com/>wdquestion](https://lescastcodeurs.com/crowdcasting/)  
+ou sur le site web <https://lescastcodeurs.com/>  
 Contactez-nous via twitter <https://twitter.com/lescastcodeurs>  
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>

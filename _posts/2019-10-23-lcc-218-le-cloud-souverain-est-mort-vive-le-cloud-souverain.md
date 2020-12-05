@@ -58,9 +58,9 @@ Crowdcast de Fabien Baligand sur les voting-only nodes dans Elastic
 
 [Kubernetes 1.16](https://kubernetes.io/blog/2019/09/18/kubernetes-1-16-release-announcement/)  
 
-* [Le concept de containers éphèmeres](https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers/)  
+* [Le concept de containers éphémères](https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers/)  
 
-[Testcontainersjava 1.12.2](https://github.com/testcontainers/testcontainers-java/releases/tag/1.12.2)  
+[Testcontainers-java 1.12.2](https://github.com/testcontainers/testcontainers-java/releases/tag/1.12.2)  
 
 ### Web
 
@@ -103,7 +103,7 @@ Reconnaissance faciale et démocratie, ça pars mal.
 * [Cédric O : « Expérimenter la reconnaissance faciale est nécessaire pour que nos industriels progressent »](https://www.lemonde.fr/economie/article/2019/10/14/cedric-o-experimenter-la-reconnaissance-faciale-est-necessaire-pour-que-nos-industriels-progressent_6015395_3234.html)  
 * [Reconnaissance faciale : le patron d’Amazon propose d’écrire la loi qui régulera les activités d’Amazon](https://www.numerama.com/politique/551175-reconnaissance-faciale-le-patron-damazon-propose-decrire-la-loi-qui-regulera-les-activites-damazon.html)  
 
-A peine annoncé, Libra est déjà en difficulté
+À peine annoncé, Libra est déjà en difficulté
 
 * si vous ne savez pas ce qu'est le Libra, on vous explique tout dans [l'épisode 214](https://lescastcodeurs.com/2019/07/09/lcc-214-l-edition-barbecue/)  
 * [Libra : la France s’oppose au développement de la monnaie de Facebook « sur le sol européen »](https://www.lemonde.fr/pixels/article/2019/09/12/libra-la-france-s-oppose-au-developpement-de-la-monnaie-de-facebook-sur-le-sol-europeen_5509553_4408996.html)  
@@ -115,14 +115,14 @@ Cloud souverain, épisode 2, le retour.
 * [Cloud souverain : Bruno Lemaire relance Dassault Systèmes et OVH](https://www.silicon.fr/cloud-souverain-bruno-lemaire-relance-dassault-systemes-et-ovh-262679.html)  
 * [Le grand retour du «cloud souverain»: une histoire de gouvernance et de protectionnisme](https://www.frenchweb.fr/le-grand-retour-du-cloud-souverain-une-histoire-de-gouvernance-et-de-protectionnisme/376626)  
 
-Elections présidentielles américaines de 2020, réseaux sociaux et désinformation, on prends les mêmes et on recommence.
+Elections présidentielles américaines de 2020, réseaux sociaux et désinformation, on prend les mêmes et on recommence.
 
 * [Les règles de Facebook sont-elles les mêmes pour tout le monde ? Pas si vous êtes un politicien](https://www.lemonde.fr/pixels/article/2019/09/25/facebook-les-messages-de-politiciens-violant-ses-regles-resteront-tout-de-meme-en-ligne_6013018_4408996.html)  
 * [Après Facebook, YouTube clarifie les règles qui s’appliquent aux politiques](https://www.lemonde.fr/pixels/article/2019/09/27/apres-facebook-youtube-clarifie-les-regles-qui-s-appliquent-aux-politiciens_6013290_4408996.html?utm_medium=Social&utm_source=Twitter#Echobox=1569584773)  
 
 Facebook et Google dans le viseur de la justice, et plus seulement européenne.  
 
-* [Huit Etats américains ouvrent une enquête antitrust contre Facebook](https://www.lemonde.fr/pixels/article/2019/09/06/huit-etats-americains-ouvrent-une-enquete-antitrust-contre-facebook_5507300_4408996.html)  
+* [Huit États américains ouvrent une enquête antitrust contre Facebook](https://www.lemonde.fr/pixels/article/2019/09/06/huit-etats-americains-ouvrent-une-enquete-antitrust-contre-facebook_5507300_4408996.html)  
 * [Criteo porte plainte contre Facebook devant l'Autorité de la concurrence](https://www.lesechos.fr/tech-medias/hightech/criteo-porte-plainte-contre-facebook-devant-lautorite-de-la-concurrence-1136419)  
 * [Monopole, publicité, RGPD : pourquoi Google est attaqué sur tous les fronts](https://usbeketrica.com/article/publicite-monopole-rgpd-pourquoi-google-attaque-tous-les-fronts)  
 * [Mark Zuckerberg refuse d’envisager la vente d’Instagram et de WhatsApp](https://www.lemonde.fr/pixels/article/2019/09/20/facebook-mark-zuckerberg-refuse-de-vendre-instagram-et-whatsapp_6012356_4408996.html)  

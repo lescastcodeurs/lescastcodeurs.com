@@ -54,8 +54,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-207.mp3](https://traffic.
     * Quoi d'autre ?
 * Java ou Kotlin ?
 * Programmation Reactive ou Imperative ?
-* Le développement: Live coding & Hot Reload
-* L'eco-systeme: CDI, JAX-RS, RestEasy, Eclipse MicroProfile, Vert.x, JTA, JPA, Apache Camel, ...
+* Le développement : Live coding & Hot Reload
+* L'écosystème: CDI, JAX-RS, RestEasy, Eclipse MicroProfile, Vert.x, JTA, JPA, Apache Camel, ...
     * Arnaud ne peut donc pas coder avec Spring(-Boot) and Spring-Data ?
 
 ## Nous contacter

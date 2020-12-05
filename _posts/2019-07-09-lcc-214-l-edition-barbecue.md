@@ -21,9 +21,9 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-214.mp3](https://traffic.
 
 [JDK 13 is now in Rampdown Phase One](https://mail.openjdk.java.net/pipermail/jdk-dev/2019-June/003060.html)  
 [Le flow des commits OpenJDK vers leurs distributions](https://shipilev.net/jdk-updates/map/)  
-[Warm up d'applications sur la JVM avec Azuul](https://www.javacodegeeks.com/2019/06/faster-jvm-application-warm-zing.html)  
+[Warm-up d'applications sur la JVM avec Azul](https://www.javacodegeeks.com/2019/06/faster-jvm-application-warm-zing.html)  
 
-* prend des metriques au premier run et les redonne en info aux seconds runs
+* prend des métriques au premier run et les redonne en info aux seconds runs
 * cache la compilation et ses paramètres d'entrée pour garantir la sémantique de la spécification Java
 
 [Améliorer l'intégration entre JavaFX et les toolkits natifs](https://twitter.com/johanvos/status/1143508638235054081)  
@@ -54,7 +54,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-214.mp3](https://traffic.
 [RPMs expliqués](https://fedoramagazine.org/rpm-packages-explained/)  
 [Raspberry Pi 4 pour $35](https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/)  
 
-* vous l'utilisez pour quoi?
+* vous l'utilisez pour quoi ?
 
 [Running Custom Containers Under Chrome OS](https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md)  
 
@@ -69,13 +69,13 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-214.mp3](https://traffic.
 * corrélation directe entre le CPU et la RAM
     * donc peu de RAM, veut dire CPU lent et donc tourner beaucoup plus longtemps
     * la lambda se facture par incrément de 100ms donc n'optimisez pas en dessous
-* latence: cloudfront - API Gateway - lamba est au moins 50ms
-* trace et cloudwatch: c'est cher et verbeux et la UI est merdique
+* latence : cloudfront - API Gateway - lambda est au moins 50ms
+* trace et cloudwatch : c'est cher et verbeux et la UI est merdique
 * les fonctions lambda doivent être idempotentes car peuvent être rejouées sur la même requête de temps en temps
 * chainer les lambda est lent (latence cumulée) 100ms par sous appel
-* debuger une lambda qui time out c'est la merde
+* debugger une lambda qui time out c'est la merde
 * cold starts de 3s
-* quand est-ce que les lambda sont utilses (pas user facing)
+* quand est-ce que les lambdas sont utilisées (pas user facing)
 
 [Clever Cloud lance Clever Grid](https://www.clevergrid.io/)  
 
@@ -104,8 +104,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-214.mp3](https://traffic.
 * Utiliser l'event store en tant que bus d'évènement (entrainer melange des event business et techniques)
 * Séduit par la consistance au bout du compte
 * options
-    * passés du modèle relationel à des blobs JSON pour les vues
-    * ils utilisaient l'archi hexagonal donc les changements ont été doux
+    * passer du modèle relationnel à des blobs JSON pour les vues
+    * ils utilisaient l'archi hexagonale donc les changements ont été doux
 
 ### Outillage
 
@@ -113,7 +113,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-214.mp3](https://traffic.
 
 ### Architecture
 
-Les diagrammes UML sous controle de source via PlantUML [article 1](https://tech.olx.com/plantuml-diagrams-as-code-93773b394cd9) [article 2](https://medium.com/@yfuruyama/real-world-plantuml-7365ffc1b6e6) et [real world plantuml](https://real-world-plantuml.com/)  
+Les diagrammes UML sous contrôle de source via PlantUML [article 1](https://tech.olx.com/plantuml-diagrams-as-code-93773b394cd9) [article 2](https://medium.com/@yfuruyama/real-world-plantuml-7365ffc1b6e6) et [real world plantuml](https://real-world-plantuml.com/)  
   
 
 ### Méthodologies
@@ -121,11 +121,11 @@ Les diagrammes UML sous controle de source via PlantUML [article 1](https://tech
 [Pourquoi les anciennes sociétés ont un IT pas aussi glamour que la silicon valley](http://www.smashcompany.com/business/why-are-large-companies-so-difficult-to-rescue-regarding-bad-internal-technology)  
 
 * longue histoire de centralisation, décentralisation et rachat
-* changements de cap et donc céder du pouvoir / du contrôle de la donnée est un risque pour le future moyen
-* externalisation des non "coeur de compétence" vers des fournisseurs non interessé à la modernisation
+* changements de cap et donc céder du pouvoir / du contrôle de la donnée est un risque pour le futur moyen
+* externalisation des non "cœur de compétence" vers des fournisseurs non intéressés à la modernisation
 * problème de confiance, les autres acteurs internes et externes de mauvaise foi
     * moins de problème de confiance dans une start up de 50 personnes vu que tu connais tout le monde
-    * être agile veut-il dire se faire confiance?
+    * être agile veut-il dire se faire confiance ?
 
 ### Sécurité
 
@@ -139,8 +139,8 @@ Les diagrammes UML sous controle de source via PlantUML [article 1](https://tech
 * grande portée même en dehors de la sphère américaine
 * sanctions disproportionnées
 * procureurs américains demandant la discovery
-* poursuite engagées semblent etre motivées à but économique et cibles choisies
-* les lois extra territoriales ont permis des réduction de contrats avec corruption
+* poursuite engagées semblent être motivées à but économique et cibles choisies
+* les lois extra territoriales ont permis des réductions de contrats avec corruption
 
 [Boeing’s 737 Max Software Outsourced to $9-an-Hour Engineers](https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers?utm_medium=social&cmpid=socialflow-twitter-business&utm_content=business&utm_source=twitter&utm_campaign=socialflow-organic)  
 
@@ -165,7 +165,7 @@ Les diagrammes UML sous controle de source via PlantUML [article 1](https://tech
 [DevFest Toulouse le 3 octobre 2019](https://devfesttoulouse.fr/).  
 [DevFest Nantes les 21 et 22 octobre 2019](https://devfest.gdgnantes.com/).  
 [Voxxed Microservices 21 au 23 octobre 2019](https://voxxeddays.com/microservices/).  
-[ScalaIO](https://scala.io/) du 29 au 31 octobre a Lyon. Thème programmation fonctionelle.  
+[ScalaIO](https://scala.io/) du 29 au 31 octobre a Lyon. Thème programmation fonctionnelle.  
 [Devoxx Belgique du 4 au 8 novembre 2019](https://devoxx.be/)  
 [Bdx.io le 15 novembre 2019](https://www.bdx.io/#/home).  
 [DevOps D-Day les 13 et 14 novembre 2019](http://2019.devops-dday.com/) - Le [CfP](http://2019.devops-dday.com/index.html) est ouvert.  

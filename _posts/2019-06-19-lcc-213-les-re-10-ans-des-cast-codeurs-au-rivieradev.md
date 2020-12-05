@@ -26,4 +26,3 @@ Soutenez Les Cast Codeurs sur Patreon <https://www.patreon.com/LesCastCodeurs>
 Contactez-nous via twitter <https://twitter.com/lescastcodeurs>  
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>
-<!-- vim:set spelllang=fr :-->
