@@ -65,15 +65,15 @@ Microservices [Nicolas Fränkel](https://blog.frankel.ch)
 
 #### Code
 
-Developpeurs Anonymes  
-Pair programming cloud IDE  
+Développeurs Anonymes  
+Pair-programming cloud IDE  
 Maurice ne doit pas coder en Go  
 
 [Petite bouteille verte](https://fr.wikipedia.org/wiki/Chartreuse_\(liqueur\))
 
 #### Humain
 
-Non negociable usability
+Non negotiable usability
 
 ### SnowCamp 2017
 
@@ -85,4 +85,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

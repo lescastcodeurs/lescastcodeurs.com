@@ -32,7 +32,7 @@ C’est quoi Scala ?
 
 
 C’est fait par qui ?  
-“Stewardship”: le bien, et le mal  
+“Stewardship” : le bien, et le mal  
 [TypeSafe Inc. / LightBend Inc.](https://en.wikipedia.org/wiki/Lightbend_Inc.)  
 [Lagom](http://www.lightbend.com/lagom)  
 [scalacenter](https://scala.epfl.ch)  
@@ -57,8 +57,8 @@ Il a une réputation d’élitisme, quid ?
 [Scalaz](https://github.com/scalaz/scalaz)  
 [Cats](http://typelevel.org/cats/)  
 
-Avec Java 8 et Java 9, baisse de popularité?
-Toujours bien d’être sur Scala?
+Avec Java 8 et Java 9, baisse de popularité ?
+Toujours bien d’être sur Scala ?
 
 [Kotlin](http://kotlinlang.org) / [Ceylon](http://ceylon-lang.org)  
 
@@ -114,4 +114,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

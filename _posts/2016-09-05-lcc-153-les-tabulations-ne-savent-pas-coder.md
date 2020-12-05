@@ -35,7 +35,7 @@ Nous sommes l’une des meilleures équipes d’ingénieurs en Europe et nous tr
 [Proposition de dépréciation pour JDK 9](http://openjdk.java.net/jeps/277)  
 [Les futurs à coût zero en Rust](http://aturon.github.io/blog/2016/08/11/futures/)  
 
-### Middleware et platformes
+### Middleware et plateformes
 
 [gRPC 1.0](https://cloudplatform.googleblog.com/2016/08/gRPC-a-true-Internet-scale-RPC-framework-is-now-1-and-ready-for-production-deployments.html)  
 [Mise à jour sur le statut de Java EE 8](https://java.net/projects/javaee-spec/lists/users/archive/2016-08/message/4)  
@@ -43,7 +43,7 @@ Nous sommes l’une des meilleures équipes d’ingénieurs en Europe et nous tr
 [Trois semaines de Google Cloud Platform](https://alexismp.wordpress.com/2016/08/22/three-weeks-in-the-life-of-the-google-cloud-platform-gcp/)  
 [Kafka vs Google Pub/Sub](http://www.jesse-anderson.com/2016/07/apache-kafka-and-google-cloud-pubsub/)  
 [25 Years of Linux](https://www.linux.com/news/linus-torvalds-reflects-25-years-linux)  
-[Fushia: un autre système d'exploitation de Google](http://uk.businessinsider.com/google-building-new-operating-system-fuchsia-not-based-on-android-linux-kernel-2016-8?r=US&IR=T)
+[Fushia : un autre système d'exploitation de Google](http://uk.businessinsider.com/google-building-new-operating-system-fuchsia-not-based-on-android-linux-kernel-2016-8?r=US&IR=T)
 [Sad state of Docker](http://www.linux-toys.com/?p=684)  
 [Apache Mesos](https://mesos.apache.org)  
 
@@ -67,7 +67,7 @@ Nous sommes l’une des meilleures équipes d’ingénieurs en Europe et nous tr
 
 [Encore une autre faille ‘made in NSA’ pour Cisco](http://www.silicon.fr/autre-faille-made-in-nsa-cisco-155593.html)   
 [Oops: Microsoft leaks its Golden Key, unlocking Windows Secure Boot and exposing the danger of backdoors](http://appleinsider.com/articles/16/08/10/oops-microsoft-leaks-its-golden-key-unlocking-windows-secure-boot-and-exposing-the-danger-of-backdoors)    
-[Comment online rehabilite un abris anti-atomique en DataCenter](https://blog.online.net/2016/08/23/c14-story-part-1-meet-our-nuclear-fallout-shelter/)   
+[Comment online réhabilite un abris anti-atomique en DataCenter](https://blog.online.net/2016/08/23/c14-story-part-1-meet-our-nuclear-fallout-shelter/)   
 [Apple iOS 9.3.5, another security release ...](http://www.macrumors.com/2016/08/25/apple-releases-ios-9-3-5/)     
 
 ### Architecture
@@ -93,7 +93,7 @@ Nous sommes l’une des meilleures équipes d’ingénieurs en Europe et nous tr
 [Les enfants ne savent pas se servir d’un ordinateur et vous devriez vous en inquiéter.](https://nicolaslegland.wordpress.com/2013/08/15/les-enfants-ne-savent-pas-se-servir-dun-ordinateur/)  
 
 [Faire des conférences en Grande Bretagne: votre visa s'il vous plaît](https://twitter.com/dgryski/status/767422312589189120)  
-[ESTA pour les voyages aux Etats-Unis](https://esta.cbp.dhs.gov/esta/)  
+[ESTA pour les voyages aux États-Unis](https://esta.cbp.dhs.gov/esta/)  
 [Change.org, vous êtes le produit](https://framablog.org/2016/07/20/ce-que-valent-nos-adresses-quand-nous-signons-une-petition/)  
 
 ##  Outils de l'épisode
@@ -111,7 +111,7 @@ Nous sommes l’une des meilleures équipes d’ingénieurs en Europe et nous tr
 [Codeurs en Seine, le CfP](https://www.papercall.io/ces-2016) le jeudi 24 novembre (avec des ateliers le 26 novembre)  
 [DevFest Nantes, le CfP](https://cfp.gdgnantes.com/) les 9 et 10 novembre à Nantes. CfP jusqu'à fin août.  
 [Devoxx Belgique du 7 au 11 novembre](https://devoxx.be)  
-[DevopsREX](http://www.devopsrex.fr) Le 28 Novembre à paris
+[DevopsREX](http://www.devopsrex.fr) Le 28 novembre à paris
   
 ## Nous contacter
 
@@ -119,4 +119,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

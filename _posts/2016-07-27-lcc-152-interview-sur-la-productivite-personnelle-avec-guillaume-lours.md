@@ -38,7 +38,7 @@ TODO listes !
 
 [Présentation de Guillaume à Devoxx](https://www.youtube.com/watch?v=PyUshtZei9g&index=48&list=PLklQqdqnBkPgWjGxCLSgsw7leKI-HDkM3)  
 
-Les applis:
+Les applis :
 
 * [Trello](https://trello.com)
 * [ToDo](https://todo.projectplace.com/)
@@ -54,11 +54,11 @@ Les applis:
 4. Revue
 5. Faire
 
-![Etapes de triage dans GTD](/images/blog/Getting-Things-Done-Model.png)
+![Étapes de triage dans GTD](/images/blog/Getting-Things-Done-Model.png)
 
 Image empruntée de [Paul Minors](https://paulminors.com/getting-things-done-book-summary-pdf)
 
-Les apps:
+Les apps :
 
 * [OmniFocus](https://www.omnigroup.com/applications/omnifocus/)
 * [ThinkingRock](http://www.trgtd.com.au)
@@ -69,7 +69,7 @@ Les apps:
 
 Tendance à faire les petites taches pour chasser la productivité  
 Organiser mes taches me prend beaucoup de temps  
-J'ai pas réussi à tout finir  
+Je n'ai pas réussi à tout finir  
 J’ai déjà Bugzilla  
 [Matrice d'Eisenhower](https://fr.wikipedia.org/wiki/Matrice_d%27Eisenhower)  
 [Pomodoro](http://pomodorotechnique.com)  
@@ -77,7 +77,7 @@ J’ai déjà Bugzilla
 ### Autres sujets
 
 [Inbox zero](http://www.43folders.com/izero)  
-Ouvrir l’email pour ecrire quelque chose et se faire attraper par la lecture et vider l'inbox  
+Ouvrir l’email pour écrire quelque chose et se faire attraper par la lecture et vider l'inbox  
 
 ### Les resources
 
@@ -99,4 +99,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

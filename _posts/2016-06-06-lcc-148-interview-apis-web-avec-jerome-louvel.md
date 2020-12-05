@@ -52,7 +52,7 @@ Une API pour tous les consommateurs ou une API par consommateur ?
 [Article InfoQ sur les APIs facades](http://www.infoq.com/articles/api-facades/)  
 [Article InfoQ sur les APIs éphémères](https://www.infoq.com/news/2015/11/daniel-jacobson-ephemeral-apis)  
 
-Approches alternatives au problèmes des consommateurs multiples:
+Approches alternatives aux problèmes des consommateurs multiples :
 
 * [GraphQL](http://graphql.org)
 * [Falcor](http://netflix.github.io/falcor/)
@@ -95,7 +95,7 @@ Faire évoluer ses APIs, les bonnes pratiques.
 
 ### Les plateformes d’API
 
-Application traditionnelles our palteformes SaaS / PaaS pour les APIs Web?
+Applications traditionnelles ou plateformes SaaS / PaaS pour les APIs Web ?
 
 #### Gateway / Proxy
 
@@ -106,7 +106,7 @@ Application traditionnelles our palteformes SaaS / PaaS pour les APIs Web?
 #### Backend as a service
 
 [Stackmob](http://thenextweb.com/insider/2014/02/12/paypal-owned-stackmob-shut-may-11-team-can-focus-mobile-payment-technology/) (Paypal)  
-[Parse.com](http://techcrunch.com/2016/01/28/facebook-shutters-its-parse-developer-platform/) (Facebook, arrete)  
+[Parse.com](http://techcrunch.com/2016/01/28/facebook-shutters-its-parse-developer-platform/) (Facebook, arrête)  
 [Firebase](https://firebase.google.com) (Google)  
 
 [Restlet APISpark](http://restlet.com/products/apispark/)  
@@ -126,5 +126,5 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  
 

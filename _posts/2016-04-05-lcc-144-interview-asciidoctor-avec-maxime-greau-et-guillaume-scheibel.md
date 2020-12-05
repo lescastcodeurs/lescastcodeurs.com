@@ -99,21 +99,21 @@ Comment gérer les modifications concurrentes et les commentaires (à la Microso
 ### Écrire de la documentation
 
 Quels sont les avantages  
-Comment convaincre les non développeurs d'utiliser Asciidoctor ?  
+Comment convaincre les non-développeurs d'utiliser Asciidoctor ?  
 La composition et la réutilisation de morceaux de documentation  
 
 ### Les autres cas d'utilisation
 
 #### Écrire un livre
 
-[Ecrire un livre en AsciiDoc avec InfoQ](http://www.infoq.com/minibook-guidelines)  
+[Écrire un livre en AsciiDoc avec InfoQ](http://www.infoq.com/minibook-guidelines)  
 [Enterprise Web Development: From Desktop to Mobile](http://enterprisewebbook.com/) écrit en AsciiDoc avec O'Reilly - [source du livre en AsciiDoc](https://github.com/Farata/EnterpriseWebBook/)  
 [Pro Git v2 (FR)](https://git-scm.com/book/fr/v2) - [source du livre en AsciiDoc](https://github.com/progit/progit2/tree/master/book)  
 
 #### Un blog
 
 [HubPress.io](http://hubpress.io)  
-[Jeckyll AsciiDoc plugin](https://github.com/asciidoctor/jekyll-asciidoc) et [son quickstart](https://github.com/asciidoctor/jekyll-asciidoc-quickstart)  
+[Jekyll AsciiDoc plugin](https://github.com/asciidoctor/jekyll-asciidoc) et [son quickstart](https://github.com/asciidoctor/jekyll-asciidoc-quickstart)  
 [Le code du site web hibernate.org](https://github.com/hibernate/hibernate.org)  
 [Le code du blog de l'équipe Hibernate](https://github.com/hibernate/in.relation.to/)  
 
@@ -147,4 +147,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

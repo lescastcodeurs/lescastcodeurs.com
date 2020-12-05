@@ -67,7 +67,7 @@ To TypeScript or not to TypeScript ?
 
 [TypeScript](http://www.typescriptlang.org)  
 
-Les templates HTML?
+Les templates HTML ?
 
 - complication et erreurs
 
@@ -107,4 +107,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

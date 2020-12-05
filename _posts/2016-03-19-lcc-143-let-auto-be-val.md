@@ -6,7 +6,7 @@ episode: 143
 mp3_length: 63474300
 ---
 Cette semaine, la fine équipe discute de l'actualité lourde en nouvelles sur le langage Java - yeah.
-On parle aussi des framework nouveaux et anciens autour des microservices, il faut bien faire le buzz.
+On parle aussi des frameworks nouveaux et anciens autour des microservices, il faut bien faire le buzz.
 
 Enregistré le 14 mars 2016
 
@@ -37,7 +37,7 @@ Discussion sur Devoxx
 
 [Lightbend Lagom : un framework pour les microservices](https://www.lightbend.com/company/news/lagom-a-new-microservices-framework)  
 [Reactor 2.5](https://spring.io/blog/2016/02/16/reactor-2-5-a-second-generation-reactive-foundation-for-the-jvm)  
-[Amélioration au coeur de Spring dans 4.3](http://spring.io/blog/2016/03/04/core-container-refinements-in-spring-framework-4-3)  
+[Amélioration au cœur de Spring dans 4.3](http://spring.io/blog/2016/03/04/core-container-refinements-in-spring-framework-4-3)  
 [Play 2.5](https://groups.google.com/d/msg/play-framework/aFEkSOaAEbk/BY4fjyI9GQAJ)  
 [Hibernate Search et Elasticsearch](http://in.relation.to/2016/02/29/HibernateSearchAlpha-Elasticsearch/)  
 [Ratpack 1.2](https://ratpack.io/versions/1.2.0)  
@@ -113,4 +113,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

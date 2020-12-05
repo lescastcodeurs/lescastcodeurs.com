@@ -35,13 +35,13 @@ Quelles sont les points les plus intéressants selon vous de Groovy ?
 [BeanShell](https://en.wikipedia.org/wiki/BeanShell)  
 [Fondation Apache](http://www.apache.org)  
 
-Pouvez vous expliquer le [Metaobject Protocol](http://stackoverflow.com/questions/19608035/metaobject-protocol-mop-in-groovy) ?  
+Pouvez-vous expliquer le [Metaobject Protocol](http://stackoverflow.com/questions/19608035/metaobject-protocol-mop-in-groovy) ?  
 Et la fonctionnalité AST ?  
 [Les transformations AST](https://www.infoq.com/presentations/groovy-ast)  
 
 [Langage interprété vs compilé d'après Wikipedia](https://en.wikipedia.org/wiki/Interpreted_language), [réponse StackOverflow](http://stackoverflow.com/questions/3265357/compiled-vs-interpreted-languages#3265602)  
 
-Qu'est ce que Groovy statique ?
+Qu'est-ce que Groovy statique ?
 
 Ou est-ce que vous voyez les usages typiques de Groovy ?
 
@@ -49,7 +49,7 @@ Ou est-ce que vous voyez les usages typiques de Groovy ?
 ###  Plateforme et usages
 
 Grails est la plateforme utilisant Groovy la plus connue.  
-Pouvez vous expliquer le principe, et comment cela fonctionne ?  
+Pouvez-vous expliquer le principe, et comment cela fonctionne ?  
 Des exemples de points ou une plateforme spécifique bénéficie d'un langage dynamique ?  
 [Grails](https://grails.org)  
 
@@ -70,7 +70,7 @@ C'est compliqué d'écrire un compilo ?
 Java 9, des progrès ?  
 [Jigsaw](http://openjdk.java.net/projects/jigsaw/)  
 
-La JVM est plus mutilangages (invokedynamic): vous en avez profité ?  
+La JVM est plus multi-langages (invokedynamic) : vous en avez profité ?  
 Est-ce l'inter-opérabilité entre les langages de la JVM s'améliore ? Des plans de standardisation ?  
 [Truffle](http://www.oracle.com/technetwork/oracle-labs/program-languages/overview/index-2301583.html)  
 [Dynalink](http://wiki.jvmlangsummit.com/images/a/ae/Dynalink_2011_JVM_Language_Summit.pdf)  
@@ -86,4 +86,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  
