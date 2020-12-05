@@ -24,14 +24,14 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-173.mp3](http://traffic.l
 ### Matériel
 
 [le simulateur d'ordinateur quantique d'Atos](http://www.lemagit.fr/actualites/450422273/Atos-veut-faire-progresser-linformatique-quantique)  
-[Intel Skylake/Kabylake et le bug dans l'hyperthreading](https://lists.debian.org/debian-devel/2017/06/msg00308.html)  
+[Intel Skylake/Kabylake et le bug dans l'hyper-threading](https://lists.debian.org/debian-devel/2017/06/msg00308.html)  
 
 ### Middleware
 
 [Les framework Java populaires selon Redmonk](http://redmonk.com/fryan/2017/06/22/language-framework-popularity-a-look-at-java-june-2017/)  
 [Spring Cloud Function](https://spring.io/blog/2017/07/05/introducing-spring-cloud-function)  
 [Les nouveautés de JPA 2.2](https://vladmihalcea.com/2017/07/04/whats-new-in-jpa-2-2-stream-the-result-of-a-query-execution/)  
-[Le guide de developpement asynchrone avec vert.x](http://vertx.io/docs/guide-for-java-devs/)  
+[Le guide de développement asynchrone avec vert.x](http://vertx.io/docs/guide-for-java-devs/)  
 [AWS Lambda et Java](https://www.infoq.com/news/2017/06/fearless-aws-lambda)  
 [Elastic Stack 5.5.0](https://www.elastic.co/blog/elastic-stack-5-5-0-released?blade=tw)  
 [Des tests d'intégration avec Elastic](https://blog.jetoile.fr/2017/07/tester-avec-elasticsearch.html)
@@ -92,4 +92,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>

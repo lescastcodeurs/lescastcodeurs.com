@@ -16,7 +16,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-165.mp3](http://traffic.l
 ### Langages
 
 [Emmanuel le nouveau Java champion !!!](https://blogs.oracle.com/java/new-java-champions:-emmanuel-bernard,-chris-newland-and-bert-jan-schjriver)  
-[55 nouvelles fonctionalites de JDK 9](https://www.slideshare.net/SimonRitter/55-new-features-in-jdk-9) jlink, multi jar file, repl, collection factory methods, HTML5 javadoc, SHA-3, G1, semantic versioning etc   
+[55 nouvelles fonctionnalités de JDK 9](https://www.slideshare.net/SimonRitter/55-new-features-in-jdk-9) jlink, multi jar file, repl, collection factory methods, HTML5 javadoc, SHA-3, G1, semantic versioning etc   
 [Construire des JARs multi-release avec Maven](http://in.relation.to/2017/02/13/building-multi-release-jars-with-maven/)  
 
 [Nouvelle version de Groovy 2.4.9](http://groovy-lang.org/changelogs/changelog-2.4.9.html)  
@@ -36,7 +36,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-165.mp3](http://traffic.l
 [Une overview de Spanner, la base qui taquine CAP](https://lemag.sfeir.com/cloud-spanner-base-de-donnees-globale/)  
 [CockroachDB](https://www.cockroachlabs.com)  
 
-[Java EE 8 les dates affinees](https://java.net/projects/javaee-spec/lists/jsr366-experts/archive/2017-02/message/0)  
+[Java EE 8 les dates affinées](https://java.net/projects/javaee-spec/lists/jsr366-experts/archive/2017-02/message/0)  
 [gRPC donné à la Cloud Native Computing Foundation](https://www.cncf.io/blog/2017/03/01/cloud-native-computing-foundation-host-grpc-google/)  
 [Lagom 1.3 est sorti](http://bit.ly/2lIFXJ1)  
 [Kubernetes et son abstraction du runtime de container](http://blog.kubernetes.io/2016/12/container-runtime-interface-cri-in-kubernetes.html)  
@@ -80,7 +80,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-165.mp3](http://traffic.l
 [CloudBleed - CloudFlare et l'overrun à un million de dollars](https://en.m.wikipedia.org/wiki/Cloudbleed)  
 [Le post-mortem de CloudFlare](https://blog.cloudflare.com/incident-report-on-memory-leak-caused-by-cloudflare-parser-bug/)  
 
-SHA-1 et la premiere collision:
+SHA-1 et la première collision :
 
 * [Shattered - les details des chercheurs](http://bit.ly/2kQmJ4N)
 * [SHA1 et Linux](https://plus.google.com/+LinusTorvalds/posts/7tp2gYWQugL)
@@ -90,14 +90,14 @@ SHA-1 et la premiere collision:
 
 [GitHub termes de service](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license)  
 
-[Uber et segregation des femmes developpeurs](https://medium.com/@amyvertino/my-name-is-not-amy-i-am-an-uber-survivor-c6d6541e632f#.6dj9y2neg)  
-[Le premier temoignage](http://bit.ly/2m44YvX)  
+[Uber et segregation des femmes développeurs](https://medium.com/@amyvertino/my-name-is-not-amy-i-am-an-uber-survivor-c6d6541e632f#.6dj9y2neg)  
+[Le premier témoignage](http://bit.ly/2m44YvX)  
 [Dernières évolutions 1/2](https://twitter.com/susanthesquark/status/837339141520023552)  
 [Dernières évolutions 2/2](https://www.theguardian.com/technology/2017/mar/07/uber-work-culture-travis-kalanick-susan-fowler-controversy)  
 
 [Antoine Sabot-Durand est star spec lead](http://ln.is/jcp.org/en/press/new/scJ5e)  
 
-[La transformation ING en equipes microservices](http://www.leanessays.com/2017/01/the-end-of-enterprise-it.html)  
+[La transformation ING en équipes microservices](http://www.leanessays.com/2017/01/the-end-of-enterprise-it.html)  
 [12 startups souhaitent inventer la ville de demain avec la Mairie de Paris et NUMA](https://www.maddyness.com/entrepreneurs/2017/03/01/datacity-12-startups-souhaitent-inventer-ville-de-demain-mairie-de-paris-numa/)
 [Tim Berners-Lee: I invented the web. Here are three things we need to change to save it](https://www.theguardian.com/technology/2017/mar/11/tim-berners-lee-web-inventor-save-internet)
 
@@ -124,4 +124,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

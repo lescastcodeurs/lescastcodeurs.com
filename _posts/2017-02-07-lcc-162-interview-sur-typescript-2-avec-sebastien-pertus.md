@@ -5,7 +5,7 @@ layout: blog-post
 episode: 162
 mp3_length: 25624130
 ---
-Antonio s'assoit au micro avec Sébertien Pertus pour parler de TypeScript.
+Antonio s'assoit au micro avec Sébastien Pertus pour parler de TypeScript.
 
 Enregistré le 7 novembre 2016
 
@@ -32,7 +32,7 @@ Pourquoi TypeScript vs Javascript
 Front / back  
 [Node.js](https://en.wikipedia.org/wiki/Node.js)  
 
-### Les editeurs
+### Les éditeurs
 
 [Visual Studio](https://www.visualstudio.com)  
 [SublimeText](http://sublimetext.com)  
@@ -46,7 +46,7 @@ Front / back
 
 [Angular 2](https://angularjs.org)  
 
-### Migration et le future
+### Migration et le futur
 
 De Javascript à TypeScript  
 [WebAssembly](http://webassembly.org)  
@@ -58,4 +58,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

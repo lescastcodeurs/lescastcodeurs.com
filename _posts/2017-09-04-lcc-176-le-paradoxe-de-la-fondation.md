@@ -7,7 +7,7 @@ mp3_length: 85017000
 tweet: Le paradoxe de la fondation #diversité #container #javaee #licence
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Antonio, Arnaud, Vincent et Emmanuel commentent les informations de l'été: diversité, java dans un container, Java EE dans une fondation, les licences Facebook vs la fondation Apache et plus.
+Antonio, Arnaud, Vincent et Emmanuel commentent les informations de l'été : diversité, java dans un container, Java EE dans une fondation, les licences Facebook vs la fondation Apache et plus.
 
 Enregistré le 1 septembre 2017
 
@@ -36,7 +36,7 @@ Excel est un Nonmonotonic dataflow programming :)
 
 Facebook et sa [licence BSD + brevet](https://code.facebook.com/pages/850928938376556) (react.js et RockDB):
 
-* [La clause litigueuse](https://github.com/facebook/react/blob/master/PATENTS)
+* [La clause litigieuse](https://github.com/facebook/react/blob/master/PATENTS)
 * [Apache bannit la licence DSB+FaceBook](https://issues.apache.org/jira/browse/LEGAL-303)
 * [FaceBook et react.js campent sur leurs positions](https://code.facebook.com/posts/112130496157735/explaining-react-s-license/)
 * [Le ping pong](https://meshedinsights.com/2017/07/16/apache-bans-facebooks-license-combo/)
@@ -49,7 +49,7 @@ Facebook et sa [licence BSD + brevet](https://code.facebook.com/pages/8509289383
 
 ### Web
 
-[Bootstrap passe en béta](https://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/)
+[Bootstrap passe en bêta](https://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/)
 
 ### Loi, société et organisation
 
@@ -59,7 +59,7 @@ Facebook et sa [licence BSD + brevet](https://code.facebook.com/pages/8509289383
 [Cefcys](http://cefcys.com)  
 [L'épisode de NoLimitSecu sur le Cefcys](https://www.nolimitsecu.fr/cefcys/)  
 
-Google et le mémo sur la chambre a echo de Google:
+Google et le mémo sur la chambre a echo de Google :
 
 * [Le memo](https://www.scribd.com/document/355823379/Google-s-Ideological-Echo-Chamber)
 * [La réponse du CEO de Google](https://www.blog.google/topics/diversity/note-employees-ceo-sundar-pichai/)
@@ -95,4 +95,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>

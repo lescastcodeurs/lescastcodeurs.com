@@ -71,24 +71,24 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-178.mp3](http://traffic.l
 
 ### Méthodologies
 
-[Strategie de branche de l'equipe Spring Data](http://blog.schauderhaft.de/2017/09/07/workflow/)  
-[Le papier original sur la methodologie Waterfall](https://pragtob.wordpress.com/2012/03/02/why-waterfall-was-a-big-misunderstanding-from-the-beginning-reading-the-original-paper/)  
+[Stratégie de branche de l'équipe Spring Data](http://blog.schauderhaft.de/2017/09/07/workflow/)  
+[Le papier original sur la méthodologie Waterfall](https://pragtob.wordpress.com/2012/03/02/why-waterfall-was-a-big-misunderstanding-from-the-beginning-reading-the-original-paper/)  
 
 ### Sécurité
 
-[Equifax et la faille de securite d'Apache Struts](https://blogs.apache.org/foundation/entry/media-alert-the-apache-software)  
+[Equifax et la faille de sécurité d'Apache Struts](https://blogs.apache.org/foundation/entry/media-alert-the-apache-software)  
 
 ### Loi, société et organisation
 
 [World Wide Web Consortium abandons consensus, standardizes DRM with 58.4% support, EFF resigns](https://boingboing.net/2017/09/18/antifeatures-for-all.html)  
-[Annonce de l'EFF qui demissionne du W3C sur l'API video DRM](https://www.eff.org/deeplinks/2017/09/open-letter-w3c-director-ceo-team-and-membership)  
+[Annonce de l'EFF qui démissionne du W3C sur l'API video DRM](https://www.eff.org/deeplinks/2017/09/open-letter-w3c-director-ceo-team-and-membership)  
 
 [Biased Algorithms Are Everywhere, and No One Seems to Care](https://www.technologyreview.com/s/608248/biased-algorithms-are-everywhere-and-no-one-seems-to-care/)  
 
 [Oracle a tué Sun](https://meshedinsights.com/2017/09/03/oracle-finally-killed-sun/)  
 [Le brevet sur GraphQL](https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9)  
 [La promesse de brevet de Red Hat](http://www.iam-media.com/blog/Detail.aspx?g=af275128-57ca-4590-b62b-a3164a37f8de)  
-[La GPL testée en proces et confirmée](https://www.natlawreview.com/article/important-open-source-ruling-confirms-enforceability-dual-licensing-and-breach-gpl)  
+[La GPL testée en procès et confirmée](https://www.natlawreview.com/article/important-open-source-ruling-confirms-enforceability-dual-licensing-and-breach-gpl)  
 
 [Loi de sécurité intérieure : des conséquences pour la vie numérique de tous](https://www.franceculture.fr/emissions/le-numerique-et-nous/loi-de-securite-interieure-des-consequences-pour-la-vie-numerique-de-tous)  
 
@@ -117,4 +117,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>

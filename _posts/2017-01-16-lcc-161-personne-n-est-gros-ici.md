@@ -111,18 +111,18 @@ Les astuces Eclipse par Thomas Leplus (crowdcasting)
 
 ## Conférences
 
-Le ParisJUG se lance dans adopt-a-JSR: un message en crowdcast 
+Le ParisJUG se lance dans adopt-a-JSR : un message en crowdcast 
 
 * 14 février 2017 : soirée Jigsaw avec Rémi Forax
 * 15 mars 2017 : soirée Hands-on / Hackergarten sur Jigsaw, animée par Rémi Forax et l'équipe du Paris JUG.
 * [le site du Paris JUG](http://www.parisjug.org/)
 * le twitter : [@ParisJUG](https://twitter.com/ParsJUG)
 * les détails des soirées et la liste de ce qu'il faudra installer sur son portable pour la partie Hands-on / Hackergarten seront publiés sur le site du Paris JUG.
-* page communautaire d'écrivant le [programme Adopt a JSR](https://community.oracle.com/community/java/jcp/adopt-a-jsr)
+* page communautaire décrivant le [programme Adopt a JSR](https://community.oracle.com/community/java/jcp/adopt-a-jsr)
 * [blog d'oracle annonçant le programme Adopt a JSR](https://blogs.oracle.com/java/adopt-a-jsr)
 
 [Meetup sur Kubernetes et Traefik](https://www.meetup.com/Cloud-Native-Computing-Paris/events/236873874/) le 23 janvier  
-[Snowcamp les 8-10 fevrier](http://snowcamp.io)  
+[Snowcamp les 8-10 février](http://snowcamp.io)  
 [Devoxx France](http://www.devoxx.fr) les 5-7 avril 2016  
 [Mix-IT](https://www.mix-it.fr) les 20-21 avril 2017  
 [Breizhcamp](http://www.breizhcamp.org) les 19-21 avril 2017  
@@ -138,4 +138,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

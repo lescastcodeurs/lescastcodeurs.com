@@ -22,8 +22,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-169.mp3](http://traffic.l
 
 [Mark Reinhold pousse la public review de Jigsaw malgré un Expert Group hostile](https://www.infoq.com/news/2017/05/jigsaw-public-review)  
 [les raisons pour INM de noter non](http://mail.openjdk.java.net/pipermail/jpms-spec-observers/2017-May/000870.html)  
-[Les problemes tels que vus par Red Hat, IBM et d'autres](https://developer.jboss.org/blogs/scott.stark/2017/04/14/critical-deficiencies-in-jigsawjsr-376-java-platform-module-system-ec-member-concerns)  
-[Quelqu'un plutot d'accord avec Oracle](https://blog.plan99.net/is-jigsaw-good-or-is-it-wack-ec634d36dd6f)  
+[Les problèmes tels que vus par Red Hat, IBM et d'autres](https://developer.jboss.org/blogs/scott.stark/2017/04/14/critical-deficiencies-in-jigsawjsr-376-java-platform-module-system-ec-member-concerns)  
+[Quelqu'un plutôt d'accord avec Oracle](https://blog.plan99.net/is-jigsaw-good-or-is-it-wack-ec634d36dd6f)  
 [Le vote et les commentaires du public review](https://jcp.org/en/jsr/results?id=5959)  
 
 [Reflection et deep reflection dans les modules Java 9](http://in.relation.to/2017/04/11/accessing-private-state-of-java-9-modules/)  
@@ -33,7 +33,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-169.mp3](http://traffic.l
 #### Autres
 
 [Un voyage d'optimisation par Sylvain Wallez](https://www.slideshare.net/swallez/inside-the-jvm-follow-the-white-rabbit-75459315)  
-[Patern matching en Java pour 10+](http://cr.openjdk.java.net/~briangoetz/amber/pattern-match.html)  
+[Pattern matching en Java pour 10+](http://cr.openjdk.java.net/~briangoetz/amber/pattern-match.html)  
 [Java SE 8 131 n'accepte plus les Jar MD5 comme signés](https://blogs.oracle.com/java/java-se-8-update-131)  
 [Retours sur Mix-IT 2017](https://vimeo.com/215910469)  
 
@@ -54,10 +54,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-169.mp3](http://traffic.l
 [OpenShift.io](https://openshift.io)  
 
 * hosted deployment
-* outils de plannification
+* outils de planification
 * cloud IDE et debugger en ligne
 * CI/CD
-* Création environnements (dev, staging, etc) avec pipelines
+* Création d'environnements (dev, staging, etc) avec pipelines
 * recommendations et insights
 
 [Les primitives dans un monde cloud-native](https://developers.redhat.com/blog/2017/04/19/new-distributed-primitives-for-developers/)  
@@ -69,7 +69,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-169.mp3](http://traffic.l
 
 ### Méthodologies
 
-[Ecrire les messages de commit chez square](https://medium.com/square-corner-blog/how-square-writes-commit-messages-8e92fcbf77c9#---415-539)  
+[Écrire les messages de commit chez square](https://medium.com/square-corner-blog/how-square-writes-commit-messages-8e92fcbf77c9#---415-539)  
 [L'approche de Netty](http://netty.io/wiki/writing-a-commit-message.html)  
 [Comment Google fait de l'Open Source](https://opensource.google.com/docs/)  
 
@@ -105,4 +105,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

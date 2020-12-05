@@ -7,7 +7,7 @@ mp3_length: 85017000
 tweet: Interview devs à Singapour @voxxedsingapore @AlanMenant @gpotet @matieuxx et Nida
 # 92
 ---
-A l'occasion de Voxxed Days Singapore, Guillaume et Emmanuel discutent avec des expatriés de Singapour (Alan, Germain, Mathieu, Nida) sur leur vie de développeur là bas.
+À l'occasion de Voxxed Days Singapore, Guillaume et Emmanuel discutent avec des expatriés de Singapour (Alan, Germain, Mathieu, Nida) sur leur vie de développeur là-bas.
 
 Enregistré le 18 juillet 2017
 
@@ -41,7 +41,7 @@ Nida Bouzid
 Work holiday pass  
 [Minostry of manpower](http://www.mom.gov.sg)  
 
-Niveaux de vie:
+Niveaux de vie :
 
 - salaire
 - loyer
@@ -63,4 +63,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
