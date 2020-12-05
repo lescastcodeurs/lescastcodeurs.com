@@ -7,8 +7,8 @@ mp3_length: 63209883
 tweet: Le mauvais open sourceur, il voit un code, et il opensource, mais c'est un mauvais opensourceur
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Vincent, Guillaume et Arnaud enfilent leur slip des cast codeurs par dessus leur pantalons pour vous parler d'AdoptOpenJDK,
-de Spring Boot, de Micronaut, de Kubernetes, de Google App Engine, des vieux pôts de l'écosystème java dans lesquels ont fait les meilleures soupes,
+Vincent, Guillaume et Arnaud enfilent leur slip des cast codeurs par-dessus leurs pantalons pour vous parler d'AdoptOpenJDK,
+de Spring Boot, de Micronaut, de Kubernetes, de Google App Engine, des vieux pots de l'écosystème java dans lesquels ont fait les meilleures soupes,
 de piscem vorat maior minorem et d'un long outil de l'épisode sur TestContainers.
 
 Enregistré le 6 novembre 2018
@@ -58,7 +58,7 @@ Redis modules [forked pre-common clause](https://www.zdnet.com/article/redis-lab
 ### Outillage
 
 JVM Ecosystem Report 2018 - Quel est le [plus gros concurrent à JenkinsCI](https://res.cloudinary.com/snyk/image/upload/v1539774333/blog/jvm-ecosystem-report-2018.pdf) ?  
-[Apache Maven 3.6.0](https://maven.apache.org/docs/3.6.0/release-notes.html) plus [CI Friendly](https://maven.apache.org/maven-ci-friendly.html) avec un [usecase pour les releases incrémentales chez Jenkins](https://github.com/jenkinsci/jep/blob/master/jep/305/README.adoc) 
+[Apache Maven 3.6.0](https://maven.apache.org/docs/3.6.0/release-notes.html) plus [CI Friendly](https://maven.apache.org/maven-ci-friendly.html) avec un [use-case pour les releases incrémentales chez Jenkins](https://github.com/jenkinsci/jep/blob/master/jep/305/README.adoc) 
 
 ### Sécurité
 
@@ -67,7 +67,7 @@ JVM Ecosystem Report 2018 - Quel est le [plus gros concurrent à JenkinsCI](http
 
 ### Loi, société et organisation
 
-[Publicis va acquérir Xébia France](https://www.capital.fr/entreprises-marches/publicis-va-acquerir-xebia-france-1312124)  
+[Publicis va acquérir Xebia France](https://www.capital.fr/entreprises-marches/publicis-va-acquerir-xebia-france-1312124)  
 [IBM va acquérir Red Hat](https://www.redhat.com/en/blog/monumental-day-open-source-and-red-hat)  
 [VMware / Pivotal vont acquérir Heptio](https://content.pivotal.io/blog/were-looking-forward-to-welcoming-heptio-to-the-family-this-is-why-our-customers-will-be-the-big-winners)  
 

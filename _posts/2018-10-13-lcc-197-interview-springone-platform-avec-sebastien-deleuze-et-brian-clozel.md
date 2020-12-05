@@ -39,7 +39,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-197.mp3](https://traffic.
 [Dave Syer, how fast is Spring](https://youtu.be/97UTDmonq7w)  
 [GraalVM](https://www.graalvm.org/)  
 
-La conférence Spring en Europe organisée par la communauté: [Spring IO](https://springio.net)
+La conférence Spring en Europe organisée par la communauté : [Spring IO](https://springio.net)
 
 ## Nous contacter
 

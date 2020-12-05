@@ -36,7 +36,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-186.mp3](http://traffic.l
 
 [SpringBoot 2 performance — servlet stack vs WebFlux reactive stack
 ](https://medium.com/@the.raj.saxena/springboot-2-performance-servlet-stack-vs-webflux-reactive-stack-528ad5e9dadc)  
-[Salesforce achete Mulesoft pour 6 milliards$](http://www.lemagit.fr/actualites/252437257/En-rachetant-MuleSoft-Salesforce-lance-son-9eme-Cloud)  
+[Salesforce achète Mulesoft pour 6 milliards$](http://www.lemagit.fr/actualites/252437257/En-rachetant-MuleSoft-Salesforce-lance-son-9eme-Cloud)  
 [Pivotal lance son offre publique d’achat](https://t.co/0c692Oa6LJ)  
 
 [Micronaut framework](https://t.co/6AOYX2PIoq)  
@@ -58,7 +58,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-186.mp3](http://traffic.l
 
 ### Data
 
-Facebook et les appels téléphoniques:
+Facebook et les appels téléphoniques :
 
 * [Details techniques sur comment trouver](https://twitter.com/mat_johnson/status/977325434030428160)
 * [Article du monde](http://abonnes.lemonde.fr/pixels/article/2018/03/26/appels-sms-relations-amoureuses-ces-donnees-que-facebook-collecte-et-conserve_5276721_4408996.html)
@@ -80,7 +80,7 @@ Facebook et les appels téléphoniques:
 
 ### Méthodologies
 
-[Greve perlee](https://twitter.com/crowdagger/status/977319251307528192?s=21)  
+[Grève perlée](https://twitter.com/crowdagger/status/977319251307528192?s=21)  
 
 ### Sécurité
 
@@ -122,7 +122,7 @@ Morgan Durand sur les logs
 [Sunny Tech les 28 et 29 juin 2018](https://sunny-tech.io/)  
 [Jenkins User Conference le 28 juin 2018](https://juc-paris.jfrog.com/?utm_source=save_the_date_CFP&utm_medium=email&utm_campaign=JUC_FR) - Le [CfP](https://sessionize.com/JUC-France/) est ouvert jusqu'au 15 avril.   
 [Paris Web les 4, 5 et 6 octobre 2018](https://www.paris-web.fr/)  
-[Jenkins World Europe du 22 au 25 octobre 2018 à Nice](https://www.cloudbees.com/jenkinsworld/home) - Le [CfP](https://jenkinsworld2018cfp.hubb.me/) est ouvert jusqu'au 15 avril - Les [inscriptions](http://www.cvent.com/events/jenkins-world-europe-2018/event-summary-fb6af2c215b24322bb9fc64d0d0aae7a.aspx?RefID=cbsum) sont ouvertes (utilisez le code JWAHERITIER pour obtenir 20% de réduction).  
+[Jenkins World Europe du 22 au 25 octobre 2018 à Nice](https://www.cloudbees.com/jenkinsworld/home) - Le [CfP](https://jenkinsworld2018cfp.hubb.me/) est ouvert jusqu'au 15 avril - Les [inscriptions](http://www.cvent.com/events/jenkins-world-europe-2018/event-summary-fb6af2c215b24322bb9fc64d0d0aae7a.aspx?RefID=cbsum) sont ouvertes (utilisez le code JWAHERITIER pour obtenir 20 % de réduction).  
 [DevFest Toulouse le 8 novembre 2018](https://devfesttoulouse.fr/)  
 
 ## Nous contacter
@@ -132,4 +132,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>

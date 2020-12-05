@@ -66,7 +66,7 @@ Pour bien démarrer 2018, les Cast Codeurs sont maintenant sur #deezer et #spoti
 
 ### Sécurité
 
-Spectre et Meltdown, les failles cachées dans nos processeurs:  
+Spectre et Meltdown, les failles cachées dans nos processeurs :  
 
 * [Spectreattack.com](https://spectreattack.com/)  
 * [Quand votre CPU parle trop : la faille Meltdown et ses conséquences](https://blog.octo.com/quand-votre-cpu-parle-trop-la-faille-meltdown-et-ses-consequences/)  
@@ -77,7 +77,7 @@ Spectre et Meltdown, les failles cachées dans nos processeurs:
 
 ### Loi, société et organisation
 
-La FCC enterre la neutralité du net aux Etats Unis:  
+La FCC enterre la neutralité du net aux États-Unis :  
 
 * [The FCC just killed net neutrality](https://www.theverge.com/2017/12/14/16776154/fcc-net-neutrality-vote-results-rules-repealed?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter)  
 * [L'Europe doit défendre la «neutralité du Net» par Par Benjamin Bayart](http://www.liberation.fr/debats/2017/12/14/l-europe-doit-defendre-la-neutralite-du-net_1616667)  
@@ -112,4 +112,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? <sponsors@lescastcodeurs.com>
+En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>

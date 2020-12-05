@@ -71,7 +71,7 @@ Definition des partitions
 [Apache Zookeeper](https://zookeeper.apache.org)  
 
 Comment je publie un message ?  
-Je dois stocker l’index?  
+Je dois stocker l’index ?  
 
 [Protocol Kafka](https://kafka.apache.org/protocol)  
 
@@ -91,7 +91,7 @@ Devoxx France
 [Comment monitorer Kafka like a pro](https://www.youtube.com/watch?v=tL6DtN0zhrQ)  
 [Un tour de l'environnement Kafka](https://www.youtube.com/watch?v=BBo-rqmhpDM)  
 
-### Sous la capot
+### Sous le capot
 
 [Apache Zookeeper](https://zookeeper.apache.org)  
 
@@ -100,11 +100,11 @@ Réplication
 Batching  
 Latence  
 
-Les top 5/10 problèmes que tu vois chez les clients
+Le top 5/10 problèmes que tu vois chez les clients
 
 * pas de monitoring
-* pas compris le système de partition: sous provisionner
-* gestion de l’ordre: lié à la production
+* pas compris le système de partition : sous provisionner
+* gestion de l’ordre : lié à la production
 * codec: snappy
 
 Producteurs  
@@ -117,7 +117,7 @@ Retention:
 * en temps
 * en byte
 
-Compaction: avantages / inconvénients fonctionnels  
+Compaction : avantages / inconvénients fonctionnels  
 [Crypto-shredding](https://en.wikipedia.org/wiki/Crypto-shredding)
 
 ### L’écosystème et la communauté

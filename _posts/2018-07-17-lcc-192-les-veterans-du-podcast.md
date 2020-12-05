@@ -87,7 +87,7 @@ Article sur Helm 3
 
 [Directive Copyright : le Parlement européen dit non et reprend la main](https://www.numerama.com/politique/392882-directive-copyright-le-parlement-europeen-desapprouve.html)
 
-## Outils de l’épisode
+## Outils de l’épisode
 
 [Zulip](https://zulipchat.com/)
 
@@ -95,15 +95,15 @@ Article sur Helm 3
 
 [Comment était la gestion de source avant Git](https://twobithistory.org/2018/07/07/cvs.html)
 
-## Conférences
+## Conférences
 
-[Dev.tube](https://dev.tube/) permet de chercher les vidéos de plein de conférences pour se rattraper cet été sur la plage  
+[Dev.tube](https://dev.tube/) permet de chercher les vidéos de plein de conférences pour se rattraper cet été sur la plage  
 [Jug Summer Camp le 14 septembre 2018](http://www.jugsummercamp.org/edition/9)  
 [Paris Web les 4, 5 et 6 octobre 2018](https://www.paris-web.fr/)  
 [DevFest Nantes les 18 et 19 octobre 2018](https://devfest.gdgnantes.com/)  
-[Jenkins World Europe du 22 au 25 octobre 2018 à Nice](https://www.cloudbees.com/jenkinsworld/home) - (utilisez le code JWAHERITIER pour obtenir 20% de réduction)  
+[Jenkins World Europe du 22 au 25 octobre 2018 à Nice](https://www.cloudbees.com/jenkinsworld/home) - (utilisez le code JWAHERITIER pour obtenir 20 % de réduction)  
 [VoxxedDays Microservices du 29 au 31 octobre 2018](https://voxxeddays.com/microservices/)  
 [DevFest Toulouse le 8 novembre 2018](https://devfesttoulouse.fr/)  
 [Devoxx Belgique du 12 au 16 novembre 2018](https://devoxx.be/)  
-[Bdx.io le 9 novembre 2018](https://www.bdx.io/#/home) la conférence est sold out mais le CfP est encore (https://cfp.bdx.io/) ouvert  
+[Bdx.io le 9 novembre 2018](https://www.bdx.io/#/home) la conférence est sold out mais le CfP est encore (https://cfp.bdx.io/) ouvert  
 [Codeurs en Seine le 22 novembre 2018](http://www.codeursenseine.com/2018/) - Le [CfP](https://codeursenseine.cfp.io/#/dashboard) est ouvert  

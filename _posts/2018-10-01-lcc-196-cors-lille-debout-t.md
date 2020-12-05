@@ -17,10 +17,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-196.mp3](https://traffic.
 
 ### Langages
 
-Comprendre Java 9 et plus, on recommence:
+Comprendre Java 9 et plus, on recommence :
 
 * [l'agenda proposé pour Java 12](http://mail.openjdk.java.net/pipermail/jdk-dev/2018-September/001923.html)  
-* [Le train de release, fonctionalités vs securité](https://blog.joda.org/2018/09/java-release-chains-features-and-security.html)
+* [Le train de release, fonctionnalités vs sécurité](https://blog.joda.org/2018/09/java-release-chains-features-and-security.html)
 * [Vive le Java libre! Des Java Champions](https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit)  
 
 [Java 11 sort aujourd'hui](http://openjdk.java.net/projects/jdk/11/)  
@@ -79,7 +79,7 @@ Voir aussi [Java project Loom](http://cr.openjdk.java.net/~rpressler/loom/Loom-P
 
 [Linux se dote d'un code de conduite](https://lkml.org/lkml/2018/9/16/167)
 
-L'union Européenne adopte la directive sur le droit d'auteur:
+L'union Européenne adopte la directive sur le droit d'auteur :
 
 * [La directive de l’UE sur le droit d’auteur à l’heure du numérique est adoptée](https://www.lemonde.fr/pixels/article/2018/09/12/le-parlement-europeen-adopte-la-directive-sur-le-droit-d-auteur-a-l-heure-du-numerique_5354024_4408996.html?utm_campaign=Lehuit&utm_medium=Social&utm_source=Twitter)  
 * [Droit d’auteur : préparer la défaite en célébrant la victoire du court-termisme](https://www.champeau.info/blog/2018/09/12/droit-dauteur-preparer-la-defaite-en-celebrant-la-victoire-du-court-termisme/)  

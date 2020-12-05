@@ -9,7 +9,7 @@ tweet: C'est qui le patron? #Java11 #Istio #Redis #CommonsClause #Patreon #TSL1.
 ---
 Dans cet épisode Audrey et Arnaud font le point sur les actualités de cet fin d'été 2018 avec pas mal de nouveautés pour préparer la rentrée comme la version 1.0 d'Istio, TLS 1.3, l'arrivée imminente de Java 11, et sans oublier la "minute" web d'Audrey.  
 Il est aussi question d'outillage avec Gradle, Docker, GitHub et de sujets plus sérieux comme Redis et la Commons Clause.  
-Emmanuel, quant à lui sort de son hamac pour vous présenter [notre nouveau système de financement participatif du poscast](https://lescastcodeurs.com/soutenir/).
+Emmanuel, quant à lui sort de son hamac pour vous présenter [notre nouveau système de financement participatif du podcast](https://lescastcodeurs.com/soutenir/).
 
 Enregistré le 31 août 2018
 
