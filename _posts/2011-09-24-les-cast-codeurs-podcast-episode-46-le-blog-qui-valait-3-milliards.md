@@ -69,7 +69,7 @@ JUDCon 31 octobre–1er novembre à Londres [http://www.jboss.org/events/JUDCon.
 Devoxx 14 au 18 novembre à Anvers [http://www.devoxx.com/display/DV11/Home](http://www.devoxx.com/display/DV11/Home)
 
 ## Bibliothèque
-Apache Maven 2eme édition aux éditions Pearson [http://www.pearson.fr/livre/?GCOI=27440100487310](http://www.pearson.fr/livre/?GCOI=27440100487310)
+Apache Maven 2e édition aux éditions Pearson [http://www.pearson.fr/livre/?GCOI=27440100487310](http://www.pearson.fr/livre/?GCOI=27440100487310)
 
 ## Nous contacter
 Contactez-nous via Twitter [http://twitter.com/lescastcodeurs](http://twitter.com/lescastcodeurs)  

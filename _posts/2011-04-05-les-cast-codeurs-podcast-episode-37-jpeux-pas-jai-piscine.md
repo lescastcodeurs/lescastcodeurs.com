@@ -98,11 +98,11 @@ Sans compter les dizaines d'autres et notamment les plus répandus pour SVN, ...
 Autres plugins utiles non évoqués :  
 
 - [http://wiki.jenkins-ci.org/display/JENKINS/Email-ext+plugin](http://wiki.jenkins-ci.org/display/JENKINS/Email-ext+plugin) : 
-De très grosses améliorations par rapport au mécanisme natif de notification. Il gère le template de mails, les règles d'envois avec différents récipients en fonction des résultats du build etc.  
+De très grosses améliorations par rapport au mécanisme natif de notification. Il gère le template de mails, les règles d'envois avec différents récipients en fonction des résultats du build, etc.  
 - [http://wiki.hudson-ci.org/display/HUDSON/Maven+Deployment+Linker](http://wiki.hudson-ci.org/display/HUDSON/Maven+Deployment+Linker) : 
 Pour afficher les liens vers les artifacts déployés par le build.  
 - [http://wiki.jenkins-ci.org/display/JENKINS/Build-timeout+Plugin](http://wiki.jenkins-ci.org/display/JENKINS/Build-timeout+Plugin) : 
-Pour forcer l'arrêt d'un job si il dépasse un certain temps d'exécution. (Attention ce dernier ne tient pas compte 
+Pour forcer l'arrêt d'un job s’il dépasse un certain temps d'exécution. (Attention ce dernier ne tient pas compte 
 des postbuild tasks ce qui peut poser problème si le blocage se produit sur une tâche positionnée à ce niveau comme 
 le build sonar etc).  
 - [http://wiki.hudson-ci.org/display/HUDSON/Sonar+Plugin](http://wiki.hudson-ci.org/display/HUDSON/Sonar+Plugin) : 
@@ -110,7 +110,7 @@ Pour enchaîner automatiquement le build sonar après un build classique
 - [http://wiki.hudson-ci.org/display/HUDSON/Priority+Sorter+Plugin](http://wiki.hudson-ci.org/display/HUDSON/Priority+Sorter+Plugin) : 
 Pour donner plus de priorité à certains jobs dans la file d'attente.  
 - [http://wiki.hudson-ci.org/display/HUDSON/Port+Allocator+Plugin](http://wiki.hudson-ci.org/display/HUDSON/Port+Allocator+Plugin) : 
-Pour éviter que des jobs d'intégration soient lancés en parallele en utilisant les même ports de la machine.  
+Pour éviter que des jobs d'intégration soient lancés en parallèle en utilisant les même ports de la machine.  
 
 Pour aller plus loin :  
 Le site Web jenkins : [http://jenkins-ci.org/](http://jenkins-ci.org/)  

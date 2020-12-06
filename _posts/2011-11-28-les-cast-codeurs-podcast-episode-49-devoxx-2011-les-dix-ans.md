@@ -46,11 +46,11 @@ Devoxx France du 18 au 20 avril 2012 à Paris [http://www.devoxx.fr/](http://www
 [http://www.touilleur-express.fr/2011/11/16/lhistoire-de-devoxx-france-2012/](http://www.touilleur-express.fr/2011/11/16/lhistoire-de-devoxx-france-2012/)  
 Startup weekend [http://startupweekend.org/](http://startupweekend.org/)
 
-## Enregistrement live du 50eme épisode au ParisJUG
-Le 13 décembre, on enregistrera le 50eme épisode en direct au ParisJUG.  
+## Enregistrement live du 50e épisode au ParisJUG
+Le 13 décembre, on enregistrera le 50e épisode en direct au ParisJUG.  
 Venez nombreux !
 [http://parisjug.org/xwiki/bin/view/Meeting/20111213](http://parisjug.org/xwiki/bin/view/Meeting/20111213).  
-Note pour les habitués, ça ne sera pas a l’ISEP, donc faites gaffe :)
+Note pour les habitués, ça ne sera pas à l’ISEP, donc faites gaffe :)
 
 ## Nous contacter
 Contactez-nous via Twitter [http://twitter.com/lescastcodeurs](http://twitter.com/lescastcodeurs)  

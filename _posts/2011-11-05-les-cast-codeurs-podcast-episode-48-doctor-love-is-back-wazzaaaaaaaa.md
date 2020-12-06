@@ -41,7 +41,7 @@ XWiki [http://www.xwiki.com/xwiki/bin/view/Home/WebHome](http://www.xwiki.com/xw
 ### Autres
 JCP.next JSR 348 [http://jcp.org/en/jsr/detail?id=348](http://jcp.org/en/jsr/detail?id=348)  
 Site Web Bean Validation [http://beanvalidation.org](http://beanvalidation.org)  
-Alache TomEE [http://openejb.apache.org/apache-tomee.html](http://openejb.apache.org/apache-tomee.html)  
+Apache TomEE [http://openejb.apache.org/apache-tomee.html](http://openejb.apache.org/apache-tomee.html)  
 
 Démarrage des serveurs d’app  
 [http://agoncal.wordpress.com/2011/10/20/o-java-ee-6-application-servers-where-art-thou/](http://agoncal.wordpress.com/2011/10/20/o-java-ee-6-application-servers-where-art-thou/)
