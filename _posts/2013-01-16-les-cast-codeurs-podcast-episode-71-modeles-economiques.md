@@ -10,7 +10,7 @@ Enregistré le 9 janvier 2013
 Téléchargement de l’épisode [LesCastCodeurs-Episode-71.mp3](http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-71.mp3)
 
 Les Cast Codeurs recherchent des sponsors, [mais pourquoi?](http://lescastcodeurs.com/2013/01/16/sponsoring/).  
-Contactez nous à [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com) si vous êtes
+Contactez-nous à [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com) si vous êtes
 intéressés.
 
 
@@ -51,7 +51,7 @@ GitHub un peu dans les choux en ce moment
 
 ### Politique
 
-[La fiscalité et l'entrepreunariat](http://www.lesechos.fr/opinions/points_vue/0202476072060-pourquoi-nous-entrepreneurs-n-en-pouvons-plus-de-subir-une-fiscalite-confiscatoire-525084.php)  
+[La fiscalité et L'entreprenariat](http://www.lesechos.fr/opinions/points_vue/0202476072060-pourquoi-nous-entrepreneurs-n-en-pouvons-plus-de-subir-une-fiscalite-confiscatoire-525084.php)  
 [Petits revenus, grosses factures](http://www.contrepoints.org/2012/12/28/109462-lassassinat-des-entrepreneurs)  
 
 Xavier Niel fait un bras de fer avec Google en prenant ses utilisateurs comme "otages" #adgate :

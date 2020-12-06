@@ -6,7 +6,7 @@ layout: blog-post
 J'ai une question existentielle. Je ne suis pas content de la structure des titres :
 
 - ils sont trop longs (spécialement sur le site Web)
-- ils ne sont spécifiques qu'au bout du 37ème caractère ce qui rend la liste sur des écrans de
+- ils ne sont spécifiques qu'au bout du 37e caractère ce qui rend la liste sur des écrans de
   mobile relativement inutile
 
 J'ai plusieurs alternatives en tête :
@@ -25,12 +25,12 @@ L'option 3 est suffisante pour les connaisseurs du podcast.
 L'option 4 est minimaliste en nombre de caractères mais ne permet pas de différencier le podcast des
 autres postes de ce blog, ou si la liste contient plusieurs blogs ou podcasts.
 
-Qu'en pensez vous ?
+Qu'en pensez-vous ?
 
 Deuxième question, chaque épisode a une image associée. Vous préférez le logo pur (juste visuel), ou le
 logo avec le nom écrit en dessous (visuel et nom) ?
 
-<img src="/images/blog/logo-lescastcodeurs-300px.png"/> vs 
-<img src="/images/blog/logo-lescastcodeurs-nom-250px.png"/>
+![Logo sans le nom]({% link /images/blog/logo-lescastcodeurs-300px.png %}) vs
+![Logo avec le nom]({% link /images/blog/logo-lescastcodeurs-nom-250px.png %})
 
 N'hésitez pas à laisser un commentaire et merci de votre aide.

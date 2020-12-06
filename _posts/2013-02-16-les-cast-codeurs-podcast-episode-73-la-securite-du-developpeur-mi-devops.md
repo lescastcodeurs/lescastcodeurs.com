@@ -10,7 +10,7 @@ Enregistré le 8 février 2013
 Téléchargement de l'épisode [LesCastCodeurs-Episode-73.mp3](http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-73.mp3)
 
 Intéressé pour sponsoriser les cast codeurs et voir ce que cela peut vous apporter ?
-Contactez nous à sponsors@lescastcodeurs.com
+Contactez-nous à [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
 
 ## News
 
@@ -21,7 +21,7 @@ VMWare licencie et embauche <http://www.theregister.co.uk/2013/01/29/vmware_q4_2
 Des infos sur les lambdas <http://zeroturnaround.com/labs/java-8-the-first-taste-of-lambdas/>  
 Article d'Olivier Croisier sur Joda Time <https://twitter.com/OlivierCroisier/status/296500044939554816>  
 Scala en 2012 et 2013 par TypeSafe <http://java.dzone.com/articles/state-scala-2013>  
-Un retour sur Scala en Français <http://the-babel-tower.blogspot.fr/2013/02/why-scala.html?spref=tw>  
+Un retour sur Scala en français <http://the-babel-tower.blogspot.fr/2013/02/why-scala.html?spref=tw>  
 La sortie de Groovy 2.1 <http://groovy.codehaus.org/Groovy+2.1+release+notes>  
 The Groovy conundrum <http://www.drdobbs.com/jvm/the-groovy-conundrum/240147731>
 

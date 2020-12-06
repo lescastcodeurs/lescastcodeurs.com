@@ -6,9 +6,9 @@ layout: blog-post
 Chaque nouvelle année amène son lot de motivation et de projets.
 Cette année les cast codeurs tentent l'aventure du sponsoring.
 
-## Mais pourquoi?
+## Mais pourquoi ?
 
-> PARCE QUEEEEEEEEE!
+> PARCE QUEEEEEEEEE !
 
 Ce n'est pas une décision prise sur un coup de tête. On n'a pas envie de casser
 la dynamique de la communauté des cast codeurs ni rendre le podcast aussi joli
@@ -27,7 +27,7 @@ l'équipe prend aujourd'hui à sa charge :
 - le matériel : micros, casques, câbles, disques durs
 
 Et puis on se dit qu'avec de l'argent, on pourrait investir dans la promotion
-des cast codeurs au delà de ses frontières existantes, vers le développeur Java
+des cast codeurs au-delà de ses frontières existantes, vers le développeur Java
 qui utilise encore du Java 1.4.1, que l'on pourrait animer un peu plus la
 communauté existante avec plus de live dans les JUGs ou les conférences
 francophones (et cela implique voyage, hôtel etc).
@@ -36,7 +36,7 @@ francophones (et cela implique voyage, hôtel etc).
 
 Règle numéro 1 : pas question de changer la ligne éditoriale. Elle est déjà biaisée
 par nos opinions et c'est bien comme ça :)
-On parle de ce que l'on aime et on dit ce que l'on aime pas. Pas envie
+On parle de ce que l'on aime et on dit ce que l'on n'aime pas. Pas envie
 de changer cette approche.
 
 Règle numéro 2 : pas question de casser la bonne humeur. On fait surtout le
@@ -59,11 +59,11 @@ Alors si vous voulez soutenir Les Cast Codeurs, et si vous ou votre entreprise s
 - promouvoir un événement que vous organisez,
 - chercher de nouveaux profils à recruter,
 
-et bien c'est justement le moment de vous adresser à des milliers d'auditeurs au travers
+Eh bien c'est justement le moment de vous adresser à des milliers d'auditeurs au travers
 du podcast.
 
 Donc n'hésitez pas à en parler autour de vous, à vos collègues, à votre boss, au DSI de votre boîte, à vos
-collègues du marketing et contactez nous à [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
+collègues du marketing et contactez-nous à [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
 si vous souhaitez en apprendre plus et comprendre ce que cela peut vous apporter.  
 Nous sommes en train de finaliser une plaquette avec nos idées sur les diverses possibilités
 de sponsoring, on vous recontacte dès que tout ça se décide.
