@@ -101,7 +101,7 @@ sur la mailing-list cross-project-issues-dev.
 [Devoxx France](http://devoxx.fr) du 8 au 10 avril à Paris - [Le programme est annoncé](http://www.devoxx.fr/2015/02/programme-devoxx-france-2015/)  
 [DevopsDays Paris](http://www.devopsdays.org/events/2015-paris/) du 14 au 15 avril à Paris. Fermeture du CFP le 27 février.  
 [MixIt](http://www.mix-it.fr) du 16 au 17 avril à Lyon  
-[RivieraDev](http://rivieradev.fr/) le 11 et 12 juin 2015 au campus Sophia-Tech à Sophia-Antipolis. Son [CFP](http://rivieradev.fr/cfp) est ouvert jusqu'au 15 Mars. - Présentation par Youri Bonnaffé. Merci à lui.
+[RivieraDev](http://rivieradev.fr/) le 11 et 12 juin 2015 au campus Sophia-Tech à Sophia-Antipolis. Son [CFP](http://rivieradev.fr/cfp) est ouvert jusqu'au 15 mars. - Présentation par Youri Bonnaffé. Merci à lui.
 
 ## Nous contacter
 
@@ -109,4 +109,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

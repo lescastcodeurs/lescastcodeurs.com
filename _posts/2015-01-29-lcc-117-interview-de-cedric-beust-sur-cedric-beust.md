@@ -64,7 +64,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-117.mp3](http://traffic.l
 [Clojure](http://clojure.org)  
 [L'avis de Cédric sur Scala.Options et les NullPointerException](http://beust.com/weblog/2012/08/19/a-note-on-null-pointers/)  
 [Midas](https://fr.wikipedia.org/wiki/Midas)  
-[Transparence référencielle](https://en.wikipedia.org/wiki/Referential_transparency_\(computer_science\))  
+[Transparence référentielle](https://en.wikipedia.org/wiki/Referential_transparency_\(computer_science\))  
 [Ceylon](http://ceylon-lang.org)  
 [Fantom](http://fantom.org)  
 
@@ -107,4 +107,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

@@ -19,7 +19,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-136.mp3](http://traffic.l
 
 - Quelle est votre rubrique préférée ?
 - Quand écoutez-vous le podcast ?
-- Ecoutez-vous tous les épisodes ?
+- Écoutez-vous tous les épisodes ?
 - Avez-vous apprécié Devoxx 2015 ?
 - Rendez-vous pour Devoxx 2016 ?
 
@@ -69,4 +69,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

@@ -5,7 +5,7 @@ layout: blog-post
 episode: 126
 mp3_length: 68703193
 ---
-Les cast codeurs sont accompagnés d'Etienne pour discuter de Java 9, des promesses, des code HTTP 7xx.
+Les cast codeurs sont accompagnés d'Etienne pour discuter de Java 9, des promesses, des codes HTTP 7xx.
 On y discute aussi IDE et de pleins d'autres choses.
 Un grand merci à Obeo pour leur soutien !
 
@@ -106,10 +106,10 @@ Les Value Type avec la syntaxe proposée `where ref T { }`
 
 ## Conférences
 
-[Jenkins User Conference](http://www.cloudbees.com/jenkins/juc-2015/europe) et [CD Summit](https://www.cloudbees.com/cdsummit/europe) à Londres les 23 et 24 Juin  
+[Jenkins User Conference](http://www.cloudbees.com/jenkins/juc-2015/europe) et [CD Summit](https://www.cloudbees.com/cdsummit/europe) à Londres les 23 et 24 juin  
 [Codeurs en Seine: le CfP est ouvert](http://cfp.codeursenseine.com) à Rouen le 26 novembre à 1h de Paris  
-Le Cfp de [Devoxx Maroc](http://devoxx.ma) est ouvert  jusqu'au 15 Juin  
-Le Cfp de [Devoxx Belgique](http://www.devoxx.be) est ouvert  jusqu'au 30 Juin  
+Le Cfp de [Devoxx Maroc](http://devoxx.ma) est ouvert  jusqu'au 15 juin  
+Le Cfp de [Devoxx Belgique](http://www.devoxx.be) est ouvert  jusqu'au 30 juin  
 [EclipseCon](https://www.eclipsecon.org/france2015/) le 24-25 juin à Toulouse  
 [JUG Summer camp](http://www.jugsummercamp.org/edition/6) le 18 septembre à La Rochelle  
 [DevNation](http://www.devnation.org)  
@@ -120,4 +120,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>
 ou sur le site web <https://lescastcodeurs.com/>
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

@@ -72,16 +72,16 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-130.mp3](http://traffic.
 
 ## Conférences
 
-[JUG Summer camp](http://www.jugsummercamp.org/edition/6) à La Rochelle le 18 Septembre  
-[ApacheCon EU (Core)](http://events.linuxfoundation.org/events/apachecon-core-europe) à Budapest le 1 et 2 Octobre  
-[Bdx.io](http://www.bdx.io/#/home) à Bordeaux le 16 Octobre  
-[ScalaIO](http://scala.io) (fin [CFP](http://cfp.scala.io) 5 sept) à Paris les 22 et 23 Octobre  
-[GeeCon](http://www.geecon.org) à Prague les 22 et 23 Octobre  
-[DevFest Nantes](https://devfest.gdgnantes.com) ( [CFP](http://cfp2015.gdgnantes.com/#/login) ) à Nantes le 6 Novembre  
-[Devoxx BE](http://www.devoxx.be) à Anvers du 9 au 13 Novembre  
-[Devoxx MA](http://devoxx.ma/fr/) à Casablanca du 16 au 18 Novembre  
-[DockerCon.eu](http://europe-2015.dockercon.com) ([CFP](https://docs.google.com/a/cloudbees.com/forms/d/1NvMe1rH4GQlIOEMu9T8vT0_WYx92XyV-41fTm-B2WpQ/viewform)) à Barcelone du 16 au 17 Novembre  
-[Codeurs en Seine](http://www.codeursenseine.com/2015/) à Rouen le 26 Novembre (1h de Paris)  
+[JUG Summer camp](http://www.jugsummercamp.org/edition/6) à La Rochelle le 18 septembre  
+[ApacheCon EU (Core)](http://events.linuxfoundation.org/events/apachecon-core-europe) à Budapest le 1 et 2 octobre  
+[Bdx.io](http://www.bdx.io/#/home) à Bordeaux le 16 octobre  
+[ScalaIO](http://scala.io) (fin [CFP](http://cfp.scala.io) 5 sept) à Paris les 22 et 23 octobre  
+[GeeCon](http://www.geecon.org) à Prague les 22 et 23 octobre  
+[DevFest Nantes](https://devfest.gdgnantes.com) ( [CFP](http://cfp2015.gdgnantes.com/#/login) ) à Nantes le 6 novembre  
+[Devoxx BE](http://www.devoxx.be) à Anvers du 9 au 13 novembre  
+[Devoxx MA](http://devoxx.ma/fr/) à Casablanca du 16 au 18 novembre  
+[DockerCon.eu](http://europe-2015.dockercon.com) ([CFP](https://docs.google.com/a/cloudbees.com/forms/d/1NvMe1rH4GQlIOEMu9T8vT0_WYx92XyV-41fTm-B2WpQ/viewform)) à Barcelone du 16 au 17 novembre  
+[Codeurs en Seine](http://www.codeursenseine.com/2015/) à Rouen le 26 novembre (1h de Paris)  
 
 ## Nous contacter
 
@@ -89,4 +89,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

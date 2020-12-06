@@ -19,9 +19,9 @@ Présentation à suivre sur [Slideshare](http://www.slideshare.net/emmanuelberna
 
 ### Objectif
 
-Faire du bruit: c'est un podcast audio  
-Apprécier sa bière: c'est une podcast en direct  
-Un format différent: c'est un podcast innovant  
+Faire du bruit : c'est un podcast audio  
+Apprécier sa bière : c'est un podcast en direct  
+Un format différent : c'est un podcast innovant  
 
 ### Qui êtes-vous ?
 
@@ -31,7 +31,7 @@ Un format différent: c'est un podcast innovant
 15 ans de carrière  
 10 ans de carrière  
 5 ans de carrière  
-0 ans de carrière  
+0 an de carrière  
 
 ### Il y a 20 ans
 
@@ -57,13 +57,13 @@ Rue Mongallet
 Le minitel  
 Le modem US Robotics  
 
-#### Souvenez vous 1995
+#### Souvenez-vous 1995
 
 Perl 5.001 13/03/1995  
 Iomega Jaz drive  
 Visual Basic 4.0  08/1995  
 Ruby  
-Windows 95 24/08/1995: 1 million de copies en 4 jours  
+Windows 95 24/08/1995 : 1 million de copies en 4 jours  
 Internet Explorer 1.0 16/08/1995  
 Le premier Wiki est créé ([WikiWikiWeb](https://en.wikipedia.org/wiki/WikiWikiWeb) sur <http://c2.com>)  
 HTML 2.0 le 24/11/1995  
@@ -86,7 +86,7 @@ Toy Story 22/11/1995
 ### L’équipe Devoxx
 
 [Devoxx4Kids](http://www.devoxx4kids.org)  
-[Ecole 42](http://www.42.fr)  
+[École 42](http://www.42.fr)  
 
 ### Tu prends ta bière ta TV et tu t’en vas
 
@@ -105,7 +105,7 @@ Merci à [JFrog](http://www.jfrog.com)
 Quand les développeurs parlent de philosophie avec des philosophes.  
 [Les trois écritures chez Gallimard](http://www.gallimard.fr/Catalogue/GALLIMARD/Bibliotheque-des-Sciences-humaines/Les-trois-ecritures)  
 
-### Et vous Devoxx c’était quoi?
+### Et vous Devoxx c’était quoi ?
 
 "On écoute toujours le mec qui a un mégaphone en haut des escaliers"  
 Stephan Tual
@@ -116,4 +116,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

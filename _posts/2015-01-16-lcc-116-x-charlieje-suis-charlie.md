@@ -20,7 +20,7 @@ Bonne année à tous et merci à nos sponsors cette année Sfeir et CloudBees qu
 [Maître Eolas](https://twitter.com/maitre_eolas)  
 [whois est Charlie](http://pix-geeks.com/whois-jesuischarlie/)  
 [Anonymous est Charlie](https://www.yahoo.com/tech/s/anonymous-retaliates-charlie-hebdo-attacks-213752529.html) et [pastebin](http://pastebin.com/Pdj2Z0wC)  
-[Le juge anti-terroriste Marc Trevidic](https://www.youtube.com/watch?v=yO41kHjHJuM)  
+[Le juge anti-terroriste Marc Trévidic](https://www.youtube.com/watch?v=yO41kHjHJuM)  
 
 ### Langages
 
@@ -35,7 +35,7 @@ Bonne année à tous et merci à nos sponsors cette année Sfeir et CloudBees qu
 
 ### PaaS et mobile
 
-Thales et la Caisse des Dép. décident de se désengager de Cloudwatt: [CloudWatt 2m de C.A  2014 pour 150m investit](http://www.channelnews.fr/actu-societes/fournisseurs/21360-bilan-accablant-pour-numergy-et-cloudwatt.html), [Cloudwatt passe sous le contrôle à 100% d’Orange](http://www.informatiquenews.fr/cloudwatt-passe-controle-100-dorange-28008)  
+Thales et la Caisse des Dép. décident de se désengager de Cloudwatt : [CloudWatt 2m de C.A  2014 pour 150m investit](http://www.channelnews.fr/actu-societes/fournisseurs/21360-bilan-accablant-pour-numergy-et-cloudwatt.html), [Cloudwatt passe sous le contrôle à 100% d’Orange](http://www.informatiquenews.fr/cloudwatt-passe-controle-100-dorange-28008)  
 [Vulnérabilité dans Google App Engine](http://www.techworld.com/news/security/over-30-vulnerabilities-found-in-google-app-engine-3590430/)  
 [Android Studio 1.0](http://developer.android.com/sdk/index.html)  
 [Pourquoi il ne faut plus utiliser CyanogenMod, ou les dégâts d’un management de cour de récrée](http://www.nikopik.com/pourquoi-il-ne-faut-plus-utiliser-cyanogenmod-ou-les-degats-dun-management-de-cour-de-recre)  
@@ -48,7 +48,7 @@ Thales et la Caisse des Dép. décident de se désengager de Cloudwatt: [CloudWa
 [Iliad lance un service cloud sur ARM](http://venturebeat.com/2014/12/29/why-french-telecom-iliad-is-launching-an-arm-based-cloud-service-and-why-it-matters/)  
 
 
-###  Au delà du code
+###  Au-delà du code
 
 [Les objets connectés et notre vie privée](http://korben.info/samsung-nous-devoile-un-futur-technologique-effrayant.html)  
 [Podcast l'économie en questions](http://www.franceculture.fr/emission-l-economie-en-questions-0)  
@@ -68,7 +68,7 @@ JavaPosse qui tire sa révérence
 Lambda et programmation fonctionnelle  
 Java 8 sort  
 Sécurité (truecrypt, shellshock, heartbleed, gotofail, Sony, ...)  
-[La sécurité dans les outils DevoOps](http://www.slideshare.net/chrisgates/lascon-2014-devooops)  
+[La sécurité dans les outils DevOps](http://www.slideshare.net/chrisgates/lascon-2014-devooops)  
 Larry Elisson  
 La place des minorités dans la tech
 Apple et la baisse de la qualité du logiciel  
@@ -83,7 +83,7 @@ Le hype du container et du micro service continue
 Bordel d'orchestration des micro et des containers  
 API Asynchrones  
 Sécurité  
-Modularité de Java: mouahahahahah  
+Modularité de Java : mouahahahahah  
 Rien dans le mobile  
 La guerre des plateformes (Microsoft Azure, Google Services, Amazon WS)  
 
@@ -97,7 +97,7 @@ La guerre des plateformes (Microsoft Azure, Google Services, Amazon WS)
 ##  Conférences 
 
 [CFP ApacheCon](http://s.apache.org/acna2015cfp)  
-[Devoxx France](http://devoxx.fr) du 8 au 10 avril à Paris - Fin du CFP le 17 Janvier.  
+[Devoxx France](http://devoxx.fr) du 8 au 10 avril à Paris - Fin du CFP le 17 janvier.  
 [DevopsDays Paris](http://www.devopsdays.org/events/2015-paris/) du 14 au 15 avril à Paris  
 [MixIt](http://www.mix-it.fr) du 16 au 17 avril à Lyon  
 
@@ -109,4 +109,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

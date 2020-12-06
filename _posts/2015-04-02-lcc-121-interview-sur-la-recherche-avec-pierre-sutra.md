@@ -35,7 +35,7 @@ Champs de recherche:
 
 [Jim Gray et l'invention des transactions](https://en.wikipedia.org/wiki/Jim_Gray_\(computer_scientist\))  
 [NoSQL is dead InfoQ](http://www.infoq.com/presentations/nosql-commonalities)  
-[Linearisabilité](https://en.wikipedia.org/wiki/Linearizability)  
+[Linéarisabilité](https://en.wikipedia.org/wiki/Linearizability)  
 
 [Doug Terry](http://www.odbms.org/2014/05/doug-terry-microsoft-research-silicon-valley-lab/)  
 
@@ -81,7 +81,7 @@ Organisation
 [Euro TM](http://www.eurotm.org)  
 [Pascal Felber](http://members.unine.ch/pascal.felber/index.html)  
 
-Qui choisi les thèmes?  
+Qui choisi les thèmes ?  
 [John Von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)  
 [Plus faible détecteur de défaillance](http://slideplayer.fr/slide/1619618/)  
 [k-set agreement](http://link.springer.com/chapter/10.1007%2F3-540-36080-8_6)  
@@ -105,5 +105,5 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
 
