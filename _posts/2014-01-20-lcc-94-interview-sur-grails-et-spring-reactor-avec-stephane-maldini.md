@@ -25,7 +25,7 @@ Stéphane Maldini <https://twitter.com/smaldini>
 [Gradle](http://www.gradle.org)  
 [Feuille de route](http://grails.org/roadmap)  
 [SiteMesh](http://wiki.sitemesh.org/display/sitemesh/Home)  
-[Plugin securité](http://grails.org/plugin/spring-security-core)  
+[Plugin sécurité](http://grails.org/plugin/spring-security-core)  
 [Plugin resources](http://grails.org/plugin/resources)  
 [Plugin plateforme](http://grails.org/plugin/platform-core)  
 
@@ -48,4 +48,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

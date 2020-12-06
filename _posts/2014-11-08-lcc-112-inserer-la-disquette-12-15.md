@@ -19,7 +19,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-112.mp3](http://traffic.
 
 [Lambdas en Scala et en Java du point de vue du bytecode](http://www.takipiblog.com/compiling-lambda-expressions-scala-vs-java-8/)  
 [Lambdas et exceptions](http://www.takipiblog.com/the-dark-side-of-lambda-expressions-in-java-8/)  
-[Eviter Java 8 Optional dans vos POJO](http://blog.joda.org/2014/11/optional-in-java-se-8.html)  
+[Éviter Java 8 Optional dans vos POJO](http://blog.joda.org/2014/11/optional-in-java-se-8.html)  
 [Bye bye le JAR file](https://twitter.com/mmilinkov/status/528161723128115200)  
 
 [Functional programming course](https://www.edx.org/course/delftx/delftx-fp101x-introduction-functional-2126#.VD5oxdTkfAg)  
@@ -42,7 +42,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-112.mp3](http://traffic.
 [Concurrent trees, radix / suffix trees](https://code.google.com/p/concurrent-trees/)  
 [Remplacement de java.util / java.util.concurrent par Cliff Click (plus scalable / efficace en multithreading)](https://github.com/stephenc/high-scale-lib)  
 [Nouvelle librairie OSS pour du machine learning](http://blog.datumbox.com/new-open-source-machine-learning-framework-written-in-java/)  
-[Javers: Java object diffing / versionning for audit trails](http://javers.org/)  
+[Javers: Java object diffing / versioning for audit trails](http://javers.org/)  
 [Hibernate Envers](http://docs.jboss.org/hibernate/orm/4.2/devguide/en-US/html/ch15.html)  
 
 ### Infrastructure
@@ -56,7 +56,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-112.mp3](http://traffic.
 ### Middleware
 
 
-OSGi: Le dessous des cartes - merci à Mikael Barbero  
+OSGi : Le dessous des cartes - merci à Mikael Barbero  
 [Le dessous des cartes](http://ddc.arte.tv)  
 [OSGi](http://www.osgi.org)  
 [Equinox](https://www.eclipse.org/equinox/)  
@@ -137,4 +137,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

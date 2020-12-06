@@ -1,5 +1,5 @@
 ---
-title: LCC 111 - Interview sur Microsoft Azure avec Patrick Chanezon et Benjamin Guinebertiere
+title: LCC 111 - Interview sur Microsoft Azure avec Patrick Chanezon et Benjamin Guinebertière
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 111
@@ -19,7 +19,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-111.mp3](http://traffic.
 
 ### Ta vie, ton oeuvre
 
-[Benjamin Guinebertiere](http://3-4.fr)  
+[Benjamin Guinebertière](http://3-4.fr)  
 [@benjguin](https://twitter.com/benjguin)  
 [Microsoft](http://www.microsoft.com/fr-fr/default.aspx)  
 
@@ -28,11 +28,11 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-111.mp3](http://traffic.
 
 ### Cloud and future
 
-C’est quoi le cloud pour vous?  
+C’est quoi le cloud pour vous ?  
 [Portrait d'un développeur à la façon The Artist \(Parleys video, Francais\)](https://parleys.com/play/5148922a0364bc17fc56c799/chapter0/about)  
-Pourquoi le cloud est inévitable?  
+Pourquoi le cloud est inévitable ?  
 [Microsoft Cloud OS](http://www.microsoft.com/en-us/server-cloud/cloud-os/)  
-Uniquement cloud on mélange hybride?  
+Uniquement cloud on mélange hybride ?  
 [OVH et Microsoft Azure](https://www.ovh.com/fr/dedicated-cloud/virtualisation/azure.xml)  
 [Windows Azure Pack](http://technet.microsoft.com/en-us/library/dn296435.aspx)  
 Sécurité, données privées et entités étatiques.  
@@ -40,9 +40,9 @@ Sécurité, données privées et entités étatiques.
 
 ### Azure infrastructure
 
-Qu‘est-ce qu’Azure? IaaS, PaaS, SaaS, SkyNet?  
+Qu‘est-ce qu’Azure ? IaaS, PaaS, SaaS, SkyNet ?  
 [Microsoft Azure](http://azure.microsoft.com/en-us/)  
-[Le compte à rebourd de Patrick](https://twitter.com/gcuisinier/status/521679963721039872)  
+[Le compte à rebours de Patrick](https://twitter.com/gcuisinier/status/521679963721039872)  
 [Office 365](http://products.office.com/en-us/home)  
 [Java sur Azure](http://www.slideshare.net/chanezon/java-on-azure-39851544)  
 
@@ -59,21 +59,21 @@ Qu‘est-ce qu’Azure? IaaS, PaaS, SaaS, SkyNet?
 
 #### Les OS
 
-On peut faire tourner sous quel OS?  
-Des solutions comme EC2?  
-Support Docker?  
+On peut faire tourner sous quel OS ?  
+Des solutions comme EC2 ?  
+Support Docker ?  
 [Azure et Kubernetes](http://azure.microsoft.com/blog/2014/08/28/hackathon-with-kubernetes-on-azure/)  
 [Microsoft Drawbridge](http://research.microsoft.com/en-us/projects/drawbridge/)  
 
 #### Le stockage et bases de données
 
-Quels sont les choix de stockage de “fichiers”?  
+Quels sont les choix de stockage de “fichiers” ?  
 [Azure Blob Storage](https://www.simple-talk.com/cloud/cloud-data/an-introduction-to-windows-azure-blob-storage-/)  
 [Azure Table Storage](http://msdn.microsoft.com/en-us/magazine/ff796231.aspx)  
 [Azure Queues](http://msdn.microsoft.com/en-us/library/azure/hh767287.aspx)  
 [Azure File Service](http://blogs.msdn.com/b/windowsazurestorage/archive/2014/05/12/introducing-microsoft-azure-file-service.aspx)  
 
-Quels sont les choix de bases de données?  
+Quels sont les choix de bases de données ?  
 Bases de données RDBMS et scalabilité  
 Discuter les options NoSQL  
 [Azure SQL Database](http://msdn.microsoft.com/en-us/library/azure/ee336279.aspx)  
@@ -87,7 +87,7 @@ Discuter les options NoSQL
 #### Les langages et stack applicatives
 
 Quelles sont les plateformes  
-Comment vous *supportez* les plateformes?  
+Comment vous *supportez* les plateformes ?  
 Les mises à jour  
 Clustering etc  
 [Azure Websites](http://azure.microsoft.com/en-us/services/websites/)  
@@ -101,9 +101,9 @@ Clustering etc
 
 #### DevOps
 
-API REST?  
-Ligne de commande?  
-Clickodrome?  
+API REST ?  
+Ligne de commande ?  
+Clickodrome ?  
 IDE  
 [Azure SDK](http://azure.microsoft.com/en-us/downloads/)  
 [PowerShell](https://en.wikipedia.org/wiki/Windows_PowerShell)  
@@ -116,13 +116,13 @@ Comment gérer ces 10s de templates et ces 100s de machines
 [Chef](https://www.getchef.com/chef/)  
 [Puppet](http://puppetlabs.com)  
 
-Développent forcement en connecté?  
-Que faire dans le TGV?  
+Développent forcément en connecté ?  
+Que faire dans le TGV ?  
 
 #### Écosystème
 
-Amazon mange petit à petit l’écosysteme qui se construit au dessus?  
-Microsoft?  
+Amazon mange petit à petit l’écosystèmes qui se construit au-dessus ?  
+Microsoft ?  
 [Azure Express Route](http://azure.microsoft.com/en-us/services/expressroute/)  
 [Data Gravity](http://blog.mccrory.me/2010/12/07/data-gravity-in-the-clouds/)  
 
@@ -152,7 +152,7 @@ VPN vers l’IT on-premise
 
 ### Futur
 
-J’ai pas d’argent, je peux essayer quand même?  
+J’ai pas d’argent, je peux essayer quand même ?  
 Les liens pour aller plus loin  
 
 Cours gratuits sur Azure en français :
@@ -176,4 +176,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

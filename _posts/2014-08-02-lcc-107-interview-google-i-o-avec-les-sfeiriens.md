@@ -5,7 +5,7 @@ layout: blog-post
 episode: 107
 mp3_length: 72300465
 ---
-Didier, Guillaume, Nicolas et Aurérien nous donnent leur retour sur Google I/O.
+Didier, Guillaume, Nicolas et Aurélien nous donnent leur retour sur Google I/O.
 On discute ambiance, material design, wearable, Android, Google App Engine, Dart, Google Compute Engine, Cloud et Glass.
 
 Enregistré le 28 juillet 2014
@@ -15,7 +15,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-107.mp3](http://traffic.
 ## Interview
 
 Grand merci à [Sfeir](http://www.sfeir.com) non seulement de venir parler de Google I/O mais aussi de sponsoriser l'épisode.
-Tout ça parce ce qu'ils aiment bien ce que l'on fait.
+Tout ça parce qu'ils aiment bien ce que l'on fait.
 Nous aussi on les aime bien :)
 
 [![Sfeir](/images/promo/sponsors/sfeir-noir-200x67px.png)](http://www.sfeir.com)  
@@ -115,4 +115,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

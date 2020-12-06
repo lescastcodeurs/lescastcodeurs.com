@@ -49,7 +49,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-98.mp3](http://traffic.l
 [Event Sourcing](http://codebetter.com/gregyoung/2010/02/20/why-use-event-sourcing/)  
 [Greg Young](http://goodenoughsoftware.net)  
 [L'event store de Greg Young](http://geteventstore.com)  
-[Snapshots ou l'aggregat en mémoire](http://thinkbeforecoding.com/post/2010/02/25/Event-Sourcing-and-CQRS-Snapshots)  
+[Snapshots ou l'agrégat en mémoire](http://thinkbeforecoding.com/post/2010/02/25/Event-Sourcing-and-CQRS-Snapshots)  
 [Une autre vue sur les snapshots CQRS](http://blog.jonathanoliver.com/event-sourcing-and-snapshots/)  
 
 ### Pour aller plus loin
@@ -63,4 +63,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

@@ -17,10 +17,10 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-110.mp3](http://traffic.
 
 ## News
 
-Crowdcasting: 0 message reçu !  
+Crowdcasting : 0 message reçu !  
 Lancez-vous et proposer des petites sections <http://lescastcodeurs.com/crowdcasting/>  
 
-Vous voulez échanger sur les raisons pour ne pas contribuer une section?
+Vous voulez échanger sur les raisons pour ne pas contribuer une section ?
 Discutons sur le Google Group des cast codeurs.
 
 ### JavaOne
@@ -55,7 +55,7 @@ Discutons sur le Google Group des cast codeurs.
 [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)  
 [Grokking RxJava, Part 2: Operator, Operator](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)  
 [Grokking RxJava, Part 3: Reactive with benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)  
-[Manifeste reactif](http://www.reactivemanifesto.org/)  
+[Manifeste réactif](http://www.reactivemanifesto.org/)  
 
 [GS Collections by Example – Part 1](http://www.infoq.com/articles/GS-Collections-by-Example-1)  
 [Bintray Premium annoncé](https://www.youtube.com/watch?v=DgGDiPifeKI)  
@@ -127,4 +127,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

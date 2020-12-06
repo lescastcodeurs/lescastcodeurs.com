@@ -46,7 +46,7 @@ Un grand merci à [Atlassian](http://atlassian.fr) pour les pizzas !
 
 ### Devoxx (2/4)
 
-* 5% de non mâles
+* 5 % de non mâles
 * 9 jduchesses sur 13 speakeuses
 * 4000 votes à jeudi midi
 * Meilleures présentations
@@ -72,7 +72,7 @@ Un grand merci à [Atlassian](http://atlassian.fr) pour les pizzas !
 ### Java SE 8 et 9
 
 * Lambdas
-    * Heinz Kabutz - rend un probleme complexe encore plus complexe
+    * Heinz Kabutz - rend un problème complexe encore plus complexe
 * Stream
 * Programmation fonctionnelle
 * Design d'API avec Java 8
@@ -82,7 +82,7 @@ Un grand merci à [Atlassian](http://atlassian.fr) pour les pizzas !
 
 ### Autres langages
 
-* Bof, pas grand chose
+* Bof, pas grand-chose
 
 ### Java EE 7 & 8
 
@@ -105,7 +105,7 @@ Un grand merci à [Atlassian](http://atlassian.fr) pour les pizzas !
 
 * Mesos
 * Docker
-* Kubernetes - comment ça se prononce?
+* Kubernetes - comment ça se prononce ?
 
 ### Divers
 
@@ -125,4 +125,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

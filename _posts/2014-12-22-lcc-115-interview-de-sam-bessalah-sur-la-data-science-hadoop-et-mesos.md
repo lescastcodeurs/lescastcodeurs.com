@@ -5,10 +5,10 @@ layout: blog-post
 episode: 115
 mp3_length: 52227147
 ---
-Dans cet épisose, on discute avec Sam Bessalah de ce “nouveau” métier qu’est le data scientist.
+Dans cet épisode, on discute avec Sam Bessalah de ce “nouveau” métier qu’est le data scientist.
 On explore aussi l’univers Apache Hadoop et l’univers Apache Mesos. Ces endroits sont pleins de projets aux noms bizarres, cette interview permet de s’y retrouver un peu dans cette mythologie.
 
-Enregistré le 16 decembre 2014
+Enregistré le 16 décembre 2014
 
 Téléchargement de l'épisode [LesCastCodeurs-Episode-115.mp3](http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-115.mp3)  
 
@@ -21,14 +21,14 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-115.mp3](http://traffic.l
 
 ### Data scientist
 
-Kesako ?!   
+Késako ?!   
 C'est nouveau ? On a toujours eu des données pourtant dans nos S.I. ?!  
 [Le job le plus sexy du 21eme siecle ?](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century/)  
 [Drew conway’s Data Science Venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)  
 
 ### Traiter les données, les plateformes
 
-MapR, Hadoop, … C'est Quoi ? C’est nouveau ? Ca vient d’où ?  Comment ça marche ? A quoi ça sert ?
+MapR, Hadoop, … C'est Quoi ? C’est nouveau ? Ca vient d’où ?  Comment ça marche ? À quoi ça sert ?
 
 Ca s’intègre à tout ? Et nos sources de données legacy (Mon bon vieux mainframe et son EBCDIC) ?
 
@@ -45,9 +45,9 @@ Où sont passés mes EAI, ETL, et autres outils d'intégration B2C/B2B ?
 [Doug Cutting](https://en.wikipedia.org/wiki/Doug_Cutting)  
 [Apache Lucene](http://lucene.apache.org) - moteur de recherche full-text  
 
-[Apache Hadoop](http://hadoop.apache.org) - platforme de process distribués et scalables  
+[Apache Hadoop](http://hadoop.apache.org) - plateforme de process distribués et scalables  
 [HDFS](https://en.wikipedia.org/wiki/Apache_Hadoop#HDFS) - système de fichier distribué  
-[Apache Hive](https://hive.apache.org) - datawarehouse au dessus d’Hadoop offrant du SQL-like  
+[Apache Hive](https://hive.apache.org) - data warehouse au dessus d’Hadoop offrant du SQL-like  
 [Terradata](https://fr.wikipedia.org/wiki/Teradata)  
 [Impala](http://impala.io) - database analytique (“real time”) SQL queries etc  
 [Apache Tez](http://tez.apache.org) - directed-acyclic-graph of tasks  
@@ -98,10 +98,10 @@ Des ressources à gogo c'est bien mais comment les gérer ?
 [Kubernetes](http://kubernetes.io/)  
 [Kubernetes workshop](https://github.com/kelseyhightower/intro-to-kubernetes-workshop)  
 
-[Oscar Boykin](twitter.com/posco)  
-[Scalding](github.com/twitter/scalding)  
+[Oscar Boykin](https://twitter.com/posco)  
+[Scalding](https://github.com/twitter/scalding)  
 [Présentation Scala + BigData](http://www.slideshare.net/samkiller/scaladata) et [une autre](http://www.slideshare.net/samkiller/scala-io-big-analyticssambessalah-27614559)  
-[Apache Ambari](ambari.apache.org)  
+[Apache Ambari](https://ambari.apache.org)  
 
 ### Comment je m’y mets ?
 
@@ -112,11 +112,11 @@ Comment devient-on data scientist ? (se former, ouvrages de références, source
 [Introduction to data science sur Coursera](https://www.coursera.org/course/datasci)  
 [Kaggle](http://kaggle.com)  
 [MLlib](https://spark.apache.org/mllib/)  
-[Mahoot](http://mahout.apache.com)  
+[Mahout](http://mahout.apache.com)  
 [R](http://www.r-project.org/)  
 [Scikit-learn (Python)](http://www.scikit-learn.org/)  
 [Machine Learning pour Hackers (livre)]( http://shop.oreilly.com/product/0636920018483.do)  
-[Scala](www.scala-lang.org)
+[Scala](https://www.scala-lang.org)
 [TypeSafe Activator](https://typesafe.com/activator/docs)  
 
 [iPython NoteBooks](http://ipython.org/notebook.html)  
@@ -135,4 +135,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
