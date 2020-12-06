@@ -33,7 +33,7 @@ Oracle connaissait le problème
 Xavier Hanin de l'OSSGTP qui couvrait aussi le sujet avec des conseils pour pallier à cette faille  
 <http://xhaj.blogspot.fr/2012/08/faille-java-0-day-aout-2012.html>
 
-#### Jigsaw: un puzzle plus dur que prévu
+#### Jigsaw : un puzzle plus dur que prévu
 
 Annonce de Mark Reinhold <http://mreinhold.org/blog/late-for-the-train>  
 Q&A de Mark Reinhold <http://mreinhold.org/blog/late-for-the-train-qa>  
@@ -63,7 +63,7 @@ Groovy maintenance <http://docs.codehaus.org/display/GROOVY/2012/09/10/Groovy+2.
 <http://www.developpez.com/actu/47000/Java-fusion-approuvee-des-editions-SE-EE-ME-la-gouvernance-du-langage-remaniee-vers-plus-d-equite/>  
 Bean Validation 1.1 update <http://beanvalidation.org/news/2012/08/31/big-push-on-bean-validation/>  
 Feuille de route de Java EE 7 réévaluée <https://blogs.oracle.com/theaquarium/entry/java_ee_7_roadmap>  
-Une spec pour les logs? <http://antoniogoncalves.org/2012/09/06/i-need-you-for-logging-api-spec-lead/>
+Une spec pour les logs ? <http://antoniogoncalves.org/2012/09/06/i-need-you-for-logging-api-spec-lead/>
 
 ### Autres sorties...
 

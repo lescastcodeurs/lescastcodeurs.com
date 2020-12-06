@@ -22,7 +22,7 @@ JSF et FreeMobile [http://blog.richeton.com/2012/01/25/free-mobile-les-erreurs-d
 ### Ceylon
 La première milestone de Ceylon est sortie [http://ceylon-lang.org/blog/2011/12/20/ceylon-m1-newton/](http://ceylon-lang.org/blog/2011/12/20/ceylon-m1-newton/)
 
-Et il y a même un prototype de compilateur Ceylon -&gt; Javascript  
+Et il y a même un prototype de compilateur Ceylon -> Javascript  
 [http://ceylon-lang.org/blog/2011/12/31/compiling-ceylon-2-js/](http://ceylon-lang.org/blog/2011/12/31/compiling-ceylon-2-js/)
 
 Ceylon String côté Ceylon [https://github.com/ceylon/ceylon.language/blob/master/src/ceylon/language/String.ceylon](https://github.com/ceylon/ceylon.language/blob/master/src/ceylon/language/String.ceylon)  
@@ -51,10 +51,10 @@ Fin de vie de Java 6
 [http://www.oracle.com/technetwork/java/eol-135779.html](http://www.oracle.com/technetwork/java/eol-135779.html)
 
 ### Java EE 7
-- Java EE 7 (JSR–342) : Cloud, metadonnées pour définir un envionnement PaaS (partage ressources, dépendences entre applis…)
+- Java EE 7 (JSR–342) : Cloud, métadonnées pour définir un environnement PaaS (partage ressources, dépendances entre applis…)
 - JPA 2.1 (JSR 338) : Multi-tenancy, procédures stockées, génération de schema, CDI (injection dans les listener)
 - JAX-RS (JSR 339) : API cliente, Bean Validation dans les paramètres de query, intégration CDI
-- Servlet 3.1 (JSR 340) : asynch io basé sur NIO2, websockets
+- Servlet 3.1 (JSR 340) : async IO basé sur NIO2, websockets
 - Expression Language (JSR 341) : séparé des JSR, EL partout, même dans les listeners CDI
 - JMS 2.0 (JSR 343) : API simplifiée, intégration avec CDI, multi-tenancy
 - JSF 2.2 (JSR 344) : support du pont portlet 2.0, HTML 5, flow management, composant file upload ou back button
@@ -76,11 +76,11 @@ Janetter [http://janetter.net/](http://janetter.net/)
 Liquibase [http://en.wikipedia.org/wiki/LiquiBase](http://en.wikipedia.org/wiki/LiquiBase)
 
 ## JUG et conférences
-- JavaBarCamp Paris #7: lundi 20 février 2012 à 18h30, [http://barcamp.org/w/page/50093739/JavaCampParis7](http://barcamp.org/w/page/50093739/JavaCampParis7)
+- JavaBarCamp Paris #7 : lundi 20 février 2012 à 18h30, [http://barcamp.org/w/page/50093739/JavaCampParis7](http://barcamp.org/w/page/50093739/JavaCampParis7)
 - Jenkins User Conference (au Marriott, le 17 avril, veille de devoxxFr) [http://www.cloudbees.com/jenkins-user-conference-2012-paris.cb](http://www.cloudbees.com/jenkins-user-conference-2012-paris.cb)
 - Devoxx France : call for paper se termine le 15/02. Speakers (Neal Ford, Romain Guy, James Ward, Matt Raible, Heinz Kabutz). RdV du 18 au 20 avril [http://devoxx.fr](http://devoxx.fr)
 - Code Story
-- Mix-IT : 26 Avril [http://www.mix-it.fr/](http://www.mix-it.fr/)
+- Mix-IT : 26 avril [http://www.mix-it.fr/](http://www.mix-it.fr/)
 - Gr8Conf [http://gr8conf.eu/cfp](http://gr8conf.eu/cfp)
 - Université du SI [http://www.usievents.com/](http://www.usievents.com/)
 - Java Magazine [http://www.oracle.com/technetwork/java/javamagazine/index.html](http://www.oracle.com/technetwork/java/javamagazine/index.html)

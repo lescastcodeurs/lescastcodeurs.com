@@ -44,7 +44,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-60.mp3](http://traffic
 
 ### Outils
 
-[Editeur BPMN 2 chez Eclipse](http://kverlaen.blogspot.ca/2012/06/new-bpmn2-eclipse-plugin.html)  
+[Éditeur BPMN 2 chez Eclipse](http://kverlaen.blogspot.ca/2012/06/new-bpmn2-eclipse-plugin.html)  
 [Gradle 1.0 est sorti](http://forums.gradle.org/gradle/topics/gradle_1_0_released)  
 [AngularJS 1.0](http://googledevelopers.blogspot.fr/2012/06/better-web-templating-with-angularjs-10.html)  
 

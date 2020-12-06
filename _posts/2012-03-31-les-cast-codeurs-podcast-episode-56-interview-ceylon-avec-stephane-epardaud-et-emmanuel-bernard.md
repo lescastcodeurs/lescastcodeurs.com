@@ -50,7 +50,7 @@ Emmanuel Bernard
 [Ceylon M2 Minitel](http://ceylon-lang.org/blog/2012/03/20/ceylon-m2-minitel/)
 
 ### Syntaxe et détails
-[Interoperabilite Java](http://ceylon-lang.org/documentation/1.0/reference/interoperability/java-from-ceylon/)  
+[Interopérabilité Java](http://ceylon-lang.org/documentation/1.0/reference/interoperability/java-from-ceylon/)  
 [Torquebox](http://torquebox.org/)  
 [Immutant](http://immutant.org/)  
 [Builder syntax](http://ceylon-lang.org/documentation/1.0/tour/named-arguments/#more_about_named_arguments)  
@@ -64,7 +64,7 @@ Emmanuel Bernard
 ### Outils
 [Serli](http://www.serli.com/)
 
-### Ecosystème et futur
+### Écosystème et futur
 [Roadmap](http://ceylon-lang.org/documentation/current/roadmap/)
 
 ## Nous contacter

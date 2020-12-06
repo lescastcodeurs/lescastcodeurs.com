@@ -32,7 +32,7 @@ GWT se dote d'un groupe de surveillance
 
 > GWT Steering Group announced with Google, Vaadin, Sencha, RedHat and others. It is a beginning of a new bright future for GWT.
 
-### Platformes et outils
+### Plateformes et outils
 
 [JBoss EAP 6 sort](http://www.redhat.com/products/jbossenterprisemiddleware/application-platform/)  
 [JBoss Data Grid 6 sort](http://www.redhat.com/products/jbossenterprisemiddleware/data-grid/)  

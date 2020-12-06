@@ -63,7 +63,7 @@ Edition de lignes de commande [http://www.math.utah.edu/docs/info/features_7.htm
 - Hackergarten [http://hackergarten-paris.eventbrite.com/](http://hackergarten-paris.eventbrite.com/)
 - Jenkins User Conference (au Marriott, le 17 avril, veille de devoxxFr) [http://www.cloudbees.com/jenkins-user-conference-2012-paris.cb](http://www.cloudbees.com/jenkins-user-conference-2012-paris.cb)
 - Devoxx France : [http://devoxx.fr](http://devoxx.fr)
-- Mix-IT : 26 Avril [http://www.mix-it.fr/](http://www.mix-it.fr/)
+- Mix-IT : 26 avril [http://www.mix-it.fr/](http://www.mix-it.fr/)
 - Breizh Camp [http://www.breizhcamp.org/call-for-paper](http://www.breizhcamp.org/call-for-paper)
 
 ## Nous contacter
