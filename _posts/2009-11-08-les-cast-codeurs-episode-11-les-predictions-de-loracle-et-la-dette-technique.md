@@ -35,13 +35,13 @@ Oracle parle aux clients de Sun
 Eclipse RCP  
 Netbeans platform  
 
-MySQL Richard Sallman  
+MySQL Richard Stallman  
 [http://news.techworld.com/applications/3204638/richard-stallman-oracle-must-divest-mysql/?intcmp=ros-md-rm](http://news.techworld.com/applications/3204638/richard-stallman-oracle-must-divest-mysql/?intcmp=ros-md-rm)
 
 Sacha Labourey sur MySQL et les licenses doubles  
 [http://sacha.labourey.com/2009/10/25/sun-vs-and-orcl-the-failure-of-the-dual-licensing-model/](http://sacha.labourey.com/2009/10/25/sun-vs-and-orcl-the-failure-of-the-dual-licensing-model/)
 
-Le coeur d'IntelliJ devient open source  
+Le cœur d'IntelliJ devient open source  
 [http://blogs.jetbrains.com/idea/2009/10/intellij-idea-open-sourced/](http://blogs.jetbrains.com/idea/2009/10/intellij-idea-open-sourced/)
 
 Cédric Beust  
@@ -72,7 +72,7 @@ Gaelyk [http://gaelyk.appspot.com/](http://gaelyk.appspot.com/)
 Cette année le format est un peu différent des années précédentes, à savoir que les Valtech Days se dérouleront sur 
 2 journées discontinues :
 
-- 1 le Mardi 17 Novembre 2009 (et oui dans un peu moins d'un mois maintenant !)
+- 1 le mardi 17 novembre 2009 (et oui dans un peu moins d'un mois maintenant !)
 - 1 autre aux environs de Mars 2010
 
 Vous pouvez consulter les détails de la conférence sur la page suivante :  
@@ -85,7 +85,7 @@ Cette édition sera consacrée aux innovations IT et marketing autour de trois t
 l’E-business &amp; le Web 2.0 ainsi que les innovations technologiques.
 
 Au programme cette année, une journée entièrement consacrée aux séminaires, témoignages et débats avec encore des 
-nouveautés en terme de format et de contenu.
+nouveautés en termes de format et de contenu.
 
 En particulier, vous pouvez consulter les intitulés des sessions de cette nouvelle mouture à cette page :  
 [http://www.valtech.fr/fr/index/valtech_days/Programme.html](http://www.valtech.fr/fr/index/valtech_days/Programme.html)

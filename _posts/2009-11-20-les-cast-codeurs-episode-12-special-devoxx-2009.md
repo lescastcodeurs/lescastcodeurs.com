@@ -5,7 +5,7 @@ layout: blog-post
 episode: 12
 mp3_length: 44635434
 ---
-Enregistré le mardi 19 novembre 2009
+Enregistré le jeudi 19 novembre 2009
 
 ## Invités
 Romain Guy [http://www.curious-creature.org](http://www.curious-creature.org/)  

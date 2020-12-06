@@ -5,7 +5,7 @@ layout: blog-post
 episode: 1
 mp3_length: 71902534
 ---
-Le premier épisode est dans les bacs!
+Le premier épisode est dans les bacs !
 
 ## Présentation de l'équipe
 
@@ -34,17 +34,17 @@ Le premier épisode est dans les bacs!
 [http://in.relation.to/tag/Bean+Validation](http://in.relation.to/tag/Bean+Validation)  
 
 ## Conférences
-GR8Conf, 18 - 19 Mai à Copenhague [http://www.gr8conf.org](http://www.gr8conf.org)  
-USI Juillet 2009 par Octo  
-JAX, 20 - 24 Avril Mayence Allemagne  
+GR8Conf, 18 - 19 mai à Copenhague [http://www.gr8conf.org](http://www.gr8conf.org)  
+USI juillet 2009 par Octo  
+JAX, 20 - 24 avril Mayence Allemagne  
 DSLDevCon, Seattle  
-JavaOne, 2 - 5 Juin  
-SpringOne 27 - 29 Avril  
+JavaOne, 2 - 5 juin  
+SpringOne 27 - 29 avril  
 GeekCon JUG de Cracovie sur 2 jours  
 Google I/O semaine avant JavaOne  
 USI 2009 - Conférence organisée par Octo  
-Jazoon 22 - 25 Juin  
-GIDS 22 - 25 Avril [http://www.developersummit.com/](http://www.developersummit.com/)  
+Jazoon 22 - 25 juin  
+GIDS 22 - 25 avril [http://www.developersummit.com/](http://www.developersummit.com/)  
 
 ## Les mains dans le cambouis
 Calculs flottants, doubles floats et mauvaises surprises  
