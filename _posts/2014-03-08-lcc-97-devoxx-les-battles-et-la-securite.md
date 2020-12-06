@@ -51,7 +51,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-97.mp3](http://traffic.l
 
 [Hibernate OGM 4.1 Beta1](http://in.relation.to/Bloggers/HibernateOGM410Beta1IsOut)  
 [Spring Data](http://projects.spring.io/spring-data/)  
-[L'accès aux bases de données relationelles en Scala](http://manuel.bernhardt.io/2014/02/04/a-quick-tour-of-relational-database-access-with-scala/)  
+[L'accès aux bases de données relationnelles en Scala](http://manuel.bernhardt.io/2014/02/04/a-quick-tour-of-relational-database-access-with-scala/)  
 
 ### Tooling
 
@@ -106,5 +106,5 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
 

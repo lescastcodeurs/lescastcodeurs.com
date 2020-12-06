@@ -74,7 +74,7 @@ GitHub et le scandale Horvath vu de [Julie](http://techcrunch.com/2014/03/15/jul
 
 ##  Outil de l'épisode
 
-Ecrire une LogRule junit pour capturer les outputs de logs dans des tests :  
+Écrire une LogRule junit pour capturer les outputs de logs dans des tests :  
 <https://github.com/xwiki/xwiki-commons/blob/master/xwiki-commons-core/xwiki-commons-test/xwiki-commons-test-simple/src/main/java/org/xwiki/test/LogRule.java>  
 
 [Toggl](https://www.toggl.com)  
@@ -93,4 +93,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

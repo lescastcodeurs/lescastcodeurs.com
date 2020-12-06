@@ -6,7 +6,7 @@ episode: 101
 mp3_length: 41631183
 ---
 Les Cast Codeurs clôturent Devoxx France 2014 en direct.
-Ils y fêtent leur 100ème épisode et vous offrent une rétrospective
+Ils y fêtent leur 100e épisode et vous offrent une rétrospective
 biaisée mais sympathique de la conférence.
 
 Enregistré le 18 avril 2014
@@ -50,7 +50,7 @@ Un chiffre: 0
 
 [Conseil national du numérique](http://www.cnnumerique.fr/)  
 [Babinet](http://www.gillesbabinet.com)  
-[Ecole 42](http://www.42.fr)  
+[École 42](http://www.42.fr)  
 [Tariq Krim](https://twitter.com/tariqkrim)  
 [codeforfrance.org](http://codeforfrance.org)  
 [Emmanuel derrière codeforfrance](http://emmanuelbernard.com/blog/2014/04/17/codeforfrance-chiche/)  
@@ -89,4 +89,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

@@ -16,7 +16,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-95.mp3](http://traffic.l
 
 ### Langages
 
-Toutes les fonctions sont-elle des monoids?  
+Toutes les fonctions sont-elles des monoids ?  
 
 > Vitaly (@BigDataSc) makes the controversial claim that all functions are monoids. Is this true? -- @scalding  
 
@@ -30,7 +30,7 @@ Toutes les fonctions sont-elle des monoids?
 [NUMA: Non Uniform Memory Access](https://en.wikipedia.org/wiki/Non-uniform_memory_access)  
 [Patchs critiques pour Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html)   
 
-Comment mettre à jour des VMs de dev automatiquement?
+Comment mettre à jour des VMs de dev automatiquement ?
 
 - [jenv](http://www.jenv.be)
 - [java_home](http://stackoverflow.com/questions/6588390/where-is-java-home-on-osx-lion-10-7-mountain-lion-10-8-or-mavericks-10-9)
@@ -73,7 +73,7 @@ Comment mettre à jour des VMs de dev automatiquement?
 [Greg Luck quitte Terracotta et rejoins Hazelcast](http://gregluck.com/blog/archives/2014/01/i-will-be-joining-hazelcast-as-cto/)  
 [Le top 100 des développeurs français](https://medium.com/p/e222faa21947)   
 [Ne dites pas à ma mère que je suis développeur](http://business.lesechos.fr/directions-generales/partenaire/partenaire-23-ne-dites-pas-a-ma-mere-que-je-suis-developpeur-59682.php)  
-[Si vous n'êtes pas là pour aider vos equipes à développer, vous n'êtes pas un (bon) manager](http://blogs.hbr.org/2014/01/if-youre-not-helping-people-develop-youre-not-management-material/)  
+[Si vous n'êtes pas là pour aider vos équipes à développer, vous n'êtes pas un (bon) manager](http://blogs.hbr.org/2014/01/if-youre-not-helping-people-develop-youre-not-management-material/)  
 [GitHub est ton CV](https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/)  
 [Ohloh](https://www.ohloh.net)  
 [Masterbranch](https://masterbranch.com)  
@@ -116,4 +116,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

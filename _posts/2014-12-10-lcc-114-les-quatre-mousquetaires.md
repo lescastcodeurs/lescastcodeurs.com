@@ -16,7 +16,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-114.mp3](http://traffic.
 ## News
 
 [Dashlane](https://www.dashlane.com)  
-[Teaser Star Wars, z'en pensez quqoi ?](http://trailers.apple.com/trailers/lucasfilm/starwarstheforceawakens/)  
+[Teaser Star Wars, z'en pensez quoi ?](http://trailers.apple.com/trailers/lucasfilm/starwarstheforceawakens/)  
 [Teaser Terminator](http://www.allocine.fr/article/fichearticle_gen_carticle=18638522.html)  
 
 ### Langages
@@ -61,7 +61,7 @@ Apache Spark par Alexis Seigneurin
 
 ### Outillage
 
-[Quelques racourcis claviers d'IntelliJ IDEA expliqués](https://medium.com/@andrey_cheptsov/top-20-navigation-features-in-intellij-idea-ed8c17075880)  
+[Quelques raccourcis claviers d'IntelliJ IDEA expliqués](https://medium.com/@andrey_cheptsov/top-20-navigation-features-in-intellij-idea-ed8c17075880)  
 [JUnit 4.12](https://github.com/junit-team/junit/blob/master/doc/ReleaseNotes4.12.md)  
 
 ### Web
@@ -110,4 +110,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

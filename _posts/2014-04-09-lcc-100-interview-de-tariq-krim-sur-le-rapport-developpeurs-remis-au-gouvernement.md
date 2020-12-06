@@ -15,7 +15,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-100.mp3](http://traffic.
 
 ## Mise à jour
 
-Quelques liens supplémentaires suite à la nomination d'[Axelle Lemaire](http://www.axellelemaire.eu) au poste de secrétaire d'état du numérique.
+Quelques liens supplémentaires suite à la nomination d'[Axelle Lemaire](http://www.axellelemaire.eu) au poste de secrétaire d'État du numérique.
 
 [Dix idées à Axelle Lemaire de Tariq Krim](http://pro.01net.com/editorial/617852/dix-idees-nouvelles-pour-le-nouveau-secretaire-d-etat-au-numerique/)  
 
@@ -79,7 +79,7 @@ Les tensions sur le marché de l'emploi
 
 ### L’avenir
 
-Oublié dans un tiroir ou déclencheur de quelque chose?
+Oublié dans un tiroir ou déclencheur de quelque chose ?
 
 [Conseil national du numérique](http://www.cnnumerique.fr)  
 
@@ -100,4 +100,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
