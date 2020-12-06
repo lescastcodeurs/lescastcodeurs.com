@@ -37,7 +37,7 @@ Kanban [http://en.wikipedia.org/wiki/Kanban](http://en.wikipedia.org/wiki/Kanban
 Bouquin qui parle Scrum &amp; Kanban [http://www.infoq.com/minibooks/kanban-scrum-minibook](http://www.infoq.com/minibooks/kanban-scrum-minibook)  
 Programming Motherfucker [http://oppugn.us/posts/1300784321.html](http://oppugn.us/posts/1300784321.html)  
 Article de ZedShaw (le type derriere Programming MF) sur la communauté ruby [http://techcrunch.com/2008/01/01/zed-shaw-puts-the-smack-down-on-the-rails-community/](http://techcrunch.com/2008/01/01/zed-shaw-puts-the-smack-down-on-the-rails-community/)  
-Software Carftmanship [http://manifesto.softwarecraftsmanship.org/](http://manifesto.softwarecraftsmanship.org/)  
+Software Craftsmanship [http://manifesto.softwarecraftsmanship.org/](http://manifesto.softwarecraftsmanship.org/)  
 Article sur le craftsmanship [http://blog.xebia.fr/2011/01/31/software-craftsmanship-en-pratique/](http://blog.xebia.fr/2011/01/31/software-craftsmanship-en-pratique/)  
 The standish group [http://blog.standishgroup.com/](http://blog.standishgroup.com/)
 

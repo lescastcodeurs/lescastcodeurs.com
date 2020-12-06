@@ -18,13 +18,13 @@ Vous pouvez retrouver une [copie des slides sur Slideshare.net](http://www.slide
 - Dr Love
 - Mini me
 
-### Un p’tit coup de generique ?
+### Un p’tit coup de générique ?
 
 ### Les Cast Codeurs en chiffres
 - 50 épisodes
 - 1er épisode il y a 2 ans 8 mois et 1 jour
-- 85% de français
-- et non, pas encore 85% “des” français !
+- 85 % de Français
+- et non, pas encore 85 % “des” Français !
 - 9440 téléchargements par mois
 - 267,42 Go sur disque dur (excluant les backups)
 - 85 blagues de Guillaume
@@ -41,16 +41,16 @@ Vous pouvez retrouver une [copie des slides sur Slideshare.net](http://www.slide
 3. Ca m’aide à m’endormir
 4. Pour la couverture des nouvelles
 5. Pour les interviews sur les technos spécifiques
-6. Parce que vous racontez n’importe quoi on peut pas vous laisser dire ces choses de manière impunie
+6. Parce que vous racontez n’importe quoi on ne peut pas vous laisser dire ces choses de manière impunie
 
-### Qui êtes-vous?
+### Qui êtes-vous ?
 1. Indep
 2. Petite boîte tech
 3. Essessedeuzie
-4. Editeur logiciel
+4. Éditeur logiciel
 5. Tech dans une boîte “normale”
 6. Public ou para-public
-7. Etudiants
+7. Étudiants
 
 ### Bilan année 2011
 - Scala Kotlin Ceylon Dart Fantom
@@ -66,7 +66,7 @@ Vous pouvez retrouver une [copie des slides sur Slideshare.net](http://www.slide
 
 ### Et vous, qu’est-ce qui vous a marqué en 2011 ?
 
-### Aidez nous à prédire 2012 ?
+### Aidez-nous à prédire 2012 ?
 
 ### Quel langage va tuer Java ?
 1. Groovy
@@ -79,7 +79,7 @@ Vous pouvez retrouver une [copie des slides sur Slideshare.net](http://www.slide
 8. GrOuVy
 9. D’autres idées ?
 
-### Dans quel langage codez vous?
+### Dans quel langage codez-vous ?
 1. Java
 2. Groovy
 3. Scala

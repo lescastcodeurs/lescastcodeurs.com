@@ -15,7 +15,7 @@ Grolle [http://fr.wikipedia.org/wiki/Grole](http://fr.wikipedia.org/wiki/Grole)
 
 Emmanuel Bernard - JBoss by Red Hat  
 Henry Gomez - eXo Platform  
-Mathilde Lemée - Independante  
+Mathilde Lemée - Indépendante  
 Ludovic Poitou ForgeRock  
 Julien Viet - eXo Platform  
 Christophe Laprun - JBoss by Red Hat  
@@ -26,10 +26,10 @@ Emmanuel Hugonet - Silverpeas
 Jean-Laurent Morlhon - Xebia  
 Paul Sandoz - CloudBees  
 Vincent Massol - XWiki  
-Jean-Baptiste Lemée - Independant  
+Jean-Baptiste Lemée - Indépendant  
 Emmanuel Lécharny - Iktek
 
-## Threads coûteux ou pas?  
+## Threads coûteux ou pas ?  
 NIO Mailinator [http://mailinator.blogspot.com/2008/02/kill-myth-please-nio-is-not-faster-than.html](http://mailinator.blogspot.com/2008/02/kill-myth-please-nio-is-not-faster-than.html)
 
 ## Multi Tenancy  
