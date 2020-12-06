@@ -24,7 +24,7 @@ Bases de données en mémoire :
 - H2 [http://www.h2database.com](http://www.h2database.com)
 - HSQLDB [http://hsqldb.org/](http://hsqldb.org/)
 
-### Processeur multi coeur et Java
+### Processeur multi-cœur et Java
 Acteurs par Alex Miller [http://tech.puredanger.com/presentations/actor-concurrency](http://tech.puredanger.com/presentations/actor-concurrency)  
 Twitter et Scala [http://www.artima.com/scalazine/articles/twitter_on_scala.html](http://www.artima.com/scalazine/articles/twitter_on_scala.html)  
 

@@ -34,7 +34,7 @@ Le problème du cloud, si le cloud est down, c'est que rien ne va plus ! Interru
 ### Twitter hacké
 [http://www.techcrunch.com/2009/07/19/the-anatomy-of-the-twitter-attack/](http://www.techcrunch.com/2009/07/19/the-anatomy-of-the-twitter-attack/)  
 
-### Garbage collector G1 dedié aux machines multicoeurs
+### Garbage collector G1 dédié aux machines multi-cœur
 [http://www.theserverside.com/news/thread.tss?thread_id=54321](http://www.theserverside.com/news/thread.tss?thread_id=54321)  
 [http://blogs.sun.com/jonthecollector/entry/our_collectors](http://blogs.sun.com/jonthecollector/entry/our_collectors)
 
@@ -42,7 +42,7 @@ Le problème du cloud, si le cloud est down, c'est que rien ne va plus ! Interru
 Agile conf 2009 à Chicago du 24 au 28 août ! (voir texte entier en bas de show note)  
 JBoss World 2009 du 1er au 4 septembre 2009 à Chicago [http://www.jbossworld.com/](http://www.jbossworld.com/)  
 
-SpringOne + G2X du 19 au 22 octobre à la Nouvelle Orléans  
+SpringOne + G2X du 19 au 22 octobre à la Nouvelle-Orléans  
 [http://www.springone2gx.com/conference/new_orleans/2009/10/home](http://www.springone2gx.com/conference/new_orleans/2009/10/home)
 
 ### JPA 2
@@ -88,7 +88,7 @@ Voici des sessions qui s'adressent directement à des programmeurs Java (les + i
 - Agile AJAX: The Google Web Toolkit Experience
 - Creating Habitable Code: Lessons in Longevity from CruiseControl
 
-Egalement :
+Également :
 
 - SOA and Color Modeling
 - Coding Dojo: Enhancing Legacy Code

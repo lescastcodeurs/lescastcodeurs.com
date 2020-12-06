@@ -5,7 +5,7 @@ layout: blog-post
 episode: 13
 mp3_length: 33158667
 ---
-Enregistré le mardi 19 novembre 2009
+Enregistré le jeudi 19 novembre 2009
 
 Jean Francois Arcand  
 [http://www.java.net/blogs/jfarcand/](http://www.java.net/blogs/jfarcand/)  

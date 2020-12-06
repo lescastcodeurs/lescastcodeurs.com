@@ -21,7 +21,7 @@ Google public DNS
 Google App Engine 1.3 [http://googleappengine.blogspot.com/2009/12/app-engine-sdk-130-released-including.html](http://googleappengine.blogspot.com/2009/12/app-engine-sdk-130-released-including.html)  
 Microsoft et le Cloud Storage [http://www.theregister.co.uk/2009/12/10/azure_storage_boxes/](http://www.theregister.co.uk/2009/12/10/azure_storage_boxes/)  
 
-Livre Apache Maven de Arnaud Héritier et Nicolas De loof   
+Livre Apache Maven de Arnaud Héritier et Nicolas De Loof   
 [http://www.amazon.fr/Apache-Maven-Nicolas-loof/dp/274402337X](http://www.amazon.fr/Apache-Maven-Nicolas-loof/dp/274402337X)
 
 ## Le bilan Java 2009
@@ -64,7 +64,7 @@ Hibernate Search 3.2 Beta 1 [http://relation.to/13197.lace](http://relation.to/
 ## Les prévisions 2010
 Liens non existants encore :)
 
-Retrouvez nous sur Twitter ou sur notre Google groupe :
+Retrouvez-nous sur Twitter ou sur notre Google groupe :
 
 - [http://twitter.com/lescastcodeurs](http://twitter.com/lescastcodeurs)
 - [http://groups.google.com/group/lescastcodeurs](http://groups.google.com/group/lescastcodeurs)
