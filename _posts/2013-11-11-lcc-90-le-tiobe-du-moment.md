@@ -7,7 +7,7 @@ mp3_length: 38254296
 ---
 
 Arnaud, Antonio et Emmanuel discutent des retours après JavaOne, de node.js vs Java EE, des
-visages multiples d'Oracle vis à vis de l'Open Source et bien sûr des prochains Devoxx.
+visages multiples d'Oracle vis-à-vis de l'Open Source et bien sûr des prochains Devoxx.
 
 Enregistré le 31 octobre 2013
 
@@ -72,4 +72,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

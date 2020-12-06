@@ -44,7 +44,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-84.mp3](http://traffic.l
     - Parallélisations
 - Web Socket
 - Concurrency Utilities for EE
-    - Etend Concurrency Utilities API (JSR-166)
+    - étend Concurrency Utilities API (JSR-166)
     - java.util.concurrent pour Java EE
 
 ### Specs mises à jour
@@ -96,4 +96,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

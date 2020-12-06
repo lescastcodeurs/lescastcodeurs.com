@@ -28,7 +28,7 @@ Petit tour de table sur JavaOne dans son ensemble.
 [Oracle OpenWorld](http://www.oracle.com/openworld/)  
 [Track sécurité](https://oracleus.activeevents.com/2013/connect/search.ww?eventRef=javaone#loadSearch-event=null&searchPhrase=&searchType=session&tc=0&sortBy=&p=&i\(11180\)=20801&i\(10038\)=21519)  
 Les sessions seront sur [Parleys](http://parleys.com)  
-Larry Ellison sèche sa deuxième keynote pour voir l'America's cup: [lien](http://www.cio.com/article/740304/Larry_Ellison_Skips_Openworld_Keynote_to_Watch_America_39_s_Cup)  
+Larry Ellison sèche sa deuxième keynote pour voir l'America's cup : [lien](http://www.cio.com/article/740304/Larry_Ellison_Skips_Openworld_Keynote_to_Watch_America_39_s_Cup)  
 [Projet Avatar](https://avatar.java.net)  
 
 ### Les sessions
@@ -72,7 +72,7 @@ Garbage Collector
 [Projet européen LEADS](http://leads-project.eu)  
 
 [Google Compute Engine](https://cloud.google.com/products/compute-engine)  
-[Goole App Engine](https://cloud.google.com/products/app-engine)  
+[Google App Engine](https://cloud.google.com/products/app-engine)  
 [Cape Dwarf](https://www.jboss.org/capedwarf)  
 
 [Raspberry Pi, tablette Oracle et Java](http://arstechnica.com/information-technology/2013/09/innovative-monstrosity-oracle-makes-tablet-with-raspberry-pi-and-java/)  
@@ -87,4 +87,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

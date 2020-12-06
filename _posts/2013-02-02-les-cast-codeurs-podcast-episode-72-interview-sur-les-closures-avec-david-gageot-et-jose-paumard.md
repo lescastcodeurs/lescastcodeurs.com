@@ -5,21 +5,21 @@ layout: blog-post
 episode: 72
 mp3_length: 51702359
 ---
-Enregistré le 17 Janvier 2013
+Enregistré le 17 janvier 2013
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-72.mp3](http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-72.mp3)
 
 ## Sponsoring
 
 Intéressé pour sponsoriser les cast codeurs et voir ce que cela peut vous apporter ?
-Contactez nous à sponsors@lescastcodeurs.com
+Contactez-nous à [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
 
 ## Interview
 
 ### Introduction
 
 José Paumard [@JosePaumard](http://twitter.com/josepaumard)  
-Maître de conf université paris 13 <http://www.univ-paris13.fr>  
+Maître de conf université Paris 13 <http://www.univ-paris13.fr>  
 Java Le soir <http://blog.paumard.org>  
 ParisJUG <http://parisjug.org>  
 Devoxx France <http://devoxx.fr>  

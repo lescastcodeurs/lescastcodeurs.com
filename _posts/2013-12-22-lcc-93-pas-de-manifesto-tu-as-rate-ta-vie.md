@@ -6,10 +6,10 @@ episode: 93
 mp3_length: 65275473
 ---
 
-Pour finir l'année, les cast codeurs au grand complet discutent des bons vieux Spring, Hibernate mais aussi de micro services et autres matifestos.
+Pour finir l'année, les cast codeurs au grand complet discutent des bons vieux Spring, Hibernate mais aussi de micro services et autres manifestos.
 Sans oublier la méthodologie et une tripotée d'outils de l'épisode.
 
-Enregistré le 20 decembre 2013
+Enregistré le 20 décembre 2013
 
 Téléchargement de l'épisode [LesCastCodeurs-Episode-93.mp3](http://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-93.mp3)  
 
@@ -69,7 +69,7 @@ Un tutoriel pratique sur comment [implémenter son propre GC](http://journal.stu
 Cheatsheet sur les [paramètres de Garbage Collection](http://blog.ragozin.info/2013/11/hotspot-jvm-garbage-collection-options.html)  
 Les [micro-services à la unix](http://www.infoq.com/presentations/Micro-Services)  
 [Google Compute Engine est maintenant en GA](https://plus.google.com/+AlexisMP/posts/jom6Khcgw61)  
-Nos amis de Restlet ont ouvert leur plateforme d'API web [APISpark en béta](https://apispark.com/)  
+Nos amis de Restlet ont ouvert leur plateforme d'API web [APISpark en bêta](https://apispark.com/)  
 [Projet Keycloak](http://bill.burkecentral.com/2013/12/03/new-keycloak-project-sso-for-browser-social-and-rest-services/)  
 
 ### Outils
@@ -115,4 +115,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

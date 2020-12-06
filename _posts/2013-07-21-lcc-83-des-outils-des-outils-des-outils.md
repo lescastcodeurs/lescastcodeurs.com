@@ -40,13 +40,13 @@ Un fix releasé dans la foulée par Olivier Lamy pour Maven avec la MAJ du plugi
 
 ### Web
 
-GWT.create, une conférence 100% sur GWT <http://gwtcreate.com>  
-Encodage d'URL, vous avez tord <http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding>  
+GWT.create, une conférence 100 % sur GWT <http://gwtcreate.com>  
+Encodage d'URL, vous avez tort <http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding>  
 Retour d'expérience sur le tout JavaScript <http://fr.slideshare.net/nzakas/enough-withthejavascriptalready>  
 
 ### Mobile et Bureau
 
-Les jeux iOS vs Androïd <http://games.greggman.com/game/android-vs-ios-game-myths/>  
+Les jeux iOS vs Android <http://games.greggman.com/game/android-vs-ios-game-myths/>  
 Liens sur Java Desktop <http://jonathangiles.net/blog/?p=1483>  
 
 ### Java EE et serveurs d'application
@@ -67,7 +67,7 @@ Feature Flipping For Java <http://ff4j.org/>
 ### NoSQL, Big Data et cloud
 
 Les mythes de Cassandra <http://www.infoq.com/articles/cassandra-mythology>  
-HortonWprks reçoit 50 M <http://www.crunchbase.com/company/hortonworks>  
+HortonWorks reçoit 50 M <http://www.crunchbase.com/company/hortonworks>  
 Le tck de Google App Engine et CapeDwarf <http://www.infoworld.com/d/cloud-computing/google-and-red-hat-collaborate-app-engine-in-private-clouds-221214>  
 
 ### Outils
@@ -92,7 +92,7 @@ Douglas Engelbart, l'inventeur de la souris est mort <http://www.nytimes.com/201
 Encrypter ses données Dropbox <http://goo.gl/EUT1E>  
 Se faire son Dropbox sécurisé chez soi avec son disque dur externe <http://www.kickstarter.com/projects/cloud-guys/plug-the-brain-of-your-devices>  
 Sécuriser ses clefs SSH <http://martin.kleppmann.com/2013/05/24/improving-security-of-ssh-private-keys.html>  
-InfoQ en Français <http://www.infoq.com/fr>  
+InfoQ en français <http://www.infoq.com/fr>  
 
 ## Outils de l'épisode
 
@@ -113,4 +113,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

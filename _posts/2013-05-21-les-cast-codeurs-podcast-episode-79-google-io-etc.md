@@ -39,7 +39,7 @@ Android, c'est 48 milliards d'apps installées, [900 millions de téléphones ac
 [Google Compute Engine ouvert](http://www.engadget.com/2013/05/16/google-cloud-platform-compute-engine/) à tout le monde, des disques persistants, des options de routage, du billing plus fin  
 [PHP sur App Engine](http://googlecloudplatform.blogspot.fr/2013/05/ushering-in-next-generation-of.html) comme nouveau langage et le [datastore](https://developers.google.com/datastore/) de GAE est disponible indépendamment  
 [App Engine TCK](https://github.com/GoogleCloudPlatform/appengine-tck) : il y a un TCK maintenant pour App Engine, qui permettra à d'autre de proposer la même plateforme, réduisant ainsi le locking  
-CapeDrarf par JBoss <http://www.jboss.org/capedwarf>  
+CapeDwarf par JBoss <http://www.jboss.org/capedwarf>  
 
 ### Java
 
@@ -48,7 +48,7 @@ Le [numérotage bizarre de Java SE](http://www.infoq.com/news/2013/05/javse-vers
 [sun.misc.Unsafe](http://mishadoff.github.io/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/) et les trucs spaces qu'on peut faire avec  
 LMAX Disruptor <http://lmax-exchange.github.io/disruptor/>  
 Présentation bien ficelée sur le framework de test [Spock](http://www.infoq.com/presentations/Spock)  
-Librarie pour faire de la [détection de language](https://code.google.com/p/language-detection/)  
+Librairie pour faire de la [détection de language](https://code.google.com/p/language-detection/)  
 
 ### Frameworks et plateformes
 
@@ -66,7 +66,7 @@ SpringSource annonce [Spring-XD](http://blog.springsource.org/2013/04/23/introdu
 ### OS
 
 Un virus dans l'espace <http://www.telegraph.co.uk/technology/news/10049444/International-Space-Station-to-boldly-go-with-Linux-over-Windows.html>  
-Toujours sur le thème de l'espace, le commandant a un compte twitter super actif avec de chouettes photos de l'espace, et avant de rentrer sur terre, il a chanté et enregistré une [vidéo de Space Oddity](http://www.youtube.com/watch?v=KaOC9danxNo) de David Bowie danls la station spatiale.
+Toujours sur le thème de l'espace, le commandant a un compte twitter super actif avec de chouettes photos de l'espace, et avant de rentrer sur terre, il a chanté et enregistré une [vidéo de Space Oddity](http://www.youtube.com/watch?v=KaOC9danxNo) de David Bowie dans la station spatiale.
 
 ### Fourre-tout
 
@@ -100,4 +100,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

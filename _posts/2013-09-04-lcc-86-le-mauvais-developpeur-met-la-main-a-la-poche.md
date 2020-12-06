@@ -67,7 +67,7 @@ GitHub pages construites en local <https://github.com/blog/1581-cutting-the-gith
 ### Divers
 
 OSGi porté en JavaScript et en natif <http://www.infoq.com/news/2013/08/osgi-javascript-native>  
-Bootstrap 3: responsive and mobile first, flat design <http://blog.getbootstrap.com/2013/08/19/bootstrap-3-released/>  
+Bootstrap 3 : responsive and mobile first, flat design <http://blog.getbootstrap.com/2013/08/19/bootstrap-3-released/>  
 Bootstrap 3 et ses nouvelles grilles : <http://blog.jetstrap.com/2013/08/bootstrap-3-grids-explained/>  
 Aerogear 1.1 <http://aerogear.org/news/2013/08/19/aerogear-1.1.0-is-out/>  
 SimpleWeb4J <https://github.com/ybonnel/SimpleWeb4j>  
@@ -102,4 +102,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

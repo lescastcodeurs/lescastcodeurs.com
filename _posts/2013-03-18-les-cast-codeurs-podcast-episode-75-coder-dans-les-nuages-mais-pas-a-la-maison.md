@@ -34,7 +34,7 @@ Red Hat donne accès aux binaires de JBoss EAP
 
 IBM rejoint OpenStack <http://gigaom.com/2013/03/04/finally-ibm-drops-the-other-openstack-shoe/>  
 Votre premier projet Hadoop <http://blog.octo.com/votre-premier-projet-hadoop/>  
-CloudBees offre l'integration continue pour CloudFoundry <http://gigaom.com/2013/02/28/cloudbees-offers-cloud-foundry-integration/>  
+CloudBees offre l'intégration continue pour CloudFoundry <http://gigaom.com/2013/02/28/cloudbees-offers-cloud-foundry-integration/>  
 Codeenvy lève 9 millions de dollars <http://blog.exoplatform.com/2013/02/26/from-exo-cloud-ide-to-codenvy-raising-9-million-dollars-a-brief-history>  
 Codenvy : retour de Nicolas DeLoof <http://blog.loof.fr/2013/02/codenvy-lide-dans-le-cloud.html>  
 Koding <https://koding.com>  
@@ -76,4 +76,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

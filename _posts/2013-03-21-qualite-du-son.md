@@ -21,10 +21,10 @@ qualité par rapport à beaucoup de podcasts dans la nature et que je passe faci
 alors que je pourrais faire un truc crados en 3 ou 4 fois moins de temps.
 
 Il arrive que les dieux soient contre nous et que la qualité sonore de certains
-épisodes soit moins bonne. Il y a pleins de raisons, en voici les principales:
+épisodes soit moins bonne. Il y a pleins de raisons, en voici les principales :
 
 - Je suis le seul à avoir un micro de bonne qualité. Une des raisons du
-  [sponsoring](/2013/01/16/sponsoring/) est justement d'investir dans un micro
+  [sponsoring]({% post_url 2013-01-16-sponsoring %}) est justement d'investir dans un micro
   pour chaque membre de l'équipe.
 - Pour les invités par contre, c'est plus difficile. Ils prennent sur leur temps
   pour nous raconter des choses intéressantes mais n'ont pas l'expérience des
@@ -37,7 +37,7 @@ Du coup, certaines fois j'utilise l'enregistrement de secours et on se retrouve
 avec du son de moins bonne qualité. C'est ça ou perdre l'épisode entier. Ça nous
 est arrivé plus souvent ces derniers temps.
 
-Je suis preneur de trucs et astuces, voici un résumé de notre méthodologie:
+Je suis preneur de trucs et astuces, voici un résumé de notre méthodologie :
 
 - Chaque personne enregistre son micro localement et on communique par Skype.
 - Les fichiers non compressés (WAV ou AIFF) sont utilisés.

@@ -7,7 +7,7 @@ mp3_length: 70063563
 ---
 Arnaud discute avec Patrick Debois des techniques et outils de l'infrastructure
 as code et du configuration management system et de ses liens avec le mouvement
-DevOps. On y discute Puppet, Chef, Vagrant etc.
+DevOps. On y discute Puppet, Chef, Vagrant, etc.
 
 Enregistré le 17 octobre 2013
 
@@ -79,7 +79,7 @@ Plus d'informations : <http://goo.gl/x6Tn5Y>
 
 [Docker](https://www.docker.io)  
 
-### Ecosystème
+### Écosystème
 
 IDE [Gepetto](https://puppetlabs.com/blog/geppetto-a-puppet-ide)  
 [Vagrant](http://www.vagrantup.com)  
@@ -107,4 +107,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

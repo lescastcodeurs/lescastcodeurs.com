@@ -42,7 +42,7 @@ MySQL -> MariaDB pour RHEL <http://www.itwire.com/business-it-news/open-source/6
 ava App server debate - WildFly gagne <http://zeroturnaround.com/rebellabs/the-great-java-application-server-debate-with-tomcat-jboss-glassfish-jetty-and-liberty-profile/>  
 OpenShift les prix <https://www.openshift.com/blogs/announcing-the-openshift-online-silver-plan>  
 JBoss Windup <https://github.com/windup/windup>  
-Aerogear et push server  (route, securite, push server, geoloc, otp)
+Aerogear et push server  (route, sécurité, push server, geoloc, otp)
 
 ### Java
 
@@ -52,7 +52,7 @@ Quelle version de Java en production et en développement ? <http://glaforge.app
 ### Entreprise
 
 Java EE 7 et les TCKs sont officiellement disponibles <http://www.oracle.com/us/corporate/press/1957557>  
-Envoyer du JMS avec des évenements CDI <http://john-ament.blogspot.fr/2013/06/whats-new-in-jms-2-part-2-event-based.html>  
+Envoyer du JMS avec des évènements CDI <http://john-ament.blogspot.fr/2013/06/whats-new-in-jms-2-part-2-event-based.html>  
 
 JBoss Tools <https://community.jboss.org/en/tools/blog/2013/06/05/beta-time-for-jboss-tools-41-and-developer-studio-70>  
 Autocompletion <http://emmanuelbernard.com/blog/2013/05/28/autocompletion-is-crap/>  
@@ -91,7 +91,7 @@ La documentation :
 
 Localisation dans le navigateur <http://instantserver.io/>  
 Fichier .rvmrc <https://rvm.io/workflow/rvmrc>  
-Etre notifié des nouveaux artifacts <https://www.artifact-listener.org>  
+Être notifié des nouveaux artifacts <https://www.artifact-listener.org>  
 Dans iTerm 2, on peut ouvrir une URL en clickant dessus via Command+click  
 
 ## JUGs et conférences
@@ -107,4 +107,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

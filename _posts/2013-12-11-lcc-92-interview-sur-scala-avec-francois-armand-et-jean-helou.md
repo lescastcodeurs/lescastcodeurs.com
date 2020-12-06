@@ -38,7 +38,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-92.mp3](http://traffic.l
 ### Outils
 
 [Compilation avec Scalac](http://xkcd.com/303/)  
-[Systeme de build Pants](https://github.com/twitter/commons)  
+[Système de build Pants](https://github.com/twitter/commons)  
 
 ### Roadmap
 
@@ -70,4 +70,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

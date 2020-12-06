@@ -27,7 +27,7 @@ Ton avis sur DynaLink <https://github.com/szegedi/dynalink#readme>
 Javascript Wat <http://www.youtube.com/watch?v=kXEgk1Hdze0>  
 jdart <http://code.google.com/p/jdart/>  
 [Backport invokedynamic](http://wiki.jvmlangsummit.com/JSR292Backport#invokedynamic_backport_.2B_VM.2Canonymous_classes)  
-Softwware transaction memory <http://en.wikipedia.org/wiki/Software_transactional_memory>  
+Software transaction memory <http://en.wikipedia.org/wiki/Software_transactional_memory>  
 Interview de Rémi par les JDuchess <http://www.duchess-france.org/a-la-rencontre-de-remi-forax/>  
 
 ### Java next selon Rémi
@@ -41,4 +41,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

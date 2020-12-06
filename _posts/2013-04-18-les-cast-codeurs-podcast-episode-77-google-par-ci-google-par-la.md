@@ -64,7 +64,7 @@ Blink, des mécontents <http://prng.net/blink-faq.html>
 Qu'est-ce que WebKit <http://paulirish.com/2013/webkit-for-developers/>  
 Podcast Debug sur Safari <http://www.imore.com/debug-11-don-melton-and-safari>  
 Google Reader, thanks for all the fish... <http://googlereader.blogspot.fr/2013/03/powering-down-google-reader.html>  
-Feedly recueille 3 millions de réfugés de Google Reader <http://feedly.com>  
+Feedly recueille 3 millions de réfugiés de Google Reader <http://feedly.com>  
 RSS.js par Dave Winer (RSS mais version JSON) <http://rssjs.org/>  
 Realtime toujours plus à la mode avec le Google Drive Realtime API <https://developers.google.com/drive/>  
 Firebase <https://www.firebase.com/> qui sort un projet OSS dans l'esprit d'EtherPad (racheté par Google) qui permet d'éditer du text collaborativement <http://www.firepad.io/#2>  
@@ -107,4 +107,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

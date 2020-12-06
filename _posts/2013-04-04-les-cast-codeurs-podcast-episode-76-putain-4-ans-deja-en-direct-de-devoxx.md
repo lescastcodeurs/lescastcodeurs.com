@@ -27,7 +27,7 @@ conditions. Toutes les personnes qui sont passées aux PlayOffs ont apprécié l
 
 <p class="sponsor">
 <img src="/images/promo/sponsors/atlassian-200px.png" alt="Atlassian" />
-Les bières ont été sympatiquement offertes par <a href="http://atlassian.fr">Atlassian</a>.
+Les bières ont été sympathiquement offertes par <a href="http://atlassian.fr">Atlassian</a>.
 Un grand merci à eux.
 </p>
 
@@ -52,7 +52,7 @@ Les slides de l'épisode <http://www.parleys.com/#play/5159c07ee4b0c779d788146e/
 - utilisez-vous des services payants ?
 - les faites-vous passer en note de frais ?
 - à combien estimez-vous le coût annuel de votre utilisation personnelle du cloud ?
-- comment qualiferiez-vous vos relations avec votre service production ?
+- comment qualifieriez-vous vos relations avec votre service production ?
 - vous arrive-t-il de bypasser la production en utilisant le cloud ?
 
 ### Devoxx 2013
@@ -82,4 +82,4 @@ Contactez-nous via Twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site Web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
