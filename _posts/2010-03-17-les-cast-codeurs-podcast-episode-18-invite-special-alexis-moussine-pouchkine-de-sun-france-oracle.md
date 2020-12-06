@@ -49,7 +49,7 @@ Weblogic [http://www.oracle.com/bea/index.html](http://www.oracle.com/bea/index
 ## Autre
 JDuchess France [http://jduchess.org/duchess-france/](http://jduchess.org/duchess-france/)  
 
-Java Serializarion et serialVersionUID explicit : dangereux ?  
+Java Serialization et serialVersionUID explicit : dangereux ?  
 [http://stackoverflow.com/search?q=serialVersionUID](http://stackoverflow.com/search?q=serialVersionUID)  
 
 Felipe Gaucho CE-JUG [http://www.java.net/blogs/felipegaucho/](http://www.java.net/blogs/felipegaucho/)  

@@ -1,5 +1,5 @@
 ---
-title: 'Les Cast Codeurs Podcast - Episode 19 - Interview indépendants partie 1 - Mathilde Lemee, Nicolas Martignole et Antonio Goncalves cassent du sucre sur les SSII'
+title: 'Les Cast Codeurs Podcast - Episode 19 - Interview indépendants partie 1 - Mathilde Lemée, Nicolas Martignole et Antonio Goncalves cassent du sucre sur les SSII'
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 19
@@ -10,7 +10,7 @@ Enregistré le 22 mars 2010
 Téléchargement de l'épisode : [LesCastCodeurs-Episode-19.mp3](http://media.libsyn.com/media/lescastcodeurs/LesCastCodeurs-Episode-19.mp3)
 
 Dans cette interview, trois indépendants partagent leurs expériences et cassent du sucre sur les SSII.
-Mais comme il y a beaucoup à dire, on a separé l'interview en deux parties.
+Mais comme il y a beaucoup à dire, on a séparé l'interview en deux parties.
 
 [http://java-freelance.fr/](http://java-freelance.fr/)  
 [http://www.touilleur-express.fr/](http://www.touilleur-express.fr/)  

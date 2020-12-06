@@ -11,7 +11,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-29.mp3](http://traffic.l
 
 **Vincent Massol**  
 XWiki SAS : [http://xwiki.com](http://xwiki.com)  
-Projet Open Source : [http:/xwiki.org](http:/xwiki.org)  
+Projet Open Source : [http:/xwiki.org](http://xwiki.org)  
 Pratiques de dev du projet Open Source : [http://dev.xwiki.org](http://dev.xwiki.org)  
 Blog : [http://massol.net](http://massol.net)
 
