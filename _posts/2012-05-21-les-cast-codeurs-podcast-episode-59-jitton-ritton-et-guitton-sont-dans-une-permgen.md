@@ -25,7 +25,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-59.mp3](http://traffic
 [Sans PermGem, c'est pas pour tout de suite](https://blogs.oracle.com/java/entry/java_7_questions_answers)  
 Henri Gomez se fâche <http://mail.openjdk.java.net/pipermail/jdk7u-dev/2012-May/002944.html>
 
-### Platformes et outils
+### Plateformes et outils
 
 [Vert.x alternative to node.js sur la VM](http://vertx.io/)  
 [Vert.x benchmark](http://vertxproject.wordpress.com/2012/05/09/vert-x-vs-node-js-simple-http-benchmarks/)

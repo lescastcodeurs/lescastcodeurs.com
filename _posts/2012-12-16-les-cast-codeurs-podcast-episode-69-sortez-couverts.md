@@ -15,7 +15,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-69.mp3](http://traffic
 
 [Initiative Pivotal](http://blogs.vmware.com/console/2012/12/the-pivotal-initiative.html)  
 
-> vert.x a des verticles, heureusement que ça s'appele pas test.x ... - J.Viet
+> vert.x a des verticles, heureusement que ça s'appelle pas test.x ... - J.Viet
 
 PaaS on premise [OpenShift Entreprise](http://www.redhat.com/solutions/cloud-computing/paas/)  
 [OVH](http://ovh.fr)  

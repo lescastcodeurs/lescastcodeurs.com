@@ -21,7 +21,7 @@ Les articles sur le mobile sur le blog d’OCTO : [http://blog.octo.com/tag/mobi
 [iOS](http://en.wikipedia.org/wiki/IOS)  
 [Omnigroup](http://www.omnigroup.com/)  
 [Things](http://culturedcode.com/things/)  
-[L’auto-entrepreneunariat](http://www.lautoentrepreneur.fr/)  
+[L’auto-entrepreneuriat](http://www.lautoentrepreneur.fr/)  
 [Apple business portal](http://www.apple.com/iphone/business/apps/)  
 [Appaloosa](http://www.appaloosa-store.com/)
 

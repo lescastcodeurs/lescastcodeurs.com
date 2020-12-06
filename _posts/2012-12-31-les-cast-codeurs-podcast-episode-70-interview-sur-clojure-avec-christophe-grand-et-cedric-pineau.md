@@ -18,7 +18,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-70.mp3](http://traffic
 [Christophe Grand](http://clj-me.cgrand.net)  
 [Clojure Programming](http://oreilly.com/catalog/0636920013754/)  
 
-### Qu'est-ce que cette bête?
+### Qu'est-ce que cette bête ?
 
 [Clojure](http://en.wikipedia.org/wiki/Clojure)  
 [Site officiel](http://clojure.org/)  
