@@ -10,7 +10,7 @@ Enregistré le 14 avril 2010
 Téléchargement de l'épisode [LesCastCodeurs-Episode-20.mp3](http://media.libsyn.com/media/lescastcodeurs/LesCastCodeurs-Episode-20.mp3)
 
 ## Nouvelles
-### Oracle: je t'aime, moi non plus
+### Oracle : je t'aime, moi non plus
 Jonathan Schwartz se lâche  
 [http://jonathanischwartz.wordpress.com/2010/03/09/good-artists-copy-great-artists-steal/](http://jonathanischwartz.wordpress.com/2010/03/09/good-artists-copy-great-artists-steal/)
 
@@ -30,7 +30,7 @@ Kosuke de Hudson quitte Sun
 [http://blogs.sun.com/alexismp/](http://blogs.sun.com/alexismp/)  
 [http://mediacast.sun.com/users/am74686/media/CommunityUpdate-25Mar2010.pdf](http://mediacast.sun.com/users/am74686/media/CommunityUpdate-25Mar2010.pdf)  
 
-### Solaris 10 plus gratuit et toutes les fonctionalités ne seront pas dans OpenSolaris
+### Solaris 10 plus gratuit et toutes les fonctionnalités ne seront pas dans OpenSolaris
 [http://www.cuddletech.com/blog/pivot/entry.php?id=1120](http://www.cuddletech.com/blog/pivot/entry.php?id=1120)  
 
 ### Le Codec VP8 de Google, Open Sourcé ?

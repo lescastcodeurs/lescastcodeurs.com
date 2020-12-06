@@ -29,7 +29,7 @@ Stephen Colebourne
 [http://www.jroller.com/scolebourne/](http://www.jroller.com/scolebourne/)  
 [http://www.jroller.com/scolebourne/entry/does_oracle_have_enough_votes](http://www.jroller.com/scolebourne/entry/does_oracle_have_enough_votes)  
 Hologic proche d'Oracle ? [http://www.jroller.com/scolebourne/entry/stacking_the_jcp_election](http://www.jroller.com/scolebourne/entry/stacking_the_jcp_election)  
-Holologic [http://www.hologic.com/](http://www.hologic.com/)
+Hologic [http://www.hologic.com/](http://www.hologic.com/)
 
 Sam Pullara  
 [http://www.linkedin.com/in/spullara](http://www.linkedin.com/in/spullara)  

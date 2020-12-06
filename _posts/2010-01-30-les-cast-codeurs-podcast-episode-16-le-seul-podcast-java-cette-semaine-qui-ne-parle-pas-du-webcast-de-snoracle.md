@@ -50,7 +50,7 @@ Spring Roo 1.0
 [http://www.springsource.org/node/2273](http://www.springsource.org/node/2273)
 
 ## Les JUGs et conférences
-2ème anniversaire du Paris JUG  
+2e anniversaire du Paris JUG  
 [http://parisjug.org/xwiki/bin/view/Meeting/20100209](http://parisjug.org/xwiki/bin/view/Meeting/20100209)
 
 Red Hat Summit et JBoss World 2010  
@@ -67,7 +67,7 @@ Vincent : Psi (Jabber) - supporte ban + ne pas rendre le chat liste
 [http://psi-im.org/](http://psi-im.org/)
 
 ## Les mains dans le cambouis : Maven edition
-Maven pluging Version de chez Codehaus Mojo   
+Maven plugin Version de chez Codehaus Mojo   
 [http://mojo.codehaus.org/versions-maven-plugin/](http://mojo.codehaus.org/versions-maven-plugin/)
 
 Livre d'Arnaud   
