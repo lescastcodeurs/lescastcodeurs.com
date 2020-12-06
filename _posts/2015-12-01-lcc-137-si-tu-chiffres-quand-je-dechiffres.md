@@ -6,7 +6,7 @@ episode: 137
 mp3_length: 70029604
 ---
 Les Cast Codeurs discutent sur les news et sur le fond pendant cet épisode.
-Pour n'en citer que quelques uns, on parle de Devoxx, du modus operandi des fondations Apache et Eclipse, de couverture de code,
+Pour n'en citer que quelques-uns, on parle de Devoxx, du modus operandi des fondations Apache et Eclipse, de couverture de code,
 de développement web hybride, d'outillage, de sécurité et de pages de statut.
 
 Enregistré le 26 novembre 2015
@@ -55,7 +55,7 @@ Discussion sur les Devoxx
 
 [VisualStudio Code est open sourcé](https://github.com/microsoft/vscode)  
 [Plus de mémoire pour IntelliJ fait la différence](http://www.javacodegeeks.com/2015/11/one-one-reason-customize-intellij-idea-memory-settings.html)  
-[Maven impose JDK 7](https://maven.apache.org/docs/3.3.9/release-notes.html) (depuis la 3.3.x en fait :-) ). Pour info: [Statistiques des versions de java utilisées pour deployer Jenkins](http://jenkins-ci.org/content/what-jvm-versions-are-running-jenkins)  
+[Maven impose JDK 7](https://maven.apache.org/docs/3.3.9/release-notes.html) (depuis la 3.3.x en fait :-) ). Pour info : [Statistiques des versions de java utilisées pour deployer Jenkins](http://jenkins-ci.org/content/what-jvm-versions-are-running-jenkins)  
 [Maven central sur Google Storage](http://maven-central.storage.googleapis.com)  
 [Npm pour Eclipse](https://vimeo.com/143263045)  
 [Red Hat rachète Ansible](http://hubs.ly/H01hSlv0)  
@@ -93,4 +93,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

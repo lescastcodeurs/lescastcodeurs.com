@@ -5,8 +5,8 @@ layout: blog-post
 episode: 138
 mp3_length: 59267943
 ---
-Dans cet épisode on découvre Go en companie de Francesc.
-Sa philosophie, les fonctionnalités, la concurrence, le garbage collecting etc.
+Dans cet épisode on découvre Go en compagnie de Francesc.
+Sa philosophie, les fonctionnalités, la concurrence, le garbage collecting, etc.
 
 Enregistré le 16 décembre 2015
 
@@ -28,15 +28,15 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-138.mp3](http://traffic.l
 [Pascal](https://en.wikipedia.org/wiki/Pascal_\(programming_language\))  
 [Squeak](https://en.wikipedia.org/wiki/Squeak)  
 On dit Go ou Golang ?  
-Qui l'a crée ?  
-Ses ancêtres (C, Java?, ...)  
+Qui l'a créé ?  
+Ses ancêtres (C, Java ?, ...)  
 Ses cas d'utilisation ?  
 Qui l'utilise ?  
-Qu'est-ce que tu aimes, qu'est-ce que tu détestes dans Go?  
+Qu'est-ce que tu aimes, qu'est-ce que tu détestes dans Go ?  
 
 ### Le langage
 
-Tourne sous quelle plateformes ?  
+Tourne sous quelles plateformes ?  
 Mobile ?  
 [Android NDK](https://developer.android.com/tools/sdk/ndk/index.html)  
 Quelles sont ses caractéristiques principales ?  
@@ -73,14 +73,14 @@ Comment on gère les dépendances
 
 Compilation cross-OS
 
-- comment gerer les API non supportées partout ?
+- comment gérer les API non supportées partout ?
 - comment les reconnaitre ?
 - comment tester ?
 
 ### La communauté et les news
 
 Taille de communauté  
-A quoi est dû le succès  
+À quoi est dû le succès  
 
 Est-ce que tu pourrais nous donner une liste de personnes à suivre absolument dans la communauté ?  
 
@@ -93,7 +93,7 @@ Des personnes qui tweetent / blogguent souvent sur Go, des sites de news intére
 - [OnGolang News](http://on-golang.appspot.com/)
 
 Pourquoi apprendre Go quand je connais Java, JavaScript ?  
-Plus précisément, dans un environnement enterprise, de type applis de gestion, Go peut-il apporter qq chose ou est-il plutot restreint a un cadre d’utilisation particulier ?  
+Plus précisément, dans un environnement enterprise, de type applis de gestion, Go peut-il apporter qq chose ou est-il plutôt restreint a un cadre d’utilisation particulier ?  
 [Martini](https://github.com/go-martini/martini)  
 [Beego](http://beego.me)  
 
@@ -103,4 +103,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

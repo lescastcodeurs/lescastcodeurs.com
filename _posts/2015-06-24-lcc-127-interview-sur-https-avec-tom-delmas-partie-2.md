@@ -27,8 +27,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-127.mp3](http://traffic.l
 ### Comment obtenir un certificat SSL
 
 [Certificate signing request](https://en.wikipedia.org/wiki/Certificate_signing_request)  
-Quelle taille de clef (2048, 4096)?  
-Quel temps de validité (1 an, 10 ans)?
+Quelle taille de clef (2048, 4096) ?  
+Quel temps de validité (1 an, 10 ans) ?
 
 Comment j’installe mon certificat sur ma machine ?  
 [Les configurations recommandées par Mozilla](https://wiki.mozilla.org/Security/Server_Side_TLS)  
@@ -46,9 +46,9 @@ La révocation de certificat
 [HSTS (HTTPS Strict Transport Security)](https://developer.mozilla.org/fr/docs/S%C3%A9curit%C3%A9/HTTP_Strict_Transport_Security)  
 [SSLStrip](http://security.stackexchange.com/questions/41988/how-does-sslstrip-work)  
 
-> Techniques/Tools pour gérer plusieurs certificats dans un boite? Où stocker les 'choses' sensibles? Centraliser? - Maxence Warzecha
+> Techniques/Tools pour gérer plusieurs certificats dans un boite ? Où stocker les 'choses' sensibles ? Centraliser ? - Maxence Warzecha
 
-> Comment passer un site en https sans perdre son Google ranking? - Maxence Warzecha
+> Comment passer un site en https sans perdre son Google ranking ? - Maxence Warzecha
 
 [Transition HTTP -> HTTPS pour SEO](http://webmasters.stackexchange.com/questions/47636/how-do-i-transition-to-ssl-without-affecting-pagerank)  
 [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere)  
@@ -58,7 +58,7 @@ La révocation de certificat
 ### Développement
 
 > L'obligation d'avoir HTTPS pour l'utilisation des services workers / le SSL dans les réseaux locaux perso (cas perso) - Davin kevin
-> Des spécificités ou gotcha pour les websockets (wss://) ? (Pas a ma connaissance) - Maxence Warzecha
+> Des spécificités ou gotcha pour les websockets (wss://) ? (Pas à ma connaissance) - Maxence Warzecha
 
 La spécification [Service Workers sur la sécurité](http://www.w3.org/TR/service-workers/#security-considerations)  
 
@@ -76,4 +76,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

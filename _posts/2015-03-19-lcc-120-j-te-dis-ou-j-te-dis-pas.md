@@ -7,7 +7,7 @@ mp3_length: 31217959
 ---
 Les Duchess prennent le micro pour nous faire un tour d'horizon des nouvelles Java.
 On y discute acquisitions, fermetures, releases, annonces, bref la vie.
-Elle débâteront aussi de la démocratisation du code et des déconvenues qui peuvent en découler.
+Elles débâteront aussi de la démocratisation du code et des déconvenues qui peuvent en découler.
 
 Enregistré le 15 mars 2015
 
@@ -97,4 +97,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

@@ -28,7 +28,7 @@ Protection de la vie privée
 
 * [FireSheep](http://www.pcworld.com/article/209333/how_to_hijack_facebook_using_firesheep.html)  
 
-Protection contre les méthodes de certains FAI:
+Protection contre les méthodes de certains FAI :
 
 * [Ajout de publicités](http://arstechnica.com/tech-policy/2014/09/why-comcasts-javascript-ad-injections-threaten-security-net-neutrality/)
 * [Ajout de cookies](https://www.eff.org/fr/deeplinks/2014/11/verizon-x-uidh)
@@ -40,7 +40,7 @@ Protection contre les méthodes de certains FAI:
 
 [Des infos sur HTTPS et HTTP/2](http://daniel.haxx.se/blog/2015/03/06/tls-in-http2/)  
 
-> Mise en place d interception SSL chez un client est ce légal ? Pour surveiller les comme et interdire les posts sur facebook. - Rémy Menétrieux
+> Mise en place d'interception SSL chez un client est ce légal ? Pour surveiller les comme et interdire les posts sur facebook. - Rémy Menétrieux
 
 [Les recommandations de la CNIL sur l'analyse de flux HTTPS](http://www.cnil.fr/linstitution/actualite/article/article/analyse-de-flux-https-bonnes-pratiques-et-questions/)  
 
@@ -55,7 +55,7 @@ Les différents niveaux de certificats SSL (classes)
 [Chrome vs SHA1](https://blog.filippo.io/the-unofficial-chrome-sha1-faq/)  
 [Attaque des suites d'export](http://thehackernews.com/2015/03/freak-openssl-vulnerability.html)  
 
-Les différences entre les certificats SSL:  
+Les différences entre les certificats SSL :  
 
 - simple
 - [wildcard](https://en.wikipedia.org/wiki/Wildcard_certificate)  
@@ -66,7 +66,7 @@ Un certificat == 1 IP ou pas avec le SNI
 
 ### Les autorités de certification
 
-Pourquoi mon navigateur a confiance dans le serveur SSL des cast codeurs?
+Pourquoi mon navigateur a confiance dans le serveur SSL des cast codeurs ?
 
 Nos navigateurs autorisent des centaines de CA
 Une seule suffit à tout bousiller
@@ -85,23 +85,23 @@ Discussion sur les proxy et les proxy SSL
 [Key pinning et interceptions](https://www.chromium.org/Home/chromium-security/security-faq#TOC-How-does-key-pinning-interact-with-local-proxies-and-filters-)  
 [Pas de DANE dans les navigateurs](https://www.imperialviolet.org/2015/01/17/notdane.html)  
 
-Les autorités de certification gratuites:
+Les autorités de certification gratuites :
 
-* <https://www.startssl.com/> (mais révoquation payante)
+* <https://www.startssl.com/> (mais révocation payante)
 * <https://www.wosign.com/english/freeSSL.htm>
 * <https://fr.godaddy.com/ssl/ssl-open-source.aspx> (pour les projets open source)
 * <https://letsencrypt.org> (futur proche)
 
-> Comment les vendeurs de browsers choisissent les CA qu'ils supportent nativement? Procédure standard ou jungle? - Jean-Baptiste Nizet
+> Comment les vendeurs de browsers choisissent les CA qu'ils supportent nativement ? Procédure standard ou jungle ? - Jean-Baptiste Nizet
 
 [Mozilla a des critères](https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/policy/)  
 Pas que les navigateurs mais aussi les systèmes d'exploitation  
 Forum des CA  
 [CACert](http://www.cacert.org)  
 
-> Pourquoi n'existe-t-il pas de CA public. L'Etat n'est-il pas plus habilité pour ce service que des boîtes privées?  - Jean-Baptiste Nizet
+> Pourquoi n'existe-t-il pas de CA public. L'État n'est-il pas plus habilité pour ce service que des boîtes privées ?  - Jean-Baptiste Nizet
 
-Il y en a plein en fait France, US, Chine et autre: Departement de la defense américain, Hong-Kong post office etc
+Il y en a plein en fait France, US, Chine et autre : Département de la defense américain, Hong-Kong post office etc
 
 ### La suite
 
@@ -114,5 +114,5 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
 

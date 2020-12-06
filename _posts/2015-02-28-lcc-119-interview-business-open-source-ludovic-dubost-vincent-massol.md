@@ -42,8 +42,8 @@ Networking
 
 #### Droit du travail et imposition
 
-Le premier employé, fout les chocottes?  
-Trop d’impôts?  
+Le premier employé, fout les chocottes ?  
+Trop d’impôts ?  
 Droit du travail  
 
 #### VC ou pas de VC
@@ -74,9 +74,9 @@ Incubateurs
 [Atlassian Confluence](https://www.atlassian.com/software/confluence)  
 [Circulaire Ayrault](http://www.april.org/circulaire-ayrault-une-avancee-pour-lusage-du-logiciel-libre-dans-les-administrations-en-attendant-le-volet-legislatif)  
 
-Avez vous une idée du ratio de conversion client/utilisateur ?  
-A partir de quel ratio de conversion peut on commencer à "vivre" de l'OSS ? @ehsavoie  
-Couts de l'OSS pour l'entreprise (le cout de penser aux autres (code, doc,support) avant de pense a soi) @danielpetisme  
+Avez-vous une idée du ratio de conversion client/utilisateur ?  
+À partir de quel ratio de conversion peut-on commencer à "vivre" de l'OSS ? @ehsavoie  
+Coûts de l'OSS pour l'entreprise (le coût de penser aux autres (code, doc,support) avant de penser à soi) @danielpetisme  
 
 ### Business vs communauté
 
@@ -100,7 +100,7 @@ Coder pour vos clients vs coder pour tous
 [Pivotal](http://pivotal.io)  
 [Zimbra](https://www.zimbra.com)  
 
-#### L’open source 100% non commercial est-il encore possible?
+#### L’open source 100 % non commercial est-il encore possible ?
 
 [Debian](https://www.debian.org)  
 [Maven](https://maven.apache.org)  
@@ -112,7 +112,7 @@ OSS banal, pas d’avenir sur le logiciel proprio @nmartignole
 Risques que posent les devs OSS lorsqu'il n'y a personne pour payer ? (gnupg, openssl, ... @ehsavoie  
 Collaboration des compétiteurs via l'open source et l'open standard  
 
-### Au delà du business
+### Au-delà du business
 
 [Code for France](http://www.codeforfrance.org)  
 
@@ -127,4 +127,4 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

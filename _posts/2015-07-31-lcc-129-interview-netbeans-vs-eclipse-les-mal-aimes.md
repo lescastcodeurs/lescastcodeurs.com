@@ -37,7 +37,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-129.mp3](http://traffic.
 
 ### Pourquoi vous aimez *votre* IDE
 
-Que recherchez vous dans un IDE  
+Que recherchez-vous dans un IDE  
 Quels sont les points clefs respectifs pour vous qui vous ont fait choisir votre IDE.  
 
 [Fonction delta de Dirac](https://en.wikipedia.org/wiki/Dirac_delta_function)  
@@ -63,7 +63,7 @@ Combien de mémoire pour un projet ?
 
 [JBoss EAP](https://www.jboss.org/products/eap/overview/)  
 
-Eclipse a son propre compilateur. Pourquoi ? A refaire aujourd'hui ?  
+Eclipse a son propre compilateur. Pourquoi ? À refaire aujourd'hui ?  
 
 [Eclipse Java Development Tools](https://projects.eclipse.org/projects/eclipse.jdt)  
 
@@ -83,13 +83,13 @@ Quel business modèle ?
 ### La partouse d'IDEs
 
 Vous utilisez d'autres IDEs ?  
-Vous avez partagés des idées en comparant NetBeans et Eclipse : quelles sont les bonnes choses qui en sont sorties ?  
+Vous avez partagé des idées en comparant NetBeans et Eclipse : quelles sont les bonnes choses qui en sont sorties ?  
 
 ###  L'avenir
 
-Vous pensez quoi des webide?  
+Vous pensez quoi des webIDE ?  
 Quid de l'avenir de votre IDE. 
-Eclipse va fusionner avec Orion et abandonner SWT  ?  
+Eclipse va fusionner avec Orion et abandonner SWT ?  
 
 [Atom](https://atom.io)  
 [Eclipse Orion](https://orionhub.org)  
@@ -115,4 +115,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>
 ou sur le site web <https://lescastcodeurs.com/>
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

@@ -17,7 +17,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-124.mp3](http://traffic.
 
 ### Politique
 
-Loi renseignement:
+Loi renseignement :
 
 - écoute de masse sur les FAI pas les hébergeurs [l'avis Oles d'OVH](http://www.ovh.com/fr/news/articles/a1766.point-vue-ovh-loi-renseignement)
 - exclus les journalistes, magistrats, avocats, parlementaires
@@ -98,4 +98,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

@@ -31,7 +31,7 @@ Vous pouvez ainsi créer de nouveaux leviers de croissance en <strong>exploitant
 ### Java
 
 [Le livre sur l'histoire de Java](http://www.oreilly.com/programming/free/java-the-legend.csp)  
-[Oracle se désinteresse de Java selon des sources anonymes](http://www.infoworld.com/article/2987529/java/insider-oracle-lost-interest-in-java.html)  
+[Oracle se désintéresse de Java selon des sources anonymes](http://www.infoworld.com/article/2987529/java/insider-oracle-lost-interest-in-java.html)  
 [Groovy / Grails update from SpringOne2GX](https://jaxenter.com/groovy-and-grails-updates-out-of-springone2gx-conference-120847.html)  
 [Alexis sur les CompletableFuture](https://blog.alexis-hassler.com/2015/09/completablefuture.html)  
 
@@ -62,7 +62,7 @@ Vous pouvez ainsi créer de nouveaux leviers de croissance en <strong>exploitant
 ###  Architecture
 
 [Retour sur les micro services et les coûts cachés](https://www.voxxed.com/blog/2015/10/a-concrete-look-at-microservice-deployment/)  
-[Une vidéo sur le pourquoi des mircroservices](http://www.infoq.com/presentations/cd-arch-patterns-ball-of-mud)  
+[Une vidéo sur le pourquoi des microservices](http://www.infoq.com/presentations/cd-arch-patterns-ball-of-mud)  
 [MicroServices by Martin Fowler and co](http://martinfowler.com/articles/microservices.html)  
 [Post-mortem de DynamoDB](https://aws.amazon.com/fr/message/5467D2/)  
 [Intro au container service d’Amazon](http://www.infoq.com/articles/intro-aws-ecs)  
@@ -102,7 +102,7 @@ Retour d'ApacheCon EU par Arnaud
 
 ## Rubrique débutant
 
-Overloading et overriding, c'est la même chose?
+Overloading et overriding, c'est la même chose ?
 
 ## Outils de l'épisode
 
@@ -116,12 +116,12 @@ The Hard Thing About Hard Things: Building a Business When There Are No Easy Ans
 
 ## Conférences
 
-[GeeCon](http://www.geecon.org) à Prague les 22 et 23 Octobre  
-[DevFest Nantes](https://devfest.gdgnantes.com) ( [CFP](http://cfp2015.gdgnantes.com/#/login) ) à Nantes le 6 Novembre  
-[Devoxx BE](http://www.devoxx.be) à Anvers du 9 au 13 Novembre  
-[Devoxx MA](http://devoxx.ma/fr/) à Casablanca du 16 au 18 Novembre  
-[DockerCon.eu](http://europe-2015.dockercon.com) ([CFP](https://docs.google.com/a/cloudbees.com/forms/d/1NvMe1rH4GQlIOEMu9T8vT0_WYx92XyV-41fTm-B2WpQ/viewform)) à Barcelone du 16 au 17 Novembre  
-[Codeurs en Seine](http://www.codeursenseine.com/2015/) à Rouen le 26 Novembre (1h de Paris)  
+[GeeCon](http://www.geecon.org) à Prague les 22 et 23 octobre  
+[DevFest Nantes](https://devfest.gdgnantes.com) ( [CFP](http://cfp2015.gdgnantes.com/#/login) ) à Nantes le 6 novembre  
+[Devoxx BE](http://www.devoxx.be) à Anvers du 9 au 13 novembre  
+[Devoxx MA](http://devoxx.ma/fr/) à Casablanca du 16 au 18 novembre  
+[DockerCon.eu](http://europe-2015.dockercon.com) ([CFP](https://docs.google.com/a/cloudbees.com/forms/d/1NvMe1rH4GQlIOEMu9T8vT0_WYx92XyV-41fTm-B2WpQ/viewform)) à Barcelone du 16 au 17 novembre  
+[Codeurs en Seine](http://www.codeursenseine.com/2015/) à Rouen le 26 novembre (1h de Paris)  
 
 ## Nous contacter
 
@@ -129,4 +129,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  

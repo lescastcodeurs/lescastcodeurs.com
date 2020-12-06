@@ -23,7 +23,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-123.mp3](http://traffic.l
 
 ### Le point de vue des parents
 
-[Ecole 42](http://www.42.fr)  
+[École 42](http://www.42.fr)  
 
 ### Le point de vue des enfants
 
@@ -45,7 +45,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-123.mp3](http://traffic.l
 [Scratch](https://scratch.mit.edu)  
 [NAO](https://www.aldebaran.com/en/humanoid-robot/nao-robot)  
 [Aldebaran](https://www.aldebaran.com)  
-Email: devoxx4kidsfr-at-le-truc-de-mail-de-la-boite-de-moteur-de-recherche.com  
+Email : devoxx4kidsfr-at-le-truc-de-mail-de-la-boite-de-moteur-de-recherche.com  
 [@devoxx4kidsfr](https://twitter.com/devoxx4kidsfr)  
 
 ## Nous contacter
@@ -54,5 +54,5 @@ Contactez-nous via twitter <http://twitter.com/lescastcodeurs>
 sur le groupe Google <http://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <http://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <http://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
 

@@ -5,7 +5,7 @@ layout: blog-post
 episode: 133
 mp3_length: 56249169
 ---
-Dans cet épisode, Patrick nous explique Docker: la technologie, les cas d'utilisation, comment l'utiliser.
+Dans cet épisode, Patrick nous explique Docker : la technologie, les cas d'utilisation, comment l'utiliser.
 On parlera dans la seconde partie de l'écosystème Docker au sens large.  
 Un grand merci à Google pour sa participation, aller découvrir leur conférence [GCP Next à Paris le 13 octobre](https://goo.gl/7wWQGv).
 
@@ -33,8 +33,8 @@ La journée comprend une keynote, des sessions techniques, des démos, des codel
 
 ### Introduction
 
-Qu’est-ce que Docker en quelques mots?
-Pour quels cas d’utilisation?
+Qu’est-ce que Docker en quelques mots ?
+Pour quels cas d’utilisation ?
 
 [Docker](https://www.docker.com)  
 [Les containers dans les systèmes d'exploitation](https://en.wikipedia.org/wiki/Operating-system-level_virtualization)  
@@ -95,8 +95,8 @@ Faire tourner un web server une base de données
 
 [Quay.io](https://quay.io)  
 
-Docker impose une architecture SOA ou micro services ?  
-Les images à .5GB et le mouvement vers les micro images.
+Docker impose une architecture SOA ou micro-services ?  
+Les images à .5GB et le mouvement vers les micro-images.
 
 ## Nous contacter
 
@@ -104,4 +104,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>
 ou sur le site web <https://lescastcodeurs.com/>
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)

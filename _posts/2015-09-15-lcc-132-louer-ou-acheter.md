@@ -5,7 +5,7 @@ layout: blog-post
 episode: 132
 mp3_length: 64989051
 ---
-Dans cet épisode, les cinq mousquetaires du code discutent des licenciement chez Oracle, de retro-compatibilité, de modèle économique, de versionage, d'emoji et même de technologie front !
+Dans cet épisode, les cinq mousquetaires du code discutent des licenciements chez Oracle, de retro-compatibilité, de modèle économique, de versionnage, d'émoji et même de technologie front !
 Que demande le peuple ?
 
 Enregistré le 11 septembre 2015
@@ -43,7 +43,7 @@ Mini débat sur les modèles économiques du numérique, du temps libre et de l'
 ###  Bases de données 
 
 [Introduction aux bases time series](https://www.mapr.com/blog/time-series-databases-upside-down-internet-whiteboard-walkthrough#.VehiSoWTthg.twitter)  
-[Versioner les bases de données](http://enterprisecraftsmanship.com/2015/08/10/database-versioning-best-practices/)  
+[Versionner les bases de données](http://enterprisecraftsmanship.com/2015/08/10/database-versioning-best-practices/)  
 
 ###  Cloud
 
@@ -83,7 +83,7 @@ JetBrains passe au mode location pour IntelliJ IDEA et ses autres produits
 
 ##  Rubrique débutant
 
-C'est quoi une JVM?  
+C'est quoi une JVM ?  
 
 ## Outils de l'épisode
 
@@ -97,15 +97,15 @@ Docker Machine (ligne de commande)
 
 [Le CfP de Devoxx sur GitHub](https://github.com/nicmarti/cfp-devoxx)  
 [Un gros bisous au JUG Summer Camp qui est complet](http://www.jugsummercamp.org/)  
-[ApacheCon EU (Core)](http://events.linuxfoundation.org/events/apachecon-core-europe) à Budapest le 1 et 2 Octobre  
-[Bdx.io](http://www.bdx.io/#/home) à Bordeaux le 16 Octobre  
+[ApacheCon EU (Core)](http://events.linuxfoundation.org/events/apachecon-core-europe) à Budapest le 1 et 2 octobre  
+[Bdx.io](http://www.bdx.io/#/home) à Bordeaux le 16 octobre  
 [ScalaIO est annulée](http://scala.io)  
-[GeeCon](http://www.geecon.org) à Prague les 22 et 23 Octobre  
-[DevFest Nantes](https://devfest.gdgnantes.com) ( [CFP](http://cfp2015.gdgnantes.com/#/login) ) à Nantes le 6 Novembre  
-[Devoxx BE](http://www.devoxx.be) à Anvers du 9 au 13 Novembre  
-[Devoxx MA](http://devoxx.ma/fr/) à Casablanca du 16 au 18 Novembre  
-[DockerCon.eu](http://europe-2015.dockercon.com) ([CFP](https://docs.google.com/a/cloudbees.com/forms/d/1NvMe1rH4GQlIOEMu9T8vT0_WYx92XyV-41fTm-B2WpQ/viewform)) à Barcelone du 16 au 17 Novembre  
-[Codeurs en Seine](http://www.codeursenseine.com/2015/) à Rouen le 26 Novembre (1h de Paris)  
+[GeeCon](http://www.geecon.org) à Prague les 22 et 23 octobre  
+[DevFest Nantes](https://devfest.gdgnantes.com) ( [CFP](http://cfp2015.gdgnantes.com/#/login) ) à Nantes le 6 novembre  
+[Devoxx BE](http://www.devoxx.be) à Anvers du 9 au 13 novembre  
+[Devoxx MA](http://devoxx.ma/fr/) à Casablanca du 16 au 18 novembre  
+[DockerCon.eu](http://europe-2015.dockercon.com) ([CFP](https://docs.google.com/a/cloudbees.com/forms/d/1NvMe1rH4GQlIOEMu9T8vT0_WYx92XyV-41fTm-B2WpQ/viewform)) à Barcelone du 16 au 17 novembre  
+[Codeurs en Seine](http://www.codeursenseine.com/2015/) à Rouen le 26 novembre (1h de Paris)  
 
 ## Nous contacter
 
@@ -113,6 +113,6 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
 ou sur le site web <https://lescastcodeurs.com/>  
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com  
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)  
 
 [Thinking, Fast and Slow](http://www.amazon.fr/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)  

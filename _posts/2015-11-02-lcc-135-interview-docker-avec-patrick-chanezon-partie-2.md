@@ -5,7 +5,7 @@ layout: blog-post
 episode: 135
 mp3_length: 66418694
 ---
-Dans cette second partie, Patrick nous explique l'écosystème Docker au sens large.
+Dans cette seconde partie, Patrick nous explique l'écosystème Docker au sens large.
 On discute aussi de la mission de l'informatique.
 
 Enregistré le 25 août 2015
@@ -39,7 +39,7 @@ Gérer une ferme de docker containers
 Distribuer entre différents hosts physiques  
 Trop de dockers sur un host, il se passe quoi ?  
 On peut se faire héberger ses images docker ?  
-Comment se gère la scalabilite (i.e. Lancer un deuxième containers de cette image)  
+Comment se gère la scalabilité (i.e. Lancer un deuxième containers de cette image)  
 
 [Flocker plugin](https://github.com/ClusterHQ/flocker-docker-plugin)  
 [ZFS](https://en.wikipedia.org/wiki/ZFS)  
@@ -122,4 +122,4 @@ Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>
 ou sur le site web <https://lescastcodeurs.com/>
 Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>
-En savoir plus sur le sponsoring? sponsors@lescastcodeurs.com
+En savoir plus sur le sponsoring ? [sponsors@lescastcodeurs.com](mailto:sponsors@lescastcodeurs.com)
