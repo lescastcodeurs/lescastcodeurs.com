@@ -1,0 +1,17 @@
+<div class="post-nav row">
+  {% if page.previous.url %}
+  <div class="col-6">
+    <a href="{{ page.previous.url }}" class="btn btn-outline-primary" title="{{ page.previous.title }}">
+      <span class="lead">&laquo;</span> Précédent
+    </a>
+  </div>
+  {% endif %}
+
+  {% if page.next.url %}
+  <div class="col-6 text-right">
+    <a href="{{ page.next.url }}" class="btn btn-outline-primary" title="{{ page.next.title }}">
+      Suivant <span class="lead">&raquo;</span>
+    </a>
+  </div>
+  {% endif %}
+</div>

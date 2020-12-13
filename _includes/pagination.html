@@ -1,12 +1,12 @@
 <nav aria-label="Pagination">
-  <ul class="pagination justify-content-center">
+  <ul class="pagination justify-content-center lead">
     {%- if paginator.previous_page -%}
     <li class="page-item">
-      <a href="{{ paginator.previous_page_path | relative_url }}" class="page-link">&laquo; Précédent</a>
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="page-link">&laquo;</a>
     </li>
     {%- else -%}
     <li class="page-item disabled">
-      <span class="page-link">&laquo; Précédent</span>
+      <span class="page-link">&laquo;</span>
     </li>
     {%- endif -%}
 
@@ -37,11 +37,11 @@
     {%- endfor -%}
     {%- if paginator.next_page -%}
     <li class="page-item">
-      <a href="{{ paginator.next_page_path | relative_url }}" class="page-link">Suivant &raquo;</a>
+      <a href="{{ paginator.next_page_path | relative_url }}" class="page-link">&raquo;</a>
     </li>
     {%- else -%}
     <li class="page-item disabled">
-      <span class="page-link">Suivant &raquo;</span>
+      <span class="page-link">&raquo;</span>
     </li>
     {%- endif -%}
   </ul>
