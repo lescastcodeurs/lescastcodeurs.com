@@ -74,7 +74,7 @@ Uniquement Emmanuel peut publier le site
 
 ### Mise à jour de Jekyll et de ses dépendances
 
-Pour la mise à jour de Jekyll et de ses dépendances, exécuter tout d'abord :
+Exécuter tout d'abord :
 
     ./bin/update-dependencies
 
@@ -87,14 +87,20 @@ Il ne reste plus qu'à tester que le site fonctionne bien puis commiter le tout.
 
 ### Mise à jour de Bootstrap
 
-Pour mettre à jour Bootstrap :
-
 1. ouvrir [_config.yml](/_config.yml),
 2. mettre à jour les URLs / hash de chacun des fichiers à partir des valeurs indiquées sur [le quick-start de Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/#quick-start).
 
 Contrairement à Jekyll il vous faudra malheureusement suivre les mises à jour vous-même (via par exemple le [blog de bootstrap](https://blog.getbootstrap.com/)).
 
-### Comment ajouter un membre à l'équipe
+### Mise à jour de Simple-Jekyll-Search
+
+1. ouvrir [_config.yml](/_config.yml),
+2. mettre à jour l'URLs / hash de `simple-jekyll-search.min.js` à partir des valeurs indiquées sur [jsdelivr.com](https://www.jsdelivr.com/package/npm/simple-jekyll-search)
+   (sélectionner la version, cliquer sur _SHOW & CONFIGURE ALL LINKS_, puis cliquer sur l'option _SRI_ pour obtenir le javascript avec son hash).
+
+Contrairement à Jekyll il vous faudra malheureusement suivre les mises à jour vous-même (en suivant par exemple [le dépôt du projet sur GitHub](https://github.com/christian-fei/Simple-Jekyll-Search)).
+
+### Ajouter un membre à l'équipe
 
 Ajouter le fichier dans `_team`.
 
@@ -167,9 +173,23 @@ Ce type d'intégration a été choisi car :
   [Bootstrap 4](https://freddyheppell.com/blog/using-bootstrap-4-with-jekyll)).
 - On souhaitait s'épargner le téléchargement et la recopie manuelle des fichiers JS / CSS de Bootstrap / JQuery à chaque mise à jour.
 
+### Notes sur l'intégration de Simple-Jekyll-Search
+
+La [configuration de Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search/wiki) est directement dans le layout [search.html](_layouts/search.html).
+Le nombre maximum de résultat a été fixé à 20. Au-delà on sent que ça commence à ramer un peu lors de la recherche (à 100 c'est vraiment significatif).
+
+L'index de recherche est créé grâce au template [search.json](search.json) :
+- L'intégralité du contenu des articles est présent dans l'index : la taille du fichier généré n'est en effet que de ~ 750 KB pour 265 posts (et 250 KB si
+  gzippé). Bref pas grand choses avec les connexions actuelles ou par rapport à une simple image.
+- Les retours chariots n'ont pas été supprimés (`strip_newlines`) de l'extrait (car il est affiché sur la page de recherche) ni du contenu (par sécurité). Quand
+  on les supprime des mots sont en effet "fusionnés" (par exemple `Maxime\nCriteo` -> `MaximeCriteo`). Il n'est pas certain [que ça dérange
+  Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search/wiki#if-search-isnt-working-due-to-invalid-json) lors de la recherche mais bon...
+
 ## Todo
 
 - install site build script on server + github push notif (cgi)
 - keep video directory
 - trouver un moyen de traduire les titres des pages "paginées" (pas faisable avec jekyll-paginate ?)
+- trouver une liste de termes à [exclure](https://github.com/christian-fei/Simple-Jekyll-Search/wiki#exclude-array-optional) pour tenter d'améliorer la
+  recherche avec Simple-Jekyll-Search.
 - remove todo :)

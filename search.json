@@ -1,0 +1,16 @@
+---
+layout: null
+---
+[
+{% for post in site.posts %}
+{
+"title"    : {{ post.title | jsonify }},
+"category" : "{{ post.category }}",
+"tags"     : "{{ post.tags | join: ', ' }}",
+"url"      : "{{ site.baseurl }}{{ post.url }}",
+"date"     : "{{ post.date | date: site.date_format }}",
+"excerpt"  : {{ post.excerpt | strip_html | jsonify }},
+"content"  : {{ post.content | strip_html | jsonify }}
+} {% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

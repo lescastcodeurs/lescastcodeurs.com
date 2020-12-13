@@ -7,7 +7,8 @@ Ce site est construit avec :
 
 - [Jekyll](https://jekyllrb.com) – un framework pour créer des sites HTML statiques,
 - [Bootstrap](https://getbootstrap.com/) – une boite à outils d'interfaces web (HTML, CSS Javascript),
-- certaines icônes de [Komodo Media, Rogie King](http://www.komodomedia.com).
+- [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) – une librairie javascript permettant d'ajouter des fonctionnalités de recherche sur un site Jekyll,
+- certaines icônes de [Komodo Media, Rogie King](http://www.komodomedia.com) et de [Bootstrap Icons](https://icons.getbootstrap.com/).
 
 Le logo a été crée par [Nicolas Martignole](https://www.touilleur-express.fr/).
 
