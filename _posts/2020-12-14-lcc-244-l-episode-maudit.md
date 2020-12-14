@@ -75,7 +75,7 @@ Sortie de [Vert.x 4](https://github.com/eclipse-vertx/vert.x/releases/tag/4.0.0)
 
 [L'attaque du DNS triste](https://blog.cloudflare.com/sad-dns-explained/)  
 
-[Est ce que Apple enregistre toutes les applications que vous executez ?](https://blog.jacopo.io/en/post/apple-ocsp/)  
+[Est ce que Apple enregistre toutes les applications que vous exécutez ?](https://blog.jacopo.io/en/post/apple-ocsp/)  
 
 ### Loi, société et organisation
 
