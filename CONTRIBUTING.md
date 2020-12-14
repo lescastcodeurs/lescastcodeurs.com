@@ -85,20 +85,22 @@ Les mises à jour mineures ou majeures doivent être réalisée à la main en mo
 
 Il ne reste plus qu'à tester que le site fonctionne bien puis commiter le tout.
 
-### Mise à jour de Bootstrap
+### Mise à jour de Bootstrap, Bootstrap Icons, JQuery, et Simple-Jekyll-Search
 
-1. ouvrir [_config.yml](/_config.yml),
-2. mettre à jour les URLs / hash de chacun des fichiers à partir des valeurs indiquées sur [le quick-start de Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/#quick-start).
+1. Allez sur [jsDelivr](https://www.jsdelivr.com/) à l'aide de l'un de ces liens :
+   - [bootstrap.min.css](https://www.jsdelivr.com/package/npm/bootstrap?path=dist%2Fcss),
+   - [bootstrap.bundle.min.js](https://www.jsdelivr.com/package/npm/bootstrap?path=dist%2Fjs),
+   - [jquery.slim.min.js](https://www.jsdelivr.com/package/npm/jquery?path=dist),
+   - [bootstrap-icons.css](https://www.jsdelivr.com/package/npm/bootstrap-icons?path=font),
+   - [simple-jekyll-search.min.js](https://www.jsdelivr.com/package/npm/simple-jekyll-search))
+2. Sélectionner la version souhaitée.
+3. Ajoutez le fichier à mettre à jour à votre collection.
+4. Cliquer sur le bouton _SHOW & CONFIGURE ALL LINKS_.
+5. Cliquer sur le bouton _SRI_ (_Enable Subresource Integrity check for increased security_).
+6. Reportez les liens (`href`) et les hash (`integrity`) indiqués sur jsDelivr dans le fichier [_config.yml](/_config.yml) (propriété `dependencies`).
 
-Contrairement à Jekyll il vous faudra malheureusement suivre les mises à jour vous-même (via par exemple le [blog de bootstrap](https://blog.getbootstrap.com/)).
-
-### Mise à jour de Simple-Jekyll-Search
-
-1. ouvrir [_config.yml](/_config.yml),
-2. mettre à jour l'URLs / hash de `simple-jekyll-search.min.js` à partir des valeurs indiquées sur [jsdelivr.com](https://www.jsdelivr.com/package/npm/simple-jekyll-search)
-   (sélectionner la version, cliquer sur _SHOW & CONFIGURE ALL LINKS_, puis cliquer sur l'option _SRI_ pour obtenir le javascript avec son hash).
-
-Contrairement à Jekyll il vous faudra malheureusement suivre les mises à jour vous-même (en suivant par exemple [le dépôt du projet sur GitHub](https://github.com/christian-fei/Simple-Jekyll-Search)).
+Contrairement à Jekyll il vous faudra malheureusement suivre les mises à jour vous-même (via par exemple le [blog de bootstrap](https://blog.getbootstrap.com/)
+ou [le dépôt du projet Simple-Jekyll-Search sur GitHub](https://github.com/christian-fei/Simple-Jekyll-Search)).
 
 ### Ajouter un membre à l'équipe
 

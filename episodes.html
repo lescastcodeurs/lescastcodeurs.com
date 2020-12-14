@@ -3,7 +3,19 @@ title: Liste des épisodes
 layout: page
 ---
 
-<div class="post-list">
+<div class="form-group row">
+  <div class="input-group mt-3 mb-3">
+    <div class="input-group-prepend">
+      <div class="input-group-text">
+        <em class="bi bi-search"></em>
+      </div>
+    </div>
+    <input id="search-input" class="form-control form-control-lg form-control-borderless"
+           type="text" placeholder="Rechercher..." aria-label="Rechercher">
+  </div>
+</div>
+
+<div id="results-container" class="post-list">
   {%- for post in site.posts -%}
   <div class="card post-list-item border-0">
     <div class="card-body m-0 p-0">
@@ -19,3 +31,27 @@ layout: page
   <hr>
   {%- endfor -%}
 </div>
+
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    searchResultTemplate: `<div class="card post-list-item border-0">
+  <div class="card-body m-0 p-0">
+    <h2 class="card-title h4">
+      <a class="post-link" href="{url}">
+        {title}
+      </a>
+    </h2>
+    <span class="card-subtitle mb-2 text-muted">Posté le {date}</span>
+
+    <p class="card-text">{excerpt}</p>
+  </div>
+</div>
+<hr>`,
+    noResultsText: 'Aucun résultat',
+    json: '/search.json',
+    limit: 20
+  });
+  document.getElementById('search-input').focus();
+</script>

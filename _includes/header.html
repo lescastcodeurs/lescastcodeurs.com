@@ -11,11 +11,17 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <span class="mr-auto"></span>
         <ul class="navbar-nav">
-          {%- for path in site.header_pages -%}
-          {%- assign my_page = site.pages | where: "path", path | first -%}
-          {%- if my_page.title -%}
-          <li class="nav-item">
-            <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          {%- for header_page in site.header_pages -%}
+          {%- assign my_page = site.pages | where: "path", header_page.path | first -%}
+          {%- if my_page.title or header_page.icon -%}
+          <li class="nav-item {% if header_page.icon %}nav-icon{% else %}nav-text{% endif %}">
+            <a class="nav-link" href="{{ my_page.url | relative_url }}" title="{% if header_page.title %}{{ header_page.title }}{% else %}{{ my_page.title }}{% endif %}">
+              {%- if header_page.icon -%}
+              <em class="bi bi-{{ header_page.icon }}"></em>
+              {%- else -%}
+              {{ my_page.title | escape }}
+              {%- endif -%}
+            </a>
           </li>
           {%- endif -%}
           {%- endfor -%}

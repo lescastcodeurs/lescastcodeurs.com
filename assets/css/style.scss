@@ -1,8 +1,8 @@
 ---
 ---
 
-$header-color: rgba(255, 255, 255, .5);
-$header-color-hover: rgba(255, 255, 255, .75);
+$header-color: rgba(255, 255, 255, .75);
+$header-color-hover: rgba(255, 255, 255, 1);
 $header-background-color: #251509;
 $heading-color: #997704;
 $card-background-color: #eeeeee;
@@ -77,8 +77,17 @@ iframe {
   color: $header-color !important;
   background-color: $header-background-color !important;
 
-  a:hover {
-    color: $header-color-hover !important;
+  a {
+    color: $header-color !important;
+
+    &:hover {
+      color: $header-color-hover !important;
+    }
+  }
+
+  .nav-icon a {
+    padding-top: .25rem;
+    font-size: larger;
   }
 }
 
