@@ -15,7 +15,7 @@ layout: page
   </div>
 </div>
 
-<div id="results-container" class="post-list">
+<div id="all-results-container" class="post-list">
   {%- for post in site.posts -%}
   <div class="card post-list-item border-0">
     <div class="card-body m-0 p-0">
@@ -32,10 +32,15 @@ layout: page
   {%- endfor -%}
 </div>
 
+<div id="results-container" class="post-list d-none"></div>
+
 <script>
+  const searchInput = document.getElementById('search-input');
+  const resultsContainer = document.getElementById('results-container');
+  const allResultsContainer = document.getElementById('all-results-container');
   SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
+    searchInput: searchInput,
+    resultsContainer: resultsContainer,
     searchResultTemplate: `<div class="card post-list-item border-0">
   <div class="card-body m-0 p-0">
     <h2 class="card-title h4">
@@ -51,7 +56,19 @@ layout: page
 <hr>`,
     noResultsText: 'Aucun résultat',
     json: '/search.json',
-    limit: 20
+    limit: 1000,
+    debounceTime: 200
   });
-  document.getElementById('search-input').focus();
+  searchInput.focus();
+
+  searchInput.addEventListener('input', function () {
+    const value = searchInput.value;
+    if(value) {
+      allResultsContainer.classList.add('d-none');
+      resultsContainer.classList.remove('d-none');
+    } else {
+      allResultsContainer.classList.remove('d-none');
+      resultsContainer.classList.add('d-none');
+    }
+  });
 </script>
