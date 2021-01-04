@@ -70,9 +70,9 @@ C'est la fin de la partie 1 de cette interview
 
 ## Nous contacter
 
+Soutenez Les Cast Codeurs sur Patreon <https://www.patreon.com/LesCastCodeurs>  
 [Faire un crowdcast ou une crowdquestion](https://lescastcodeurs.com/crowdcasting/)  
 Contactez-nous via twitter <https://twitter.com/lescastcodeurs>  
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <https://lescastcodeurs.com/>  
-Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>
+ou sur le site web <https://lescastcodeurs.com/>
+

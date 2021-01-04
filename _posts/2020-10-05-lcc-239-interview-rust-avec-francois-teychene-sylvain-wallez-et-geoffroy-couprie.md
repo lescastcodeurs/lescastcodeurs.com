@@ -76,7 +76,7 @@ Tools utils:
 
 Librairies de référence :  
 
-* *le "maven central" [crates.io](https://crates.io/)  
+* le "maven central" [crates.io](https://crates.io/)  
 * [Serde](https://serde.rs/) (le Jackson de Rust)  
 * [Tokio](https://tokio.rs/) (runtime asynchrone)  
 * [StructOpt](https://github.com/TeXitoi/structopt) (lignes de commande)  
@@ -91,10 +91,8 @@ Frameworks pour écrire des webapps en Rust :
 
 ## Nous contacter
 
+Soutenez Les Cast Codeurs sur Patreon <https://www.patreon.com/LesCastCodeurs>  
 [Faire un crowdcast ou une crowdquestion](https://lescastcodeurs.com/crowdcasting/)  
 Contactez-nous via twitter <https://twitter.com/lescastcodeurs>  
 sur le groupe Google <https://groups.google.com/group/lescastcodeurs>  
-ou sur le site web <https://lescastcodeurs.com/>  
-Flattr-ez nous (dons) sur <https://lescastcodeurs.com/>  
-En savoir plus sur le sponsoring ? <sponsors@lescastcodeurs.com>
-
+ou sur le site web <https://lescastcodeurs.com/>
