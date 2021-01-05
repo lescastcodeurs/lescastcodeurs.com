@@ -6,7 +6,7 @@ bundle install
 bundle exec jekyll clean
 bundle exec jekyll build
 
-while [[ $# -gt 0 ]]
+while [ $# -gt 0 ]
 do
   param="$1"
   case $param in
