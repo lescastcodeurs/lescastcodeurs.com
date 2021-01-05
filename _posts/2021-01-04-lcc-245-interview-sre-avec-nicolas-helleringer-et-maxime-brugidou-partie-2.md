@@ -7,7 +7,7 @@ mgp3_length: 85017000
 tweet: Interview 
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Nicolas et Maxime de Critéo partagent avec Emmanuel leur expérience de mise en place d'une organisation SRE (Site Reliability Engineering).
+Nicolas et Maxime de Criteo partagent avec Emmanuel leur expérience de mise en place d'une organisation SRE (Site Reliability Engineering).
 Suite et fin de cette interview.
 
 Enregistré le 12 novembre 2020  
@@ -18,7 +18,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-245.mp3](http://traffic.l
 
 ### Ta vie, ton oeuvre
 
-[Twotter Nicolas](https://twitter.com/nhelleringer)  
+[Twitter Nicolas](https://twitter.com/nhelleringer)  
 [Twitter Maxime](https://twitter.com/brugidou)  
 [Criteo Labs](https://labs.criteo.com)  
 
@@ -56,7 +56,7 @@ Beaucoup, peu ?
 
 Que se passe-t-il quand cela chie dans la colle ?  
 On s’entraine ?  
-Vous faite le draining d'erreur budget  
+Vous faites le draining d'erreur budget  
 
 Drainer des clusters pour maintenance et impact sur l’utilisateur
 
