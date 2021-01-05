@@ -98,9 +98,9 @@ dependencies:
     - name: 'bootstrap.bundle.min.js'
       src: 'https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js'
       integrity: 'sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx'
-#    - name: 'simple-jekyll-search.min.js'
-#      src: 'https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.7.13/dest/simple-jekyll-search.min.js'
-#      integrity: 'sha256-pGwjsQ0u5Q1dn6N5nVh3xxjpsDvShzV7yzg7BBCAg+Y='
+    - name: 'simple-jekyll-search.min.js'
+      src: 'https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.9.1/dest/simple-jekyll-search.min.js'
+      integrity: 'sha256-ieUctArvXa2Jaww7u+OyjqzBpOW04E9K17BzP8qrxVM='
 
 plugins:
   - 'jekyll-paginate'
