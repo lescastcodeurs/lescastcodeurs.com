@@ -7,8 +7,7 @@ mp3_length: 65729282
 tweet: épisode spécial Loi, société et organisations avec @agnes_crepet #télétravail #cryptomonnaies #taxeNumérique #protectionDesDonnées #HaineEnLigne #surveillanceDeMasse #GAFAM
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-
-Dans cet épisode d'un format inédit, Audrey et Emmanuel recoivent Agnès Crepet, directrice technique chez Fairphone, pour discuter de l'actualité de ce qui d'habitude fait l'objet d'une rubrique dans les épisodes news mais qui commence à prendre beaucoup de place : la partie loi, société et organisations. Ca discute télétravail, cryptomonnaies, souveraineté numérique européenne, taxe numérique, protection des données, haine en ligne et surveillance de masse. On attends vos retours pour savoir s'il faut en faire d'autre de ce format (ou pas).  
+Dans cet épisode d'un format inédit, Audrey et Emmanuel reçoivent Agnès Crepet, directrice technique chez Fairphone, pour discuter de l'actualité de ce qui d'habitude fait l'objet d'une rubrique dans les épisodes news mais qui commence à prendre beaucoup de place : la partie loi, société et organisations. Ça discute télétravail, cryptomonnaies, souveraineté numérique européenne, taxe numérique, protection des données, haine en ligne et surveillance de masse. On attend vos retours pour savoir s'il faut en faire d'autre de ce format (ou pas).  
 
 Enregistré le 6 janvier 2021  
 
