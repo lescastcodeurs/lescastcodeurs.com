@@ -90,17 +90,25 @@ Il ne reste plus qu'à tester que le site fonctionne bien puis commiter le tout.
 1. Allez sur [jsDelivr](https://www.jsdelivr.com/) à l'aide de l'un de ces liens :
    - [bootstrap.min.css](https://www.jsdelivr.com/package/npm/bootstrap?path=dist%2Fcss),
    - [bootstrap.bundle.min.js](https://www.jsdelivr.com/package/npm/bootstrap?path=dist%2Fjs),
-   - [jquery.slim.min.js](https://www.jsdelivr.com/package/npm/jquery?path=dist),
+   - [jquery.slim.min.js](https://www.jsdelivr.com/package/npm/jquery?path=dist) (la version à utiliser dépend de la version de Boostrap),
    - [bootstrap-icons.css](https://www.jsdelivr.com/package/npm/bootstrap-icons?path=font),
    - [simple-jekyll-search.min.js](https://www.jsdelivr.com/package/npm/simple-jekyll-search))
 2. Sélectionner la version souhaitée.
 3. Ajoutez le fichier à mettre à jour à votre collection.
 4. Cliquer sur le bouton _SHOW & CONFIGURE ALL LINKS_.
 5. Cliquer sur le bouton _SRI_ (_Enable Subresource Integrity check for increased security_).
-6. Reportez les liens (`href`) et les hash (`integrity`) indiqués sur jsDelivr dans le fichier [_config.yml](/_config.yml) (propriété `dependencies`).
+6. Reportez le lien (`href`) et le hash (`integrity`) indiqué sur jsDelivr dans le fichier [_config.yml](/_config.yml) (propriété `dependencies`).
 
-Contrairement à Jekyll il vous faudra malheureusement suivre les mises à jour vous-même (via par exemple le [blog de bootstrap](https://blog.getbootstrap.com/)
-ou [le dépôt du projet Simple-Jekyll-Search sur GitHub](https://github.com/christian-fei/Simple-Jekyll-Search)).
+### Suivi des mises à jour
+
+Que ce soit en grande partie automatique (pour Jekyll, avec [Bundler](https://bundler.io/)) ou manuel (pour Bootstrap ou simple-jekyll-search) pour mettre à
+jour les dépendances utilisées par ce site il faut déjà que vous soyez au courant que ces mises à jour existent. Pour cela plusieurs moyens :
+
+- suivre les blogs des projets ([Jekyll](https://jekyllrb.com/news/), [Bootstrap](https://blog.getbootstrap.com/), [Bootstrap Icons](https://blog.getbootstrap.com/)),
+- suivre les pages [GitHub](https://github.com) des projets ([Jekyll](https://github.com/jekyll/jekyll), [Bootstrap](https://github.com/twbs/bootstrap),
+  [Bootstrap Icons](https://github.com/twbs/icons), [simple-jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)),
+- ou, plus simplement, utiliser [librairies.io](https://libraries.io/) ([Jekyll](https://libraries.io/rubygems/jekyll), [Bootstrap](https://libraries.io/npm/bootstrap),
+  [Bootstrap Icons](https://libraries.io/npm/bootstrap-icons), [simple-jekyll-search](https://libraries.io/npm/simple-jekyll-search)).
 
 ### Ajouter un membre à l'équipe
 
