@@ -89,8 +89,8 @@ dependencies:
       href: 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css'
       integrity: 'sha256-T/zFmO5s/0aSwc6ics2KLxlfbewyRz6UNw1s3Ppf5gE='
     - name: 'bootstrap-icons.css'
-      href: 'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.2.1/font/bootstrap-icons.css'
-      integrity: 'sha256-B5n83MC3ofcWW2190eoigN6JUoG63r40hFs2kaCRCwo='
+      href: 'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css'
+      integrity: 'sha256-MsxKR7Nw4ngHKmRAJJhy5oHvodmSYAQgwDqWMdqIXXA='
   scripts:
     - name: 'jquery.slim.min.js'
       src: 'https://code.jquery.com/jquery-3.5.1.slim.min.js'
