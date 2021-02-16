@@ -23,8 +23,8 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-249.mp3](https://traffic.
 * dans la tête d’une optimisation du JDK
 * optimisation proposée amène des surcharges de contentions (thread local)
 * donc exploration de l’alternative
-* difficulté des codes intrinseques (c’est à dire quand un pattern est détecté, le code est hardcodé par platforme.
-* Donc tout changement du code qui sort du pattern veut dire pas mal de taf)
+* difficulté des codes intrinsèques (C'est-à-dire quand un pattern est détecté, le code est hardcodé par la plateforme. Donc tout changement du code qui sort
+  du pattern veut dire pas mal de taf)
 
 [Conversion hexadecimal en Java 17](http://marxsoftware.blogspot.com/2020/12/jdk17-hex-formatting-parsing.html)
 
@@ -32,19 +32,19 @@ Crowdcast de José sur Java 16
 et article de [Loic sur le sujet Java 16](https://www.loicmathieu.fr/wordpress/informatique/java-16-quoi-de-neuf/)
 
 * Socket channels (Unix domain) Court circuit de la stack tcp, pas de file descriptor de mémoire
-* Api vectorielle avec optimisation par plateforme
-* Foreign linker api pour panama
+* API vectorielle avec optimisation par plateforme
+* Foreign linker API pour panama
 * Et le support appel natif
-* Support alpine (musl) et aarch64 pour Windows
+* Support Alpine (musl) et AArch64 pour Windows
 * Record et pattern matching instanceof deviennent standard
 * Illegal access passe en deny par défaut. Ça pue ;)
 
 [Java sur Truffle dans GraalVM](https://medium.com/graalvm/java-on-truffle-going-fully-metacircular-215531e3f840)
 
-* le GC reste sur la JVM hote qui peut etre hotspot ou SubstrateVM
-* Dans le cas de SubstrateVM, ça veut dire que Java peut etre interprété dans ce mode ahead of time compiled (donc in JIT est embarqué). Pour faire tourner certains morceaux de Java “dynamique” ça peut valoir le coup
+* le GC reste sur la JVM hôte qui peut être Hotspot ou SubstrateVM
+* Dans le cas de SubstrateVM, ça veut dire que Java peut être interprété dans ce mode ahead of time compiled (donc in JIT est embarqué). Pour faire tourner certains morceaux de Java “dynamiques” ça peut valoir le coup
 * Sinon c’est la vision de GraalVM de la VM universelle donc supporter Java “comme les autres langages” fait partie du puzzle
-* Mais bon c’est dur de comprendre leur strategie
+* Mais bon c’est dur de comprendre leur stratégie
 
 Crowdcast JavaScript GraalVM de Benoit Sautel
 
@@ -58,16 +58,16 @@ Crowdcast JavaScript GraalVM de Benoit Sautel
 [JBang - comment écrire des scripts en Java](https://emmanuelbernard.com/blog/2021/01/18/jbang/)  
 
 * pourquoi les gens écrivent des scripts dans d'autre langages que Java
-* un seul fichier, pas de structure complexe y compris dans les dependances
-* un demarrage juste en lançant le ficher
+* un seul fichier, pas de structure complexe y compris dans les dépendances
+* un démarrage juste en lançant le ficher
 * crée un environnement pour l'IDE
 
-[Element worklet, rendre JavaScript preemptif](https://jasonformat.com/element-worklet/)  
+[Element worklet, rendre JavaScript préemptif](https://jasonformat.com/element-worklet/)  
 
 * Proposition de creation d’élément de code JavaScript qui peut tourner hors du thread principal by design.
-* JS peux rendre la main mais c’est non preemptif (yield, promesses etc) et uniquement à un endroit précis
-* Donc création de Element Worklet (un comme un runnable en Java) qui tourne dans un thread séparé, avec un message channel pour communiquer avec le reste
-* Travaille sur un shadow dom
+* JS peux rendre la main mais c’est non préemptif (yield, promesses etc) et uniquement à un endroit précis
+* Donc création d’Element Worklet (un comme un runnable en Java) qui tourne dans un thread séparé, avec un message channel pour communiquer avec le reste
+* Travaille sur un shadow DOM
 * par contre rien n’est détaillé sur le scheduler et la priorisation
 
 ### Librairies
@@ -75,8 +75,8 @@ Crowdcast JavaScript GraalVM de Benoit Sautel
 [Driver JDBC Oracle sur Maven Central!](https://blogs.oracle.com/developers/new-year-goodies-oracle-jdbc-21100-on-maven-central)
 
 * Drivers support for Virtual Threads
-* Extension reactives
-* GraalVM native image (mais encore des trucs a amelioerer (allow incomplete classpath)
+* Extension réactive
+* GraalVM native image (mais encore des trucs à améliorer (allow incomplete classpath))
 
 
 [Micronaut 2.3](https://micronaut.io/blog/2021-01-22-2-dot-3-release.html)
@@ -91,10 +91,10 @@ Crowdcast JavaScript GraalVM de Benoit Sautel
 * Idée des fondations était venu ensemble avec Micronaut
 * Mais voulait apprendre de l’un avant de lancer l’autre
 * Embrasse semver
-* Le technical commutee va décider de la roadmap de ce que j’ai compris
+* Le technical committee va décider de la roadmap de ce que j’ai compris
 * Intégration initiale de micronaut dans Grails 4
-* Plan: TX mongo dans GORM. Groovy server pages plus modulaire, native web socket, meilleure intégration Kafka
-* Plan grails 5: Groovy 3, SB 2.4, gradle 6 et Java 15
+* Plan : TX mongo dans GORM. Groovy server pages plus modulaire, native web socket, meilleure intégration Kafka
+* Plan Grails 5 : Groovy 3, SB 2.4, Gradle 6 et Java 15
 
 [Quarkus 1.11](https://quarkus.io/blog/quarkus-1-11-0-final-released/)
 
@@ -111,27 +111,27 @@ Les rebondissements d'Elastic vs AWS et du changement de licence
 * [Clarification d'Elastic](https://www.elastic.co/blog/license-change-clarification)
     * "si vous vendez Elasticsearch directement en tant que service, vous serez impacté"
     * entre les annonces et la licence, il y a une difference
-    * est-ce que tout competiteur sérieux à Elastic amènera un changement de licence?
-    * est-ce que Lucene est le prochain sur la liste?
-    * reflechissent à une license qui ouvre le code apres 3 à 5 ans BSL (Business Solftware License qui se transforme en ASL apres quelques années, et qui a une clause restrictive avant)
-* La distribution Elastic d'Elasticsearch avait déjà un mix de ASL et de logiciels sous license proprietaire mais "source ouverte"
+    * est-ce que tout compétiteur sérieux à Elastic amènera un changement de licence ?
+    * est-ce que Lucene est le prochain sur la liste ?
+    * réfléchissent à une license qui ouvre le code apres 3 à 5 ans BSL (Business Software License qui se transforme en ASL apres quelques années, et qui a une clause restrictive avant)
+* La distribution Elastic d'Elasticsearch avait déjà un mix d'ASL et de logiciels sous license propriétaire mais "source ouverte"
 * AWS [forks Elasticsearch](https://aws.amazon.com/fr/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/)
     * Montrent les contribs ~10 sur Elasticsearch et annonce 250 contributions sur Lucene
 * Les [clients Elasticsearch resteront ASL 2.0](https://twitter.com/jponge/status/1353721544997040131?s=21)
-    * mais pas le client Java haut niveau qui a des dependence’s sur les classes serveur. Un nouveau client devrait arriver.
+    * mais pas le client Java haut niveau qui a des dépendances sur les classes serveur. Un nouveau client devrait arriver.
 * [Retour de l'ex CTO de Chef et sa position "pro" AWS et contre Elastic](https://medium.com/sustainable-free-and-open-source-communities/free-software-is-the-only-winner-in-elastic-nv-vs-aws-9416f2a0a7f5)
-    * contre point de la position des gens du Message a caractere informatif
+    * contre point de la position des gens du Message a caractère informatique
     * 4 valeurs de l'OSS: 
         * The freedom to run the program as you wish, for any purpose
         * The freedom to study how the program works, and change it so it does your computing as you wish
-        * The freedom to redistribute copies so you can help others
+        * The freedom to redistribute copies, so you can help others
         * The freedom to distribute copies of your modified versions to others
         * at its heart, Open Source and Free Software are about the freedom to make the system work the way you wish
-    * au dessus est la communaute et le benefce de distribution qui fait un plus group morceau de clients potentiels
+    * au-dessus est la communauté et le bénéfice de distribution qui fait un plus gros morceau de clients potentiels
     * Shay B -  By putting the core of Elasticsearch into the open, we can presume he wanted the business value benefits of Open Source — collaboration in the commons, low friction acquisition for users, and hopefully the growth of an ecosystem around it. He got it 
     * tight open core - direct, and often critical, features are only available under a proprietary license
     * co-mingle the source code for these features in the primary Elasticsearch repository
-    *  Elastic NV creates a world where it is very, very difficult to collaborate only on the open source pieces. 
+    * Elastic NV creates a world where it is very, very difficult to collaborate only on the open source pieces. 
     * to whom does Elasticsearch belong? The community, or Elastic NV?
     * Elasticsearch [...] exists primarily to fuel the commercial ambitions of Elastic NV
     * I, as a contributor, want to change the course of Elasticsearch in ways that benefit me (and perhaps others), but does so at the expense of Elastic NV, will I get that opportunity? The answer is most likely no — you will not.
@@ -143,7 +143,7 @@ Les rebondissements d'Elastic vs AWS et du changement de licence
 
 * code déjà ouvert et utilisé par certains mais avait forké
 * c'est le coeur de DockerHub et est une container registry
-* objectif extensibilité pour les usages particuliers des uns et des autres (systeme de stockage etc)
+* objectif extensibilité pour les usages particuliers des uns et des autres (système de stockage etc)
 
 ### Web
 
@@ -151,24 +151,24 @@ Les rebondissements d'Elastic vs AWS et du changement de licence
 
 * Support TypeScript 4.1
 * nouveau plugin webpack pour le compilateur Ivy (pas d'effet visible attendu)
-* scelection des CSS critiques pour un chargement initial et inlining => opt-in pour l'instant
+* sélection des CSS critiques pour un chargement initial et inlining => opt-in pour l'instant
 * EcmaScript 5 polyfill a été enrichi
 
 ### Outillage
 
-[JFrog annouce que BinTray c'est fini](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/)
+[JFrog annonce que BinTray c'est fini](https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/)
 
-* aussi jcenter, gocenter, chartcenter etc
+* aussi JCenter, GoCenter, ChartCenter etc
 * fin des push 31 mars et fermeture de l'API REST et l'interface le 1er mai
-* l'url jcenter continue encore un an
-* si les projets utilisaient la synchro sur central, les pachkages seront là
+* l'URL jcenter continue encore un an
+* si les projets utilisaient la synchro sur central, les packages seront là
 * sinon il va falloir copier
-* et les scripts font devoir evoluer
-* questions sur la scalabiluté de MAven Central
+* et les scripts font devoir évoluer
+* questions sur la scalabilité de Maven Central
 * [Brian Fox de Sonatype](https://twitter.com/Brian_Fox/status/1357414525377642496) nous dit que tout va bien se passer
 * [Le blog officiel de Sonatype](https://blog.sonatype.com/dear-bintray-and-jcenter-users-heres-what-you-need-to-know-about-the-central-repository).
 
-[Attaque de suply chain par squattage de nom privés](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
+[Attaque de supply chain par squattage de nom privés](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
 
 * chercher le nom de dépendances privées d'organisations
 * publier une version "supérieure" sous le meme nom dans un repo public
@@ -176,17 +176,17 @@ Les rebondissements d'Elastic vs AWS et du changement de licence
 
 [Déployer sur Maven Central avec une action GitHub](https://bjansen.github.io/java/2021/02/03/deploying-to-maven-central-using-github-actions.html)
 
-* Le Java action workflow fait plus que preparer Java
+* Le Java action workflow fait plus que préparer Java
 * avec clef GPG et tout
 
 [JHipster Quarkus 1.0.0](https://github.com/jhipster/generator-jhipster-quarkus) contribué par Daniel Petisme et Anthony Viard
 
-* JHipster Quarkus est un "blueprint" JHipster qui permet de surcharger la mécanique de génération pour obtenir un backend qui s'appuye sur Quarkus plutôt que Spring. Cela permet de généré rapidement une application fullstack (front + back).
-* contenu [Twitch d'antony](https://www.twitch.tv/avdev4j)
+* JHipster Quarkus est un "blueprint" JHipster qui permet de surcharger la mécanique de génération pour obtenir un backend qui s'appuie sur Quarkus plutôt que Spring. Cela permet de générer rapidement une application fullstack (front + back).
+* contenu [Twitch d'Antony](https://www.twitch.tv/avdev4j)
 
 [Homebrew 3.0.0 est sorti](https://brew.sh/2021/02/05/homebrew-3.0.0/)
 
-* support officiel de Apple M1 avec des bottles native. Pas tous les binaires installable ne supportent M1
+* support officiel d’Apple M1 avec des bottles native. Pas tous les binaires installables ne supportent M1
 
 ### Sécurité
 
