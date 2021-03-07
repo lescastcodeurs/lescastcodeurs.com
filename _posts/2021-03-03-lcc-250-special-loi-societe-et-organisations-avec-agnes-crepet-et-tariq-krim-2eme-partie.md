@@ -24,7 +24,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-250.mp3](https://traffic.
 
 ## La déplateformisation de Trump et des comptes affiliés à QAnon  
 
-* [Le compte personnel de Trump - 80 millions de followers sur Twitter - bannie des réseaux sociaux suite à la prise d'assault du Capitol](https://techcrunch.com/2021/01/08/trump-banned-from-twitter/)  
+* [Le compte personnel de Trump - 80 millions de followers sur Twitter - bannie des réseaux sociaux suite à la prise d'assaut du Capitol](https://techcrunch.com/2021/01/08/trump-banned-from-twitter/)  
 * [Le post officiel de Twitter](https://blog.twitter.com/en_us/topics/company/2020/suspension.html)  
 * [Bannir Donald Trump de Twitter crée un précédent « dangereux », affirme son patron](https://www.lemonde.fr/pixels/article/2021/01/14/bannir-donald-trump-cree-un-precedent-dangereux-affirme-le-patron-de-twitter_6066224_4408996.html)  
 * [Le thread de Jack Dorsey, le CEO de Twitter](https://threadreaderapp.com/thread/1349510769268850690.html)  
@@ -34,14 +34,14 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-250.mp3](https://traffic.
 * A noter que Twitter a seulement agi à la fin du vote du congrès pour activer leur procedure. 
 * Trump a bien essayé de se servir du compte officiel de la présidence américaine pour dénoncer la suppression de son compte mais ses tweets ont été dépubliés au motif qu'utiliser un autre compte pour éviter la suspension enfreint les règles de Twitter
 * S'en est suivi un effet domino qui a entrainé la suppression des comptes de Donald Trump et d'adhérents à QAnon sur Facebook, Instagram, Youtube, Snapchat, Twitch, Spotify, Shopify (site qui permettait la vente de merchandising) et d'autres.
-* on parle de déplateformisation à cause de cet effet domino mais aussi parce qu'on a assisté à une deuxième étape : Trump s'est ensuite rapidement replié sur Parler, une application utilisée par l'alt right mais l'application a été retirée des stores par Google et Apple. Son infra supprimée : c'est en effet Amazon Web Service qui a décidé de ne plus héberger le service sur sa plateforme. Ce serait peut-être lié d’ailleurs à une [pétition d’employés](https://www.cnbc.com/2021/01/09/amazon-employees-demand-company-drop-parler-after-capitol-riot.html) d'Amazon, qui aurait pu influencer une telle décision. Pour Amazon les outils de modérations mis en place par Parler ne sont pas suffisamment efficaces. Cela pose la question de savoir si les services de clouds ont un droit de regard sur la façon dont une application est gérée?
+* on parle de déplateformisation à cause de cet effet domino mais aussi parce qu'on a assisté à une deuxième étape : Trump s'est ensuite rapidement replié sur Parler, une application utilisée par l'alt-right mais l'application a été retirée des stores par Google et Apple. Son infra supprimée : c'est en effet Amazon Web Service qui a décidé de ne plus héberger le service sur sa plateforme. Ce serait peut-être lié d’ailleurs à une [pétition d’employés](https://www.cnbc.com/2021/01/09/amazon-employees-demand-company-drop-parler-after-capitol-riot.html) d'Amazon, qui aurait pu influencer une telle décision. Pour Amazon les outils de modérations mis en place par Parler ne sont pas suffisamment efficaces. Cela pose la question de savoir si les services de clouds ont un droit de regard sur la façon dont une application est gérée?
 * Parler est hébergé par des russes. L'application a été financé par Rebekah Mercer qui est connue pour ses contributions aux organisations conservatrices et dont la famille a par ailleurs financé Cambridge Analytica.
-* clin d'oeil :  Le fondateur de Piratebay ironisait sur le sort de Parler " "Pirate Bay, le site Web le plus censuré au monde, créé par des kids, géré par des personnes ayant des problèmes d'alcool, de drogue et d'argent, est toujours en activité après presque 2 décennies. Parler et Gab, etc. ont tout l'argent mais aucune compétence ni état d'esprit. Gênant."
+* clin d'œil :  Le fondateur de Pirate Bay ironisait sur le sort de Parler " "Pirate Bay, le site Web le plus censuré au monde, créé par des kids, géré par des personnes ayant des problèmes d'alcool, de drogue et d'argent, est toujours en activité après presque 2 décennies. Parler et Gab, etc. ont tout l'argent mais aucune compétence ni état d'esprit. Gênant."
 
 [La désinformation en chute dans les réseaux sociaux après la déplateformatisation de Trump](https://www.washingtonpost.com/technology/2021/01/16/misinformation-trump-twitter/)  
 
-* Les expresssions et tags utilisés par les supporters de Trump ont baissés de 95% après le bannissement. (#FightforTrump, #HoldTheLine, March from Trump...)
-* D'après les chercheurs en désinformation il y a très peu de compte à la source (une vingtaine de comptes conservateurs dont celui de Trump) mais ceux ci sont qualifiés de "superspreader" car ils sont massivement repartagés, quelque soit le sujet.
+* Les expressions et tags utilisés par les supporters de Trump ont baissés de 95% après le bannissement. (#FightforTrump, #HoldTheLine, March from Trump...)
+* D'après les chercheurs en désinformation il y a très peu de comptes à la source (une vingtaine de comptes conservateurs dont celui de Trump) mais ceux ci sont qualifiés de "superspreader" car ils sont massivement repartagés, quelque soit le sujet.
     
 * [Les politiques du monde entier déstabilisés par la déplateformation de Trump et les questions qu'elle soulève](https://threadreaderapp.com/thread/1348696139395166208.html)  
 
