@@ -11,7 +11,7 @@ Cette page décrit comment participer à un enregistrement des cast codeurs.
 
 Il vous faut :
 
-* Google Chrome (ou Firefox) dernière version
+* Google Chrome dernière version
 * Une bonne bande passante (filaire c'est un poil mieux et prédictible)
 * Une pièce calme
 * Un casque
