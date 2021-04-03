@@ -1,0 +1,10 @@
+#!/bin/sh
+
+user="${DEPLOY_USER:-$(whoami)}"
+host="${DEPLOY_HOST:-lcc-web}"
+target="${DEPLOY_TARGET:-/var/www/lescastcodeurs}"
+src="_site/"
+dest="${user}@${host}:${target}"
+
+echo "Syncing $src to $dest"
+rsync -avz --delete --filter='- /video/' --filter='- /cgi-bin/' "$src" "$dest"
