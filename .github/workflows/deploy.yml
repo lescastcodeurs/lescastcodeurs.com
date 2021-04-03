@@ -1,0 +1,36 @@
+name: Deploy site
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      DEPLOY_USER: ${{secrets.DEPLOY_USER}}
+      DEPLOY_HOST: ${{secrets.DEPLOY_HOST}}
+      DEPLOY_KEY: ${{secrets.DEPLOY_KEY}}
+      DEPLOY_TARGET: ${{secrets.DEPLOY_TARGET}}
+    steps:
+      - name: Checkout site
+        uses: actions/checkout@v2
+
+      - name: Setup ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+          bundler-cache: true
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan "$DEPLOY_HOST" >> ~/.ssh/known_hosts
+          echo "$DEPLOY_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+
+      - name: Build site
+        run: bin/build
+
+      - name: Deploy site
+        run: bin/deploy

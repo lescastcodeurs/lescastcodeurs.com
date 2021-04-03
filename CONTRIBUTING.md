@@ -68,9 +68,23 @@ Le site est alors disponible dans le répertoire `_site`.
 
 ### Publier le site
 
-Uniquement Emmanuel peut publier le site
+La publication du site passe par l'exécution du workflow GitHub Actions `deploy`. Ce workflow décompose globalement de la manière suivante :
+1. Préparation de l'environnement (ruby, configuration SSH nécessaire pour le rsync)
+2. Construction du site à l'aide de bin/build
+3. Déploiement du site à l'aide de bin/deploy (rsync)
 
-    ./bin/build --publish
+Pour fonctionner ce workflow GitHub Actions nécessite la déclaration des secrets suivants :
+- `DEPLOY_USER` : utilisateur SSH à utiliser pour la publication du site,
+- `DEPLOY_HOST` : serveur sur lequel le site doit être publié,
+- `DEPLOY_KEY` : clé SSH privée utilisée pour la connexion au serveur,
+- `DEPLOY_TARGET` : répertoire cible sur le serveur où les fichier du site seront copiés.
+
+Il est aussi possible de lancer manuellement la publication du site :
+
+    ./bin/build && ./bin/deploy
+
+Le script `bin/deploy` utilise les variables `DEPLOY_*` si elles sont définies. Si elles ne le sont pas des valeurs par défaut sont utilisées (cf.
+[bin/deploy](/bin/deploy)).
 
 ### Mise à jour de Jekyll et de ses dépendances
 
@@ -197,7 +211,6 @@ L'index de recherche est créé grâce au template [search.json](search.json) :
 
 ## Todo
 
-- install site build script on server + github push notif (cgi)
 - keep video directory
 - trouver un moyen de traduire les titres des pages "paginées" (pas faisable avec jekyll-paginate ?)
 - trouver une liste de termes à [exclure](https://github.com/christian-fei/Simple-Jekyll-Search/wiki#exclude-array-optional) pour tenter d'améliorer la
