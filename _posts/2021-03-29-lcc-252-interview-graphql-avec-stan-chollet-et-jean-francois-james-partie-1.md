@@ -19,7 +19,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-252.mp3](http://traffic.l
 ### Ta vie, ton oeuvre
 
 [Stan Chollet](https://twitter.com/tsunammis)  
-[Tartifflette.io](https://tartiflette.io/)  
+[tartiflette.io](https://tartiflette.io/)  
 
 [Jean-François James](https://twitter.com/jefrajames)  
 [Microprofile GraphQL](https://github.com/eclipse/microprofile-graphql)  
@@ -47,7 +47,7 @@ Toujours JSON ?
 Une requête pour plusieurs sources
 
 
-[Appllo GraphQL](https://www.apollographql.com/)  
+[Apollo GraphQL](https://www.apollographql.com/)  
 [GraphQL Federation](https://www.apollographql.com/docs/federation/)  
 [Domain Graph Service](https://www.infoq.com/news/2021/02/netflix-graphql-spring-boot/)  
 
@@ -79,7 +79,7 @@ Et quid des changements incompatibles?
 
 Pagination
 
-[AppoloGraphQL](https://www.apollographql.com/)  
+[Apollo GraphQL](https://www.apollographql.com/)  
 [GraphiQL](https://github.com/graphql/graphiql)  
 [GraphQL Playground](https://www.electronjs.org/apps/graphql-playground)  
 [Postman](https://www.postman.com/graphql/)  
