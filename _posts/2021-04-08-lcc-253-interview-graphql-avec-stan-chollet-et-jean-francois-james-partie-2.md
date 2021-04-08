@@ -50,7 +50,7 @@ Et quid des changements incompatibles?
 
 Pagination
 
-[AppoloGraphQL](https://www.apollographql.com/)  
+[Apollo GraphQL](https://www.apollographql.com/)  
 [GraphiQL](https://github.com/graphql/graphiql)  
 [GraphQL Playground](https://www.electronjs.org/apps/graphql-playground)  
 [Postman](https://www.postman.com/graphql/)  
