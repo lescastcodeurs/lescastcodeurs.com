@@ -10,9 +10,20 @@ jobs:
     env:
       DEPLOY_USER: ${{secrets.DEPLOY_USER}}
       DEPLOY_HOST: ${{secrets.DEPLOY_HOST}}
+      DEPLOY_PORT: ${{secrets.DEPLOY_PORT}}
       DEPLOY_KEY: ${{secrets.DEPLOY_KEY}}
       DEPLOY_TARGET: ${{secrets.DEPLOY_TARGET}}
+      DEPLOY_OPTIONS: ${{secrets.DEPLOY_OPTIONS}}
     steps:
+      - name: Verify all required secrets are set
+        run: |
+          [ -z "$DEPLOY_USER" ] && echo "Missing DEPLOY_USER secret" && exit 1
+          [ -z "$DEPLOY_HOST" ] && echo "Missing DEPLOY_HOST secret" && exit 1
+          [ -z "$DEPLOY_PORT" ] && echo "Missing DEPLOY_PORT secret" && exit 1
+          [ -z "$DEPLOY_KEY" ] && echo "Missing DEPLOY_KEY secret" && exit 1
+          [ -z "$DEPLOY_TARGET" ] && echo "Missing DEPLOY_TARGET secret" && exit 1
+          exit 0
+
       - name: Checkout site
         uses: actions/checkout@v2
 
@@ -25,9 +36,12 @@ jobs:
       - name: Setup SSH
         run: |
           mkdir -p ~/.ssh
-          ssh-keyscan "$DEPLOY_HOST" >> ~/.ssh/known_hosts
+          echo "Host $DEPLOY_HOST" > ~/.ssh/config
+          echo "  Port $DEPLOY_PORT" >> ~/.ssh/config
+          echo "  StrictHostKeyChecking no" >> ~/.ssh/config
+          cat ~/.ssh/config
           echo "$DEPLOY_KEY" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa ~/.ssh/config
 
       - name: Build site
         run: bin/build

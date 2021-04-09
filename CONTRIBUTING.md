@@ -74,10 +74,12 @@ La publication du site passe par l'exécution du workflow GitHub Actions `deploy
 3. Déploiement du site à l'aide de bin/deploy (rsync)
 
 Pour fonctionner ce workflow GitHub Actions nécessite la déclaration des secrets suivants :
-- `DEPLOY_USER` : utilisateur SSH à utiliser pour la publication du site,
-- `DEPLOY_HOST` : serveur sur lequel le site doit être publié,
-- `DEPLOY_KEY` : clé SSH privée utilisée pour la connexion au serveur,
-- `DEPLOY_TARGET` : répertoire cible sur le serveur où les fichier du site seront copiés.
+- `DEPLOY_USER` (obligatoire) : indique l'utilisateur SSH à utiliser pour la publication du site,
+- `DEPLOY_KEY` (obligatoire) : contient la clé SSH privée utilisée pour la connexion au serveur,
+- `DEPLOY_HOST` (obligatoire) : indique le serveur sur lequel le site doit être publié,
+- `DEPLOY_PORT` (obligatoire) : indique le port SSH du serveur sur lequel le site doit être publié,
+- `DEPLOY_TARGET` (obligatoire) : indique le répertoire cible sur le serveur où les fichier du site seront copiés,
+- `DEPLOY_OPTIONS` (optionnel) : indique les options additionnelles à passer à rsync.
 
 Il est aussi possible de lancer manuellement la publication du site :
 
