@@ -19,7 +19,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-253.mp3](http://traffic.l
 ### Ta vie, ton oeuvre
 
 [Stan Chollet](https://twitter.com/tsunammis)  
-[Tartifflette.io](https://tartiflette.io/)  
+[tartiflette.io](https://tartiflette.io/)
 
 [Jean-François James](https://twitter.com/jefrajames)  
 [Microprofile GraphQL](https://github.com/eclipse/microprofile-graphql)  
@@ -27,18 +27,18 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-253.mp3](http://traffic.l
 ### En pratique pour le développeur
 
 Je veux faire du GraphQL, maintenant quoi ?  
-Quels frameworks choisir?  
+Quels frameworks choisir ?  
 Lien JS - mon language (e.g. Java)
 
 Comment définir son schéma  
-Des outils qui aident à la génération des entités?  
+Des outils qui aident à la génération des entités ?  
 Erreurs dans les requêtes  
 
 Comment écrire ses requêtes,  
 Qu’est-ce qui est possible  
 
 Comment réduire les requêtes possibles  
-générer 23 jointures?  
+générer 23 jointures ?  
 De pas afficher certaines données à l’utilisateur  
 
 Comment faire des agrégations de plusieurs sources ?
@@ -46,19 +46,19 @@ Comment faire des agrégations de plusieurs sources ?
 Modification des données
 
 Faire évoluer ses APIs  
-Et quid des changements incompatibles?
+Et quid des changements incompatibles ?
 
 Pagination
 
 [Apollo GraphQL](https://www.apollographql.com/)  
 [GraphiQL](https://github.com/graphql/graphiql)  
 [GraphQL Playground](https://www.electronjs.org/apps/graphql-playground)  
-[Postman](https://www.postman.com/graphql/)  
+[Postman](https://www.postman.com/graphql/)
 
 ### Sous le capot
 
-Qui définit GraphQL?  
-Qui implémente?  
+Qui définit GraphQL ?  
+Qui implémente ?  
 
 Les clients GraphQL
 
