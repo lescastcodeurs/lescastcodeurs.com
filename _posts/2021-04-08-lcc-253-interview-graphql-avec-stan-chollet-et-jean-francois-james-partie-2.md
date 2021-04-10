@@ -38,7 +38,7 @@ Comment écrire ses requêtes,
 Qu’est-ce qui est possible  
 
 Comment réduire les requêtes possibles  
-générer 23 jointures ?  
+Générer 23 jointures ?  
 De pas afficher certaines données à l’utilisateur  
 
 Comment faire des agrégations de plusieurs sources ?
