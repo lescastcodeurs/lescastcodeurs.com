@@ -15,11 +15,11 @@ En 2007 Antonio publie un livre sur [Java EE 5][javaee5] aux éditions Eyrolles.
 En février 2008 Antonio créé le [Paris JUG][parisjug], groupe d’utilisateurs java parisien qui se retrouve une fois par mois pour 
 assister à des conférences. Il parle régulièrement à des [conférences internationales][confs] sur des sujets liés à Java EE.
  
-[javaee5]: http://www.antoniogoncalves.org/xwiki/bin/view/Book/JavaEE5Fr
-[book]: http://www.antoniogoncalves.org/xwiki/bin/view/Book/JavaEE5Fr
-[jcp]: http://www.jcp.org/
-[javaee6]: http://www.jcp.org/en/jsr/detail?id=316
-[ejb31]: http://www.jcp.org/en/jsr/detail?id=317
-[jpa20]: http://www.jcp.org/en/jsr/detail?id=318
-[confs]: http://www.antoniogoncalves.org/xwiki/bin/view/Main/Talks
-[parisjug]: http://www.parisjug.org/
+[javaee5]: https://antoniogoncalves.org/2007/06/01/java-ee-5-book/
+[book]: https://antoniogoncalves.org/2009/02/13/java-ee-6-book/
+[jcp]: https://www.jcp.org
+[javaee6]: https://www.jcp.org/en/jsr/detail?id=316
+[ejb31]: https://www.jcp.org/en/jsr/detail?id=317
+[jpa20]: https://www.jcp.org/en/jsr/detail?id=318
+[confs]: https://antoniogoncalves.org/2017/07/03/talks-i-gave-at-conferences-and-meetups/
+[parisjug]: https://www.parisjug.org/
