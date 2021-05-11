@@ -1,5 +1,5 @@
 ---
-title: LCC 255 - Interview Java 16 avec José Paumard et Henry Tremblai - partie 1
+title: LCC 255 - Interview Java 16 avec José Paumard et Henri Tremblay - partie 1
 author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 255
