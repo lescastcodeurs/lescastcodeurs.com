@@ -99,7 +99,7 @@ dependencies:
       src: 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js'
       integrity: 'sha256-sCElQ8xaSgoxwbWp0eiXMmGZIRa0z94+ffzzO06BqXs='
     - name: 'simple-jekyll-search.min.js'
-      src: 'https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.9.1/dest/simple-jekyll-search.min.js'
+      src: 'https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.9.2/dest/simple-jekyll-search.min.js'
       integrity: 'sha256-ieUctArvXa2Jaww7u+OyjqzBpOW04E9K17BzP8qrxVM='
 
 plugins:
