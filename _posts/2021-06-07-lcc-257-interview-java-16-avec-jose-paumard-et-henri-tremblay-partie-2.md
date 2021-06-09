@@ -21,7 +21,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-257.mp3](http://traffic.l
 [José Paumard](https://twitter.com/JosePaumard)  
 [Henri Tremblay](https://twitter.com/henri_tremblay)  
 
-### Illegal access pass en deny par défaut (Henry)
+### Illegal access pass en deny par défaut (Henri)
 
 JEP 396 (encapsulation force des parties internes du JDK).  
 [FEATURE Make Lombok compatible with JDK 16 · Issue #2681 · rzwitserloot/lombok · GitHub](https://github.com/rzwitserloot/lombok/issues/2681)
