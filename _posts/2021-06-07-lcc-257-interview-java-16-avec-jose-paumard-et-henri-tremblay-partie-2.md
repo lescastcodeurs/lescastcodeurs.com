@@ -28,8 +28,8 @@ JEP 396 (encapsulation force des parties internes du JDK).
 
 ### API vecteur
 
-Les `Vector` sont de retour?!
-Discussion ud parallelisme au niveau CPU — [Simple Instruction Multiple Data](https://fr.wikipedia.org/wiki/Single_instruction_multiple_data)  
+Les `Vector` sont de retour ?!
+Discussion autour du parallélisme au niveau CPU — [Simple Instruction Multiple Data](https://fr.wikipedia.org/wiki/Single_instruction_multiple_data)  
 
 ### Foreign Linker API
 
