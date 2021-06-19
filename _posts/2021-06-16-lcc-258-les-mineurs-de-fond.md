@@ -7,8 +7,8 @@ mp3_length: 50556025
 tweet: Les mineurs de fond #spring #vertx #fastly #gradle #mineurs #PR
 # tweet size: 91-93 -> 99-101 #######################################################################
 --- 
-Arnaud, Antonio et Emmanuel discutent des actu du développeur en cette période pré estivale.
-Du Spring Boot, du Hibernate, du Vert.x, du web qui tombe, du Gradle 7, des mineurs et des méthodologies autour des pull requests.
+Arnaud, Antonio et Emmanuel discutent des actus du développeur en cette période pré-estivale.
+Du Spring Boot, du Hibernate, du Vert.x, du web qui tombe, du Gradle 7, des mineurs et des méthodologies autour des pull-requests.
 
 Enregistré le 11 juin 2021
 
@@ -52,7 +52,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-258.mp3](https://traffic.
 * Plus conforme à OAuth2 et OIDC
 * Kotlin 1.5
 * Flexibilité dans la configuration de pools (plusieurs event loops par pool, waiter cancellation, lock free impl, etc
-* Web session stocké dans Infinispan 
+* Web session stockée dans Infinispan 
 * Et plus au niveau sécurité, openapi, service proxy
 
 ### Infrastructure
@@ -60,9 +60,9 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-258.mp3](https://traffic.
 [Un problème chez Fastly et l'internet tousse](https://www.fastly.com/blog/summary-of-june-8-outage)
 
 * Fastly est un CDN
-* hoste beaucoup d'artefact de type NPM, Maven, JS resources etc
-* consequence est sites defacé par manque de CSS ou JS, voir HTTP pages non accessibles
-* bug declenché par une config client => fait tomber 85% du réseau
+* héberge beaucoup d'artefacts de type NPM, Maven, JS resources etc
+* consequence : sites defacés par manque de CSS ou JS, voir HTTP pages non accessibles
+* bug déclenché par une config client => fait tomber 85 % du réseau
 
 ### Cloud
 
@@ -81,7 +81,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-258.mp3](https://traffic.
 * [Web extensions community group](https://www.w3.org/community/webextensions/)
 * Base sur le travail de safari de supporter les extensions des autres navigateurs 
 * On a vu des défis et réduction de possibilités pour contrôler la sécurité et le tracking
-* De toutes façons tout le monde est sur Chromium ahaha 
+* De toute façon tout le monde est sur Chromium haha 
 
 ### Outillage
 
@@ -89,7 +89,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-258.mp3](https://traffic.
 
 * D’ailleurs, Cédric quitte Gradle Inc après des années de bons et loyaux services 
 
-[Prosus achète StasckOverflow pour 1,8 milliards](https://stackoverflow.blog/2021/06/02/prosus-acquires-stack-overflow/)
+[Prosus achète Stack Overflow pour 1,8 milliards](https://stackoverflow.blog/2021/06/02/prosus-acquires-stack-overflow/)
 
 * Prosus avait déjà des parts dans des entreprises type Codeacademy, et Udemy, dans l’EDU/tech
 * StackOverflow commence en 2008
@@ -118,15 +118,15 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-258.mp3](https://traffic.
 
 * Copie privée basse sur les cassettes et VHS. Ensuite le stockage numérique explose 
 * 270 millions d’euros en France en 2017
-* Une commission administrative fixe les règles. Composée.  de 6 usagers, 6 vendeurs de stockage, 12 ayant droits et un président au droit de vote et pro ayant droit. Rapport de force clair
-* Ils essaye de construire la vache à lait: prix basé sur la copie licite ou pas (cassé en 2008) ensuite argument de compression pour garder le barème haut 
+* Une commission administrative fixe les règles. Composée.  de 6 usagers, 6 vendeurs de stockage, 12 ayants droit et un président au droit de vote et pro ayant droit. Rapport de force clair
+* Ils essayent de construire la vache à lait : prix basé sur la copie licite ou pas (cassé en 2008) ensuite argument de compression pour garder le barème haut 
 * En théorie que pour les particuliers et procédure de remboursement pour les pros. Mais difficile à appliquer donc quasi jamais fait. 
-* 25% des gains financent des festivals et manifestations culturelles : instrument d’influence des élus locaux et pas si locaux 
+* 25 % des gains financent des festivals et manifestations culturelles : instrument d’influence des élus locaux et pas si locaux 
 * Efforts pour taper sur tous les disques durs nus, faire entrer dans le champ le stream ripping
 * Et maintenant [la copie privée sur la vente d’occasion](https://actualitte.com/article/100640/politique-publique/copie-privee-les-appareils-reconditionnes-pomme-de-discorde). La grande classe. 
     * Risque pour l’économie solidaire qui sont sur des populations fragiles 
-    * Le sénat veut favoriser l’écologie de la seconde main et serait pour l’exclusion de la taxe dans ce cas là. 
-    * Les smartphones c’est 70% de leurs revenus
+    * Le sénat veut favoriser l’écologie de la seconde main et serait pour l’exclusion de la taxe dans ce cas-là. 
+    * Les smartphones c’est 70 % de leurs revenus
 
 ## Outils de l'épisode
 
