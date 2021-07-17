@@ -7,7 +7,7 @@ mp3_length: 39704749
 tweet: Interview Software Heritage avec @rdicosmo et @kanedafromparis www.softwareheritage.org
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Charles Sabourdin et Audrey interviewent Roberto Di Cosmo sur le projet [Software Heritage](www.softwareheritage.org), dont l'objectif est la collecte et la préservation des logiciels en tant que patrimoine culturel.
+Charles Sabourdin et Audrey interviewent Roberto Di Cosmo sur le projet [Software Heritage](https://www.softwareheritage.org/), dont l'objectif est la collecte et la préservation des logiciels en tant que patrimoine culturel.
  
 Enregistré le 22 Juin 2021
 
@@ -17,7 +17,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-259.mp3](https://traffic.
 
 ### Ta vie, ton oeuvre
 
-Ancien élève de la Scuola Normale Superiore de Pise, Roberto Di Cosmo a obtenu son doctorat en Informatique à l'Université de Pisa. Après avoir enseigné plusieurs années à l'Ecole Normale Supérieure de Paris, il est devenu Professeur d'Informatique à l'Université Paris Diderot, où il a été directeur adjoint pour l'Informatique dans l'école doctorale ED 386 de 2005 à 2009. Président du conseil scientifique et du conseil d'administration d'IMDEA Software, membre du comité d'orientation pour la Science Ouverte en France, il est actuellement détaché chez Inria.
+Ancien élève de la Scuola Normale Superiore de Pise, Roberto Di Cosmo a obtenu son doctorat en Informatique à l'Université de Pisa. Après avoir enseigné plusieurs années à l'École Normale Supérieure de Paris, il est devenu Professeur d'Informatique à l'Université Paris Diderot, où il a été directeur adjoint pour l'Informatique dans l'école doctorale ED 386 de 2005 à 2009. Président du conseil scientifique et du conseil d'administration d'IMDEA Software, membre du comité d'orientation pour la Science Ouverte en France, il est actuellement détaché chez Inria.
 
 Il a une longue histoire de contributions à la recherche en Informatique, dans des domaines allant de la réécriture à la logique et de la programmation fonctionnelle à la programmation parallèle. Il s'intéresse maintenant aux problèmes nouveaux posés par l'essor du Logiciel Libre, et en particulier à l'analyse statique de grandes masses de code. Il a publié plus de 20 articles dans des revues internationales, et 50 articles dans des conférences internationales.
 
@@ -45,9 +45,9 @@ En 2015, il a été à l'origine de Software Heritage, une initiative qu'il diri
  - sur l’infrastructure ?
    - combien de serveur, dans combien de datacenter ?
      - quel type de code ?
-     - quel composant utiliser/reutiliser ?
+     - quel composant utiliser/réutiliser ?
 - un outil de recherche ?
-    - les tendances, les connaissances(bonnes pratiques, etc...)
+    - les tendances, les connaissances(bonnes pratiques, ...)
     - le KWC
 
 ### Conclusion
