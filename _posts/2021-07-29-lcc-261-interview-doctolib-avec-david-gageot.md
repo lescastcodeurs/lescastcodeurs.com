@@ -9,7 +9,7 @@ tweet: Interview Doctolib (@doctolib) avec David Gageot (@dgageot)
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Guillaume et Antonio interviewent David Gageot à propos de [Doctolib](https://www.doctolib.fr/), l'entreprise, mais surtout ses différents produits, l'architecture et comment elle a géré la prise des rendez-vous pour les vaccins anti-covid.
- 
+
 Enregistré le 30 Juin 2021
 
 Téléchargement de l'épisode [LesCastCodeurs-Episode-261.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-261.mp3)

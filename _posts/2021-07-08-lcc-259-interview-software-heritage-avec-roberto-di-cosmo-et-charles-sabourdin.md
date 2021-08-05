@@ -8,7 +8,7 @@ tweet: Interview Software Heritage avec @rdicosmo et @kanedafromparis www.softwa
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Charles Sabourdin et Audrey interviewent Roberto Di Cosmo sur le projet [Software Heritage](https://www.softwareheritage.org/), dont l'objectif est la collecte et la préservation des logiciels en tant que patrimoine culturel.
- 
+
 Enregistré le 22 Juin 2021
 
 Téléchargement de l'épisode [LesCastCodeurs-Episode-259.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-259.mp3)
