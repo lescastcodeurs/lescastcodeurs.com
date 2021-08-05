@@ -64,15 +64,15 @@ Quels secteurs (médecins généraux, kiné, hôpitaux) utilisent le plus Doctol
 
 Comment s’est passé la relation avec l’administration ?
 
-Comment gérer la tension sur des sujets importants comme la vie privée, la sécurité, la souveraineté ...
+Comment gérer la tension sur des sujets importants comme la vie privée, la sécurité, la souveraineté…
 
 ### Les questions des auditeurs
 
-Que se passerait-il en cas de rachat ? Que deviendrait les données ?
+Que se passerait-il en cas de rachat ? Que deviendraient les données ?
 
 ### Doctolib, la concurrence et le futur
 
-En France, leader sur la prise de rendez-vous, mais en compétition sur de très nombreux autres produits (gestion de la patientèle ...). 
+En France, leader sur la prise de rendez-vous, mais en compétition sur de très nombreux autres produits (gestion de la patientèle…). 
 
 Tout reste à faire à l’étranger.
 
