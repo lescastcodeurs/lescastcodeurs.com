@@ -6,8 +6,8 @@ développeurs**.
 Ce site est construit avec :
 
 - [Jekyll](https://jekyllrb.com) – un framework pour créer des sites HTML statiques,
-- [Bootstrap](https://getbootstrap.com/) – une boite à outils d'interfaces web (HTML, CSS Javascript),
-- [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) – une librairie javascript permettant d'ajouter des fonctionnalités de recherche sur un site Jekyll,
+- [Bootstrap](https://getbootstrap.com/) – une boite à outils d’interfaces web (HTML, CSS Javascript),
+- [Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search) – une librairie javascript permettant d’ajouter des fonctionnalités de recherche sur un site Jekyll,
 - certaines icônes de [Komodo Media, Rogie King](http://www.komodomedia.com) et de [Bootstrap Icons](https://icons.getbootstrap.com/).
 
 Le logo a été crée par [Nicolas Martignole](https://www.touilleur-express.fr/).
@@ -28,8 +28,8 @@ Le crowdcasting retourne les micros et demande aux auditeurs de préparer des pe
 
 ### Contribuez au site
 
-Si vous repérez une erreur sur [lescastcodeurs.com](https://lescastcodeurs.com) (faute d'orthographe, lien mort...) ou que vous souhaitez contribuer à
-l'amélioration du site (suggestion d'amélioration du design ou autre), référez-vous au [guide de contribution](CONTRIBUTING.md).
+Si vous repérez une erreur sur [lescastcodeurs.com](https://lescastcodeurs.com) (faute d’orthographe, lien mort...) ou que vous souhaitez contribuer à
+l’amélioration du site (suggestion d’amélioration du design ou autre), référez-vous au [guide de contribution](CONTRIBUTING.md).
 
 
 ## Licence et droits
@@ -39,4 +39,4 @@ Le contenu de ce dépôt de code est distribué sous licence [Creative Commons A
 En soumettant une "pull request" ou contribuant de manière général à ce dépôt de code, vous acceptez de fournir votre contribution sous la licence mentionnée
 ci-dessus.
 
-Le texte et le logo sont la propriété d'[Emmanuel Bernard](http://emmanuelbernard.com).
+Le texte et le logo sont la propriété d’[Emmanuel Bernard](http://emmanuelbernard.com).
