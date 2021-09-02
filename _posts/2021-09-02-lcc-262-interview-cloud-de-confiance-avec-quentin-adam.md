@@ -1,7 +1,7 @@
 ---
 title: LCC 262 - Interview Cloud de Confiance avec Quentin Adam
 author: 'Emmanuel Bernard'
-team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Arnaud Heritier, Audrey Neveu'
+team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Arnaud Héritier, Audrey Neveu'
 layout: blog-post
 episode: 262
 mp3_length: 74169262
@@ -12,7 +12,7 @@ Quentin Adam de Clever Cloud et Emmanuel discutent du Cloud de Confiance et de s
 
 Enregistré le 1 juillet 2021
 
-Téléchargement de l'épisode [LesCastCodeurs-Episode-262.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-262.mp3)
+Téléchargement de l’épisode [LesCastCodeurs-Episode-262.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-262.mp3)
 
 ## Interview
 
@@ -22,7 +22,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-262.mp3](https://traffic.
 
 ### Clever cloud pour le contexte
 
-Automatisation de l'infrastructure
+Automatisation de l’infrastructure
 
 ### Cloud souverain
 
@@ -36,11 +36,11 @@ Cloud de l’état : les technologies retenues à la fois en matière de cloud p
 
 * Patriot act  2001
 * Edward Snowden 2013
-* Se protéger du cloud act 2018:
-    * L'état américain a accès aux donnés hébergées par les clouds providers americains même hors du sol américain 
+* Se protéger du cloud act 2018 :
+    * L’État américain a accès aux données hébergées par les clouds providers américains même hors du sol américain 
 
-Pour l'état, collectivités et pour les sociétés françaises (espionnage)
-L'armée à probablement déjà ses trucs 
+Pour l’État, les collectivités et les sociétés françaises (espionnage)
+L’armée à probablement déjà ses trucs 
 
 Plan calcul
 Loi informatique et liberté
@@ -48,19 +48,19 @@ Loi informatique et liberté
 
 ### Un peu d’historique
 
-Projet andromede: Thales, dassault, Orange, Bull: 135M €
+Projet Andromède : Thales, dassault, Orange, Bull: 135 M€
 
 Mais sort 
 
 * Numergy : dassault bull et Sfr 
-* Cloudwatt: Orange Thales 
+* Cloudwatt : Orange Thales 
 
-75 M chaque premier shot
+75 M€ chaque premier shot
 
-Gaia-X: échelle européenne 
+GAIA-X : échelle européenne 
 standards de sécurité, d’interopérabilité et de portabilité des données
 
-#### Pendant ce temps là
+#### Pendant ce temps-là
 
 * OVH
 * Clever Cloud
@@ -80,7 +80,7 @@ Ils ont le soft que l’on veut et que les gens utilisent vs Cloudwatt et Numerg
 
 ### Un cloud service  est un cloud service est un cloud service
 
-Quels sont les logiciels à enjeux:
+Quels sont les logiciels à enjeux :
 
 * Mail, éditeur de Documents, tableur
 * Progiciels
@@ -90,7 +90,7 @@ Bleu (licence Azure Orange + …)
 
 ### Le point de vue de Quentin
 
-C’est bien ou c’est pas bien cette stratégie?
+C’est bien ou c’est pas bien cette stratégie ?
 Ça paraît pragmatique 
 
 [Don't kill French Tech](https://www.dontkillfrenchtech.fr/)  
