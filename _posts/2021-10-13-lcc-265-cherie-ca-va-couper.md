@@ -143,7 +143,7 @@ Recap Spring.io :
 
 * Facebook prévoit de faire une maintenance sur son backbone (classique)
 * Un ingénieur lance par erreur une commande qui declare l’ensemble du backbone inaccessible
-* Oups, le système d’audit qui devrait empêcher de lancer une telle commande est buguée, la commande passe ...
+* Oups, le système d’audit, qui devrait empêcher de lancer une telle commande, est bugué. La commande passe ...
 * Toute l’infra de Facebook est désormais déconnectée du net. Les avertissements BGP sont stoppées puisque l’infra FaceBook n’est plus dispo et les DNS déprovisionnent les entrées FaceBook, le monde ne peut plus accéder à FaceBook
 * Les ingé comprennent vite le problème sauf qu’ils ont perdus les accès remotes aux services et la plupart de leurs systèmes internes sont KO à cause du retrait des DNS
 * Ils envoient donc du personnel sur site dans les datacenters pour physiquement remettre en service l’infra, mais l’accès physique aux machines est super protégé
