@@ -1,7 +1,7 @@
 ---
 title: LCC 270 - Interview de Nicolas De Loof sur Docker Compose
 author: 'Emmanuel Bernard'
-team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Arnaud Heritier, Audrey Neveu'
+team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Arnaud Héritier, Audrey Neveu'
 layout: blog-post
 episode: 270
 mp3_length: 53221858
@@ -12,30 +12,30 @@ Nicolas De Loof rejoint Emmanuel et Antonio pour discuter de Docker Compose.
 
 Enregistré le 17 décembre 2021
 
-Téléchargement de l'épisode [LesCastCodeurs-Episode-270.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-270.mp3)
+Téléchargement de l’épisode [LesCastCodeurs-Episode-270.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-270.mp3)
 
 ## Interview
 
-### Ta vie ton oeuvre
+### Ta vie ton œuvre
 
 [Nicolas De Loof](https://twitter.com/ndeloof)  
 
 ### Introduction à la techno
 
 Docker en 1 minute  
-Docker compose d'où vient l'idée et le besoin  
+Docker compose d’où vient l’idée et le besoin  
 
 ### La techno en concepts
 
-Un container c'est quoi ?  
+Un container c’est quoi ?  
 Ça tourne comment ?  
 
 Du coup, on veut en faire tourner plusieurs  
-Comment on les "lie"?  
+Comment on les "lie" ?  
 Network  
-autre chose?  
+autre chose ?  
 
-Mais c'est pas le job de Kubernetes?  
+Mais c’est pas le job de Kubernetes ?  
 
 * deploy
 * scaling
@@ -44,7 +44,7 @@ Mais c'est pas le job de Kubernetes?
 
 La spécification  
 
-Discussion sur les notions:
+Discussion sur les notions :
 
 * service
 * build
@@ -56,15 +56,15 @@ docker-compose vs docker compose
 
 ### Comment on l’utilise en pratique pour un dev
 
-Comment je définie mon multi container  
-Lien vers des dockerfiles?  
-Echange d'infos (e.g. DB connection ou mot de passe entre DB et l'appli)  
+Comment je définis mon multi-container  
+Lien vers des dockerfiles ?  
+Échange d’infos (par exemple DB connection ou mot de passe entre DB et l’appli)  
 Ma DB doit démarrer avant mon app  
-Ca fait les health check?  
+Ça fait les health check ?  
 
 
-Je commite ce fichier où typoiquement ?
-comment je partage avec mon équipe ?
+Je commite ce fichier où typiquement ?
+Comment je partage avec mon équipe ?
 Et ma CI ?
 
 Comment je mets en prod ?  Je mets en prod hein, ça marche sur ma machine.  
