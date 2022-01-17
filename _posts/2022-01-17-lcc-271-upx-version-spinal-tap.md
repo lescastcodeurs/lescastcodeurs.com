@@ -73,7 +73,7 @@ Quarkus 2.5 et [2.6](https://quarkus.io/blog/quarkus-2-6-0-final-released/) sont
 * Avec des VM, on peut overcommitter des resources sur l’hyperviseur, mais risque sur mésentente
 * Ne remplace pas le capacity planning
 * Les containers définissent des filtrages plus fins et tuent les process qui dépassent
-* Discussion `cpu_share` (proportion en balance), `cpu quota`, `cpu period` pour définir les limites basses et hautes
+* Discussion `cpu_share` (proportion en balance), `cpu_quota`, `cpu_period` pour définir les limites basses et hautes
 * mais si ça reste statique par host ce n’est pas très pratique
 * Orchestration de container via Kubernetes (request = min, limit = max)
 * Kube donne au minimum `request` mais peut donner plus si le nœud n’est pas occupé à 100%
@@ -142,11 +142,11 @@ Comme prévu, la saga log4j continue avec Log4j 2.17 et 2.17.1
 * Log4J 2.17 corrige un appel récursif infini exploitable en déni de service. Besoin d’avoir un pattern non standard dans la config (utilisant les context lookup) et un accès au Thread Context Map par l’attaquant (5.9) <https://logging.apache.org/log4j/2.x/security.html#CVE-2021-45105>
 * Log4J 2.17.1 fixe un abus du JDBCAppender qui peut référencer une URL JNDI et exécuter du code à distance, mais l’attaquant doit pouvoir modifier la configuration de log4j (6.6) <https://logging.apache.org/log4j/2.x/security.html#CVE-2021-44832>
 * doit-on quitter le navire ? équilibre entre fonctionnalités et sécurité
-* on fera un épisode spécial log4Shell bientôt
+* on fera un épisode spécial Log4Shell bientôt
 
 [H2 vulnérable à une attaque JNDI](https://jfrog.com/blog/the-jndi-strikes-back-unauthenticated-rce-in-h2-database-console/)
 
-* fondamentalement comme log4shell
+* fondamentalement comme Log4Shell
 * Mais exploitable pour ceux qui passent une url ou un login mot de passe via des infos utilisateur
 * Par exemple h2 console 
 * Mais localhost par défaut
