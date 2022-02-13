@@ -5,15 +5,15 @@
       <h4 class="card-title h3">{{ card.name }}</h4>
       <ul class="list-group list-group-flush">
         {% for link in card.links %}
-        <li class="list-group-item">
+        <li class="list-group-item list-group-item-action">
           {% if link.url %}
-          <a href="{{ link.url }}">
-            <img src="{% link {{ link.image }} %}" style="max-width: 2rem;"/>
+          <a href="{{ link.url }}" class="d-inline-flex align-items-center">
+            <em class="bi bi-{{ link.icon }} {{ link.color }} fs-2 mr-2"></em>
             {{ link.name }}
           </a>
           {%- else -%}
-          <a href="{% link {{ link.file }} %}">
-            <img src="{% link {{ link.image }} %}" style="max-width: 2rem;"/>
+          <a href="{% link {{ link.file }} %}" class="d-inline-flex align-items-center">
+            <em class="bi bi-{{ link.icon }} {{ link.color }} fs-2 mr-2"></em>
             {{ link.name }}
           </a>
           {%- endif -%}
