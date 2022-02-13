@@ -8,22 +8,28 @@ layout: page
   <div class="card border-0 border-bottom">
     <div class="card-body ml-0 pl-0 mr-0 pr-0">
       <div class="card-title">
-        <h2 class="d-inline mb-0">{{ member.name }}</h2>
-        <span class="team-member-links align-super">
-        {% if member.website %}
-        <a href="{{ member.website }}"><img src="{% link /images/services/web_32.png %}" alt="site"/> Site</a>
-        {% endif %}
-        {% if member.blog %}
-        <a href="{{ member.blog }}"><img src="{% link /images/services/rss_32.png %}" alt="blog"/> Blog</a>
-        {% endif %}
-        {% if member.twitter %}
-        <a href="http://twitter.com/{{ member.twitter }}"><img src="{% link /images/services/twitter_32.png %}" alt="twitter"/> Twitter</a>
-        {% endif %}
+        <span class="h2 m-0 p-0">{{ member.name }}</span>
+        <span class="fs-1_5 ml-4">
+          {% if member.website %}
+          <a href="{{ member.website }}" class="d-inline-flex align-items-center mr-2 mb-2">
+              <em class="bi bi-globe black mr-1"></em> Site
+          </a>
+          {% endif %}
+          {% if member.blog %}
+          <a href="{{ member.blog }}" class="d-inline-flex align-items-center mr-2 mb-2">
+              <em class="bi bi-rss-fill rss-orange mr-1"></em> Blog
+          </a>
+          {% endif %}
+          {% if member.twitter %}
+          <a href="http://twitter.com/{{ member.twitter }}" class="d-inline-flex align-items-center mr-2 mb-2">
+              <em class="bi bi-twitter twitter-blue mr-1"></em> Twitter
+          </a>
+          {% endif %}
         </span>
       </div>
 
       <p class="card-text">
-        <img class="float-left mt-2 mr-2" src="https://www.gravatar.com/avatar/{{ member.gravatar_hash }}?s=150" alt="{{ member.name }}"/>
+        <img class="float-left mt-2 mr-2 rounded" src="https://www.gravatar.com/avatar/{{ member.gravatar_hash }}?s=150" alt="{{ member.name }}"/>
         {{ member.content | markdownify }}
       </p>
     </div>
