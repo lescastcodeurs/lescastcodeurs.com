@@ -86,8 +86,8 @@ paginate_path: "/page/:num"
 dependencies:
   css:
     - name: 'bootstrap.min.css'
-      href: 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css'
-      integrity: 'sha256-T/zFmO5s/0aSwc6ics2KLxlfbewyRz6UNw1s3Ppf5gE='
+      href: 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css'
+      integrity: 'sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY='
     - name: 'bootstrap-icons.css'
       href: 'https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css'
       integrity: 'sha256-PDJQdTN7dolQWDASIoBVrjkuOEaI137FI15sqI3Oxu8='
@@ -96,8 +96,8 @@ dependencies:
       src: 'https://code.jquery.com/jquery-3.5.1.slim.min.js'
       integrity: 'sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj'
     - name: 'bootstrap.bundle.min.js'
-      src: 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js'
-      integrity: 'sha256-sCElQ8xaSgoxwbWp0eiXMmGZIRa0z94+ffzzO06BqXs='
+      src: 'https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js'
+      integrity: 'sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8='
     - name: 'simple-jekyll-search.min.js'
       src: 'https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.9.2/dest/simple-jekyll-search.min.js'
       integrity: 'sha256-ieUctArvXa2Jaww7u+OyjqzBpOW04E9K17BzP8qrxVM='
