@@ -17,7 +17,11 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-277.mp3](https://traffi
 
 ## News
 
-[Version vidéo](https://www.youtube.com/watch?v=xATokFoSOK4)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xATokFoSOK4"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+</iframe>
 
 ## Nous contacter
 
