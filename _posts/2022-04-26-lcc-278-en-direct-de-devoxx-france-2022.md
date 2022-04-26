@@ -16,7 +16,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-278.mp3](https://traffic.
 
 ## Interview
 
-La vidéo du direct Devoxx France qui est plus facile à suivre se trouve [sur YouTube]().
+La vidéo du direct Devoxx France qui est plus facile à suivre se trouve [sur YouTube](https://www.youtube.com/watch?v=_HxHIQ90-Fw).
 
 ## Nous contacter
 
