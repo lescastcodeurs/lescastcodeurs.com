@@ -10,7 +10,7 @@ tweet: URL ceteris paribus sic stantibus #secu #java #debutantURL #jduchesse
 ---
 Guillaume et Emmanuel discutent de l'état des versions de Java utilisées, de Java String template, et de beaucoup de failles de sécurité.
 On pourra presque se renommer Les Cast Sécu ;P
-On y ressussite aussi la rubrique débutant et discutons du piège de la classe `URL`.
+On y ressuscite aussi la rubrique débutant et discutons du piège de la classe `URL`.
 
 Enregistré le 20 mai 2022
 
