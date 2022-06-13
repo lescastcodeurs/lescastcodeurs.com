@@ -140,7 +140,7 @@ Les propriétés du fichier sont les suivantes :
 
 ### Lancement de lescastcodeurs.com en mode "production"
 
-Les intégrations Google Analytics et Disqus ne sont pas actives en mode `development`. Si vous souhaitez les activer il vous faudra lancer le site en mode
+L’intégration Disqus n’est pas active en mode `development`. Si vous souhaitez l’activer il vous faudra lancer le site en mode
 `production` à l’aide de la variable [`JEKYLL_ENV`](https://jekyllrb.com/docs/configuration/environments/) :
 
     ./bin/serve --prod
