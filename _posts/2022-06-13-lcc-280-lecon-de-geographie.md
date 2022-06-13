@@ -8,18 +8,18 @@ mp3_length: 58763123
 tweet: Leçon de géographie
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Cet épisode une fois n'est pas coutume parle beaucoup de nouvelles dans la rubrique langage et beaucoup de Java, wouhou !
+Cet épisode une fois n’est pas coutume parle beaucoup de nouvelles dans la rubrique langage et beaucoup de Java, wouhou !
 On parle aussi de sigstore, http/3, Micronaut et de VMWare.
 
 Enregistré le 10 juin 2022
 
-Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-280.mp3)
+Téléchargement de l’épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-280.mp3)
 
 ## News
 
 ### Langages
 
-[Sept raisons pour lesquelles Java a a encore du sens après 26 ans](https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/)  
+[Sept raisons pour lesquelles Java a encore du sens après 26 ans](https://foojay.io/today/7-reasons-why-after-26-years-java-still-makes-sense/)  
 
 * communauté (dans toutes les grandes villes)
 * force du langage et de la plateforme
@@ -31,17 +31,17 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 
 [Les débuts du projet Leyden](https://openjdk.java.net/projects/leyden/notes/01-beginnings)
 
-* Mark Reinhold lance le projet Leyden, pour adresser les problèmes de temps de démarrage lent de Java, de lenteur du temps jusqu’à la performance max, et d’empreinte un peu lourde
+* Mark Reinhold lance le projet Leyden, pour résoudre les problèmes de temps de démarrage lent de Java, de lenteur du temps jusqu’à la performance max, et d’empreinte un peu lourde
 * à l’aide d’une image statique de votre application
-* une image statique ne fait tourner qu’une seule et unique application sur son JDK, et est un “monde fermé” (ne peut pas charger de classe externes)
-* mais les ingés de la JVM vont travailler sur une approche assez souple, et voire quelles contraintes peuvent être allégées, par rapport à un monde complètement fermé d’une image statique
-* en espérant avoir des améliorations à différents niveaux, pour un max d’appli et de use case différents
-* Le close world c’est ce qui amène la valeur de GraalVM native image et les avantages pour Micronaut, Quarkus et le autres
-* donc pas de closed world: c’est encore un projet de recherche pour l’équipe de la JVM
+* une image statique ne fait tourner qu’une seule et unique application sur son JDK, et est un “monde fermé” (ne peut pas charger de classes externes)
+* mais les ingés de la JVM vont travailler sur une approche assez souple et voir quelles contraintes peuvent être allégées par rapport à un monde complètement fermé d’une image statique
+* en espérant avoir des améliorations à différents niveaux, pour un max d’appli et de use cases différents
+* Le close world c’est ce qui amène la valeur de GraalVM native image et les avantages pour Micronaut, Quarkus et les autres
+* donc pas de closed world : c’est encore un projet de recherche pour l’équipe de la JVM
 
-[JFR plus facile à configuer dans Java 17]( https://egahlin.github.io/2022/05/31/improved-ergonomics.html)
+[JFR plus facile à configurer dans Java 17]( https://egahlin.github.io/2022/05/31/improved-ergonomics.html)
 
-* un wizard en UI ou CLI pour generer le fichier .jfc
+* un wizard en UI ou CLI pour générer le fichier `.jfc`
 
 [Proposition de structured concurrency via le projet Loom](https://www.infoq.com/news/2022/06/java-structured-concurrency/)
 
@@ -56,18 +56,18 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 * Mais Rust et Dart sont rentrés récemment
 * L’arrivée de Dart coïncide surtout avec l’émergence de Flutter comme framework d’interface graphique, que ce soit pour Android/iOS, que pour le desktop et le web
 * Sur les applis mobiles, il y a toujours eu beaucoup de développement natif, mais est aussi arrivé React Native, mais aussi Flutter
-* Des applis de Google comme Google Pay et Google Ads sont développées en Flutter, mais aussi le récent SNCF Connect  ou des entreprises telles que BMW ou Alibaba (modifié) 
-* (cf le talk sur le REX par les développeurs de SNCF Connect à Devoxx France)
+* Des applis de Google comme Google Pay et Google Ads sont développées en Flutter, mais aussi le récent SNCF Connect ou des entreprises telles que BMW ou Alibaba (modifié) 
+* (cf. le talk sur le REX par les développeurs de SNCF Connect à Devoxx France)
 * les investissements initiaux de Dart vs Kotlin ou Ceylon qui ont démarrés en meme temps étaient colossaux 
 * Dart en natif pour faire des applis iOS… qui tournent aussi sous Android
 
 [Kotlin 1.7 est sorti](https://blog.jetbrains.com/kotlin/2022/06/kotlin-1-7-0-released/)  
 
-* Kotlin K2 compiler pour la JVM em Alpha (les plug ins ne fonctionne pas)
-* amélioration des perf de Kotlin et du compilo pour la JVM
+* Kotlin K2 compiler pour la JVM em Alpha (les plugins ne fonctionnent pas)
+* amélioration des perfs de Kotlin et du compilo pour la JVM
 * build incremental Gradle
 * annotation OptIn et inférence de Builder stabilisés
-* classes implementee par delegation automatique sans consommation mémoire (via inlining)
+* classes implémentées par delegation automatique sans consommation mémoire (via inlining)
 
 ### Librairies
 
@@ -86,7 +86,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 
 * Kubernetes 1.24 (sorti en mai) est la première version utilisant officiellement Sigstore, permettant une vérification transparente des signatures pour protéger contre les attaques de la chaîne d’approvisionnement
 * [Sigstore](https://www.sigstore.dev/) est une nouvelle norme pour la signature, la vérification et la protection des logiciels. Elle se veut être un remplaçant pour GPG par exemple. 
-* Sigstore offre une variété d’avantages à la communauté Kubernetes comme:  
+* Sigstore offre une variété d’avantages à la communauté Kubernetes comme :  
   * Sigstore’s keyless signing donne une grande expérience de développeur et supprime le besoin de la gestion de clé douloureuse.  
   * Le journal public et transparent de Sigstore ([Rekor](https://github.com/sigstore/rekor)) avec ses API permettent aux consommateurs Kubernetes de vérifier les signatures.  
   * ...   
@@ -97,7 +97,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 
 * Basé sur le protocole de transport QUIC qui possède plusieurs fonctionnalités intéressantes telles que le multiplexage de flux, le contrôle de flux par flux et l’établissement de connexion à faible latence.
 * QPACK : un format de compression pour représenter efficacement les champs HTTP à utiliser en HTTP/3. Il s’agit d’une variation de la compression HPACK qui vise à réduire la taille des headers.
-* Extensible Prioritization Scheme for HTTP: schéma qui permet à un client HTTP de communiquer ses préférences quant à la façon dont le serveur en amont priorise les réponses à ses demandes, et permet également à un serveur d’indiquer à un intermédiaire en aval comment ses réponses devraient être priorisées lorsqu’elles sont transmises.
+* Extensible Prioritization Scheme for HTTP : schéma qui permet à un client HTTP de communiquer ses préférences quant à la façon dont le serveur en amont priorise les réponses à ses demandes et permet également à un serveur d’indiquer à un intermédiaire en aval comment ses réponses devraient être priorisées lorsqu’elles sont transmises.
 
 ### Outillage
 
@@ -108,15 +108,15 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 
 ### Architecture
 
-[L'architecture Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
+[L’architecture Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
 
-* Pas fou fou dans les infos mais ça fait longtemps qu’on a pas eu d’archi
+* Pas fou fou dans les infos, mais ça fait longtemps qu’on n’a pas eu d’archi
 * analyze the system design in terms of availability, latency, scalability and resilience to network failure
 * basé sur AWS
 * clients via un SDK est intelligent, contrôle le backend utilisé et la bande passante en temps réel
-* Open Connect CDN: là ou les vidéos sont stockées
+* Open Connect CDN : là où les vidéos sont stockées
 * le reste du bon vieux microservice en backend
-* ramène les dix meilleurs points d’accès et le client choisi voire change
+* ramène les dix meilleurs points d’accès et le client choisi, voire change
 * API Gateway via Zuul: dynamic routing, traffic monitoring and security, resilience to failures at the edge of the cloud deployment
 * etc
 
@@ -125,20 +125,20 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-280.mp3](https://traffic.
 [VMWare racheté par Broadcom](https://investors.broadcom.com/news-releases/news-release-details/broadcom-acquire-vmware-approximately-61-billion-cash-and-stock)
 
 * 61 milliards de dollars
-* Avec un objectif de passer de 3,5 à 8,5 milliard d’EBITA par an
+* Avec un objectif de passer de 3,5 à 8,5 milliard d’EBITDA par an
     * Bouger dans la division cloud avec Symantec
-* VMWare était content de sa liberté retrouvée après la spin off de Dell
+* VMWare était content de sa liberté retrouvée après le spin-off de Dell
 * Apparemment pas d’alignement de tech
-* une expansion de portefeuiille dans le software pour broadcom
+* une expansion de portefeuille dans le software pour broadcom
 * VMWare a beaucoup changé de mains ces dernières années
-* La strategie d’investissement de broadcom: acheter des franchises avec une bonne position de marcher et un potentiel de profitabilité augmenté sans gros investissements
+* La stratégie d’investissement de broadcom : acheter des franchises avec une bonne position de marcher et un potentiel de profitabilité augmenté sans gros investissements
 * [La rumeur](https://www.bloomberg.com/news/articles/2022-05-22/broadcom-said-to-be-in-talks-to-acquire-vmware)
 * un ex de VMWare [qui pense que c’est la mort de VMWare](https://www.linkedin.com/pulse/brian-maddens-brutal-unfiltered-thoughts-broadcom-vmware-brian-madden/)
 
 
-## Outils de l'épisode
+## Outils de l’épisode
 
-[GitHub Copilot](https://copilot.github.com/) quand le code s'écrit tout seul ... (en fait non, les développeurs ont encore des beaux jours devant eux)
+[GitHub Copilot](https://copilot.github.com/) quand le code s’écrit tout seul ... (en fait non, les développeurs ont encore des beaux jours devant eux)
 
 * A voir aussi: [Github Co-Pilot : Addictif ou Efficace ? (Johan Jublanc et Simon Provost)](https://www.youtube.com/watch?v=SQf9ZQsqW30) à Devoxx France 2022
 
@@ -172,7 +172,7 @@ Source: [Developers Conferences Agenda/List](https://github.com/scraly/developer
 * 4-6: [Devoxx Morocco](https://devoxx.ma/) - Agadir (Morocco) <a href="https://dvma22.cfp.dev"><img alt="CFP Devoxx Morocco" src="https://img.shields.io/static/v1?label=CFP&message=6-Jun-2022%20to%2015-Jul-2022&color=green"> </a>
 * 6-7: [Paris Web](https://paris-web.fr/) - Paris (France) <img alt="Closed Captions" src="https://img.shields.io/static/v1?label=CC&message=Closed%20Captions&color=blue" /> <a href="https://appel.paris-web.fr/"><img alt="CFP Paris Web" src="https://img.shields.io/static/v1?label=CFP&message=24-Mar-2022-%3E24-Apr-2022&color=red"> </a>
 * 10-14: [Devoxx Belgium](https://devoxx.be/) - Antwerp (Belgium) <a href="https://devoxx.be/"><img alt="CFP Devoxx Belgium 2022" src="https://img.shields.io/static/v1?label=CFP&message=Jun-2022%20to%20July-2022&color=orange"> </a>
-* 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont Ferrand (France) <a href="https://conference-hall.io/public/event/8Wu147xoRDKQSjGcawoY"><img alt="CFP Volcamp" src="https://img.shields.io/static/v1?label=CFP&message=%3E13-May-2022&color=red"> </a>
+* 13-14: [Volcamp 2022](https://www.volcamp.io/) - Clermont-Ferrand (France) <a href="https://conference-hall.io/public/event/8Wu147xoRDKQSjGcawoY"><img alt="CFP Volcamp" src="https://img.shields.io/static/v1?label=CFP&message=%3E13-May-2022&color=red"> </a>
 * 20-21: [DevFest Nantes](https://devfest.gdgnantes.com/) - Nantes (France) <a href="https://conference-hall.io/public/event/CfucIjaXxrZThJE0POR3"><img alt="CFP Sunny Tech 2022" src="https://img.shields.io/static/v1?label=CFP&message=1-Apr-2022%20to%2015-Jun-2022&color=green"> </a>
 * 27-28: [Agile Tour Bordeaux](http://agiletourbordeaux.fr/) - Bordeaux (France) <a href="https://sessionize.com/agile-tour-bordeaux-2022/"><img alt="CFP Agile Tour Bordeaux" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-July-2022&color=green"> </a>
 
@@ -190,9 +190,6 @@ Source: [Developers Conferences Agenda/List](https://github.com/scraly/developer
 * 1: [Devops DDay #7](https://2022.devops-dday.com/) - Marseille (France) <a href="https://conference-hall.io/public/event/eKYGzptI6y44zoS8sGUz"><img alt="CFP Devops DDay" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-Jun-2022&color=green"> </a>
 * 2: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France) <a href="https://conference-hall.io/public/event/OJC5Ou5YJodfetgSJCa3"><img alt="CFP BDX I/O" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-Jul-2022&color=green"> </a>
 * 14-16: [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online 
-
-[Nom de la conf du x au y mois à Ville]() - [CfP]() jusqu'à y mois  
-TODO: reprendre celles de l'épisode d'avant
 
 ## Nous contacter
 
