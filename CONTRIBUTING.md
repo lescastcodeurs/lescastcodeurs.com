@@ -29,7 +29,7 @@ Si vous ne savez pas comment faire, jetez un coup d’œil [à la documentation 
 récupérez les sources de lescastcodeurs.com et créez une nouvelle branche :
 
     git clone git@github.com:<your-github-username>/lescastcodeurs.com.git
-    
+
     cd lescastcodeurs.com
     git checkout -b ma-branche
 
@@ -138,12 +138,15 @@ Les propriétés du fichier sont les suivantes :
 - `website` : lien vers le site web (optionnel)
 - `twitter` : nom d’utilisateur twitter (optionnel)
 
-### Lancement de lescastcodeurs.com en mode "production"
+### Lancement de lescastcodeurs.com en mode `production`
 
-L’intégration Disqus n’est pas active en mode `development`. Si vous souhaitez l’activer il vous faudra lancer le site en mode
-`production` à l’aide de la variable [`JEKYLL_ENV`](https://jekyllrb.com/docs/configuration/environments/) :
+Vous pouvez activer le mode `production` à l’aide de la variable [`JEKYLL_ENV="production"`](https://jekyllrb.com/docs/configuration/environments/) ou en utilisant le script `serve` :
 
-    ./bin/serve --prod
+```shell
+./bin/serve --prod
+```
+
+Suite au retrait de Google Analytics et de Disqus (voir #95), le mode `production` est identique au mode `development`.
 
 
 ## Notes et recommandations
@@ -174,7 +177,7 @@ a néanmoins servi de base pour [celui du site](/feed-intern.atom).
 Dans la mesure du possible n’utilisez que des [plugins Jekyll](https://jekyllrb.com/docs/plugins/) [officiels](https://github.com/search?q=topic%3Ajekyll-plugin+org%3Ajekyll&type=Repositories).
 et supportés par [GitHub Pages](https://pages.github.com/versions/). Les plugins fournis par la communauté ont tendance à être très lent à se mettre à jour (
 Jekyll 4, qui est pourtant sorti le 20/08/2019, n’est au 17/11/2020 toujours pas supporté par certains des plugins les plus populaires) ou pire encore à n’être
-plus maintenu du tout au bout d’un certain temps. 
+plus maintenu du tout au bout d’un certain temps.
 
 ### De la bonne utilisation des liens
 

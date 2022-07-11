@@ -74,9 +74,6 @@ sidebar_cards:
         color: 'google-group-blue'
         url: 'https://groups.google.com/group/lescastcodeurs'
 
-disqus:
-  shortname: 'lescastcodeurs'
-
 defaults:
   # jekyll-sitemap - excludes
   - scope:
