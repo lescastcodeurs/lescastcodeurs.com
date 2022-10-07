@@ -67,7 +67,7 @@ ou en interne <a href="http://www.cloudbees.com/jenkins-enterprise-by-cloudbees-
 
 ### Outillage
 
-[Babun, un Shell pour Windows](http://babun.github.io/?utm_content=buffer8c2c1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Babun, un Shell pour Windows](http://babun.github.io/)  
 
 ### Industrie
 

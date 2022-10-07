@@ -59,7 +59,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-263.mp3](https://traffi
     * Warnings de compilation plus configurable
     * Multiversal equality (des classes différentes qui peuvent être égales)
 
-[Kotlin a 10 ans](https://www.infoq.com/articles/kotlin-ten-years-qa/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=mobile)
+[Kotlin a 10 ans](https://www.infoq.com/articles/kotlin-ten-years-qa/)
 
 * annoncé en 2011, 1.0 en 2016, default Android en 2017
 * pas théorique, problèmes pragmatiques

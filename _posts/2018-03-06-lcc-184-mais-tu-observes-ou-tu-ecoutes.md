@@ -45,7 +45,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-184.mp3](http://traffic.l
 ### Cloud
 
 [CoreOS agrees to join Red Hat](https://coreos.com/blog/coreos-agrees-to-join-red-hat/)  
-[Debugging “FROM scratch” on Kubernetes](https://ahmet.im/blog/debugging-scratch/?utm_content=buffera9a4b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)   
+[Debugging “FROM scratch” on Kubernetes](https://ahmet.im/blog/debugging-scratch/)   
 
 ### Web
 
@@ -81,7 +81,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-184.mp3](http://traffic.l
 
 [The unwinding of net neutrality will begin on April 23rd](https://www.theverge.com/2018/2/22/17033608/net-neutrality-april-23-federal-register-publication)  
 [Socle interministériel des logiciels libres 2018](https://references.modernisation.gouv.fr/sites/default/files/SILL%202018%20-%20socle%20interministeriel%20de%20logiciels%20libres.pdf)  
-[Elon Musk quitte le conseil d’administration de son centre sur l’intelligence artificielle](http://www.lemonde.fr/pixels/article/2018/02/22/elon-musk-quitte-le-conseil-d-administration-de-son-centre-sur-l-intelligence-artificielle_5260766_4408996.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Twitter#link_time=1519298658)  
+[Elon Musk quitte le conseil d’administration de son centre sur l’intelligence artificielle](http://www.lemonde.fr/pixels/article/2018/02/22/elon-musk-quitte-le-conseil-d-administration-de-son-centre-sur-l-intelligence-artificielle_5260766_4408996.html)  
 
 ## Conférences
 
@@ -89,14 +89,14 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-184.mp3](http://traffic.l
 [Devoxx France du 18 au 20 avril 2018](https://www.devoxx.fr/)  
 [MixIT le 19-20 avril 2018 à Lyon](https://mixitconf.org)  
 [Riviera Dev les 16, 17 et 18 mai 2018 à Sophia Antipolis](http://rivieradev.fr/)  
-[NCrafts les 18 et 19 mai 2018](http://ncrafts.io/) - Le [CfP](http://cfp.ncrafts.io/?utm_content=bufferc3f36&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/login) est ouvert.  
+[NCrafts les 18 et 19 mai 2018](http://ncrafts.io/) - Le [CfP](http://cfp.ncrafts.io/#/login) est ouvert.  
 [Best Of Web les 7 et 8 juin 2018](http://bestofweb.paris/)  
 [EclipseCon les 13 et 14 juin 2018](https://www.eclipsecon.org/france2018/) - Le [CfP](https://www.eclipsecon.org/france2018/cfp) est ouvert.  
 [JHipster Conf le 21 juin](https://jhipster-conf.github.io)  
 [DevFest Lille le 21 juin 2018](https://devfest.gdglille.org/) - Le [CfP](https://devfestlille.cfp.io/#/dashboard) est ouvert.  
 [Voxxed Luxembourg le 22 juin 2018](https://voxxeddays.com/luxembourg/)  
 [Sunny Tech les 28 et 29 juin 2018](https://sunny-tech.io/) - Le [CfP](http://sunnytech.cfp.io/#/dashboard) est ouvert.  
-[Jenkins User Conference le 28 juin 2018](https://juc-paris.jfrog.com/?utm_source=save_the_date_CFP&utm_medium=email&utm_campaign=JUC_FR) - Le [CfP](https://sessionize.com/JUC-France/) est ouvert.    
+[Jenkins User Conference le 28 juin 2018](https://juc-paris.jfrog.com/) - Le [CfP](https://sessionize.com/JUC-France/) est ouvert.    
 
 ## Nous contacter
 

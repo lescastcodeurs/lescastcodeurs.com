@@ -111,7 +111,7 @@ Rise of the ChatOps :
 ### Organisation/Agile
 
 [Talk Beyond breaking bad](https://www.youtube.com/watch?v=czudJ6O8i9k)  
-[noproject](https://www.infoq.com/fr/presentations/lkfr-allan-kelly-no-projects?utm_source=presentations_about_lean-kanban-france&utm_medium=link&utm_campaign=lean-kanban-france)  
+[noproject](https://www.infoq.com/fr/presentations/lkfr-allan-kelly-no-projects)  
 [Je n’embauche jamais de poisson panné par Quentin Adam](http://medium.com/@waxzce/je-nembauche-jamais-de-poisson-pan%C3%A9-alors-arr%C3%AAtez-de-vous-pr%C3%A9senter-comme-tel-1eb318ee8a20)  
 [Rise of the Data Engineer](https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603?gi=e42974f0e9a5#.73683xj5s)  
 
@@ -124,7 +124,7 @@ Jenkins [Declarative Pipeline 1.0](https://jenkins.io/blog/2017/02/03/declarativ
 
 ### Société
 
-[La France introduit des visas particuliers pour les entrepreneurs](https://techcrunch.com/2017/01/17/france-creates-a-special-visa-for-entrepreneurs-engineers-and-investors/?utm_content=buffer4bffd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[La France introduit des visas particuliers pour les entrepreneurs](https://techcrunch.com/2017/01/17/france-creates-a-special-visa-for-entrepreneurs-engineers-and-investors/)  
 [D'un trait de plume Donald Trump manque de faire exploser le Privacy Shield](http://www.zdnet.fr/actualites/d-un-trait-de-plume-donald-trump-manque-de-faire-exploser-le-privacy-shield-39847758.htm#xtor=123456)
 
 ## Outil de l'épisode

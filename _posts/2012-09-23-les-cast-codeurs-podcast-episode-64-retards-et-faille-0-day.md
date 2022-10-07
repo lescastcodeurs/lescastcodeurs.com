@@ -25,7 +25,7 @@ Qu'est-ce qu'une attaque "0-day" <http://en.wikipedia.org/wiki/Zero-day_attack>
 La faille Java
 
 - <http://www.programmez.com/actualites.php?id_actu=11954&xtor=EPR-144>  
-- <http://www.deependresearch.org/2012/08/java-7-0-day-vulnerability-information.html?m=1&utm_source=buffer&buffer_share=17b39>
+- <http://www.deependresearch.org/2012/08/java-7-0-day-vulnerability-information.html>
 
 Oracle connaissait le problème  
 <https://www.pcworld.com/businesscenter/article/261612/oracle_knew_about_currently_exploited_java_vulnerabilities_for_months_researcher_says.html>  
@@ -77,7 +77,7 @@ eXo platform 3.5.4 released !! Cloud-IDE, support des projets Java/Maven <http:/
 
 ### Outils
 
-[Rentabilité avec Olivier Croisier](http://thecodersbreakfast.net/index.php?post%2F2012%2F08%2F26%2Fequipez-vos-développeurs&utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+TheCodersBreakfast+%28The+Coder%27s+Breakfast%29)
+[Rentabilité avec Olivier Croisier](http://thecodersbreakfast.net/index.php?post%2F2012%2F08%2F26%2Fequipez-vos-développeurs)
 
 ## Outils de l'épisode
 

@@ -55,7 +55,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-202.mp3](https://traffic.
 
 ### Architecture
 
-[L'art du diagramme d'architecture](https://www.infoq.com/articles/crafting-architectural-diagrams?utm_source=link&utm_medium=twitter&utm_campaign=calendar)  
+[L'art du diagramme d'architecture](https://www.infoq.com/articles/crafting-architectural-diagrams)  
 [Migrer de MongoDB vers Postgres: le process du Guardian](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres)  
 
 ### Méthodologies
@@ -78,9 +78,9 @@ Et la suite [Monter l'échelle our faire le pendule](https://charity.wtf/2019/01
 Le deep fake, nouvelle menace de désinformation mais pas seulement
 
 * [Après les fake news, la menace du «deep fake» prend de l'ampleur sur le web](http://www.lefigaro.fr/secteur/high-tech/2019/01/02/32001-20190102ARTFIG00162-apres-les-fake-news-la-menace-du-deep-fake-prend-de-l-ampleur-sur-le-web.php)  
-* [Fake-porn videos are being weaponized to harass and humiliate women: ‘Everybody is a potential target’](https://www.washingtonpost.com/technology/2018/12/30/fake-porn-videos-are-being-weaponized-harass-humiliate-women-everybody-is-potential-target/?noredirect=on&utm_term=.9c63a5b45838)  
+* [Fake-porn videos are being weaponized to harass and humiliate women: ‘Everybody is a potential target’](https://www.washingtonpost.com/technology/2018/12/30/fake-porn-videos-are-being-weaponized-harass-humiliate-women-everybody-is-potential-target/)  
 
-[Pour une éthique des algorithmes](https://www.franceculture.fr/emissions/la-methode-scientifique/cathy-oneil-pour-une-ethique-des-algorithmes?utm_medium=Social&utm_source=Twitter#Echobox=1546269611)  
+[Pour une éthique des algorithmes](https://www.franceculture.fr/emissions/la-methode-scientifique/cathy-oneil-pour-une-ethique-des-algorithmes#Echobox=1546269611)  
 
 ## Outils de l'épisode
 

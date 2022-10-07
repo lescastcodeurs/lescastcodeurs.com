@@ -24,7 +24,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-130.mp3](http://traffic.
 
 ###  Langages et JVM
 
-[Le monde tourne toujours en C](http://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming?utm_source=toptal&utm_medium=user&utm_campaign=blog_box&utm_content=lateral#trust-only-devoted-devs-now)  
+[Le monde tourne toujours en C](http://www.toptal.com/c/after-all-these-years-the-world-is-still-powered-by-c-programming#trust-only-devoted-devs-now)  
 [Java 9 gardera `Unsafe`](https://adtmag.com/blogs/watersworks/2015/08/java-9-hack.aspx)  
 [Quelques failles de sécu sur Java](http://www.javaworld.com/article/2948466/java-security/oracle-fixes-zeroday-java-flaw-and-over-190-other-vulnerabilities.html#tk.rss_all)  
 
@@ -55,7 +55,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-130.mp3](http://traffic.
 
 ### NoCode
 
-[Pourquoi les programmes de relation développeurs échouent ?](http://www.mikestowe.com/2014/03/why-developer-relations-programs-fail.php?utm_content=buffer75d81&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Pourquoi les programmes de relation développeurs échouent ?](http://www.mikestowe.com/2014/03/why-developer-relations-programs-fail.php)  
 [Partager les salaires de la boîte](http://insights.dice.com/2015/07/21/when-google-staffers-revealed-their-salaries/?CMPID=AF_SD_UP_JS_AV_OG_DNA_)  
 [GitHub encourage les codes de conduite pour tous les projets](https://github.com/blog/2039-adopting-the-open-code-of-conduct)  
 [Clarification sur les brevets par la cour européenne](http://www.lesechos.fr/journal20150721/lec2_high_tech_et_medias/021216435994-brevets-la-cour-de-justice-europeenne-clarifie-les-regles-1138544.php#xtor=RSS-38)  

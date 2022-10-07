@@ -49,7 +49,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-151g.mp3](http://traffic
 
 ### Data
 
-[Neo4J JDBC driver](https://neo4j.com/blog/official-neo4j-jdbc-driver-3-0/?utm_content=buffer8f711&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Neo4J JDBC driver](https://neo4j.com/blog/official-neo4j-jdbc-driver-3-0/)  
 [Github archive dataset sur BigQuery](https://cloudplatform.googleblog.com/2016/06/GitHub-on-BigQuery-analyze-all-the-open-source-code.html)  
 [Ce qu'on peut apprendre de millions de lignes de code sur Github](http://glaforge.appspot.com/article/what-can-we-learn-from-million-lines-of-groovy-code-on-github)  
 [On peut utiliser Groovy pour faire du Spark](http://glaforge.appspot.com/article/tale-of-a-groovy-spark-in-the-cloud)  

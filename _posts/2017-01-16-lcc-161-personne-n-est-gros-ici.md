@@ -17,7 +17,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-161.mp3](http://traffic.
 
 ### Langages
 
-[Implementation des traverse d'arbre en Java 8 streams](https://dzone.com/articles/implementing-a-depth-first-search-dfs-and-a-breath?utm_content=buffer1620e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Implementation des traverse d'arbre en Java 8 streams](https://dzone.com/articles/implementing-a-depth-first-search-dfs-and-a-breath)  
 [StreamUtils by José Paumard](https://github.com/JosePaumard/streams-utils)  
 
 [La JVM n'est pas lourde](https://www.opensourcery.co.za/2017/01/05/the-jvm-is-not-that-heavy/)  
@@ -32,7 +32,7 @@ L'affaire Oracle qui fait payer Java
 * [La réponse des Java Champions](https://docs.google.com/document/d/17OF811wWjjCnmDPJDD6v2c_nMO93e5evjravdCOkXMQ/edit?usp=sharing)
 
 
-[Jigsaw, le point de vue de JBoss](http://wildfly.org/news/2016/12/12/Jigsaws-Missing-Pieces/?utm_content=buffer0f8d2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+[Jigsaw, le point de vue de JBoss](http://wildfly.org/news/2016/12/12/Jigsaws-Missing-Pieces/)
 
 [Chris Lattner, créateur de Swift et LLVM, rejoint Tesla après 11 ans chez Apple](https://www.tesla.com/blog/welcome-chris-lattner) 
 
@@ -77,7 +77,7 @@ Réduction pour les auditeurs : **-30% avec le code `LesCastCodeursFontDuFronten
 
 [2017 l'année du desktop Linux - premiers pas](https://blog.alexis-hassler.com/2017/01/le-jour-apres-macbook.html)  
 
-[La consistence des systèmes de fichier](https://danluu.com/file-consistency/?utm_content=buffera284d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[La consistence des systèmes de fichier](https://danluu.com/file-consistency/)  
 [QUIC - le remplacement de TCP](https://ma.ttias.be/googles-quic-protocol-moving-web-tcp-udp/)  
 
 ### Pratiques de développement

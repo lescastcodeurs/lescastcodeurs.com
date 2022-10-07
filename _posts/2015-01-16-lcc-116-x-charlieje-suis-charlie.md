@@ -89,7 +89,7 @@ La guerre des plateformes (Microsoft Azure, Google Services, Amazon WS)
 
 ## Outils de l'épisode 
 
-[Le marketing pour les startups tech](http://startupsheartcustomers.com/?utm_content=buffer5fdca&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)  
+[Le marketing pour les startups tech](http://startupsheartcustomers.com/)  
 [2400 Jeux DOS jouables via le navigateur](http://laruche.com/2015/01/07/2400-jeux-dos-jouables-gratuitement-via-le-navigateur-670859)  
 [L'horloge en couleur hexa](http://whatcolourisit.scn9a.org/)  
 [BotBot.me](https://botbot.me), un service pour archiver et accéder en temps réel aux logs des chats IRC

@@ -79,7 +79,7 @@ Spectre et Meltdown, les failles cachées dans nos processeurs :
 
 La FCC enterre la neutralité du net aux États-Unis :  
 
-* [The FCC just killed net neutrality](https://www.theverge.com/2017/12/14/16776154/fcc-net-neutrality-vote-results-rules-repealed?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter)  
+* [The FCC just killed net neutrality](https://www.theverge.com/2017/12/14/16776154/fcc-net-neutrality-vote-results-rules-repealed)  
 * [L'Europe doit défendre la «neutralité du Net» par Par Benjamin Bayart](http://www.liberation.fr/debats/2017/12/14/l-europe-doit-defendre-la-neutralite-du-net_1616667)  
 * [Act now to save the internet as we know it by Sir Tim Berners Lee](https://medium.com/@timberners_lee/act-now-to-save-the-internet-as-we-know-it-ccf47ce8b39f)  
 * [22 États se lancent dans la bataille](https://www.numerama.com/politique/322082-neutralite-du-net-aux-usa-22-etats-se-lancent-dans-la-bataille.html)  
@@ -98,12 +98,12 @@ La FCC enterre la neutralité du net aux États-Unis :
 [Devoxx France du 18 au 20 avril 2018](https://www.devoxx.fr/)  
 [MixIT le 19-20 avril 2018 à Lyon](https://mixitconf.org)  
 [Riviera Dev les 16, 17 et 18 mai 2018 à Sophia Antipolis](http://rivieradev.fr/) - Le [CfP](http://rivieradev.fr/cfp) est ouvert.  
-[NCrafts les 18 et 19 mai 2018](http://ncrafts.io/) - Le [CfP](http://cfp.ncrafts.io/?utm_content=bufferc3f36&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#/login) est ouvert.  
+[NCrafts les 18 et 19 mai 2018](http://ncrafts.io/) - Le [CfP](http://cfp.ncrafts.io/#/login) est ouvert.  
 [Best Of Web les 7 et 8 juin 2018](http://bestofweb.paris/) - Le [CfP](https://checkout.eventlama.com/#/events/best-of-web-2018/cfp) est ouvert.  
 [DevFest Lille le 21 juin 2018](https://devfest.gdglille.org/) - Le [CfP](https://devfestlille.cfp.io/#/dashboard) est ouvert.  
 [Voxxed Luxembourg le 22 juin 2018](https://voxxeddays.com/luxembourg/) - Le [CfP](https://cfp-voxxed-lux.yajug.org/) est ouvert.  
 [Sunny Tech les 28 et 29 juin 2018](https://sunny-tech.io/) - Le [CfP](http://sunnytech.cfp.io/#/dashboard) est ouvert.  
-[Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda/blob/master/README.md?utm_content=buffer71621&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda/blob/master/README.md)  
 
 ## Nous contacter
 

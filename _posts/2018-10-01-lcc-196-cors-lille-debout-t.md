@@ -81,7 +81,7 @@ Voir aussi [Java project Loom](http://cr.openjdk.java.net/~rpressler/loom/Loom-P
 
 L'union Européenne adopte la directive sur le droit d'auteur :
 
-* [La directive de l’UE sur le droit d’auteur à l’heure du numérique est adoptée](https://www.lemonde.fr/pixels/article/2018/09/12/le-parlement-europeen-adopte-la-directive-sur-le-droit-d-auteur-a-l-heure-du-numerique_5354024_4408996.html?utm_campaign=Lehuit&utm_medium=Social&utm_source=Twitter)  
+* [La directive de l’UE sur le droit d’auteur à l’heure du numérique est adoptée](https://www.lemonde.fr/pixels/article/2018/09/12/le-parlement-europeen-adopte-la-directive-sur-le-droit-d-auteur-a-l-heure-du-numerique_5354024_4408996.html)  
 * [Droit d’auteur : préparer la défaite en célébrant la victoire du court-termisme](https://www.champeau.info/blog/2018/09/12/droit-dauteur-preparer-la-defaite-en-celebrant-la-victoire-du-court-termisme/)  
 * [Contre analyse de l'impact des articles 11 et 13 sur l'internet libre](https://www.laquadrature.net/fr/directive_auteur_calimaq)  
 

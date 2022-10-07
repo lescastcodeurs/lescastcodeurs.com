@@ -74,7 +74,7 @@ Vous pouvez ainsi créer de nouveaux leviers de croissance en <strong>exploitant
 [Homebrew et Mac OS X 11](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/El_Capitan_and_Homebrew.md#if-usrlocal-does-not-exist)  
 [Financer le développement d'Eclipse](https://mmilinkov.wordpress.com/2015/09/29/proposal-funding-eclipse-platform-development/)  
 [IZPack 5.0.4](http://news.izpack.org/2015/09/izpack-504-released.html), et la [5.0.5](http://news.izpack.org/2015/09/izpack-505-released.html)  
-[Jenkins 2.0](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/jenkinsci-dev/vbXK7JJekFw/BlEvO0UxBgAJ)  
+[Jenkins 2.0](https://groups.google.com/forum/#!msg/jenkinsci-dev/vbXK7JJekFw/BlEvO0UxBgAJ)  
 [Hashicorp release Otto et Nomad](http://www.infoq.com/news/2015/09/hashiconf-nomad-otto)  
 [Améliorer git diff en ligne de commande ](https://github.com/paulirish/dotfiles/commit/6743b907ff586c28cd36e08d1e1c634e2968893e#commitcomment-13349456)  
 [L'émulateur Android fait par Microsoft (qui a des meilleures perfs que l'officiel)](https://www.visualstudio.com/en-us/features/msft-android-emulator-vs.aspx)   

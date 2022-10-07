@@ -133,7 +133,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-246.mp3](https://traffic.
 * De son côté Apple estime que « Les utilisateurs doivent savoir quand leurs données sont collectées et partagées avec d’autres applications et sites web — et ils doivent avoir le choix de l’autoriser ou non. La transparence du suivi des applications dans iOS 14 n’oblige pas Facebook à modifier son approche du suivi des utilisateurs et de la création de publicités ciblées, elle exige simplement qu’il donne le choix aux utilisateurs ».
 * La bataille pourrait se poursuivre juridiquement car ce n'est pas la seule disposition prise par Apple qui pose problème aux annonceurs, il y a également la nouvelle mesure d'anti pistage d'iOS 14 qui prévoit de revoir les conditions d'accès à l’IDFA (« IDentifier For Advertisers »), un identifiant aléatoire attribué à chaque appareil, et qui a été retardée
 
-* [Mozilla a mis en ligne une pétition pour soutenir Apple](https://foundation.mozilla.org/fr/campaigns/apples-anti-tracking-plans-iphone/?subscribed=1&utm_source=email&utm_medium=email&utm_campaign=2020advocacy-fr&utm_content=appleidfathanks&utm_term=5383151)  
+* [Mozilla a mis en ligne une pétition pour soutenir Apple](https://foundation.mozilla.org/fr/campaigns/apples-anti-tracking-plans-iphone/?subscribed=1)  
 
 [L’OMC s’inquiète du protectionnisme numérique](https://www.lemonde.fr/economie/article/2020/11/23/l-omc-s-inquiete-du-protectionnisme-numerique_6060808_3234.html)  
 

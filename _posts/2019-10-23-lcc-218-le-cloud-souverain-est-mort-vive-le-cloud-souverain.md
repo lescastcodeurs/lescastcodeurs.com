@@ -118,7 +118,7 @@ Cloud souverain, épisode 2, le retour.
 Elections présidentielles américaines de 2020, réseaux sociaux et désinformation, on prend les mêmes et on recommence.
 
 * [Les règles de Facebook sont-elles les mêmes pour tout le monde ? Pas si vous êtes un politicien](https://www.lemonde.fr/pixels/article/2019/09/25/facebook-les-messages-de-politiciens-violant-ses-regles-resteront-tout-de-meme-en-ligne_6013018_4408996.html)  
-* [Après Facebook, YouTube clarifie les règles qui s’appliquent aux politiques](https://www.lemonde.fr/pixels/article/2019/09/27/apres-facebook-youtube-clarifie-les-regles-qui-s-appliquent-aux-politiciens_6013290_4408996.html?utm_medium=Social&utm_source=Twitter#Echobox=1569584773)  
+* [Après Facebook, YouTube clarifie les règles qui s’appliquent aux politiques](https://www.lemonde.fr/pixels/article/2019/09/27/apres-facebook-youtube-clarifie-les-regles-qui-s-appliquent-aux-politiciens_6013290_4408996.html#Echobox=1569584773)  
 
 Facebook et Google dans le viseur de la justice, et plus seulement européenne.  
 

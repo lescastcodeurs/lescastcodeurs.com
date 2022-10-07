@@ -66,11 +66,11 @@ Jigsaw: ça passe ou ça casse ?
 
 ### Organisation, communication et politique
 
-[Vivre sans retraite](https://hbr.org/2016/04/why-retirement-is-a-flawed-concept?utm_content=buffer98cd2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Vivre sans retraite](https://hbr.org/2016/04/why-retirement-is-a-flawed-concept)  
 [Slack un peu trop ouvert ?](https://labs.detectify.com/2016/04/28/slack-bot-token-leakage-exposing-business-critical-information/)  
 [Git Secret](https://github.com/awslabs/git-secrets)  
 
-[Agile est mort](https://www.linkedin.com/pulse/agile-dead-matthew-kern?utm_content=buffer2cab8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Agile est mort](https://www.linkedin.com/pulse/agile-dead-matthew-kern)  
 [Faut-il inviter Hitler à ta conf technique si il est le créateur d'Angular](http://degoes.net/articles/lambdaconf-inclusion)  
 
 [La fin d'Hadopi](http://www.nextinpact.com/news/99663-a-assemblee-nationale-quatre-deputes-votent-mort-hadopi-en-2022.htm)  

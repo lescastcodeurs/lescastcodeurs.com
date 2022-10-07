@@ -54,7 +54,7 @@ Comment mettre à jour des VMs de dev automatiquement ?
 
 ### Outils
 
-[Vagrant plugin pour IntelliJ IDEA](http://plugins.jetbrains.com/plugin/7379?pr=idea&utm_source=hootsuite&utm_campaign=hootsuite)  
+[Vagrant plugin pour IntelliJ IDEA](http://plugins.jetbrains.com/plugin/7379?pr=idea)  
 [TotalTerminal](http://totalterminal.binaryage.com)  
 [Tmux](http://tmux.sourceforge.net)  
 

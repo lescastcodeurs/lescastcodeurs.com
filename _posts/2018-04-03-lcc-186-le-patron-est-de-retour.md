@@ -120,7 +120,7 @@ Morgan Durand sur les logs
 [DevFest Lille le 21 juin 2018](https://devfest.gdglille.org/)
 [Voxxed Luxembourg le 22 juin 2018](https://voxxeddays.com/luxembourg/)  
 [Sunny Tech les 28 et 29 juin 2018](https://sunny-tech.io/)  
-[Jenkins User Conference le 28 juin 2018](https://juc-paris.jfrog.com/?utm_source=save_the_date_CFP&utm_medium=email&utm_campaign=JUC_FR) - Le [CfP](https://sessionize.com/JUC-France/) est ouvert jusqu'au 15 avril.   
+[Jenkins User Conference le 28 juin 2018](https://juc-paris.jfrog.com/) - Le [CfP](https://sessionize.com/JUC-France/) est ouvert jusqu'au 15 avril.   
 [Paris Web les 4, 5 et 6 octobre 2018](https://www.paris-web.fr/)  
 [Jenkins World Europe du 22 au 25 octobre 2018 à Nice](https://www.cloudbees.com/jenkinsworld/home) - Le [CfP](https://jenkinsworld2018cfp.hubb.me/) est ouvert jusqu'au 15 avril - Les [inscriptions](http://www.cvent.com/events/jenkins-world-europe-2018/event-summary-fb6af2c215b24322bb9fc64d0d0aae7a.aspx?RefID=cbsum) sont ouvertes (utilisez le code JWAHERITIER pour obtenir 20 % de réduction).  
 [DevFest Toulouse le 8 novembre 2018](https://devfesttoulouse.fr/)  

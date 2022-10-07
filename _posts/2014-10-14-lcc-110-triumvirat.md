@@ -40,7 +40,7 @@ Discutons sur le Google Group des cast codeurs.
 
 [Rust s'approche de la 1.0](http://blog.rust-lang.org/2014/09/15/Rust-1.0.html)  
 [Stéphane Epardaud sur Ceylon](http://2014.javazone.no/presentation.html?id=bab28836) à JavaZone  
-[Scala: je forke, tu forkes, nous forkons](http://www.infoq.com/news/2014/09/scala-compiler-forks?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global&utm_reader=feedly#.VBtMnWhJ9mx.twitter)  
+[Scala: je forke, tu forkes, nous forkons](http://www.infoq.com/news/2014/09/scala-compiler-forks)  
 [Golo 1.1](http://golo-lang.org/news/2014/09/22/golo-1.1.0/)  
 
 #### Algorithmique

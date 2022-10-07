@@ -81,7 +81,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-214.mp3](https://traffic.
 
 ### Web
 
-[Améliorer le temps de chargement de React](https://www.infoq.com/articles/reduce-react-load-time/?utm_source=twitter&utm_medium=link&utm_campaign=calendar)  
+[Améliorer le temps de chargement de React](https://www.infoq.com/articles/reduce-react-load-time/)  
 
 * résumé au début
 
@@ -142,7 +142,7 @@ Les diagrammes UML sous contrôle de source via PlantUML [article 1](https://tec
 * poursuite engagées semblent être motivées à but économique et cibles choisies
 * les lois extra territoriales ont permis des réductions de contrats avec corruption
 
-[Boeing’s 737 Max Software Outsourced to $9-an-Hour Engineers](https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers?utm_medium=social&cmpid=socialflow-twitter-business&utm_content=business&utm_source=twitter&utm_campaign=socialflow-organic)  
+[Boeing’s 737 Max Software Outsourced to $9-an-Hour Engineers](https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers)  
 
 [Libra : tout ce qu’il faut savoir sur la future cryptomonnaie propulsée par Facebook, Iliad, PayPal, Uber…](https://www.numerama.com/business/523272-la-cryptomonnaie-de-facebook-ce-que-lon-sait.html)  
 

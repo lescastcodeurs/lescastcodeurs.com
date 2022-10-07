@@ -51,7 +51,7 @@ Les JEP pour Java 10+ :
 
 [Docker rachète Infinit](http://dockr.ly/2hdX2Jk)  
 [Retour (naif) sur Docker](http://racknole.com/blog/running-docker-in-production-for-6-months/)  
-[Retour moins naif sur Docker](https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/?utm_content=buffer4b43e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer/) 
+[Retour moins naif sur Docker](https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/) 
 
 [La mémoire des process expliques aux enfants](http://jvns.ca/blog/2016/12/03/how-much-memory-is-my-process-using-/) 
 
@@ -78,7 +78,7 @@ AWS a fait sa grand-messe (quelqu'un a suivi d'un peu plus près que moi ?) Snow
 ### Méthodologie et politique
 
 [Financer un projet open source](https://sideway.com/room/8j)  
-[Palantir et La DGSI](http://france-revolution-investigative-reporter.over-blog.com/2016/11/la-dgsi-signe-avec-palantir-societe-liee-a-la-nsa.html?utm_source=_ob_share&utm_medium=_ob_twitter&utm_campaign=_ob_sharebar)  
+[Palantir et La DGSI](http://france-revolution-investigative-reporter.over-blog.com/2016/11/la-dgsi-signe-avec-palantir-societe-liee-a-la-nsa.html)  
 [le Trump's Tech Summit de mercredi](http://www.recode.net/2016/12/10/13908492/trump-tech-summit-tim-cook-apple-larry-page-google-sheryl-sandberg-facebook-nadella-microsoft) 
 
 ### Divers

@@ -47,7 +47,7 @@ Spring Boot 1.1
 
 [Google's Web Starter Kit by @addyosmani](https://t.co/SJF0ZFIxrR)  
 [Redisson - driver asynchrone pour Redis](https://github.com/mrniko/redisson)  
-[Facebook lance Apollo](http://www.infoq.com/news/2014/06/facebook-apollo?utm_source=infoq&utm_medium=popular_links_homepage)  
+[Facebook lance Apollo](http://www.infoq.com/news/2014/06/facebook-apollo)  
 
 ### Débats
 

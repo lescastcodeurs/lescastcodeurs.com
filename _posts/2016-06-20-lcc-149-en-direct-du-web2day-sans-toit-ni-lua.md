@@ -149,7 +149,7 @@ On gère ta donnée avec nos applis proprios ; et tu fais ton petit code
 [Google gagne contre Oracle sur le fair use des API](http://bloom.bg/1TZfltp)  
 [La copie des API à travers le temps](https://twitter.com/joshbloch/status/736258939990495234)  
 
-[Les interruptions](http://letempsreconquis.fr/temps-moyen-entre-interruptions-les-chiffres/?utm_content=buffer3a7f2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Les interruptions](http://letempsreconquis.fr/temps-moyen-entre-interruptions-les-chiffres/)  
 
 ## La rubrique du débutant
 

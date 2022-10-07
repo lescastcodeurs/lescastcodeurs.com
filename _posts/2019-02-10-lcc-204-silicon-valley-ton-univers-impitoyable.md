@@ -67,7 +67,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-204.mp3](https://traffic.
 [Spring Framework's Migration from Jira to GitHub Issues](https://spring.io/blog/2019/01/15/spring-framework-s-migration-from-jira-to-github-issues)  
 [Spring Boot in Visual Studio Code](https://code.visualstudio.com/docs/java/java-spring-boot)  
 [Travis CI joins the Idera family](https://blog.travis-ci.com/2019-01-23-travis-ci-joins-idera-inc)  
-[Jenkins crée et rejoint la Continuous Delivery Foundation au sein de la Linux Foundation](https://groups.google.com/forum/m/?utm_medium=email&utm_source=footer#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)   
+[Jenkins crée et rejoint la Continuous Delivery Foundation au sein de la Linux Foundation](https://groups.google.com/forum/m/#!msg/jenkinsci-dev/1w57jl3K4S4/OFDYSEfXEwAJ)   
 [GitLab 11.7](https://about.gitlab.com/2019/01/22/gitlab-11-7-released/)  
 [Gradle 5.2](https://docs.gradle.org/5.2/release-notes.html)  
 

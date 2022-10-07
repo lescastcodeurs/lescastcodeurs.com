@@ -47,7 +47,7 @@ Discussion sur les Devoxx
 
 ### Données
 
-[Bolt le protocole binaire de Neo4j](https://dzone.com/articles/introducing-bolt-neo4js-upcoming-binary-protocol-p?utm_content=bufferda4f9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Bolt le protocole binaire de Neo4j](https://dzone.com/articles/introducing-bolt-neo4js-upcoming-binary-protocol-p)  
 [Google TensorFlow: j'ai rien compris plus rapide que l'éclair](http://googleresearch.blogspot.fr/2015/11/tensorflow-googles-latest-machine_9.html)  
 [MongoDB 3.2, avec left outer join](http://www.infoq.com/news/2015/11/MongoDB-3.2-Enterprise-Ready)  
 
@@ -64,7 +64,7 @@ Discussion sur les Devoxx
 
 [La CNIL épingle la mauvaise sécurité](http://www.zdnet.fr/actualites/donnees-personnelles-optical-center-sanctionne-par-la-cnil-39828236.htm)  
 [Les extensions Chrome qui débloquent (la pub)](http://labs.detectify.com/post/133528218381/chrome-extensions-aka-total-absence-of-privacy)  
-[Encryption dans Azure](http://blogs.msdn.com/b/azuresecurity/archive/2015/11/16/azure-disk-encryption-for-linux-and-windows-virtual-machines-public-preview.aspx?utm_content=bufferaeeeb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Encryption dans Azure](http://blogs.msdn.com/b/azuresecurity/archive/2015/11/16/azure-disk-encryption-for-linux-and-windows-virtual-machines-public-preview.aspx)  
 [La vulnérabilité de commons logging et les produits JBoss](https://access.redhat.com/solutions/2045023) et [WildFly](http://lists.jboss.org/pipermail/wildfly-dev/2015-November/004581.html)  
 
 ## Débat

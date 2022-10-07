@@ -59,7 +59,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-234.mp3](https://traffic.
 
 ### Outillage
 
-[GitHub CLI 0.8](https://github.blog/changelog/2020-05-11-github-cli-allows-you-to-close-reopen-and-add-metadata-to-issues-and-pull-requests/?utm_campaign=1589224007&utm_medium=social&utm_source=facebook,linkedin,twitter&utm_content=1589224007) 
+[GitHub CLI 0.8](https://github.blog/changelog/2020-05-11-github-cli-allows-you-to-close-reopen-and-add-metadata-to-issues-and-pull-requests/) 
 
 ### Méthodologies
 

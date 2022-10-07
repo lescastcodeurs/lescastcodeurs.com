@@ -112,7 +112,7 @@ cibles Java web start, Java applets, web services qui utilisent ECDSA (JWT, SAML
 
 ### Loi, société et organisation
 
-[Apple va supprimer au téléchargements les applis non mises a jour depuis 3 ans et peu téléchargées](https://www.macrumors.com/2022/04/29/apple-outdated-apps-extension/?utm_source=feedly&utm_medium=webfeeds)
+[Apple va supprimer au téléchargements les applis non mises a jour depuis 3 ans et peu téléchargées](https://www.macrumors.com/2022/04/29/apple-outdated-apps-extension/)
 
 * ça a fait réagir et râler
 * Des applis finies

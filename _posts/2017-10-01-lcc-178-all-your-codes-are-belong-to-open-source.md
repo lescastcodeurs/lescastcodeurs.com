@@ -56,7 +56,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-178.mp3](http://traffic.l
 
 [Pourquoi j'ai choisi vue.js vs react ou Angular 2](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)  
 
-[Polymer 3.0 arrive](https://www.polymer-project.org/blog/2017-08-22-npm-modules?utm_content=buffer679aa&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Polymer 3.0 arrive](https://www.polymer-project.org/blog/2017-08-22-npm-modules)  
 * [Les vidéos du Polymer Summit](https://summit.polymer-project.org/)  
 
 [Ionic passe aux Web Components](http://blog.ionic.io/the-end-of-framework-churn/)  

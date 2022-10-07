@@ -50,7 +50,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-128.mp3](http://traffic.l
 
 ###  Cloud
 
-[OpenShift v3 en dédié](https://blog.openshift.com/introducing-openshift-dedicated-new-openshift-online-solution-powered-openshift-3/?utm_content=buffer86661&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[OpenShift v3 en dédié](https://blog.openshift.com/introducing-openshift-dedicated-new-openshift-online-solution-powered-openshift-3/)  
 [AWS Lambda en Java aussi maintenant](https://aws.amazon.com/fr/blogs/aws/aws-lambda-update-run-java-code-in-response-to-events/)  
 
 ###  Outillage

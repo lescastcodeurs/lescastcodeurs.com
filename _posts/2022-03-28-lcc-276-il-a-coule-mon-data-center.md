@@ -172,7 +172,7 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-276.mp3](https://traffi
 
 [Alert: peacenotwar module sabotages npm developers in the node-ipc package to protest the invasion of Ukraine](https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/)
 
-[Un développeur sabote son projet open source et paralyse des milliers d’applications](https://www.numerama.com/cyberguerre/813825-un-developpeur-sabote-son-projet-open-source-et-paralyse-des-milliers-dapplications.html#utm_medium=e-mail&utm_source=newsletter_hebdo&utm_campaign=20220115_global)
+[Un développeur sabote son projet open source et paralyse des milliers d’applications](https://www.numerama.com/cyberguerre/813825-un-developpeur-sabote-son-projet-open-source-et-paralyse-des-milliers-dapplications.html)
 
 [Violation de RGPD par utilisation de Google fonts](https://news.ycombinator.com/item?id=30135264)
 

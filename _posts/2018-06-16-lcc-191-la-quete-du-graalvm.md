@@ -120,7 +120,7 @@ Pour un débutant qu'est-ce :
 [DevFest Lille le 21 juin 2018](https://devfest.gdglille.org/)  
 [Voxxed Luxembourg le 22 juin 2018](https://voxxeddays.com/luxembourg/)  
 [Sunny Tech les 28 et 29 juin 2018](https://sunny-tech.io/)  
-[Jenkins User Conference le 28 juin 2018](https://juc-paris.jfrog.com/?utm_source=save_the_date_CFP&utm_medium=email&utm_campaign=JUC_FR)  
+[Jenkins User Conference le 28 juin 2018](https://juc-paris.jfrog.com/)  
 [Jug Summer Camp le 14 septembre 2018](http://www.jugsummercamp.org/edition/9) - Le [CfP](http://www.jugsummercamp.org/edition/9/cfp/new) est ouvert.    
 [Paris Web les 4, 5 et 6 octobre 2018](https://www.paris-web.fr/)  
 [DevFest Nantes les 18 et 19 octobre 2018](https://devfest.gdgnantes.com/) - Le [CfP](https://cfp.gdgnantes.com/public/event/inzOQDR94h4bAaOVd7Db) est ouvert.  

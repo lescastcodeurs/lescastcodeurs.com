@@ -50,7 +50,7 @@ Les actions des grosses boites
 * Écrire en scala des applications front
 * interop avec les libraries JavaScript
 
-[GraalVM se dote d'un advisory board](https://jaxenter.com/graalvm-project-advisory-board-168885.html?utm_source=twitter&utm_medium=social&utm_campaign=1week)
+[GraalVM se dote d'un advisory board](https://jaxenter.com/graalvm-project-advisory-board-168885.html)
 
 * Gluon, Red Hat, Amazon, Microdoc, Shopify, Twitter, OCI, Neo4J, Pivotal, ARM et Oracle bien sûr
 
@@ -204,7 +204,7 @@ Dans Sonarqube cela s'appelle Cognitive Complexity. Voici un exemple sur du code
 
 * payés par Google
 
-OPTIONNEL [Les hackers de Equifax condamnés pour crime](https://www.infoq.com/news/2020/02/equifax-charges/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=java)  
+OPTIONNEL [Les hackers de Equifax condamnés pour crime](https://www.infoq.com/news/2020/02/equifax-charges/)  
 
 * DOJ charge 4 militaires Chinois
 * Struts CVE

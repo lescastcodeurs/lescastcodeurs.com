@@ -93,7 +93,7 @@ Mozilla Developer Network (MDN) lance un Product Advisory Board, Microsoft et Go
 ### Loi, société et organisation
 
 [Annulation de l'obligation de déclarer tous ses identifiants en ligne](http://www.numerama.com/politique/296025-inutile-inconstitutionnelle-lavenir-incertain-de-lobligation-de-declarer-tous-ses-identifiants-en-ligne.html)  
-[Bruxelles est contre les backdoors... mais invite les États à partager leur savoir-faire en déchiffrement](http://www.numerama.com/politique/299000-bruxelles-est-contre-les-backdoors-mais-invite-les-etats-a-partager-leur-savoir-faire-en-dechiffrement.html?utm_content=buffer785ea&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Bruxelles est contre les backdoors... mais invite les États à partager leur savoir-faire en déchiffrement](http://www.numerama.com/politique/299000-bruxelles-est-contre-les-backdoors-mais-invite-les-etats-a-partager-leur-savoir-faire-en-dechiffrement.html)  
 [Rémi Mathis quitte Wikimédia France](https://medium.com/@mathis.remi/la-toxicit%C3%A9-violence-sexisme-dune-partie-de-la-communaut%C3%A9-ne-me-permet-pas-de-rester-%C3%A0-wikim-38d6e1b71a73)  
 
 [Uber Movement veut séduire Paris grâce à son trésor de données sur la circulation](http://www.numerama.com/tech/299294-uber-movement-veut-seduire-la-ville-paris-grace-a-son-tresor-de-donnees-sur-la-circulation.html)  

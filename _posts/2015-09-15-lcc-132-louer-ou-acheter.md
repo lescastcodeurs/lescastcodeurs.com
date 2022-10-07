@@ -58,7 +58,7 @@ Mini débat sur les modèles économiques du numérique, du temps libre et de l'
 ###  Divers
 
 [Emoji dans ton mot de passe](https://medium.com/@hvost/why-you-should-not-use-emojis-in-your-passwords-b8db0607e169)  
-[Gradle est fini, vive bazel !](https://www.pgrs.net/2015/09/01/migrating-from-gradle-to-bazel/?utm_content=buffer4053f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Gradle est fini, vive bazel !](https://www.pgrs.net/2015/09/01/migrating-from-gradle-to-bazel/)  
 [L'origine des mots bug, robot, cloud, etc](http://www.stuff.co.nz/technology/digital-living/70125907/where-tech-terms-like-bug-robot-and-cloud-originally-came-from)  
 [Moyen mnémotechnique pour se rappeler tar -xzf vs -czf](https://twitter.com/_tessr/status/626076327133577216)  
 [Comparaison de polices monospace pour la programmation](http://s9w.github.io/font_compare/)  

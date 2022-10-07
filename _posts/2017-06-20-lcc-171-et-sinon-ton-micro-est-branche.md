@@ -41,7 +41,7 @@ Java 9 et Jigsaw, Mark Reinhold tient toujours la barre du navire... le titanic 
 
 ### Google I/O
 
-[All 101 announcements from Google I/O ‘17](https://blog.google/topics/developers/all-io17-announcements/?utm_content=buffer28b72&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[All 101 announcements from Google I/O ‘17](https://blog.google/topics/developers/all-io17-announcements/)  
 [Google Cloud TPUs](https://blog.google/topics/google-cloud/google-cloud-offer-tpus-machine-learning/)  
 [Tensor Flow Research Cloud](https://research.googleblog.com/2017/05/introducing-tensorflow-research-cloud.html)  
 [AutoML](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)  
@@ -58,7 +58,7 @@ Java 9 et Jigsaw, Mark Reinhold tient toujours la barre du navire... le titanic 
 
 ### Outillage
 
-[GitHub lance sa marketplace + une nouvelle API GraphQL](https://github.com/marketplace?utm_source=announcement&utm_medium=email&utm_campaign=ww-mktplace-20170522&utm_content=users)  
+[GitHub lance sa marketplace + une nouvelle API GraphQL](https://github.com/marketplace)  
 [Certbot](https://certbot.eff.org/) Un "bot" pour automatiquement passer en HTTPS vos sites avec Let's encrypt  
 [Java Stream Debugger Plugin](https://plugins.jetbrains.com/plugin/9696-java-stream-debugger?platform=hootsuite) Un plugin pour debugger vos streams dans Intellij Idea.
 

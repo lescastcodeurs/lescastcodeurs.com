@@ -65,7 +65,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-232.mp3](https://traffic.
 
 * si on downgrade sur le gratuit, on perd quoi https://help.github.com/en/github/getting-started-with-github/faq-about-changes-to-githubs-plans#if-i-downgrade-from-github-team-or-a-legacy-plan-to-github-free-what-features-will-i-lose
 
-[Récap des annonces GitHub Satellite 2020](https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/?utm_campaign=1588779509&utm_medium=social&utm_source=facebook,linkedin,twitter&utm_content=1588779509)  
+[Récap des annonces GitHub Satellite 2020](https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/)  
 
 [Spock 2.0 vs JUnit 5.0](https://blog.solidsoft.pl/2020/04/15/spock-vs-junit-5-the-ultimate-feature-comparison/)  
 

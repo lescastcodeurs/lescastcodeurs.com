@@ -82,7 +82,7 @@ Ce projet propose un moteur de rendu au sein d'Eclipse ainsi qu'un environnement
 
 ### Politique
 
-[SourceForge, GIMP et le pattern de délégation](http://libregraphicsworld.org/blog/entry/anatomy-of-sourceforge-gimp-controversy?utm_content=buffer7a48c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[SourceForge, GIMP et le pattern de délégation](http://libregraphicsworld.org/blog/entry/anatomy-of-sourceforge-gimp-controversy)  
 [Bintray](https://bintray.com/)  
 [Loi renseignement et le conseil constitutionnel](http://www.nextinpact.com/news/95259-le-c%C5%93ur-loi-renseignement-deja-aux-portes-conseil-constitutionnel.htm)  
 [La Maison Blanche pour le droit d'auteur sur les APIs](http://sdtimes.com/white-house-sides-with-oracle-in-api-copyright-case/)  
