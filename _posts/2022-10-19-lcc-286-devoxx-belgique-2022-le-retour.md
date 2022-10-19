@@ -8,7 +8,7 @@ mp3_length: 35844169
 tweet: Devoxx Belgique 2022, le retour! #devoxx
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Antonio, Guillaume et Emmanuel donnent leur retours sur les thèmes marquants de Devoxx Belgique 2022, puis ils font quelques micro trottoirs lors de la conférence.
+Antonio, Guillaume et Emmanuel donnent leurs retours sur les thèmes marquants de Devoxx Belgique 2022, puis ils font quelques micro trottoirs lors de la conférence.
 Si vous hésitez sur quelle conférence regarder sur Youtube, écoutez cet épisode.
 
 Enregistré le 18 octobre 2022
