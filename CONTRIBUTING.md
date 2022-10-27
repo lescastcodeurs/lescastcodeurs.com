@@ -115,9 +115,17 @@ Il ne reste plus qu’à tester que le site fonctionne bien puis commiter le tou
 5. Cliquer sur le bouton _SRI_ (_Enable Subresource Integrity check for increased security_).
 6. Reportez le lien (`href`) et le hash (`integrity`) indiqué sur jsDelivr dans le fichier [_config.yml](/_config.yml) (propriété `dependencies`).
 
+### Mise à jour de Ruby
+
+1. Mettre à jour le paragraphe _Pré-requis_ de ce guide de contribution,
+2. Mettre à jour la tâche `Setup ruby` dans le [workflow de déploiement](/.github/workflows/deploy.yml).
+
+Les versions de Ruby utilisables [dépendent de Jekyll](https://jekyllrb.com/docs/). On utilisera a minima une version
+[encore maintenue](https://www.ruby-lang.org/en/downloads/branches/).
+
 ### Suivi des mises à jour
 
-Que ce soit en grande partie automatique (pour Jekyll, avec [Bundler](https://bundler.io/)) ou manuel (pour Bootstrap ou simple-jekyll-search) pour mettre à
+Que ce soit en grande partie automatique (pour Jekyll, avec [Bundler](https://bundler.io/)) ou manuel (pour Ruby, Bootstrap, Bootstrap Icons ou simple-jekyll-search) pour mettre à
 jour les dépendances utilisées par ce site, il faut déjà que vous soyez au courant que ces mises à jour existent. Pour cela plusieurs moyens :
 
 - suivre les blogs des projets ([Jekyll](https://jekyllrb.com/news/), [Bootstrap](https://blog.getbootstrap.com/), [Bootstrap Icons](https://blog.getbootstrap.com/)),
