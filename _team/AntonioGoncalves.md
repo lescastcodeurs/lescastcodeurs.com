@@ -8,13 +8,14 @@ twitter: agoncal
 Ingénieur du Cnam, Antonio a découvert Java en 1998 avant de rentrer chez BEA Systems. Là il se spécialise sur la 
 plateforme enterprise de Java, les serveurs d’applications en général (Weblogic, JBoss...) et les systèmes distribués (SOAP, REST, Microservices). Après des années de conseil en architecture et de developpement dans tout type d’entreprises (grands comptes, startup...), Antonio intègre Microsoft comme Principal Software Engineer pour Azure.
 
-En 2007 Antonio publie un livre sur [Java EE 5][javaee5] aux éditions Eyrolles. Il rentre dans le [JCP][jcp] en tant que membre expert sur 
-[Java EE 6][javaee6], [EJB 3.1][ejb31] et [JPA 2.0][jpa20]. En juin 2009 il publie un livre sur [Java EE 6][book] aux éditions Apress puis [Java EE 7][book]. Il décide ensuite d'autopublier des livres sur [Bean Validation][auto], [JPA][auto] et [Quarkus][auto].
+En 2007 Antonio publie un livre sur [Java EE 5][javaee5book] aux éditions Eyrolles. Il rentre dans le [JCP][jcp] en tant que membre expert sur 
+[Java EE 6][javaee6], [EJB 3.1][ejb31] et [JPA 2.0][jpa20]. En juin 2009 il publie un livre sur [Java EE 6][javaee6book] aux éditions Apress puis [Java EE 7][javaee7book]. Il décide ensuite d'autopublier des livres sur [Bean Validation][auto], [JPA][auto] et [Quarkus][auto].
 
-En février 2008 Antonio créé le [Paris JUG][parisjug], puis [Devoxx France][devoxx] et [Voxxed Microservices](voxxed). Il parle régulièrement à des [conférences internationales][confs] sur des sujets liés à Java, aux architectures distribuées, au Cloud.
+En février 2008 Antonio créé le [Paris JUG][parisjug], puis [Devoxx France][devoxx] et [Voxxed Microservices][voxxed]. Il parle régulièrement à des [conférences internationales][confs] sur des sujets liés à Java, aux architectures distribuées, au Cloud.
  
-[javaee5]: https://antoniogoncalves.org/2007/06/01/java-ee-5-book/
-[book]: https://antoniogoncalves.org/2009/02/13/java-ee-6-book/
+[javaee5book]: https://antoniogoncalves.org/2007/06/01/java-ee-5-book/
+[javaee6book]: https://antoniogoncalves.org/2009/02/13/java-ee-6-book/
+[javaee7book]: https://antoniogoncalves.org/2013/05/29/beginning-java-ee-7-book-arriving-soon/
 [jcp]: https://www.jcp.org
 [javaee6]: https://www.jcp.org/en/jsr/detail?id=316
 [ejb31]: https://www.jcp.org/en/jsr/detail?id=317
