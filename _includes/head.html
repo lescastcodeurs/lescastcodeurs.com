@@ -4,14 +4,13 @@
 
   {% seo %}
 
-  {% for css in site.dependencies.css %}
-  <link rel="stylesheet" href="{{ css.href }}" integrity="{{ css.integrity }}" crossorigin="anonymous">
-  {% endfor %}
+  <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/bootstrap-icons.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
   <link type="application/atom+xml" rel="alternate" href="/feed.atom" title="{{ site.title | escape }}" />
 
-  {% for script in site.dependencies.scripts %}
-  <script src="{{ script.src }}" integrity="{{ script.integrity }}" crossorigin="anonymous"></script>
-  {% endfor %}
+  <script src="{{ '/assets/js/jquery.slim.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/simple-jekyll-search.min.js' | relative_url }}"></script>
 </head>

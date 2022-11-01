@@ -1,6 +1,33 @@
-#!/bin/sh
+#!/usr/bin/env bash
+
+JS_DIR='assets/js'
+CSS_DIR='assets/css'
 
 set -e
 
+echo "Déplacement dans le répertoire racine du dépôt"
+cd "$(dirname "${BASH_SOURCE[0]}")/.."
+
+echo "Mise à jour de Jekyll et de ses dépendances"
 bundle update
 bundle outdated --only-explicit
+echo
+
+echo "Mise à jour de Bootstrap..."
+bootstrapVersion=$(curl -s 'https://data.jsdelivr.com/v1/package/npm/bootstrap' | jq -r '.tags."latest-4"')
+echo -e "Using bootstrap ${bootstrapVersion}\n"
+curl -so "$JS_DIR/jquery.slim.min.js" 'https://code.jquery.com/jquery-3.5.1.slim.min.js'
+curl -so "$JS_DIR/bootstrap.bundle.min.js" "https://cdn.jsdelivr.net/npm/bootstrap@${bootstrapVersion}/dist/js/bootstrap.bundle.min.js"
+curl -so "$CSS_DIR/bootstrap.min.css" "https://cdn.jsdelivr.net/npm/bootstrap@${bootstrapVersion}/dist/css/bootstrap.min.css"
+
+echo "Mise à jour de Bootstrap Icons..."
+bootstrapIconsVersion=$(curl -s 'https://data.jsdelivr.com/v1/package/npm/bootstrap-icons' | jq -r '.tags.latest')
+echo -e "Using bootstrap-icons ${bootstrapIconsVersion}\n"
+curl -so "$CSS_DIR/bootstrap-icons.css" "https://cdn.jsdelivr.net/npm/bootstrap-icons@${bootstrapIconsVersion}/font/bootstrap-icons.css"
+curl -so "$CSS_DIR/fonts/bootstrap-icons.woff" "https://cdn.jsdelivr.net/npm/bootstrap-icons@${bootstrapIconsVersion}/font/fonts/bootstrap-icons.woff"
+curl -so "$CSS_DIR/fonts/bootstrap-icons.woff2" "https://cdn.jsdelivr.net/npm/bootstrap-icons@${bootstrapIconsVersion}/font/fonts/bootstrap-icons.woff2"
+
+echo "Mise à jour de Simple-Jekyll-Search..."
+simpleJekyllSearchVersion=$(curl -s 'https://data.jsdelivr.com/v1/package/npm/simple-jekyll-search' | jq -r '.tags.latest')
+echo -e "Using simple-jekyll-search ${simpleJekyllSearchVersion}\n"
+curl -so "$JS_DIR/simple-jekyll-search.min.js" "https://cdn.jsdelivr.net/npm/simple-jekyll-search@${simpleJekyllSearchVersion}/dest/simple-jekyll-search.min.js"

@@ -88,34 +88,39 @@ Il est aussi possible de lancer manuellement la publication du site :
 Le script `bin/deploy` utilise les variables `DEPLOY_*` si elles sont définies. Si elles ne le sont pas des valeurs par défaut sont utilisées (cf.
 [bin/deploy](/bin/deploy)).
 
-### Mise à jour de Jekyll et de ses dépendances
+### Mise à jour des dépendances
 
-Exécuter tout d’abord :
+La mise à jour de l'ensemble des dépendances du site passe par le script `update-dependencies`. Pour l'utiliser,
+exécuter :
 
     ./bin/update-dependencies
 
-Cette commande applique les mises à jour correctives et liste les dépendances directes pour lesquelles une nouvelle version mineure ou majeure est disponible.
+Une fois cela fait il ne reste plus qu’à tester que le site fonctionne bien puis commiter le tout, généralement en
+séparant le type de mise à jour (Jekyll, Bootstrap...).
 
-Les mises à jour mineures ou majeures doivent être réalisée à la main en modifiant le [Gemfile](/Gemfile). Une fois ces mises à jour terminées pensez à relancer
-`./update-dependencies` pour mettre à jour le [Gemfile.lock](/Gemfile.lock).
+Quelques petites choses doivent de plus être connus en fonction du type de dépendances.
 
-Il ne reste plus qu’à tester que le site fonctionne bien puis commiter le tout.
+#### Paquets Ruby
 
-### Mise à jour de Bootstrap, Bootstrap Icons, JQuery, et Simple-Jekyll-Search
+Les dépendances Ruby sont décrites dans le fichier [Gemfile](/Gemfile). Le script `update-dependencies` met à jour les
+paquets en fonction de ce fichier.
 
-1. Allez sur [jsDelivr](https://www.jsdelivr.com/) à l’aide de l’un de ces liens :
-   - [bootstrap.min.css](https://www.jsdelivr.com/package/npm/bootstrap?path=dist%2Fcss),
-   - [bootstrap.bundle.min.js](https://www.jsdelivr.com/package/npm/bootstrap?path=dist%2Fjs),
-   - [jquery.slim.min.js](https://www.jsdelivr.com/package/npm/jquery?path=dist) (la version à utiliser dépend de la version de Boostrap),
-   - [bootstrap-icons.css](https://www.jsdelivr.com/package/npm/bootstrap-icons?path=font),
-   - [simple-jekyll-search.min.js](https://www.jsdelivr.com/package/npm/simple-jekyll-search))
-2. Sélectionner la version souhaitée.
-3. Ajoutez le fichier à mettre à jour à votre collection.
-4. Cliquer sur le bouton _SHOW & CONFIGURE ALL LINKS_.
-5. Cliquer sur le bouton _SRI_ (_Enable Subresource Integrity check for increased security_).
-6. Reportez le lien (`href`) et le hash (`integrity`) indiqué sur jsDelivr dans le fichier [_config.yml](/_config.yml) (propriété `dependencies`).
+Généralement les mises à jour majeures doivent être appliquées à la main en modifiant le [Gemfile](/Gemfile). Une fois
+ces mises à jour terminées pensez à relancer `update-dependencies` pour mettre à jour le [Gemfile.lock](/Gemfile.lock).
 
-### Mise à jour de Ruby
+#### CSS et JS
+
+Les dépendances CSS et JS sont hébergées [dans le répertoire `assets`](/assets) pour des problématiques liées à la RGPD
+(cf. [#95](https://github.com/lescastcodeurs/lescastcodeurs.com/issues/95)). Le script `update-dependencies` met à jour
+ces dépendances en fonction [d'informations renseignées dans le script lui-même](/bin/update-dependencies).
+
+Généralement toutes les mises à jour se font automatiquement, à l'exception des mises à jour pouvant nuire au
+fonctionnement du site (Bootstrap). Ces mises à jour doivent être appliquées à la main en modifiant
+[le script `update-dependencies`](/bin/update-dependencies).
+
+#### Ruby
+
+La version de Ruby recommandée et utilisée pour construire le site doit être mise à jour entièrement à la main :
 
 1. Mettre à jour le paragraphe _Pré-requis_ de ce guide de contribution,
 2. Mettre à jour la tâche `Setup ruby` dans le [workflow de déploiement](/.github/workflows/deploy.yml).
@@ -123,16 +128,20 @@ Il ne reste plus qu’à tester que le site fonctionne bien puis commiter le tou
 Les versions de Ruby utilisables [dépendent de Jekyll](https://jekyllrb.com/docs/). On utilisera a minima une version
 [encore maintenue](https://www.ruby-lang.org/en/downloads/branches/).
 
-### Suivi des mises à jour
+#### Suivi des mises à jour
 
-Que ce soit en grande partie automatique (pour Jekyll, avec [Bundler](https://bundler.io/)) ou manuel (pour Ruby, Bootstrap, Bootstrap Icons ou simple-jekyll-search) pour mettre à
-jour les dépendances utilisées par ce site, il faut déjà que vous soyez au courant que ces mises à jour existent. Pour cela plusieurs moyens :
+Que la mise à jour soit en grande partie automatique ou manuelle, pour appliquer les mises à jour il faut déjà que vous
+soyez au courant qu'elles existent. Pour cela plusieurs moyens :
 
-- suivre les blogs des projets ([Jekyll](https://jekyllrb.com/news/), [Bootstrap](https://blog.getbootstrap.com/), [Bootstrap Icons](https://blog.getbootstrap.com/)),
-- suivre les pages [GitHub](https://github.com) des projets ([Jekyll](https://github.com/jekyll/jekyll), [Bootstrap](https://github.com/twbs/bootstrap),
-  [Bootstrap Icons](https://github.com/twbs/icons), [simple-jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)),
-- ou, plus simplement, utiliser [librairies.io](https://libraries.io/) ([Jekyll](https://libraries.io/rubygems/jekyll), [Bootstrap](https://libraries.io/npm/bootstrap),
-  [Bootstrap Icons](https://libraries.io/npm/bootstrap-icons), [simple-jekyll-search](https://libraries.io/npm/simple-jekyll-search)).
+- suivre les blogs des projets ([Jekyll](https://jekyllrb.com/news/),
+  [Bootstrap](https://blog.getbootstrap.com/), [Bootstrap Icons](https://blog.getbootstrap.com/),
+  [Ruby](https://www.ruby-lang.org/fr/news/)...),
+- suivre les pages [GitHub](https://github.com) des projets ([Jekyll](https://github.com/jekyll/jekyll),
+  [Bootstrap](https://github.com/twbs/bootstrap), [Bootstrap Icons](https://github.com/twbs/icons),
+  [simple-jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search)...),
+- ou, plus simplement, utiliser [newreleases.io](https://newreleases.io/) ([Jekyll](https://newreleases.io/gems/jekyll),
+  [Bootstrap](https://newreleases.io/npm/bootstrap), [Bootstrap Icons](https://newreleases.io/npm/bootstrap-icons),
+  [simple-jekyll-search](https://newreleases.io/npm/simple-jekyll-search)...).
 
 ### Ajouter un membre à l’équipe
 
