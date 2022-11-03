@@ -5,7 +5,7 @@ team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, A
 layout: blog-post
 episode: 273
 mp3_length: 32403198
-tweet: TODO
+tweet: Interview le darwinisme numérique avec @didiergirard - partie 2
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 

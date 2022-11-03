@@ -4,7 +4,7 @@ author: 'Emmanuel Bernard'
 layout: blog-post
 episode: 254
 mp3_length: 57828811
-tweet: TODO
+tweet: Fission acquisition #java16 #openjdk #jhipster #jreleaser #api #vmware
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Arnaud et Emmanuel discutent la sortie de Java 16, diverses distributions d’OpenJDK, des outils comme JHipster, JReleaser, la décision de la court suprême dans le procès des API Java entre Google et Oracle et le refactoring de Michael Dell avec la cession de VMWare.
