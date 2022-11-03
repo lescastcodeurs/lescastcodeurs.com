@@ -5,7 +5,7 @@ team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, A
 layout: blog-post
 episode: 287
 mp3_length: 46720065
-tweet: TODO
+tweet: Celui que @agoncal avait oublié!
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Arnaud et Guillaume reviennent sur les news de ce mois avec évidement la sortie de Java 19 mais aussi GraalVM, Puppet (toujours vivant), Docker Compose et Desktop, VirtualBox, WASMTime et d'autres sujets plus orientés méthodologie comme la réalisation de Sketchnotes, les DO / DONT pour faire des messages d'erreurs dans les UIs ou encore quelques pratiques de management chez Google.
@@ -59,15 +59,16 @@ Spring Boot 3.0.0 RC1 is out
 ### Infrastructure
 
 (re)découvrir puppet
-- [https://blog.stephane-robert.info/post/introduction-puppet/](https://blog.stephane-robert.info/post/introduction-puppet/)
-- [https://blog.stephane-robert.info/post/puppet-env-developpement/](https://blog.stephane-robert.info/post/puppet-env-developpement/)
+[https://blog.stephane-robert.info/post/introduction-puppet/](https://blog.stephane-robert.info/post/introduction-puppet/),
+[https://blog.stephane-robert.info/post/puppet-env-developpement/](https://blog.stephane-robert.info/post/puppet-env-developpement/)
 
 - Tutoriel en français sur puppet que l’auteur Stéphane ROBERT écrit dans le cadre d’une migration Puppet vers Ansible
-- L’auteur revient sur les concepts (manifests, classes, modules), et explique comment utiliser vagrant pour developper en local un projet utilisant puppet.
+- L’auteur revient sur les concepts (manifests, classes, modules), et explique comment utiliser vagrant pour développer en local un projet utilisant puppet.
 
 Docker Compose v2.11.0 est disponible
-La commande build permet de construire des images multi-architectures.
 [https://github.com/compose-spec/compose-spec/blob/master/build.md#platforms](https://github.com/compose-spec/compose-spec/blob/master/build.md#platforms)
+
+- La commande build permet de construire des images multi-architectures.
 
 Docker Desktop 4.13.0
 [https://docs.docker.com/desktop/release-notes/#docker-desktop-4130](https://docs.docker.com/desktop/release-notes/#docker-desktop-4130)
@@ -83,7 +84,7 @@ WASMtime 1.0 [https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-p
 Comment écrire un bon message d’erreur sur une UI?
 [https://medium.com/wix-ux/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f](https://medium.com/wix-ux/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 
-- Un mauvais message d’erreur:
+- Un mauvais message d’erreur :
     - Ton inapproprié
     - Jargon technique
     - Rejetant le blâme
@@ -97,19 +98,19 @@ Comment écrire un bon message d’erreur sur une UI?
 
 ### Outillage
 
-Amélie Benoit partage un article d’initiation au Sketchnote
+Amélie Benoit partage un article d’initiation au sketchnote
 [https://amelie.tech/fr/blog/sketchnote-initiation/](https://amelie.tech/fr/blog/sketchnote-initiation/)
 
 - Définition : un dessin, une représentation visuelle d’une prise de note, mêlant dessin et texte
 - Pas de stress, suffit juste de savoir écrire, dessiner des carrés, cercles, triangles. Pas besoin d’être un artiste !
-- A quoi ça sert ? pour soi même pour s’approprier de l’information, synthétiser ce que l’on apprends, mais aussi pour partager avec les autres
+- À quoi ça sert ? pour soi-même pour s’approprier de l’information, synthétiser ce que l’on apprend, mais aussi pour partager avec les autres
 - On peut faire des sketchnotes pour tout et n’importe quoi !
 - Amélie décrit ensuite les bases, avec les pictogrammes, le texte, les puces, les flèches, comment créer des conteneurs (pour des titres par exemple), comment rendre un sketchnote plus joli et comment hiérarchiser le contenu
 - Enfin, quelques ressources utiles, en particulier les livres de Mike Rohde qui est l’inventeur du concept
 
 Nouvelle UI pour Maven Central search [https://central.sonatype.dev/](https://central.sonatype.dev/)
 
-maven-test-profiler: Maven extension pour trouver les tests les plus lents
+maven-test-profiler : Maven extension pour trouver les tests les plus lents
 [https://t.co/d5YpXODWf8](https://t.co/d5YpXODWf8)
 
 ### Architecture
@@ -131,9 +132,9 @@ Signal retire le support des SMS sur Android [https://t.co/u9XZ7XM7rT](https://t
 
 Codeurs en Seine 2022 - Programme et Inscriptions
 
-- Ca y est le programme est disponible et les inscriptions sont ouvertes.
-- les inscriptions (c’est gratuit et c’est à Rouen le 17 novembre) : [https://www.codeursenseine.com/2022/inscription](https://www.codeursenseine.com/2022/inscription)
-- le magnifique programme est la : [https://www.codeursenseine.com/2022/programme](https://www.codeursenseine.com/2022/programme)
+- Ça y est, le programme est disponible et les inscriptions sont ouvertes.
+- Les inscriptions (c’est gratuit et c’est à Rouen le 17 novembre) : [https://www.codeursenseine.com/2022/inscription](https://www.codeursenseine.com/2022/inscription).
+- Le magnifique programme est la : [https://www.codeursenseine.com/2022/programme](https://www.codeursenseine.com/2022/programme).
 
 
 La liste des conférences provenant de [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda)
