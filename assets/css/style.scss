@@ -73,6 +73,18 @@ iframe {
 // Specific
 //
 
+// Permet d'avoir un meilleur rendu sur de très petits écrans
+#site-header {
+  .navbar-brand {
+    margin-right: 0;
+  }
+
+  .navbar-toggler {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
 #site-nav, #site-footer {
   color: $header-color !important;
   background-color: $header-background-color !important;
