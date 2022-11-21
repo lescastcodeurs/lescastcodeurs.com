@@ -318,7 +318,7 @@ par [Aurélie Vache](https://github.com/scraly) et contributeurs :
 - 5-7 avril 2023 : [FIC](https://europe.forum-fic.com) - Lille Grand Palais (France)
 - 12-14 avril 2023 : [Devoxx France](https://www.devoxx.fr/) - Paris (France)
 - 10-12 mai 2023 : [Devoxx UK](https://www.devoxx.co.uk/) - London (UK) <a href="https://devoxxuk23.cfp.dev/#/"><img alt="CFP Devoxx UK 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2010-January-2023&color=green"></a>
-- 12 mai 2023 : [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=green"></a>
+- 12 mai 2023 : [AFUP Day](https://event.afup.org/) Lille & Lyon (France) <a href="https://event.afup.org/"><img alt="CFP AFUP Day 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=green"></a>
 - 12-13 octobre 2023 : [Volcamp 2023](https://www.volcamp.io/) - Clermont Ferrand (France)
 
 ## Nous contacter
