@@ -167,8 +167,8 @@ par [Aurélie Vache](https://github.com/scraly) et contributeurs :
 
 Pour réagir à cet épisode, venez discuter sur le groupe Google <https://groups.google.com/group/lescastcodeurs>
 
-Contactez-nous via twitter <https://twitter.com/lescastcodeurs>
-[Faire un crowdcast ou une crowdquestion](https://lescastcodeurs.com/crowdcasting/)
-Soutenez Les Cast Codeurs sur Patreon <https://www.patreon.com/LesCastCodeurs>
+Contactez-nous via twitter <https://twitter.com/lescastcodeurs>  
+[Faire un crowdcast ou une crowdquestion](https://lescastcodeurs.com/crowdcasting/)  
+Soutenez Les Cast Codeurs sur Patreon <https://www.patreon.com/LesCastCodeurs>  
 Tous les épisodes et toutes les infos sur <https://lescastcodeurs.com/>
 <!-- vim: set spelllang=fr : -->
