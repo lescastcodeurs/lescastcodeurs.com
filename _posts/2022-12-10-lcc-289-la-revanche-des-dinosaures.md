@@ -10,7 +10,6 @@ tweet: La revanche des dinosaures #collections #SRE #performance #git #vieux #co
 ---
 Guillaume et Emmanuel discutent les nouvelles de novembre décembre: spring boot 3, AWS SnapStart, GitHub Copilot en procès...
 Et aussi des articles de fond: performance, SRE et l'auto résilience, comment utiliser Git, le Devops pour les décideurs, l'age et la tech et d'autres sujets encore.
-Résumé
 
 Enregistré le 9 décembre 2022
 
