@@ -122,7 +122,7 @@ Six patterns pour les architectures event-driven [https://medium.com/wix-enginee
 - De Wix.
 - Il y a trois patterns dans cet article.
 - Consume and project : vue dématérialisée copie des données chaudes consommées par beaucoup. Et ces vues sont focalisées sur un consommateur. Kafka et CDC au milieu pour découpler.
-- event driven de bout en bout : websocket utilise pour envoyer les demandes. Le web socket serveur copie dans Kafka. Ces consommateurs font le job et un message est envoyé via le web socket serveur. Résilience, découplage.
+- Event-driven de bout en bout : websocket utilise pour envoyer les demandes. Le web socket serveur copie dans Kafka. Ces consommateurs font le job et un message est envoyé via le web socket serveur. Résilience, découplage.
 - K/V store : et en particulier avec kafka qui permet d’être consommé en key/value basse latence et en consommation d’évènement.
 - Peut être intéressant, mais pas si simple de comprendre les usages dans cet article.
 
@@ -208,7 +208,7 @@ par [Aurélie Vache](https://github.com/scraly) et contributeurs :
 * 2 décembre 2022 : [DevFest Dijon 2022](https://www.linkedin.com/posts/developers-group-dijon_apr%C3%A8s-des-%C3%A9changes-avec-google-le-developers-activity-6973555910140903424-rjRH/) - Dijon (France) <a href="https://conference-hall.io/public/event/cXWCepNzXVWwb1i6ktVA"><img alt="CFP DevFest Dijon 2022" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-October-2022&color=red"> </a>
 * 14-16 décembre 2022 : [API Days Paris](https://www.apidays.global/paris/) - Paris (France) & Online
 * 15-16 décembre 2022 : [Agile Tour Rennes](https://agiletour.agilerennes.org/) - Rennes (France) <a href="https://sessionize.com/agile-tour-rennes-2022/"><img alt="Agile Tour Rennes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
-* 19 janvier 2023 : [Archilocus](https://www.archilocus.tech/about) - Bordeaux (France) <a href=https://conference-hall.io/public/event/qII4ZCroLOcGUtnr0W3M><img alt="Archilocus Winter 2023" src="https://img.shields.io/static/v1?label=CFP&message=December-31-2022&color=green"> </a>
+* 19 janvier 2023 : [Archilocus](https://www.archilocus.tech/about) - Bordeaux (France) <a href="https://conference-hall.io/public/event/qII4ZCroLOcGUtnr0W3M"><img alt="Archilocus Winter 2023" src="https://img.shields.io/static/v1?label=CFP&message=December-31-2022&color=green"> </a>
 * 19-20 janvier 2023 : [Touraine Tech](https://touraine.tech/) - Tours (France) <a href="https://conference-hall.io/speaker/event/3lWSdH0pfZkHEAL7RWSJ"><img alt="Touraine Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=from%20September-30%20to%20November-27-2022&color=red"> </a>
 * 25-28 janvier 2023 : [SnowCamp](https://snowcamp.io/fr/) - Grenoble (France) <a href="https://conference-hall.io/public/event/ZGJWM1x64evaNUzycEzn"><img alt="CFP SnowCamp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-October-2022&color=red"> </a>
 * 2 février 2023 : [Very Tech Trip](https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB) - Paris (France) <a href="https://conference-hall.io/public/event/hoyBWUXe43dnoiBekZaB"><img alt="CFP Very Tech Trip 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-November-2022&color=red"> </a>
