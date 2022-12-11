@@ -122,7 +122,7 @@ Six patterns pour les architectures event-driven [https://medium.com/wix-enginee
 - De Wix.
 - Il y a trois patterns dans cet article.
 - Consume and project : vue dématérialisée copie des données chaudes consommées par beaucoup. Et ces vues sont focalisées sur un consommateur. Kafka et CDC au milieu pour découpler.
-- Event-driven de bout en bout : websocket utilise pour envoyer les demandes. Le web socket serveur copie dans Kafka. Ces consommateurs font le job et un message est envoyé via le web socket serveur. Résilience, découplage.
+- Event-driven de bout en bout : WebSocket utilisé pour envoyer les demandes. Le web socket serveur copie dans Kafka. Ces consommateurs font le job et un message est envoyé via le web socket serveur. Résilience, découplage.
 - K/V store : et en particulier avec kafka qui permet d’être consommé en key/value basse latence et en consommation d’évènement.
 - Peut être intéressant, mais pas si simple de comprendre les usages dans cet article.
 
