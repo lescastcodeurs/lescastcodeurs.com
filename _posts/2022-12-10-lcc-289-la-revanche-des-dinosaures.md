@@ -197,6 +197,14 @@ Différentes méthodes d’interpolation des chaines en Java [https://www.baeldu
 - `MessageFormat` pour les chaines de caractère utilisateur (multi-langage),
 - Apache Commons (pas sûr qu’il y ait encore beaucoup d’usage avec les JDK modernes).
 
+## Outils de l’épisode
+
+Calendrier de l’Avent du code 2022 [https://adventofcode.com/](https://adventofcode.com/)
+
+- tous les ans (premier en 2015),
+- des petits puzzles à résoudre tous les jours,
+- on peut utiliser n'importe quel langage, seul le résultat de l'algorithme compte,
+- beaucoup de gens publient leur solution [sur Redit](https://www.reddit.com/r/adventofcode/).
 
 ## Conférences
 
