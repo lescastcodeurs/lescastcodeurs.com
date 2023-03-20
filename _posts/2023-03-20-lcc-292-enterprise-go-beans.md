@@ -59,7 +59,7 @@ Quarkus 3 alpha 5 avec Hibernate ORM 6 et une nouvelle DevUI
 [https://quarkus.io/blog/quarkus-3-0-0-alpha5-released/](https://quarkus.io/blog/quarkus-3-0-0-alpha5-released/)
 
 - Passage d’Hibernate 5 à 6 (donc testez !).
-- Switch de compatibilité supérieur pour aider à la transition [https://github.com/quarkusio/quarkus/wiki/Migration-Guide-3.0:-Hibernate-ORM-5-to-6-migration#database-orm-compatibility](https://github.com/quarkusio/quarkus/wiki/Migration-Guide-3.0:-Hibernate-ORM-5-to-6-migration#database-orm-compatibility) (DB interaction esp schema).
+- Switch de compatibilité pour aider à la transition [https://github.com/quarkusio/quarkus/wiki/Migration-Guide-3.0:-Hibernate-ORM-5-to-6-migration#database-orm-compatibility](https://github.com/quarkusio/quarkus/wiki/Migration-Guide-3.0:-Hibernate-ORM-5-to-6-migration#database-orm-compatibility) (_API/behavior issues and most schema changes_).
 - `StatelessSession` injectable.
 - Gradle 8.
 - Nouvelle DEvUI : nouveau look and feel, plus extensible pour les extensions et plus facile à utiliser, va au-delà des integrations d’extension (config etc).
@@ -226,7 +226,7 @@ La pyramide des besoins du code de qualité [https://www.fabianzeindl.com/posts/
 Le DevSusOps est né
 [https://www.infoq.com/news/2023/02/sustainability-develop-operation/](https://www.infoq.com/news/2023/02/sustainability-develop-operation/)
 
-- Bon, sérieusement, comment on couvre avec un nom pareil sans déraper :man-facepalming: !
+- Bon, sérieusement, comment on couvre avec un nom pareil sans déraper 🤦‍ !
 - Ah dommage Microsoft rejoint la FinOps foundation [https://www.infoq.com/news/2023/02/microsoft-joins-finops-org/](https://www.infoq.com/news/2023/02/microsoft-joins-finops-org/). Imagine s’ils avaient rejoint la DevSusOps fondation.
 
 
