@@ -16,7 +16,7 @@ Téléchargement de l'épisode [LesCastCodeurs-Episode-294.mp3](https://traffic.
 
 ## Interview
 
-La vidéo du direct Devoxx France qui est plus facile à suivre se trouvera [sur YouTube]().
+La vidéo du direct Devoxx France qui est plus facile à suivre se trouvera [sur YouTube](https://www.youtube.com/watch?v=rCaong-OmLs).
 
 ## Nous contacter
 
