@@ -8,7 +8,7 @@ mp3_length: 40686981
 tweet: Interview Maven et builds reproductibles avec @hboutemy (merci @kanedafromparis)
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Dans le cocon de jchateau, Hervé Boutemy se fait interviewer par Charles Sabourdin sur Maven 3, 4, 5 et sur les builds reproductibles. Un grand merci à Charles pour son passage derrière le micro.
+Dans le cocon de JChateau, Hervé Boutemy se fait interviewer par Charles Sabourdin sur Maven 3, 4, 5 et sur les builds reproductibles. Un grand merci à Charles pour son passage derrière le micro.
 
 Enregistré le 18 mars 2023
 
