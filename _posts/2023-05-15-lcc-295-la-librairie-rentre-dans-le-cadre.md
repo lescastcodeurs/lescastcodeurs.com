@@ -9,7 +9,7 @@ tweet: La librairie rentre dans le cadre #java20 #profiler #quarkus #micronaut #
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Dans cet épisode, Arnaud, Antonio et Emmanuel décortiquent les nouvelles d'avril et mai.
-On y discute Java 20, ecrire un profiler de zéro, Quarkus 3 (encore !), Micronaut 4, Podman, JReleaser, GitHub, CloudEvent, GraphQL, licenciements (encore !), et de la question a 1000 francs: librarie vs framework, quelle différence?
+On y discute Java 20, écrire un profiler de zéro, Quarkus 3 (encore !), Micronaut 4, Podman, JReleaser, GitHub, CloudEvent, GraphQL, licenciements (encore !), et de la question a 1000 francs: librairie vs framework, quelle différence?
 Mais pas que.
 
 Enregistré le 12 mai 2023
