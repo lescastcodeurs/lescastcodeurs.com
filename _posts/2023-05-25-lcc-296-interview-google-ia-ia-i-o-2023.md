@@ -57,7 +57,7 @@ Article : [https://blog.google/products/pixel/google-pixel-tablet/](https://blog
 
 * Une belle tablette de 11 pouces, avec un dock de recharge avec enceinte intégrée
 * Processeur Tensor G2, Chromecast intégré
-* C’est un peu comme le Google Nest Hub Max mais avec un écran détachable
+* C’est un peu comme le Google Nest Hub Max, mais avec un écran détachable
 * Une coque pratique avec un trépied intégré et qui n’empêche pas de recharger la tablette sur le dock
 * En mode dock, c’est comme l’écran du Google Home App, et dès qu’on la décroche, on est en mode multi-utilisateur, chacun avec son profil
 
@@ -69,7 +69,7 @@ Article : [https://blog.google/products/pixel/pixel-7a-io-2023/](https://blog.go
 * Écran de 6 pouces
 * Triple appareil photo (grand angle, principal, et photo avant pour les selfies)
 * 509 euros
-* Magic Eraser pour effacer les trucs qu’on veut pas dans la photo, Magic Unblur pour rendre une photo floue plus nette, Real Tone pour rendre les peaux foncées plus naturelles
+* Magic Eraser pour effacer les trucs qu’on ne veut pas dans la photo, Magic Unblur pour rendre une photo floue plus nette, Real Tone pour rendre les peaux foncées plus naturelles
 
 
 ### Android
@@ -114,7 +114,7 @@ Article Magic Editor : [https://blog.google/products/photos/google-photos-magic-
 * Project Starline (écran avec caméra 3D qui donne un rendu 3D de son interlocuteur comme s’il était en face de soi) a été amélioré pour prendre moins de place [https://blog.google/technology/research/project-starline-prototype/](https://blog.google/technology/research/project-starline-prototype/)
 * Universal Translator : une nouvelle expérimentation pour faire du doublage et traduction automatique avec synchronisation des mouvements des lèvres
 * Project Tailwind, une sorte de notebook dans lequel on peut rajouter tous ses documents à partir de drive, et poser des questions sur leur contenu, proposer des résumés, de faire du brainstorming sur ces thèmes [https://thoughtful.sandbox.google.com/about](https://thoughtful.sandbox.google.com/about)
-* MusicLM : un large language model pour générer de la musique à partir d’un texte de prompt (waitlist pour s’inscrire)  [https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/](https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/)
+* MusicLM : un large language model pour générer de la musique à partir d’un texte de prompt (liste d’attente pour s’inscrire)  [https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/](https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/)
 * Project Gameface : utilisation des expressions du visage pour commander une souris et un ordinateur, pour les personnes qui ont perdu leur mobilité [https://blog.google/technology/ai/google-project-gameface/](https://blog.google/technology/ai/google-project-gameface/)
 * VisualBlocks : pour expérimenter dans une interface drag’n drop avec le développement de modèles pour Tensorflow lite et js [https://visualblocks.withgoogle.com/](https://visualblocks.withgoogle.com/)
 * MakerStudio : pour les bidouilleurs et développeurs [https://makersuite.google.com/](https://makersuite.google.com/) \
@@ -128,7 +128,7 @@ Article : [https://blog.google/products/search/generative-ai-search/](https://bl
 * Expérimentations pour rajouter l’IA générative dans Google Search
 * Faire des recherches avec des requêtes avec des phrases plus complexes, en intégrant des réponses comme Bard, avec des liens, des suggestions d’autres recherches associées
 * Mais aussi proposer des publicités mieux ciblées
-* On peut s’inscrire à Search Labs pour tester cette nouvelle expérience, mais au début juste en Anglais et juste pour les US
+* On peut s’inscrire à Search Labs pour tester cette nouvelle expérience, mais au début juste en anglais et juste pour les US
 * Des intégrations avec Google Shopping pour proposer et filtrer des produits qui correspondent à la requête
 * Recherche à l’aide d’image, avec Google Lens : 12 milliards de recherches visuelles par mois
 
@@ -137,7 +137,7 @@ Article : [https://blog.google/products/search/generative-ai-search/](https://bl
 
 * Annonce du modèle LLM Palm 2 utilisé dans Bard et dans Google Cloud [https://blog.google/technology/ai/google-palm-2-ai-large-language-model/](https://blog.google/technology/ai/google-palm-2-ai-large-language-model/)
 * PaLM 2 est en cours d’intégration dans 25 produits de Google
-* Supportera 100 langues différentes (pour l’instant seulement l’anglais, japonais et coréen), avec déjà les 40 langues les plus parlées d’ici la fin de l’année
+* Supportera 100 langues différentes (pour l’instant seulement l’anglais, japonais et coréen), avec déjà les 40 langues les plus parlées d’ici à la fin de l’année
 * Maintenant disponible dans 180 pays… sauf l’Europe !!!
 * Capacité de raisonnement accrue
 * Peut coder dans une vingtaine de langages de programmation différents dont Groovy
@@ -145,7 +145,7 @@ Article : [https://blog.google/products/search/generative-ai-search/](https://bl
 * Utilisable pour des requêtes et pour du chat
 * Des modèles dérivées fine-tunés Med-PaLM 2 sur du savoir médical, sur l’analyse visuelle des radios et Sec-PaLM, entrainé sur des cas d’utilisation sur le thème de la cybersécurité, pour aider à déceler des scripts malicieux, des vecteurs d’attaque
 * Sundar Pichai a aussi annoncé que Google travaillait déjà sur la prochaine évolution de ses LLM avec un modèle appelé Gemini. Peu de détails à part qu’il sera multimodal (en particulier recherche combinée image et texte par ex.)
-* Partenariat et intégration de Adobe Firefly dans Bard pour générer des images [https://blog.adobe.com/en/publish/2023/05/10/adobe-firefly-adobe-express-google-bard](https://blog.adobe.com/en/publish/2023/05/10/adobe-firefly-adobe-express-google-bard)
+* Partenariat et intégration d’Adobe Firefly dans Bard pour générer des images [https://blog.adobe.com/en/publish/2023/05/10/adobe-firefly-adobe-express-google-bard](https://blog.adobe.com/en/publish/2023/05/10/adobe-firefly-adobe-express-google-bard)
 
 
 ### Duet AI pour Google Workspace
