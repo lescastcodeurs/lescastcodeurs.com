@@ -8,8 +8,8 @@ mp3_length: 53233552
 tweet: Lockless design #rust #webassembly #guava #debezium #kafka #flamegraph #opensource #llm #lock
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Guillaume, Arnaud et Emmanuel discutent des nouvelles de mai et juin. La communauté Rust, WebAssembly. Guava, Debezium, Kafka, de flame graph, d'open source et bien sûr les large language models.
-On répond aussi à la question fondamentale: mais pourquoi Maven n'a pas de fichier `.lock` ?
+Guillaume, Arnaud et Emmanuel discutent des nouvelles de mai et juin. La communauté Rust, WebAssembly. Guava, Debezium, Kafka, de flame graph, d’open source et bien sûr les _large language models_.
+On répond aussi à la question fondamentale : mais pourquoi Maven n’a pas de fichier `.lock` ?
 
 Enregistré le 9 juin 2023
 
@@ -23,185 +23,193 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-297.mp3](https://traffi
 Lors de Microsoft BUILD 2023, un des fondateurs de OpenAI a fait une excellente présentation de Large Language Models, des GPT
 [https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
 
-- Il parle du fonctionnement des LLM, comment/pourquoi ils arrivent à générer ce qu’ils génèrent
-- Le fine-tuning, l’apprentissage renforcé avec feedback humain, l’art du prompting
-- Des patterns comme Chain of Thought (CoT) ou ReAct (Reflect then Act)
+- Il parle du fonctionnement des LLM, comment/pourquoi ils arrivent à générer ce qu’ils génèrent.
+- Le fine-tuning, l’apprentissage renforcé avec feedback humain, l’art du prompting.
+- Des patterns comme Chain of Thought (CoT) ou ReAct (Reflect then Act).
 
-Leaning Technologies annonce l’arrivée prochaine de CheerpJ 3 : le retour de Java dans la navigateur, grâce à WebAssembly
+Leaning Technologies annonce l’arrivée prochaine de CheerpJ 3 : le retour de Java dans le navigateur, grâce à WebAssembly
 [https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/](https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/)
 
-- Avant la version 3.0, CheerpJ utilisait une approche AOT (ahead of time compilation) qui nécessitait aussi une étape d’intégration continue pour transformer aussi toutes les dépendances JAR associées à un projet
-- Avec la version 3.0, qui devrait sortir cet été, CheerpJ adopte une approche JIT (Just In Time compilation) qui ressemble plus à l’approche de Java lui même
-- Plus besoin non plus de version custom d’OpenJDK
-- Les Applets vous avaient manqué ? Elles sont de retour avec WebAssembly :smile:
+- Avant la version 3.0, CheerpJ utilisait une approche AOT (Ahead Of Time compilation) qui nécessitait aussi une étape d’intégration continue pour transformer aussi toutes les dépendances JAR associées à un projet.
+- Avec la version 3.0, qui devrait sortir cet été, CheerpJ adopte une approche JIT (Just-In-Time compilation) qui ressemble plus à l’approche de Java lui-même.
+- Plus besoin non plus de version custom d’OpenJDK.
+- Les Applets vous avaient manqué ? Elles sont de retour avec WebAssembly 😀.
 
-Communauté RUST: Il y a de l’eau dans le gaz 
+Communauté RUST : Il y a de l’eau dans le gaz 
 [https://www.jntrnr.com/why-i-left-rust/](https://www.jntrnr.com/why-i-left-rust/)
 
-- Plus d'infos [https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
-- lié au backchannel et un petit groupe qui essaie de faire les choses bien mais qui derappe de l'exterieur
-- en gros ils ont un process interne pour prendre des decisions
-- avec ce process ils ont invité une personne pas super pro Rust a faire la keynote a RustConf
-- d’autres du commité ont vu ca et on discuté en backchannel pour revenir en arriere de la decision (sans suivre le process)
-- il y a eu une semaine de pause avant action mais pas annoncé
-- le speaker a ete dé keynoté et a donc refusé de venir a la conf
-- et paf, ca enerve des gens decisionaire et ils demissionnent
-- Bref des gens qui veulent faire le bien mais en cercle un peu trop ferné et paf
+- Plus d’infos sur [https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849).
+- Lié au backchannel et un petit groupe qui essaie de faire les choses bien, mais qui dérape de l’extérieur.
+- En gros, ils ont un process interne pour prendre des décisions.
+- Avec ce process, ils ont invité une personne pas super pro-Rust à faire la keynote à RustConf.
+- D’autres membres du commité ont vu ça et ont discuté en backchannel pour annuler la décision (sans suivre le process).
+- Il y a eu une semaine de pause avant action, mais pas d’annonce.
+- Le speaker a été dékeynoté et a donc refusé de venir à la conférence.
+- Et paf ! Ça énerve des gens décisionnaire et ils démissionnent.
+- Bref des gens qui veulent faire bien, mais en cercle un peu trop fermé.
 
-Les gens de Wasmer étendent WASI avec WASIX, on rajoutant le support POSIX, les threads... permettant de compiler vers WASM plein de projet C/C++ ou Rust, comme cURL ou autre
+Les gens de Wasmer étendent WASI avec WASIX, en rajoutant le support POSIX, les threads… permettant de compiler vers WASM plein de projet C/C++ ou Rust, comme cURL
 [https://wasmer.io/posts/announcing-wasix](https://wasmer.io/posts/announcing-wasix)
 
-- ca frotte un oeu entre innovation et standardisation dans la communaite WASM
-- WASMER sont un peu les cowboys startuper 
-- par exemple ils ont essayé de deposer la marque WebAssemble au nez et à la barbe de la communauté
-- donc la reaction du coeur de la communauté a cette annonce est plutôt calme
-- WASI c’est standard mais ca prend du temps a maturer
-- WASIX c’est cool et dispo maintenant mais c’est un produit d’une société spécifique, donc pas de portabilité
+- Ça frotte un peu entre innovation et standardisation dans la communauté WASM.
+- WASMER sont un peu les cowboys startuper.
+- Par exemple, ils ont essayé de déposer la marque WebAssembly au nez et à la barbe de la communauté.
+- Donc la reaction du cœur de la communauté face à cette annonce est plutôt calme.
+- WASI c’est standard, mais ça prend du temps à maturer.
+- WASIX c’est cool et disponible maintenant, mais c’est un produit d’une société spécifique, donc pas de portabilité.
 
 
 ### Librairies
 
-Guava 32 est sorti et beaucoup de choses annotées en `@Beta` ne le sont plus [https://www.reddit.com/r/java/comments/13w2l8w/guava_320_released_today_and_the_beta_annotation/](https://www.reddit.com/r/java/comments/13w2l8w/guava_320_released_today_and_the_beta_annotation/)
+Guava 32 est sorti et beaucoup de choses annotées en `@Beta` ne le sont plus
+[https://www.reddit.com/r/java/comments/13w2l8w/guava_320_released_today_and_the_beta_annotation/](https://www.reddit.com/r/java/comments/13w2l8w/guava_320_released_today_and_the_beta_annotation/)
 
-- ont eu des API en `@Beta` pendant longtemps pour proteger des risques de changements
-- en pratique quasi personne ne se limitait au non beta, et elles n’ont pas bougé ces API ou peu
-- donc ils ont enlevé `@Beta` de la plupart
-- beaucoup de parties de Guava sont dans le JDK, le cache est dans Caffeine
-- des bons echanges dans les commentaires entre les utilisateurs et Kevin un des mainteneurs chez Google
+- Ils ont eu des API en `@Beta` pendant longtemps pour protéger des risques de changements.
+- En pratique quasi personne ne se limitait au non-beta, et ces API n’ont pas ou peu bougé.
+- Ils ont donc enlevé `@Beta` de la plupart des API.
+- Beaucoup de parties de Guava sont dans le JDK, le cache est dans Caffeine.
+- De bons échanges dans les commentaires entre les utilisateurs et Kevin, un des mainteneurs chez Google
 
-Comment démarrer avec l’API PaLM de Google, mais en Java!
+Comment démarrer avec l’API PaLM de Google, mais en Java !
 [https://glaforge.dev/posts/2023/05/30/getting-started-with-the-palm-api-in-the-java-ecosystem/](https://glaforge.dev/posts/2023/05/30/getting-started-with-the-palm-api-in-the-java-ecosystem/)
 
-- Guillaume a écrit une petite application qui génère des histoires pour enfants avec un Large Language Model (l’API PaLM)
-- [https://bed-time-stories.web.app/](https://bed-time-stories.web.app/)
-- Le code est dispo sur Github [https://github.com/glaforge/bedtimestories](https://github.com/glaforge/bedtimestories)
-- Il explique également le processus incrémentale des prompts qui aident à générer aussi le contenu de l’application [https://glaforge.dev/posts/2023/06/08/creating-kids-stories-with-generative-ai/](https://glaforge.dev/posts/2023/06/08/creating-kids-stories-with-generative-ai/)
+- Guillaume a écrit une petite application qui génère des histoires pour enfants avec un Large Language Model (l’API PaLM) : [https://bed-time-stories.web.app/](https://bed-time-stories.web.app/).
+- Le code est disponible sur Github : [https://github.com/glaforge/bedtimestories](https://github.com/glaforge/bedtimestories).
+- Il explique également le processus incrémental des prompts qui aident à générer aussi le contenu de l’application : [https://glaforge.dev/posts/2023/06/08/creating-kids-stories-with-generative-ai/](https://glaforge.dev/posts/2023/06/08/creating-kids-stories-with-generative-ai/).
 
 
 ### Infrastructure
 
-Debezium 2.2 [https://debezium.io/blog/2023/04/20/debezium-2-2-final-released/](https://debezium.io/blog/2023/04/20/debezium-2-2-final-released/)
+Debezium 2.2
+[https://debezium.io/blog/2023/04/20/debezium-2-2-final-released/](https://debezium.io/blog/2023/04/20/debezium-2-2-final-released/)
 
-- Experimental, opt-in Parallel Snapshots
-- Incremental snapshots with surrogate keys
-- Quarkus 3 support
-- Ingestion of Oracle changes from logical standby instances
-- Google Spanner improvementsNew Debezium Server sinks for Infinispan, RabbitMQ, and RocketMQ
-- New Storage APIs for Amazon S3 and RocketMQ
-- Many MongoDB improvements
-- Cassandra connector for Cassandra Enterprise
+- Experimental opt-in Parallel Snapshots,
+- Incremental snapshots with surrogate keys,
+- Quarkus 3 support,
+- Ingestion of Oracle changes from logical standby instances,
+- Google Spanner improvements,
+- New Debezium Server sinks for Infinispan, RabbitMQ, and RocketMQ,
+- New Storage APIs for Amazon S3 and RocketMQ,
+- Many MongoDB improvements,
+- Cassandra connector for Cassandra Enterprise.
 
-Un article sur l'utilisation de Kafka par CloudFlare [https://www.infoq.com/articles/kafka-clusters-cloudflare/?utm_campaign=infoq_content&amp;utm_source=twitter&amp;utm_medium=feed&amp;utm_term=architecture-design](https://www.infoq.com/articles/kafka-clusters-cloudflare/?utm_campaign=infoq_content&amp;utm_source=twitter&amp;utm_medium=feed&amp;utm_term=architecture-design)
+Un article sur l’utilisation de Kafka par CloudFlare
+[https://www.infoq.com/articles/kafka-clusters-cloudflare/](https://www.infoq.com/articles/kafka-clusters-cloudflare/)
 
-- c’est du “classique” mais bon de se le faire rappeler
-- beaucoup d’evenements CloudFlare passent pas Kafka pour processing
-- Kafka en tant que bus generique
-- Ils ont imposé un message unique par topic via protobuf
-- ils sont une Application Service team (internal developer platform) depuis peu de temps
-- gitops pour creation de topic etc
-- développé un connector framework declaratif pour étendre le pannel de patrons d’architecture disponibles
-- developé des SDKs d’access a KAfka avec monitoring (prometheus)
-- sympa a lire
+- C’est du “classique”, mais bon de se le faire rappeler.
+- Beaucoup d’évènements CloudFlare ne passent pas Kafka pour processing.
+- Kafka en tant que bus générique.
+- Ils ont imposé un message unique par topic via Protobuf.
+- Ils ont une Application Service team (internal developer platform) depuis peu de temps.
+- GitOps pour création de topic…
+- Ils ont développé un connector framework déclaratif pour étendre le panel de patrons d’architecture disponibles.
+- Ils ont développé des SDKs d’accès à Kafka avec monitoring (Prometheus).
+- Sympa à lire.
 
-Post mortem du problème chez datadogHQ [https://www.datadoghq.com/blog/2023-03-08-multiregion-infrastructure-connectivity-issue/](https://www.datadoghq.com/blog/2023-03-08-multiregion-infrastructure-connectivity-issue/)
+Post mortem du problème chez Datadog
+[https://www.datadoghq.com/blog/2023-03-08-multiregion-infrastructure-connectivity-issue/](https://www.datadoghq.com/blog/2023-03-08-multiregion-infrastructure-connectivity-issue/)
 
-- data dog a perdu tous ces services dans la plupart ou toutes ses regions pendant 3 heures avant la premiere recuperation et 10 heures au total pour la recuperation totale
-- Equipe : 10 senior engineering leaders, about 70 local incident commanders and a pool of 450 to 750 incident responders active throughout the incident, which required four shifts to bring the incident to full resolution.
-- cause: une mise a jour de systemd appliqué sur la plupart de leurs VM en quasi parallele qui a effacer les routes des container et ne les a aps remis ; c’est un cas qui n’arrive pas au reboot d’un noeud (init sequence)
-- des 10000s noeuds impactés
-- en general ils font du rollout par region en enlevant les noeuds etc mais le base os avait un legacy update channel activé (vs gere pas les equipes de datadog manuellement)
-- les noeuds de controlleurs qui sont cense recycler les noeuds n’ont pu le faire vu le volume de noeud et surtout parce qu’eux meme étaient effectés
-- [l'autre article](https://open.substack.com/pub/pragmaticengineer/p/inside-the-datadog-outage?r=4pqmx&utm_campaign=post&utm_medium=web)
+- Datadog a perdu tous ses services dans la plupart de ses regions pendant 3 heures avant la première récupération et 10 heures au total pour la récupération totale.
+- Équipe : 10 senior engineering leaders, about 70 local incident commanders and a pool of 450 to 750 incident responders active throughout the incident, which required four shifts to bring the incident to full resolution.
+- Cause : une mise à jour de systemd appliquée sur la plupart de leurs VM en quasi parallèle qui a effacé les routes des conteneurs et ne les a pas remis ; c’est un cas qui n’arrive pas au reboot d’un nœud (init sequence).
+- Des dizaines de milliers de nœuds ont été impactés.
+- En général, ils font du rollout par région en enlevant les nœuds etc, mais le base OS avait un legacy update channel activé (vs géré par les équipes de Datadog manuellement).
+- Les nœuds de controllers qui sont censés recycler les nœuds n’ont pu le faire vu le nombre de nœuds et surtout parce qu’eux-mêmes étaient affectés.
+- [L’autre article](https://open.substack.com/pub/pragmaticengineer/p/inside-the-datadog-outage).
 
 
 ### Cloud
 
-Le data center parisien europe-west9-a est en panne depuis 3 semaines [https://www.lebigdata.fr/data-center-panne](https://www.lebigdata.fr/data-center-panne)
+Le datacenter parisien `europe-west9-a` est en panne depuis 3 semaines
+[https://www.lebigdata.fr/data-center-panne](https://www.lebigdata.fr/data-center-panne)
 
-- un feu s'est déclenché qui a touché une zone
-- le DC reste opérationnel sur les zones non touchée sauf BigTable qui a besoin de la zone touchée
-- les autres services fonctionnent
-- sauf les applis utilisateurs qui ne tournaiuent que sur la zone affecté
-
-
+- Un feu s’est déclenché et a touché une zone.
+- Le datacenter reste opérationnel sur les zones non touchées, sauf BigTable qui a besoin de la zone touchée.
+- Les autres services fonctionnent, sauf les applis utilisateurs qui ne tournaient que sur la zone affectée.
 
 
 ### Outillage
 
-Podman Desktop 1.0  est sorti [https://podman-desktop.io/blog/podman-desktop-release-1.0](https://podman-desktop.io/blog/podman-desktop-release-1.0)
+Podman Desktop 1.0 est sorti
+[https://podman-desktop.io/blog/podman-desktop-release-1.0](https://podman-desktop.io/blog/podman-desktop-release-1.0)
 
-- pas grand chose a dire que c'est la 1.0
+- Pas grand-chose d’autre à dire que c’est la 1.0.
 - "Works on my machine"
 
-Contract testing with Pact [https://hollycummins.com/contract-testing-devoxx-greece/](https://hollycummins.com/contract-testing-devoxx-greece/)
+Contract testing with Pact
+[https://hollycummins.com/contract-testing-devoxx-greece/](https://hollycummins.com/contract-testing-devoxx-greece/)
 
-- Conference
-- quand on change un microservice l’autre casse
-- les tests d’integration sont lent, instable et demande des grosses machines ou des environnements remote de dev
-- mock / unit tests ne sont pas vraiment le code de l’autre équipe
-- D’où Contract test qui vit entre les end to end et les unit tests. 
-- Peut partir d’un test mock et rempalcer avec pact cote consommateur
-- en faisait tourner, un pack listener enregistre la declaration (le DSL) et le retours attendus / generés par l’appel du test
-- copier ce fichier vers le producteur
-- copier a la main, dans le repo, via a broker
-- ajoute un test pact cote producteur  qui va exercer le JSON et verifier que cela marche
-- tests de pack sont plus profonds qu’un test OPENAPI
-- consommateur utilise pact comme mock et verifie le provider wrt le contract du mock
+- Conférence.
+- Quand on change un microservice l’autre casse.
+- Les tests d’integration sont lents, instables et demandent de grosses machines ou des environnements remote de dev.
+- Mock / unit tests ne sont pas vraiment le code de l’autre équipe.
+- D’où les contract tests qui vivent entre les tests end to end et les tests unitaires. 
+- Peut partir d’un test mock et remplacer avec pact côté consommateur.
+- En faisant tourner un pact listener qui enregistre la déclaration et les retours attendus / générés par l’appel du test.
+- Copier ce fichier vers le producteur.
+- Copier à la main, dans le repo, via un broker.
+- Ajoute un test pact côté producteur  qui va exercer le JSON et vérifier que cela marche.
+- Tests de pact sont plus profonds qu’un test OpenAPI.
+- Consommateur utilise pact comme mock et vérifie le provider avec le contract du mock.
 
-Pourquoi Maven n’a pas de fichier lock ? [https://www.reddit.com/r/Maven/comments/vkcmys/why_maven_doesnt_have_a_lock_file_like/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=ioscss&amp;utm_content=1&amp;utm_term=9](https://www.reddit.com/r/Maven/comments/vkcmys/why_maven_doesnt_have_a_lock_file_like/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=ioscss&amp;utm_content=1&amp;utm_term=9)
+Pourquoi Maven n’a pas de fichier lock ?
+[https://www.reddit.com/r/Maven/comments/vkcmys/why_maven_doesnt_have_a_lock_file_like/](https://www.reddit.com/r/Maven/comments/vkcmys/why_maven_doesnt_have_a_lock_file_like/)
 
-- conversation interessance sur les fichiers `.lock` dans les builds
-- Par exemple ruby a le `Gemfile.lock`, npm pareil mais pas Java?
-- Fondamentalement c’est du aux valeurs par defaut initiales et à la culture de la communauté
-- les version range sont peu ou pas utilisés en Maven
-- alors que le default dans d’autres plateformes
-- la poule et l’oeuf
+- Conversation intéressante sur les fichiers `.lock` dans les builds.
+- Par exemple Ruby a le `Gemfile.lock`, npm pareil, mais pas Java ?
+- Fondamentalement, c’est dû aux valeurs par défaut initiales et à la culture de la communauté.
+- Les versions range sont peu ou pas utilisés en Maven.
+- Alors que c’est l’approche par défaut sur d’autres plateformes
+- La poule et l’œuf.
 
-Simplifier les flame graph avec jbang [https://someth2say.wordpress.com/2023/06/04/jbang-and-flame-graphs/](https://someth2say.wordpress.com/2023/06/04/jbang-and-flame-graphs/)
+Simplifier les flame graph avec JBang
+[https://someth2say.wordpress.com/2023/06/04/jbang-and-flame-graphs/](https://someth2say.wordpress.com/2023/06/04/jbang-and-flame-graphs/)
 
-- discute les flame graph
-- pour le temps comsommé et pas un call graph
-- hauteur c'est la profondeur d'appel
-- ne regarder que la largeur, pas l'ordre
-- pas quand et ou une action est faite mais qui l'a fait
-- reste discute comment utiliser jbang pour lancer le prgramme et le javaagent
+- Discute des flame graph.
+- Pour le temps consommé et pas un call graph.
+- En hauteur, c’est la profondeur d’appel.
+- Ne regarder que la largeur, pas l’ordre.
+- Pas quand et où une action est faite, mais qui l’a faite.
+- Le reste discute de la manière d’utiliser JBang pour lancer le programme et le javaagent.
 
-Les modérateurs de Stack Overflow en greve contre le flux de réponses d'intelligence artificeille [https://openletter.mousetail.nl/](https://openletter.mousetail.nl/)
+Les modérateurs de Stack Overflow en grève contre le flux de réponses d’intelligence artificielle
+[https://openletter.mousetail.nl/](https://openletter.mousetail.nl/)
 
-- le ban des contenus generes par l'IA a ete levé discrètement par stack overflow
-- peur du flux de données massif et des hallucinations difficiles à détecter sans passer du temps
-- pas de consensus communautaire
-- stackoverflow est une des sources trustées pour les LLM des intelligences arificielles generatives (serpent qui se mord la queue)
-- les modérateurs font tourner l'anti spam, gere les flag levés, ferment ou effacent les entrées, genre les bots qui detectent le plagiat etc.
-- 414 votants des les premiers heures
+- Le ban des contenus générés par l’IA a été levé discrètement par Stack Overflow.
+- Peur du flux de données massif et des hallucinations difficiles à détecter sans passer du temps.
+- Pas de consensus communautaire.
+- Stack Overflow est une des sources trustées pour les LLM des intelligences artificielles génératives (serpent qui se mord la queue).
+- Les modérateurs font tourner l’anti-spam, gèrent les flags levés, ferment ou effacent les entrées, genre les bots qui détectent le plagiat…
+- 414 votants dès les premières heures.
 
 Just, un petit outil en ligne de commande avec une syntaxe inspirée de make, pour exécuter des commandes fréquentes dans nos projets
 [https://glaforge.dev/posts/2023/06/07/just-a-handy-command-line-tool/](https://glaforge.dev/posts/2023/06/07/just-a-handy-command-line-tool/)
 
-- Syntaxe proche de celle de make
-- Possibilité de définir des dépendances entre tâches
-- Support de paramètres
-- Peut charger des fichier .env
-- S’installe sur tous les systèmes d’exploitation qu’on aime bien et qu’on n’aime pas aussi
+- Syntaxe proche de celle de make.
+- Possibilité de définir des dépendances entre tâches.
+- Support de paramètres.
+- Peut charger des fichier `.env`.
+- S’installe sur tous les systèmes d’exploitation qu’on aime bien (et qu’on n’aime pas aussi).
 
 
 
 ### Méthodologies
 
-AWS retire ses documentations en Open Source [https://www.infoq.com/news/2023/06/aws-documentation-github/](https://www.infoq.com/news/2023/06/aws-documentation-github/)
+AWS retire ses documentations en Open Source
+[https://www.infoq.com/news/2023/06/aws-documentation-github/](https://www.infoq.com/news/2023/06/aws-documentation-github/)
 
-- ils ont open sourcé en espérant des contributions il y a deux ans
-- mais sans changer les approche en interne
-- resultat copie de repo de l’interieur vers l’exterieur
-- tracker de travail interne != externe
-- c’était plus compliqué
-- leçon, embrace entièrement sinon les frictions sont compliquées
+- Ils ont open-sourcé en espérant des contributions il y a deux ans, mais sans changer les approches en interne.
+- Résultat : copie de repos de l’intérieur vers l’extérieur.
+- Tracker de travail interne != externe.
+- C’était plus compliqué.
+- Leçon, embrasser entièrement sinon les frictions sont compliquées.
 
-Un guide pour communiquer avec l’IA: [https://learnprompting.org/](https://learnprompting.org/)
+Un guide pour communiquer avec l’IA
+[https://learnprompting.org/](https://learnprompting.org/)
 
-- Gratuit et open source
-- Prompt Engineering ou comment rédiger vos prompts
-- Plusieurs niveau (Basic, Intermediaire, Avancé..)
+- Gratuit et open source.
+- Prompt Engineering ou comment rédiger vos prompts.
+- Plusieurs niveaux (Basic, Intermédiaire, Avancé..).
 - Défini plein de concepts: Prompt, Few Shot Prompt, LLMs…
 
 
@@ -220,7 +228,7 @@ Migration de Twitter vers Mastodon (ou plutôt “dual run”)
 
 ## Conférences
 
-Aurelie Vache publie sont agenda des conferences via le site: [https://developers.events/](https://developers.events/)
+Aurelie Vache publie son agenda des conferences via le site: [https://developers.events/](https://developers.events/)
 
 
 
@@ -239,7 +247,7 @@ par [Aurélie Vache](https://github.com/scraly) et contributeurs :
 - 28-30 juin 2023 : [Breizh Camp](https://www.breizhcamp.org/) - Rennes (France) <a href="https://sessionize.com/breizhcamp-2023"><img alt="CFP Breizh Camp 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-April-2023&color=red"></a>
 - 29 juin 2023 : [Google Cloud Summit France](https://cloudonair.withgoogle.com/events/summit-france-2023) - Paris (France) 
 - 29-30 juin 2023 : [Sunny Tech](https://sunny-tech.io/) - Montpellier (France) <a href="https://conference-hall.io/public/event/Jnevkv3bLyxZOyYyiWSC"><img alt="CFP Sunny Tech 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2028-February-2023&color=red"></a>
-- 29-30 juin 2023 : [Agi'Lille](https://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2023"><img alt="AgiLille 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=red"></a>
+- 29-30 juin 2023 : [Agi’Lille](https://agilille.fr/) - Lille (France) <a href="https://sessionize.com/agilille-2023"><img alt="AgiLille 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2023&color=red"></a>
 - 7-9 juillet 2023 : [Nantes Maker Campus](https://nantesmakercampus.fr/) - Nantes (France) 
 - 2-3 septembre 2023 : [SRE France SummerCamp](https://summercamp.srefrance.org) - Chambéry (France) <a href="https://summercamp.srefrance.org/cfp/"><img alt="CFP sre-france-summercamp" src="https://img.shields.io/static/v1?label=CFP&message=until%2021-August-2023&color=green"></a>
 - 6 septembre 2023 : [Cloud Alpes](https://www.cloudalpes.fr/) - Lyon (France) <a href="https://conference-hall.io/public/event/90HSNNtojHqk1S8SbavA"><img alt="CFP Cloud Alpes" src="https://img.shields.io/static/v1?label=CFP&message=until%2015-June-2023&color=green"></a>
