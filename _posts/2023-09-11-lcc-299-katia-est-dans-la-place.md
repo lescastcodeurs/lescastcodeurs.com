@@ -8,6 +8,7 @@ mp3_length: 57764741
 tweet: Sur @Java 21, @QuarkusIO, @micronautfw, @Hibernate, @NodeJS, Redis, des IAs ... et @karesti
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
+
 Dans cet épisode de rentrée, Antonio et Arnaud ont le plaisir d'accueillir Katia Aresti dans l'équipe.
 Ils passent en revue les dernières nouveautés et sujets chauds de cette rentrée, notamment la sortie de Java 21, les nouvelles versions de Quarkus, Micronaut, Hibernate, NodeJS, Redis, et bien d'autres encore.
 Ils discutent de sujets plus généraux tels que l'observabilité, la nouvelle tendance "Platform Engineering", et la productivité des développeurs.
@@ -25,83 +26,80 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-299.mp3](https://traffi
 Apache Groovy a 20 ans!
 [https://twitter.com/ApacheGroovy/status/1695388098950217909](https://twitter.com/ApacheGroovy/status/1695388098950217909)
 
-- L'annonce du lancement du projet par James Strachan [https://web.archive.org/web/20030901064404/http://radio.weblogs.com/0112098/2003/08/29.html](https://web.archive.org/web/20030901064404/http://radio.weblogs.com/0112098/2003/08/29.html)
-- Le projet a depuis énormément évolué et après plusieurs vies a été adopté par la fondation Apache en 2015
+- L'annonce du lancement du projet par James Strachan [https://web.archive.org/web/20030901064404/http://radio.weblogs.com/0112098/2003/08/29.html](https://web.archive.org/web/20030901064404/http://radio.weblogs.com/0112098/2003/08/29.html).
+- Le projet a depuis énormément évolué et après plusieurs vies a été adopté par la fondation Apache en 2015.
 
 Java 21 arrive le 19 septembre
-[https://www.infoworld.com/article/3689880/jdk-21-the-new-features-in-java-21.html](https://www.infoworld.com/article/3689880/jdk-21-the-new-features-in-java-21.html).
+[https://www.infoworld.com/article/3689880/jdk-21-the-new-features-in-java-21.html](https://www.infoworld.com/article/3689880/jdk-21-the-new-features-in-java-21.html)
 
-- C'est la nouvelle LTS
-- Pas mal de nouvelles fonctionnalités comme les virtual threads, le pattern matching sur les switch, sequenced collections ...
-- Retrouvez le 19 septembre une interview de Jean-Michel Doudoux par Charles Sabourdin pour l'épisode 300 des castcodeurs!
+- C'est la nouvelle LTS.
+- Pas mal de nouvelles fonctionnalités comme les virtual threads, le pattern matching sur les switch, sequenced collections...
+- Retrouvez le 19 septembre une interview de Jean-Michel Doudoux par Charles Sabourdin pour l'épisode 300 des Cast Codeurs !
 
 ### Librairies
 
-Semantic Kernel pour Java est (en train de) sorti:
+Semantic Kernel pour Java est (en train de) sortir :
 [https://devblogs.microsoft.com/semantic-kernel/introducing-semantic-kernel-for-java/](https://devblogs.microsoft.com/semantic-kernel/introducing-semantic-kernel-for-java/)
 
-- Framework OSS pour faire de l’IA
-- .Net et Python
-- Java 0.2.7 Alpha est publié
-- Kernel car il est tout petit
-- Se connecte à plusieurs fournisseurs (aujourd’hui OpenAI, Azure AI, Hugging Face), plusieurs DB vectorielles, plusieurs template de prompt (suit la specification de OpenAI)
+- Framework OSS pour faire de l’IA.
+- .Net et Python.
+- Java 0.2.7 Alpha est publié.
+- Kernel car il est tout petit.
+- Se connecte à plusieurs fournisseurs (aujourd’hui OpenAI, Azure AI, Hugging Face), plusieurs DB vectorielles, plusieurs templates de prompt (suit la specification de OpenAI).
 
-OpenSSL qui committe
+OpenSSL : qui committe ?
 [https://www.openssl.org/blog/blog/2023/07/17/who-writes-openssl/](https://www.openssl.org/blog/blog/2023/07/17/who-writes-openssl/)
 
-- en majorité des OSS payés
-- puis des gens payés par leur boite
-- et enfi des contributeurs non payés
-- c'est ne passant rapide mais ca montre que depuis heartbleed, ca a changé
+- En majorité des OSS payés.
+- Puis des gens payés par leur boite.
+- Et enfin des contributeurs non payés.
+- c'est rapide, mais ça montre que depuis heartbleed, ça a changé
 
 Micronaut 4.1.0
 [https://micronaut.io/2023/09/01/micronaut-framework-4-1-0-released/](https://micronaut.io/2023/09/01/micronaut-framework-4-1-0-released/)
 
-- Bean Mappers pour créer automatiquement une correspondance entre un type et un autre
-- un Introspection Builder l'annotation @Introspected pour générer un builder dynamique si un type ne peut être construit que via un modèle builder
-- améliorations pour les développeurs utilisant Kotlin Symbol Processing (KSP)
+- Bean Mappers pour créer automatiquement une correspondance entre un type et un autre.
+- Un _Introspection Builder_ : l'annotation `@Introspected` pour générer un builder dynamique si un type ne peut être construit que via un modèle builder.
+- Améliorations pour les développeurs utilisant Kotlin Symbol Processing (KSP).
 
 Quarkus 3.3.1 / 3.3.2
 
-[https://quarkus.io/blog/quarkus-3-3-1-released/](https://quarkus.io/blog/quarkus-3-3-1-released/)
-
-[https://quarkus.io/blog/quarkus-3-3-2-released/](https://quarkus.io/blog/quarkus-3-3-2-released/)
-
-- Pas mal de fixes
-  - [https://github.com/quarkusio/quarkus/releases/tag/3.3.1](https://github.com/quarkusio/quarkus/releases/tag/3.3.1)
-  - [https://github.com/quarkusio/quarkus/releases/tag/3.3.2](https://github.com/quarkusio/quarkus/releases/tag/3.3.2)
+- Pas mal de fixes :
+  - [https://github.com/quarkusio/quarkus/releases/tag/3.3.1](https://github.com/quarkusio/quarkus/releases/tag/3.3.1),
+  - [https://github.com/quarkusio/quarkus/releases/tag/3.3.2](https://github.com/quarkusio/quarkus/releases/tag/3.3.2).
 - Il est important de noter qu'un problème de dégradation des performances et de la mémoire a été introduit dans Quarkus 3.3. Ce problème est corrigé dans Quarkus 3.3.2.
 
-Hibernate ORM 6.3.0 et 6.2.8 [https://hibernate.org/orm/](https://hibernate.org/orm/) et Hibernate Reactive 2.0.5
+Hibernate ORM 6.3.0 et 6.2.8 et Hibernate Reactive 2.0.5
+[https://hibernate.org/orm/](https://hibernate.org/orm/)
 
-- un support initial de la spécification Jakarta Persistence 3.2
-- Un nouveau guide d'introduction Hibernate 6, un nouveau guide de syntaxe et de fonctionnalités pour le langage de requête Hibernate (Hibernate Query Language)
-- Annotation @Find sur des méthodes -> créer des méthodes de recherche similaires aux méthodes de requête
-- Reactive compatible avec Hibernate ORM 6.2.8.Final, certains changements d'api
+- Un support initial de la spécification Jakarta Persistence 3.2.
+- Un nouveau guide d'introduction Hibernate 6, un nouveau guide de syntaxe et de fonctionnalités pour le langage de requête Hibernate (Hibernate Query Language).
+- Annotation @Find sur des méthodes → créer des méthodes de recherche similaires aux méthodes de requête.
+- Reactive compatible avec Hibernate ORM 6.2.8, certains changements d'API.
 
 ### Infrastructure
 
 Une série d'articles sur l'observabilité par Mathieu Corbin
 
-- Observability: tout ce que vous avez toujours voulu savoir sur les métriques: [https://www.mcorbin.fr/posts/2023-07-04-metriques/](https://www.mcorbin.fr/posts/2023-07-04-metriques/)
-- Tracing avec Opentelemetry: pourquoi c'est le futur (et pourquoi ça remplacera les logs): [https://www.mcorbin.fr/posts/2023-08-20-traces/](https://www.mcorbin.fr/posts/2023-08-20-traces/)
-
-- L'auteur reprend les bases sur l'observabilité.
-  - Qu’est ce qu’une métrique ? Les labels, les cardinalités
-  - Les types de métriques (Compteurs, jauges, quantiles et histogrammes)
+- Les articles :
+  - [Observability : tout ce que vous avez toujours voulu savoir sur les métriques](https://www.mcorbin.fr/posts/2023-07-04-metriques/).
+  - [Tracing avec OpenTelemetry : pourquoi c'est le futur (et pourquoi ça remplacera les logs](https://www.mcorbin.fr/posts/2023-08-20-traces/).
+- L'auteur reprend les bases sur l'observabilité :
+  - Qu’est-ce qu’une métrique ? Les labels, les cardinalités.
+  - Les types de métriques (Compteurs, jauges, quantiles et histogrammes).
   - C’est quoi le tracing ?
-  - Traces, Spans, Resources, Scopes qu'est ce que c'est?
-  - Les Events pour remplacer les logs?
+  - Traces, Spans, Resources, Scopes qu'est-ce que c'est ?
+  - Les Events pour remplacer les logs ?
 
 ### Web
 
 NodeJS 20.6.0 est disponible et ajoute le support des fichiers `.env`
 [https://philna.sh/blog/2023/09/05/nodejs-supports-dotenv/](https://philna.sh/blog/2023/09/05/nodejs-supports-dotenv/)
 
-- Configurable avec l'option `--env-file`
-- Le fichier `.env` peut contenir des   variables d'environnement et commentaires `#`
-- Attention par contre: pas de lignes multiples ni d'extension de variables
-- Vous pouvez par exemple configurer _`NODE_OPTIONS`_ avec ce système
+- Configurable avec l'option `--env-file`.
+- Le fichier `.env` peut contenir des variables d'environnement et commentaires `#`.
+- Attention par contre : pas de lignes multiples ni d'extension de variables.
+- Vous pouvez par exemple configurer _`NODE_OPTIONS`_ avec ce système.
 
 ### Data
 
@@ -114,39 +112,41 @@ Redis 7.2 est sorti !
 - New commands : plusieurs nouvelles commandes ont été ajoutées à Redis 7.2, notamment :
   - `CLIENT NO-TOUCH` : cette commande permet d'empêcher un client d'être touché par une opération AOF ou RDB.
   - `WAITAOF` : cette commande permet d'attendre que l'AOF soit écrite avant de poursuivre l'exécution.
-
-Dans le podcast sont cités les hot replacement des Redis, comme <https://www.dragonflydb.io/>
+- Dans le podcast sont cités les hot replacement de Redis, comme [Dragonfly](https://www.dragonflydb.io/).
 
 ### Architecture
 
-Article sur Google Gemini et sa capacité a battre ChatGPT [https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini](https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini)
+Article sur Google Gemini et sa capacité à battre ChatGPT
+[https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini](https://www.semianalysis.com/p/google-gemini-eats-the-world-gemini)
 
-- Google a raté les premiers pas (ils avient le meilleur LLM public avant ChatGPT 3)
-- ET les chercheurs qui invente le champs des LLMs
-- Google va 5x ChatGPT-4 avant al fin de l'année, mais vont-il les publier
-- les chercheurs se tirent la bourre sur le nombre de GPU (H100) auxquels ils ont accès ; ce sont lers grosses orga comme Meta OpenAI Google
-- et les autres qui lutent avec des GPU qui n'ont pas assez de VRAM et ce qu'ils vont faire c'est de la merde et sans consequence
-- le peuple utilise le modele dense de LLAMA mais pour les environnements contraints ca serait mieux des sparse models et du speculative decoding.
-- ils devraient se concentre sur la performance de modele qui utilise plus de compute et memoire en evitant de consommer de la bande passante de memoire, c'est ce que l'edge a besoin
-- les benchmarks public ne mesurent pas des choses utiles
-- meme hugging faces est dans la category des pauvres de GPU
-- Nvidia est entrain de se construire une machine de guerre (service)
-- la chine et les us vont etre en competition mais l'europe qui fait du GPU pauvre ne va pas s'en sortir
-- les startups ne peuvent pas payer les GPU en actiosn, il faut du cash
-- Tout le monde rempli les poches de NVidia, sand Google
-- Gogole grossi exponentiellement ses propres GPUs
+- Google a raté les premiers pas (ils avaient le meilleur LLM public avant ChatGPT 3).
+- Et les chercheurs qui inventent les champs de LLMs.
+- Google va 5x ChatGPT-4 avant la fin de l'année, mais vont-ils les publier ?
+- Les chercheurs se tirent la bourre sur le nombre de GPU (H100) auxquels ils ont accès ; ce sont les grosses organisations comme Meta, OpenAI et Google.
+- Et les autres qui luttent avec des GPUs qui n'ont pas assez de VRAM et ce qu'ils vont faire c'est de la merde et sans consequence.
+- Le peuple utilise le modèle dense de LLAMA mais, pour les environnements contraints, ça serait mieux des sparse models et du speculative decoding.
+- Ils devraient se concentrer sur la performance de modèle qui utilise plus de compute et mémoire en évitant de consommer de la bande passante de memoire, c'est ce dont l'edge computing a besoin.
+- Les benchmarks publics ne mesurent pas des choses utiles.
+- Même HuggingFace est dans la category des _GPU-poor_.
+- Nvidia est en train de se construire une machine de guerre (service).
+- La Chine et les US vont être en compétition, mais l'Europe qui reste _GPU-poor_ ne va pas s'en sortir.
+- Les startups ne peuvent pas payer les GPUs en action, il faut du cash.
+- Tout le monde rempli les poches de Nvidia, sauf Google.
+- Google grossi exponentiellement ses propres GPUs.
 
-Meta GPT [https://www.infoq.com/news/2023/08/metagpt-agent-collaboration/](https://www.infoq.com/news/2023/08/metagpt-agent-collaboration/)
+Meta GPT
+[https://www.infoq.com/news/2023/08/metagpt-agent-collaboration/](https://www.infoq.com/news/2023/08/metagpt-agent-collaboration/)
 
-IA: les biais et énergie qui consomme par Leslie Miley tech advisor du CTO de Microsoft [https://www.infoq.com/presentations/ai-bias-sustainability](https://www.infoq.com/presentations/ai-bias-sustainability)
+IA : biais et durabilité par Leslie Miley, tech advisor du CTO de Microsoft
+[https://www.infoq.com/presentations/ai-bias-sustainability](https://www.infoq.com/presentations/ai-bias-sustainability)
 
-- nouvels infranstructures
-- consommation énergétique et d’eau des data center pour IA est terriblement coûteuse
-- l'impact des infrastructures sur les comunautés (bruit)
-- explique bien son point de vu sur les problèmes d'amplification des biais du IA
-- propose des stratégies pour mitiger l'impact negatif
+- Nouvelles infrastructures.
+- La consommation énergétique et d’eau des datacenters pour l'IA est terriblement élevée.
+- L'impact des infrastructures sur les communautés (bruit).
+- Explique bien son point de vue sur les problèmes d'amplification des biais de l'IA.
+- Propose des stratégies pour atténuer l'impact.
 
-Kubeflow toolkit pour deployer machine learning (ML) workflow en Kubernetes est accepté par la CNCF (Cloud Native Computing Foundation)
+Kubeflow, le toolkit pour deployer machine learning (ML) workflow en Kubernetes, est accepté par la CNCF
 [https://www.infoq.com/news/2023/08/kubeflow-cncf-project](https://www.infoq.com/news/2023/08/kubeflow-cncf-project)
 
 ### Méthodologies
@@ -154,40 +154,43 @@ Kubeflow toolkit pour deployer machine learning (ML) workflow en Kubernetes est 
 Measuring developer productivity? A response to McKinsey by Kent Beck and Gergely Orosz ([pragmaticengineer.com](http://pragmaticengineer.com))
 [https://tidyfirst.substack.com/p/measuring-developer-productivity](https://tidyfirst.substack.com/p/measuring-developer-productivity)
 
-- McKinsey a sorti un [article](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/yes-you-can-measure-software-developer-productivity) où ils expliquent la  recette miracle recherchée par tous les managers comme le graal: Comment mesurer la productivité des développeurs? (faut bien vendre du conseil)
-- Kent et Gergely partent d’un model mental de description de la création de valeur par le développeur pour ensuite voir quels sont les besoins de mesurer la productivité et comparent cela avec d’autres secteurs (la vente, le support, le recrutement). 
-- Ils concluent cette première partie avec les compromis à faire pour que ce type de mesures ait un intérêt sans impacter trop négativement les développeurs
-- un autre article dans la même lignée de Martin Fowler [https://martinfowler.com/bliki/CannotMeasureProductivity.html](https://martinfowler.com/bliki/CannotMeasureProductivity.html)
+- McKinsey a sorti un [article](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/yes-you-can-measure-software-developer-productivity) où ils expliquent la recette miracle recherchée par tous les managers comme le graal : Comment mesurer la productivité des développeurs ? (faut bien vendre du conseil)
+- Kent et Gergely partent d’un modèle mental de description de la création de valeur par le développeur pour ensuite voir quels sont les besoins de mesurer la productivité et comparent cela avec d’autres secteurs (la vente, le support, le recrutement). 
+- Ils concluent cette première partie avec les compromis à faire pour que ce type de mesures ait un intérêt sans impacter trop négativement les développeurs.
+- Un autre article dans la même lignée par Martin Fowler : [https://martinfowler.com/bliki/CannotMeasureProductivity.html](https://martinfowler.com/bliki/CannotMeasureProductivity.html).
 
 Et si on parlait de Platform Engineering ?
 
-- [DevOps vs. SRE vs. Platform Engineering (humanitec.com)](https://humanitec.com/blog/sre-vs-devops-vs-platform-engineering)
-- [What is platform engineering? (gartner.com)](https://www.gartner.com/en/articles/what-is-platform-engineering) / [What is platform engineering? (platformengineering.org)](https://platformengineering.org/blog/what-is-platform-engineering)
-- [Internal Developer Platform](https://internaldeveloperplatform.org/)
-- [Cognitive load](https://platformengineering.org/blog/cognitive-load)
-- [Team topologies](https://teamtopologies.com/key-concepts)
-- [Engineering Effectiveness (thoughtworks.com)](https://www.thoughtworks.com/what-we-do/digital-solutions/engineering-effectiveness) and [Maximize your tech investments with Engineering Effectiveness (thoughtworks.com)](https://www.thoughtworks.com/insights/articles/a-comprehensive-methodology-for-engineering-effectiveness)
+- Quelques articles :
+  - [DevOps vs. SRE vs. Platform Engineering (humanitec.com)](https://humanitec.com/blog/sre-vs-devops-vs-platform-engineering)
+  - [What is platform engineering? (gartner.com)](https://www.gartner.com/en/articles/what-is-platform-engineering) / [What is platform engineering? (platformengineering.org)](https://platformengineering.org/blog/what-is-platform-engineering)
+  - [Internal Developer Platform](https://internaldeveloperplatform.org/)
+  - [Cognitive load](https://platformengineering.org/blog/cognitive-load)
+  - [Team topologies](https://teamtopologies.com/key-concepts)
+  - [Engineering Effectiveness (thoughtworks.com)](https://www.thoughtworks.com/what-we-do/digital-solutions/engineering-effectiveness) and [Maximize your tech investments with Engineering Effectiveness (thoughtworks.com)](https://www.thoughtworks.com/insights/articles/a-comprehensive-methodology-for-engineering-effectiveness)
+- Ces différents articles retracent la genèse du concept de Platform Engineering.
+- L'activité de Platform Engineering vient en réponse à la charge cognitive rajoutée aux équipes techs dans des transitions DevOps loupées (_You build it, you run it_... et vous vous débrouillez).
+- Cela conduit à la création de golden paths et d'une Internal Developers Platform qui doit proposer en interne les services nécessaires aux équipes pour livrer leurs produits le plus efficacement possible tout en suivant les critères de qualité et de compliance de l'entreprise.
+- Pour en savoir plus, une table ronde à laquelle Arnaud a participé en juillet : [https://youtu.be/N-tN7HUA4No?si=2P0wSqG32MLWUlGq](https://youtu.be/N-tN7HUA4No?si=2P0wSqG32MLWUlGq).
 
-- Ces différents articles retracent la génèse du concept de Platform Engineering
-- L'activité de Platform Engineering vient en réponse à la charge cognitive rajoutée aux équipes techs dans des transitions DevOps loupées (You build it, you run it ... et vous vous débrouillez).
-- Cela conduit à la création de golden paths et d'une Internal Developers Platform qui doit proposer en interne les services nécessaires aux équipes pour livrer leurs produits le lus efficacement possible tout en suivant les critères de qualité, de compliance de l'entreprise.
-- Pour en savoir plus, une table ronde à laquelle Arnaud a participé en Juillet : [https://youtu.be/N-tN7HUA4No?si=2P0wSqG32MLWUlGq](https://youtu.be/N-tN7HUA4No?si=2P0wSqG32MLWUlGq)
+On call Process (Astreinte), startup TinyBird par VP Engineering Félix López (ex google, ex eventbrite)
+[https://thenewstack.io/keeping-the-lights-on-the-on-call-process-that-works/](https://thenewstack.io/keeping-the-lights-on-the-on-call-process-that-works/)
 
-On call Process (Astreinte) , startup TinyBird par VP Engineering Félix López (ex google, ex eventbrite) [https://thenewstack.io/keeping-the-lights-on-the-on-call-process-that-works/](https://thenewstack.io/keeping-the-lights-on-the-on-call-process-that-works/)
-
-- Si votre produit est SAAS, on doit avoir des astreintes. Cela impose un lourd fardeau à ceux qui doivent être en astreinte,, surtout en petite entreprise
-- Petites entreprises évitent avoir un processus d'astreinte formel pour éviter le stress. Cela crée dans la pratique plus de stress: Si personne n'est responsable, tout le monde est responsable.
-- Tinybird est la plateforme de données en temps réel pour les développeurs et les équipes de données. Pré création du process formel chez Tinybird: désorganisé, non structuré et stressant 
-- Mise en place: Principes fondamentaux d'un processus d'astreinte: L'astreinte n'est pas obligatoire, minimiser le bruit, pas seulement pour les SRE, alert = runbook, avoir des backups pour la personne en astreinte, appeler quelqu'un devrait être la dernière solution, minimiser le temps en astreinte
-- L'article explique comment ils sont passé regarder chaque alerte (comprehensible?, exploitable?),  puis avoir un board  grafana pour chacune et plan spécifique. Une fois le tri fait, tout migré vers un seul channel de com, et manuel d'astreinte pour chaque alerte. Itérer.
-- Multiples benefices sur le long terme: rapports d'incident ouvert, atténuer les problèmes futurs, renforcement la propriété et les connaissances du  code et systèmes au sein de toute l'équipe etc.
+- Si votre produit est SAAS, on doit avoir des astreintes. Cela impose un lourd fardeau à ceux qui doivent être en astreinte, surtout en petite entreprise.
+- Petites entreprises évitent avoir un processus d'astreinte formel pour éviter le stress. Cela crée dans la pratique plus de stress : si personne n'est responsable, tout le monde est responsable.
+- Tinybird est la plateforme de données en temps réel pour les développeurs et les équipes de données. Pré-création du process formel chez Tinybird : désorganisé, non structuré et stressant.
+- Mise en place : Principes fondamentaux d'un processus d'astreinte : L'astreinte n'est pas obligatoire, minimiser le bruit, pas seulement pour les SRE, alert = runbook, avoir des backups pour la personne en astreinte, appeler quelqu'un devrait être la dernière solution, minimiser le temps en astreinte.
+- L'article explique comment ils sont passés de regarder chaque alerte (comprehensible ?, exploitable ?), puis avoir un board grafana pour chacune et plan spécifique. Une fois le tri fait, tout migré vers un seul channel de com, et manuel d'astreinte pour chaque alerte. Itérer.
+- Multiples benefices sur le long terme : rapports d'incident ouvert, atténuer les problèmes futurs, renforcement la propriété et les connaissances du code et systèmes au sein de toute l'équipe...
 
 ### Sécurité
 
-Downfall, une nouvelle faille de sécurité sur les processeurs intel ( [https://www.lemondeinformatique.fr/actualites/lire-la-faille-downfall-met-a-mal-des-milliards-de-processeurs-intel-91247.html](https://www.lemondeinformatique.fr/actualites/lire-la-faille-downfall-met-a-mal-des-milliards-de-processeurs-intel-91247.html) ) et AMD ne fait pas mieux avec une faille nommée Inception ([https://www.lemondeinformatique.fr/actualites/lire-les-puces-amd-vulnerables-a-la-faille-inception-91273.html](https://www.lemondeinformatique.fr/actualites/lire-les-puces-amd-vulnerables-a-la-faille-inception-91273.html))
+Downfall, une nouvelle faille de sécurité sur les processeurs Intel
+([https://www.lemondeinformatique.fr/actualites/lire-la-faille-downfall-met-a-mal-des-milliards-de-processeurs-intel-91247.html](https://www.lemondeinformatique.fr/actualites/lire-la-faille-downfall-met-a-mal-des-milliards-de-processeurs-intel-91247.html))
+et AMD ne fait pas mieux avec une faille nommée Inception ([https://www.lemondeinformatique.fr/actualites/lire-les-puces-amd-vulnerables-a-la-faille-inception-91273.html](https://www.lemondeinformatique.fr/actualites/lire-les-puces-amd-vulnerables-a-la-faille-inception-91273.html))
 
 - **Downfall**, La vulnérabilité est due à des fonctions d'optimisation de la mémoire dans les processeurs Intel qui révèlent involontairement les registres matériels internes aux logiciels. Cela permet à des logiciels non-fiables d'accéder à des données stockées par d'autres programmes, qui ne devraient normalement pas être accessibles. Tous les PC ou ordinateurs portables équipés de processeurs Intel Core de la 6e génération Skylake jusqu'aux puces Tiger Lake de 11e génération incluses contiennent cette faille. Les derniers processeurs Core 12e et 13e génération d'Intel ne sont pas concernés.
-- **Inception**, nécessite un accès local au système pour être potentiellement exploité ce qui en limite de fait la portée. Tous les processeurs AMD depuis 2017 sont touchés, incluant les derniers modèles Zen 4 Epyc et Ryzen
+- **Inception**, nécessite un accès local au système pour être potentiellement exploité ce qui en limite de fait la portée. Tous les processeurs AMD depuis 2017 sont touchés, incluant les derniers modèles Zen 4 Epyc et Ryzen.
 
 Comment désactiver le nouveau tracking publicitaire ciblé sur Chrome
 [https://www.blogdumoderateur.com/chrome-comment-desactiver-tracking-publicitaire-cible/](https://www.blogdumoderateur.com/chrome-comment-desactiver-tracking-publicitaire-cible/)
@@ -197,32 +200,34 @@ Comment désactiver le nouveau tracking publicitaire ciblé sur Chrome
 
 ### Loi, société et organisation
 
-Une nouvelle definition d'open pour Llama 2? [https://opensourceconnections.com/blog/2023/07/19/is-llama-2-open-source-no-and-perhaps-we-need-a-new-definition-of-open/](https://opensourceconnections.com/blog/2023/07/19/is-llama-2-open-source-no-and-perhaps-we-need-a-new-definition-of-open/)
+Une nouvelle definition d'open pour Llama 2 ?
+[https://opensourceconnections.com/blog/2023/07/19/is-llama-2-open-source-no-and-perhaps-we-need-a-new-definition-of-open/](https://opensourceconnections.com/blog/2023/07/19/is-llama-2-open-source-no-and-perhaps-we-need-a-new-definition-of-open/)
 
-- c'est relativement "open" mais il y a des restrictions donc pas open source
-- pas plus de 700 M d'utilisateurs par mois
-- pas le droit d'utiliser Llama pour améliorer d'autres  modèles autres que dse dérivés de Llama
-- et c'est le modele final qui est ouvert, pas la sauce pour le construire, donc pas de maven build ni le "source code" pour y arriver "from scratch"
-- attention au risuqe de sacrivier open source pour avoir l'IA plus vite, plus facile
+- C'est relativement "open" mais il y a des restrictions, donc pas open source.
+- Pas plus de 700 M d'utilisateurs par mois.
+- Pas le droit d'utiliser Llama pour améliorer des autres modèles autres que des dérivés de Llama.
+- Et c'est le modèle final qui est ouvert, pas la sauce pour le construire, donc pas de maven build ni le "source code" pour y arriver "from scratch".
+- Attention au risque de sacrifier l'open source pour avoir l'IA plus vite, plus facile.
 
-HashiCorp passe tous ses projets open source en BSL, comme Confluent, Mongo, Redis, Elastic, etc
+HashiCorp passe tous ses projets open source en BSL, comme Confluent, Mongo, Redis, Elastic...
 [https://thenewstack.io/hashicorp-abandons-open-source-for-business-source-license/](https://thenewstack.io/hashicorp-abandons-open-source-for-business-source-license/)
 
-- Couverture par InfoQ [https://www.infoq.com/news/2023/08/hashicorp-adopts-bsl/](https://www.infoq.com/news/2023/08/hashicorp-adopts-bsl/)
-- Fork de Terraform : OpenTF, avec pour objectif de rejoindre la CNCF [https://opentf.org/announcement](https://opentf.org/announcement)
+- Couverture par InfoQ [https://www.infoq.com/news/2023/08/hashicorp-adopts-bsl/](https://www.infoq.com/news/2023/08/hashicorp-adopts-bsl/).
+- Fork de Terraform : OpenTF, avec pour objectif de rejoindre la CNCF [https://opentf.org/announcement](https://opentf.org/announcement).
 
-Stack overflow annonce Overflow AI [https://www.infoq.com/news/2023/09/stackoverflow-overflowai/](https://www.infoq.com/news/2023/09/stackoverflow-overflowai/)
+Stack overflow annonce Overflow AI
+[https://www.infoq.com/news/2023/09/stackoverflow-overflowai/](https://www.infoq.com/news/2023/09/stackoverflow-overflowai/)
 
-- l'intégration de l'IA générative dans leur plateforme publique, Stack Overflow for Teams, ainsi que de nouveaux domaines de produits
-- IA/ML aident à générer des balises initiales et à suggérer des paires question-réponse, permettant aux développeurs de se concentrer sur l'amélioration et la précision
-- Amélioration des Capacités de Recherche
+- L'intégration de l'IA générative dans leur plateforme publique, Stack Overflow for Teams, ainsi que de nouveaux domaines de produits.
+- IA/ML aident à générer des balises initiales et à suggérer des paires question-réponse, permettant aux développeurs de se concentrer sur l'amélioration et la précision.
+- Amélioration des capacités de recherche.
 - Les forums de questions-réponses basés sur la communauté sont le cœur battant de Stack Overflow. Selon Prashanth Chandrasekar, PDG de Stack Overflow, l'objectif d'OverflowAI est d'améliorer la communauté de diverses manières plutôt que de la remplacer complètement.
 
 Vous avez entendu parler du projet de loi SREN ? 
 [http://share.mozilla.org/817319645t](http://share.mozilla.org/817319645t)
 
 - Le gouvernement français prépare une loi qui pourrait menacer la liberté sur Internet. Le projet de loi visant à sécuriser et réguler l’espace numérique (SREN) obligerait les navigateurs web, comme Mozilla Firefox, à bloquer des sites web directement au niveau du navigateur.
-- Mozilla lance une pétition pour retirer cette  n-ieme solution stupide pour censurer Internet
+- Mozilla lance une pétition pour retirer cette énième solution stupide pour censurer Internet.
 
 ## Conférences
 
