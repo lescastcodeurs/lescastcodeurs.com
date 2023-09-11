@@ -5,7 +5,7 @@ team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, A
 layout: blog-post
 episode: 299
 mp3_length: 57764741
-tweet: @Java 21, @QuarkusIO, @micronautfw, @Hibernate, @NodeJS, Redis, des IAs ... et @karesti
+tweet: Sur @Java 21, @QuarkusIO, @micronautfw, @Hibernate, @NodeJS, Redis, des IAs ... et @karesti
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Dans cet épisode de rentrée, Antonio et Arnaud ont le plaisir d'accueillir Katia Aresti dans l'équipe.
