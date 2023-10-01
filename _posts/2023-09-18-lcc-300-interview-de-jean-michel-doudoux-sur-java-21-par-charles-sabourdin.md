@@ -8,7 +8,7 @@ mp3_length: 62178600
 tweet: Interview de @jmdoudoux sur Java 21 par @kanedafromparis
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Dans cet épisode Charles Sabourdin interview Jean-Michel Doudoux sur la sortie de la nouvelle version LTS de Java en 2023: Java 21.
+Dans cet épisode Charles Sabourdin interview Jean-Michel Doudoux sur la sortie de la nouvelle version LTS de Java en 2023 : Java 21.
 
 Enregistré le 5 septembre 2023
 
@@ -38,15 +38,15 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-300.mp3](https://traffi
 
 ### À propos de Jean-Michel Doudoux
 
-* [Développons en Java](https://www.jmdoudoux.fr/java/dej/titre.htm)
-* https://www.jmdoudoux.fr
-* http://blog.sciam.fr/.
+* [Développons en Java](https://www.jmdoudoux.fr/java/dej/titre.htm),
+* [https://www.jmdoudoux.fr](https://www.jmdoudoux.fr),
+* [http://blog.sciam.fr/](http://blog.sciam.fr/).
 
 ### À propos de ParisJug
 
-* https://www.parisjug.org/
-* https://www.jchateau.org/
-* https://javaday.parisjug.org/
+* [https://www.parisjug.org/](https://www.parisjug.org/),
+* [https://www.jchateau.org/](https://www.jchateau.org/),
+* [https://javaday.parisjug.org/](https://javaday.parisjug.org/).
 
 ## Nous contacter
 
