@@ -35,6 +35,10 @@ sidebar_cards:
         icon: 'piggy-bank-fill'
         color: 'piggy-pink'
         url: 'https://www.patreon.com/LesCastCodeurs'
+      - name: 'Sondage 2024'
+        icon: 'chat-dots'
+        color: 'black'
+        url: 'https://docs.google.com/forms/d/e/1FAIpQLSc2xIWqWNi3ipx7Byth_TE6x9bQAvkCSuyeSkyEURbJNIga7g/viewform'
   - name: 'Syndication'
     links:
       - name: 'Liste des épisodes'
