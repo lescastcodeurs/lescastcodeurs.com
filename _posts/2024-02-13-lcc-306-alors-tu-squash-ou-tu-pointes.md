@@ -114,7 +114,7 @@ Amélie Benoit - Dependant Bot Visual way [https://twitter.com/AmelieBenoit33/st
 
 ### Méthodologies
 
-Le pouvoir des “conventional commits” par Julien Ponce
+Le pouvoir des “conventional commits” par Julien Ponge
 [https://julien.ponge.org/blog/the-power-of-conventional-commits/](https://julien.ponge.org/blog/the-power-of-conventional-commits/)
 
 - Convention poussée par l’équipe Angular, à la base
