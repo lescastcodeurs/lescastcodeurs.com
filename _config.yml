@@ -38,7 +38,7 @@ sidebar_cards:
       - name: 'Sondage 2024'
         icon: 'chat-dots'
         color: 'black'
-        url: 'https://docs.google.com/forms/d/e/1FAIpQLSc2xIWqWNi3ipx7Byth_TE6x9bQAvkCSuyeSkyEURbJNIga7g/viewform'
+        url: 'https://lescastcodeurs.com/sondage'
   - name: 'Syndication'
     links:
       - name: 'Liste des épisodes'
@@ -59,6 +59,10 @@ sidebar_cards:
         file: 'licence.md'
   - name: 'Contacts'
     links:
+      - name: 'Ask Me Anything'
+        icon: 'chat-dots'
+        color: 'black'
+        url: 'https://lescastcodeurs.com/ama'
       - name: 'Email'
         icon: 'envelope-fill'
         color: 'black'
