@@ -24,6 +24,7 @@ header_pages:
   - path: 'concept.md'
   - path: 'crowdcasting.md'
   - path: 'soutenir.md'
+  - path: 'ask-me-anything.md'
   - path: 'episodes.html'
     title: 'Rechercher'
     icon: 'search'
