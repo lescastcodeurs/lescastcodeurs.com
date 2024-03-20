@@ -8,7 +8,8 @@ mp3_length: 59735373
 tweet: Après c'est avant #java #netflix #tdah #llmattaque
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Cet épisode discut du retour d'experience Java de Netflix, de jQuery, de gouvernance open source, d'Elon Musk, de Kubernetes, de Mistral (gagnant?), d'attaque des LLMs, de developpement de carrière et de Trouble du Déficit de l'Attention avec ou sans Hyperactivité.
+
+Cet épisode discute du retour d'expérience Java de Netflix, de jQuery, de gouvernance open source, d'Elon Musk, de Kubernetes, de Mistral (gagnant ?), d'attaques des LLMs, de développement de carrière et de Trouble du Déficit de l'Attention avec ou sans Hyperactivité.
 
 Enregistré le 15 mars 2024
 
@@ -16,19 +17,21 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-308.mp3](https://traffi
 
 ## News
 
-Les cast codeurs veulent essayer quelque chose de nouveau et le sondage montre que vous aussi.
-On lance donc une section Ask Me Anything, posez nous une question sur <https://lescastcodeurs.com/ama> et nous prendrons certaines questions pour donner notre réponse.
-Lancez-vous, on pense que cette section pourra être sympa :)
+Les Cast Codeurs veulent essayer quelque chose de nouveau et le sondage montre que vous aussi.
+On lance donc une section "Ask Me Anything" (AMA) !
+Posez-nous une question sur <https://lescastcodeurs.com/ama> et nous prendrons certaines questions pour y répondre.
+Lancez-vous, on pense que cette section pourra être sympa :).
 
 ### Langages
 
-Retour d'experience de Netflix sur ZGC [https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b)
+Retour d'expérience de Netflix sur ZGC
+[https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b](https://netflixtechblog.com/bending-pause-times-to-your-will-with-generational-zgc-256629c9386b)
 
-- moins de tail latency ce qui veut dire moins de charge sur le systeme (moins de retry)
-- aussi plus facile de trouver les vrais probleme de latence (plus cachés dans les latences de GC)
-- et sans consommation superieure de CPU pour les memes perfs malgré les barrieres differentes de ZGC
-- pas de tuning explicit de leur part (enfin presque)
-- meme si les pointeurs ne sont pas compresses, l'efficacite du GC compense 
+- Moins de tail latency ce qui veut dire moins de charge sur le système (moins de retries).
+- Aussi plus facile de trouver les vrais problèmes de latence (plus cachés dans les latences de GC).
+- Et sans consommation supérieure de CPU pour les mêmes perfs, malgré les barrières différentes de ZGC.
+- Pas de tuning explicite de leur part (enfin presque).
+- Même si les pointeurs ne sont pas compressés, l'efficacité du GC compense. 
 
 
 ### Librairies
@@ -36,85 +39,88 @@ Retour d'experience de Netflix sur ZGC [https://netflixtechblog.com/bending-paus
 Sortie de Spock 2.4-M2
 [https://spockframework.org/spock/docs/2.4-M2/release_notes.html](https://spockframework.org/spock/docs/2.4-M2/release_notes.html)
 
-- Support de plusieurs librairies de mocking
-- Meilleur support dans les IDEs
-- Et plein d’autres petites améliorations
+- Support de plusieurs librairies de mocking.
+- Meilleur support dans les IDEs.
+- Et plein d’autres petites améliorations.
 
 jQuery 4 est sorti ! jQuery est de retour !
 [https://www.infoq.com/news/2024/03/jquery-4-beta-release-note/](https://www.infoq.com/news/2024/03/jquery-4-beta-release-note/)
 
-- On parle régulièrement du dernier framework JavaScript à la mode, mais jQuery est toujours là
-- Première release majeure depuis 8 ans
-- Suppression de plein de features qui étaient deprecated et maintenant fournie souvent par défaut par les moteurs JavaScript des navigateurs
-- jQuery continue d’être téléchargé de plus en plus au fil du temps, mais peut-être parce qu’il bénéficie du succès des projets qui l’utilisent comme Cypress, WordPress ou Drupal)
+- On parle régulièrement du dernier framework JavaScript à la mode, mais jQuery est toujours là.
+- Première release majeure depuis 8 ans.
+- Suppression de plein de features qui étaient dépréciées et maintenant souvent fournie par défaut par les moteurs JavaScript des navigateurs.
+- jQuery continue d’être téléchargé de plus en plus au fil du temps, mais peut-être parce qu’il bénéficie du succès des projets qui l’utilisent, tels que Cypress, WordPress ou Drupal.
 
-Quarkus sort sa deuxieme LTS [https://quarkus.io/blog/quarkus-3-8-released/](https://quarkus.io/blog/quarkus-3-8-released/)
+Quarkus sort sa deuxième LTS
+[https://quarkus.io/blog/quarkus-3-8-released/](https://quarkus.io/blog/quarkus-3-8-released/)
 
-- explique les changements importants depuis la LTS 3.2
+- Explique les changements importants depuis la LTS 3.2.
 
 
 ### Infrastructure
 
-Linkerd ou plutôt la boîte derrière va faire payer pour accéder aux builds stable du projet. Cela crée des conversations au sein de la CNCF [https://www.techtarget.com/searchitoperations/news/366571035/Linkerd-paywall-prompts-online-debate-CNCF-TOC-review](https://www.techtarget.com/searchitoperations/news/366571035/Linkerd-paywall-prompts-online-debate-CNCF-TOC-review)
+Linkerd, ou plutôt la boîte derrière, va faire payer pour accéder aux builds stable du projet. Cela crée des conversations au sein de la CNCF
+[https://www.techtarget.com/searchitoperations/news/366571035/Linkerd-paywall-prompts-online-debate-CNCF-TOC-review](https://www.techtarget.com/searchitoperations/news/366571035/Linkerd-paywall-prompts-online-debate-CNCF-TOC-review)
 
-- deploy envoy, c'est plus dur
-- Buyoant est le principal contributeur derriere Linkerd
-- et ils ont edcider de mettre les distributions stables derriere un paywall
-- pour les societes de plus de 50 employés ($2000 par cluster)
-- les gens se trouve floués par aider au succces et ensuite de trouver piégé
-- La license reste ASL mais la version stable est derriere un paywall, comme red hat enterprise linuix recemment
-- un autre exemple de projet open source qui vire commercial
-- questionne la gouvernance open source, la CNCF va inestiguer et peut etre durcir ces criteres de graduiation
-- Weavework (FLux) a fermé ces dernieres semaines aussi
+- Deploy envoy, c’est plus dur.
+- Buoyant est le principal contributeur derrière Linkerd.
+- Et ils ont décidé de mettre les distributions stables derrière un paywall.
+- Pour les sociétés de plus de 50 employés ($2000 par cluster).
+- Les gens se trouvent floués, car ils ont aidé au succès et ensuite se retrouvent piégés.
+- La licence reste ASL, mais la version stable est derrière un paywall, comme Red Hat Enterprise Linux récemment.
+- Un autre exemple de projet open source qui vire commercial.
+- Questionne la gouvernance open source, la CNCF va enquêter et peut-être durcir ses critères de graduation.
+- Weaveworks (FluxCD) a aussi fermé ces dernières semaines.
 
-Cloudflare a reecrit un proxy HTTP en rust [https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/)
+Cloudflare a réécrit un proxy HTTP en Rust
+[https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/](https://blog.cloudflare.com/how-we-built-pingora-the-proxy-that-connects-cloudflare-to-the-internet/)
 
-- ils ont utilise NGinx pendant longtemps
-- mais le single worker modele ne permetait pas ceratins optims
-- et ils ont des besolins specifiques 
-- bref ils ont reecrit en rust, multi threaded et avec work stealing
-- et ils sont content
+- Ils ont utilisé Nginx pendant longtemps.
+- Mais le single-worker model ne permettait pas certaines optimisations.
+- Et ils ont des besoins spécifiques. 
+- Bref ils ont réécrit en Rust, multithreaded et avec work stealing.
+- Et ils sont contents.
 
 Le guide du “hater” sur Kubernetes
 [https://paulbutler.org/2024/the-haters-guide-to-kubernetes/](https://paulbutler.org/2024/the-haters-guide-to-kubernetes/)
 
-- L’auteur se plaint régulièrement de Kubernetes pour sa grande complexité mais reconnait que c’est quand même un grand morceau de technologie
-- A utiliser surtout quand on a besoin de :
-  - Exécuter plusieurs processus/serveurs/tâches planifiées.
-  - Les exécuter de manière redondante et répartir la charge entre eux.
-  - Les configurer, ainsi que les relations entre eux, sous forme de code.
-- L’auteur liste ensuite les fonctionnalités qu’il utilise, qu’il fait attention quand il les utilise, et celles qu’il préfère éviter
-  - Utilise : deployments, services, cron jobs, config maps et secrets
-  - Attention : stateful set, persistent volume et RBAC
-  - Evite : le YAML à la main, les opérateurs et resources customs, Helm, tout ce qui est mesh, les resources ingress, essayer de répliquer la stack K8S complète localement sur sa machine
-
-
+- L’auteur se plaint régulièrement de Kubernetes pour sa grande complexité, mais reconnait que c’est quand même un grand morceau de technologie.
+- À utiliser surtout quand on a besoin:
+  - d’exécuter plusieurs processus/serveurs/tâches planifiées,
+  - de les exécuter de manière redondante et répartir la charge entre eux,
+  - de les configurer, ainsi que les relations entre eux, sous forme de code.
+- L’auteur liste ensuite les fonctionnalités qu’il utilise, celles auxquelles il fait attention quand il les utilise, et celles qu’il préfère éviter :
+  - Utilise : deployments, services, cron jobs, config maps et secrets.
+  - Attention : stateful set, persistent volume et RBAC.
+  - Évite : le YAML à la main, les opérateurs et resources customs, Helm, tout ce qui est mesh, les resources ingress, essayer de répliquer la stack K8S complète localement sur sa machine.
 
 
 ### Data et Intelligence Artificielle
 
-Mistral AI et Microsoft font un accord sur le modele le plus puissant de Mistral et certains ne sont pas content [https://www.latribune.fr/technos-medias/informatique/l-alliance-entre-mistral-et-micr[…]usion-de-l-independance-technologique-europeenne-991558.html](https://www.latribune.fr/technos-medias/informatique/l-alliance-entre-mistral-et-microsoft-met-fin-a-l-illusion-de-l-independance-technologique-europeenne-991558.html)
+Mistral AI et Microsoft passent un accord sur le modèle le plus puissant de Mistral, et certains ne sont pas content
+[https://www.latribune.fr/technos-medias/informatique/l-alliance-entre-mistral-et-micr[…]usion-de-l-independance-technologique-europeenne-991558.html](https://www.latribune.fr/technos-medias/informatique/l-alliance-entre-mistral-et-microsoft-met-fin-a-l-illusion-de-l-independance-technologique-europeenne-991558.html)
 
-- Mistral avancait son approche open source
-- mais son modele le plus puissant ne l'est pas
-- ils ont un partenariat exclusif avec Microsoft pour le distribuer
-- Et MS rentre dans le capital
-- Au revoir l'independance de l'IA européenne
-- Au revoir les modeles open source larges
-- cela va a l'encontre du loby et de son positinnement aupres de la commission europeenne
-- ca fait grincer des dents a bruxelles qui avait alléger les contraintes sur les modeles fondamentaux a la demande de Mistral qui menacait de de voir s'allier avec MS si ce n'était pas le cas.
-- Mistral était un fer de lance des modeles open sources pour eviter les biais
-- ils en garderont masi pas les modeles specialisés ou optimisés
-- cela reste une bonne decisione conomique pour Mistral
+- Mistral avançait son approche open source.
+- Mais son modèle le plus puissant ne l’est pas.
+- Ils ont un partenariat exclusif avec Microsoft pour le distribuer.
+- Et MS rentre dans le capital.
+- Au revoir l’indépendance de l’IA européenne.
+- Au revoir les grands modèles open source.
+- Cela va à l’encontre du lobby et de son positionnement auprès de la commission européenne.
+- Ça fait grincer des dents à Bruxelles, qui avait allégé les contraintes sur les modèles fondamentaux à la demande de Mistral qui menaçait de devoir s’allier avec Microsoft si ce n’était pas le cas.
+- Mistral était un fer de lance des modèles open sources pour éviter les biais.
+- Ils en garderont, mais pas les modèles specialisés ou optimisés.
+- Cela reste une bonne decision économique pour Mistral.
 
-Infinispan 15 est sorti [https://infinispan.org/blog/2024/03/13/infinispan-15](https://infinispan.org/blog/2024/03/13/infinispan-15)
+Infinispan 15 est sorti
+[https://infinispan.org/blog/2024/03/13/infinispan-15](https://infinispan.org/blog/2024/03/13/infinispan-15)
 
-- JDK 17
-- Redis Hot Replacement donnant: multi thread, clustering, replication cross site, diff stores de persistence en disk, avoir des caches differentes en namespace différentes avec des règles appliquées à chaque cas d'usage
-- Recherche Vectorielle et stockage des embeddings  
-- Integration avec Langchain (Python), Langchain4j, et Quarkus Langchain
-- Améliorations du search, replication cross site, la console, tracing, l'Operateur Kubernetes ... 
-- Support du Protobuf 3 avec la release de Protostream 5 et meilleur API
+- JDK 17.
+- Redis Hot Replacement donnant : multi-threads, clustering, réplication cross-site, diff stores de persistence en disk, avoir des caches différents en namespace différentes avec des règles appliquées à chaque cas d’usage.
+- Recherche Vectorielle et stockage des embeddings.  
+- Integration avec Langchain (Python), Langchain4j, et Quarkus Langchain.
+- Améliorations du search, replication cross site, la console, tracing, l’opérateur Kubernetes… 
+- Support du Protobuf 3 avec la release de Protostream 5 et meilleur API.
 
 
 ### Outillage
@@ -122,98 +128,102 @@ Infinispan 15 est sorti [https://infinispan.org/blog/2024/03/13/infinispan-15](h
 Ne pas signer ses commits cryptographiquement ?
 [https://blog.glyph.im/2024/01/unsigned-commits.html](https://blog.glyph.im/2024/01/unsigned-commits.html)
 
-- L’article cite comme seul avantage d’avoir le petit badge vert sur Github indiquant “vérifié”
+- L’article cite comme seul avantage d’avoir le petit badge vert sur Github indiquant “vérifié”.
 - **Responsabilité future inconnue et potentiellement illimitée** pour les conséquences de l’exécution du code dans un commit que vous avez signé.
 - **Renforcement implicite de GitHub en tant qu’autorité de confiance centralisée** dans le monde de l’open source.
 - **Introduction de problèmes de fiabilité inconnus** dans l’infrastructure qui repose sur les signatures de commit.
 - **Une violation temporaire de vos identifiants GitHub entraîne désormais des conséquences potentiellement permanentes** si quelqu’un parvient à y introduire une nouvelle clé de confiance.
 - **Nouveau type de surcharge de processus continu** : les clés de signature de commit deviennent une nouvelle infrastructure permanente à gérer, avec de nouvelles questions comme « que faire des clés expirées », « à quelle fréquence dois-je les renouveler », etc.
-- on peut empecher de pousser des commits non signés
+- On peut empêcher de pousser des commits non signés.
 
 
 ### Sécurité
 
-Des modèles avec des backdoors uploadés sur hugging faces non détecté. [https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/](https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/)
+Des modèles avec des backdoors uploadés sur hugging faces non détectés
+[https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/](https://arstechnica.com/security/2024/03/hugging-face-the-github-of-ai-hosted-code-that-backdoored-user-devices/)
 
-- par les chercheurs de JFrog
-- Une centaine détectés dont 10 malicieux
-- Des tests de chercheurs mais un faisant un reverse ssh
-- S’appuye sur le format de serialisation pickle en python. Populaire mais connu comme dangereux
+- Par les chercheurs de JFrog.
+- Une centaine ont été détectés, dont 10 malicieux.
+- Des tests de chercheurs, mais un faisant un reverse SSH.
+- S’appuie sur le format de serialisation pickle en Python. Populaire, mais reconnu comme dangereux.
 
-Une première side attack channel sur les LLMs [https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/](https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/)
+Une première side attack channel sur les LLMs
+[https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/](https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/)
 
-- cela s’appuie sur la taille des packets chiffrés envoyés et leur timing pour détecter la longueur des tokens
-- Ensuite un LLM spécialisé reconstruit la suite de mots la plus probable vu la longueur 
-- C’est du à l’UX qui envoie les tokens au fil de l’eau
-- Ć’est facilement corrigeable en rendant les paquets de taille fixe et en ajoutant du hasard de délai d’envoie. 
-- Mais c’est rigolo comment les LLMs peuvent amplifier les side channel attacks 
+- Cela s’appuie sur la taille des packets chiffrés envoyés et leur timing pour détecter la longueur des tokens.
+- Ensuite un LLM spécialisé reconstruit la suite de mots la plus probable vu la longueur.
+- C’est dû à l’UX qui envoie les tokens au fil de l’eau.
+- C’est facilement corrigeable en rendant les paquets de taille fixe et en ajoutant du hasard de délai d’envoi… 
+- Mais c’est rigolo comment les LLMs peuvent amplifier les side-channel attacks.
 
 
 ### Architecture
 
-Netflix et Java [https://www.infoq.com/presentations/netflix-java/](https://www.infoq.com/presentations/netflix-java/)
+Netflix et Java
+[https://www.infoq.com/presentations/netflix-java/](https://www.infoq.com/presentations/netflix-java/)
 
-- Netflix est un java shop
-- La "stack NEtflix" connue du public a beaucoup evolué
-- Pleins de microservices
-- Gen1: groovy en gateway front end for backend , RxJava et Histrix
-- Gen2: GraphQL et GraphQL federé ; plus de reactif sand dans la gateway
-- Java 17 : 2800 apps java
-- utilisent Azul JDK
-- avait du Java 8 sur du guice et app custom
-- utilisent G1, Java 17 = -20% CPU et Shenandoah pour la gateway Zuul
-- Plans pour Java 21 (ZGC, virtual threads)
-- apres speculatif
-- Ils ont standardisé sur Spring Boot il n'y a pas si longtemps
+- Netflix est un java shop.
+- La "stack Netflix" connue du public a beaucoup évolué.
+- Pleins de microservices.
+- Gen1 : Groovy en gateway frontend for backend, RxJava et Hystrix.
+- Gen2 : GraphQL et GraphQL fédéré ; plus de réactif dans la gateway.
+- Java 17 : 2800 apps java.
+- Utilisent Azul JDK.
+- Avaient du Java 8 sur du Guice et des app custom.
+- Utilisent G1, Java 17 = -20% CPU et Shenandoah pour la gateway Zuul.
+- Plans pour Java 21 (ZGC, virtual threads).
+- Après spéculatif.
+- Ils ont standardisé sur Spring Boot il n’y a pas si longtemps.
 
-Un long article sur les microservices [https://mcorbin.fr/posts/2024-02-12-microservice/](https://mcorbin.fr/posts/2024-02-12-microservice/)
+Un long article sur les microservices
+[https://mcorbin.fr/posts/2024-02-12-microservice/](https://mcorbin.fr/posts/2024-02-12-microservice/)
 
-- encore un me direz vous
-- oui amis si vous etre en pleine crise existentielle avec votre equipe c'est du mon materiel
-- il va sur les points importants comme synchrone vs asynchrone, les patterns de communication, la copie de données, comment tester le "monotithe" ou plutot comment ne pas le faire etc
-- c'est un peu long mais ca recadre bien
+- Encore un me direz vous !
+- Oui, mais si vous êtes en pleine crise existentielle avec votre équipe, c’est du bon matériel.
+- Il va sur les points importants comme synchrone vs asynchrone, les patterns de communication, la copie de données, comment tester le "monolithe" ou plutôt comment ne pas le faire…
+- C’est un peu long mais, ça recadre bien.
 
 
 ### Méthodologies
 
-Opinion: est-ce qu'on peut devenir dev à partir de 40 ans [https://www.codemotion.com/magazine/dev-life/can-you-become-a-programmer-after-40/?utm_source=ActiveCampaign&utm_medium=email&utm_content=5+Frontend+Trends+we+Didn+t+See+Coming+in+2024&utm_campaign=NL_EN_240215+%28Copy%29&vgo_ee=sFCRn4bbw8NuvJwlxj4PgXiVS4eICnA1ZPdkH4DGKyhNNwh6NQ%3D%3D%3Au3g96%2Fz3Uf7kZHAF7tezy9Y0ZJ6paAsE](https://www.codemotion.com/magazine/dev-life/can-you-become-a-programmer-after-40/?utm_source=ActiveCampaign&utm_medium=email&utm_content=5+Frontend+Trends+we+Didn+t+See+Coming+in+2024&utm_campaign=NL_EN_240215+%28Copy%29&vgo_ee=sFCRn4bbw8NuvJwlxj4PgXiVS4eICnA1ZPdkH4DGKyhNNwh6NQ%3D%3D%3Au3g96%2Fz3Uf7kZHAF7tezy9Y0ZJ6paAsE)
+Opinion: est-ce qu’on peut devenir dev à partir de 40 ans
+[https://www.codemotion.com/magazine/dev-life/can-you-become-a-programmer-after-40/?utm_source=ActiveCampaign&utm_medium=email&utm_content=5+Frontend+Trends+we+Didn+t+See+Coming+in+2024&utm_campaign=NL_EN_240215+%28Copy%29&vgo_ee=sFCRn4bbw8NuvJwlxj4PgXiVS4eICnA1ZPdkH4DGKyhNNwh6NQ%3D%3D%3Au3g96%2Fz3Uf7kZHAF7tezy9Y0ZJ6paAsE](https://www.codemotion.com/magazine/dev-life/can-you-become-a-programmer-after-40/?utm_source=ActiveCampaign&utm_medium=email&utm_content=5+Frontend+Trends+we+Didn+t+See+Coming+in+2024&utm_campaign=NL_EN_240215+%28Copy%29&vgo_ee=sFCRn4bbw8NuvJwlxj4PgXiVS4eICnA1ZPdkH4DGKyhNNwh6NQ%3D%3D%3Au3g96%2Fz3Uf7kZHAF7tezy9Y0ZJ6paAsE)
 
-- programmeur de CSS a 40 ans, je sais pas :stuck_out_tongue_winking_eye:
-- l'auteur regrette les pubs pour devenir ev a 40 ansd facilement
-- developpeur c'est beaucoup de connaissance et de travail et doit etre un choix, pas un choix pas default ou facile
-- ils decrit certains biais comme un 20 ans sans experience est plus pardonné qu'à 40, le temps a y consacré est différent etc
-- compensé par des actes de motivation (GitHub, participation open source, meetups etc)
-- mais le temps d'apprendre de ces erreurs n'as pas vraiment de court circuit
-- bref une fonrmation c'est bien mais aps suffisant
+- Programmeur de CSS à 40 ans, je sais pas 😜
+- L’auteur regrette les pubs pour devenir dev à 40 ans facilement.
+- Développeur, c’est beaucoup de connaissance et de travail et ce doit être un choix éclairé, pas un choix pas default ou facile.
+- Il décrit certains biais comme un 20 ans sans expérience est plus pardonné qu’à 40, le temps à y consacrer est différent…
+- Compensé par des actes de motivation (GitHub, participation open source, meetups…).
+- Mais le temps d’apprendre de ses erreurs n’a pas vraiment de court-circuit.
+- Bref, une formation, c’est bien mais pas suffisant.
 
-Navigate your own way [https://www.infoq.com/presentations/lessons-opportunities-carrier/](https://www.infoq.com/presentations/lessons-opportunities-carrier/)
+Navigate your own way
+[https://www.infoq.com/presentations/lessons-opportunities-carrier/](https://www.infoq.com/presentations/lessons-opportunities-carrier/)
 
-- IBMer for 21 years. I'm a Java champion
-- Réfléchir à sa carrière en mode time box, chercher sa promotion ? Tu peux décider ton chemin
-- Momentum pandémie ça lui a fait bcp réfléchir sur sa vie et où elle était. Moment où elle quittait IBM pour aller vers RH (cœur se brise)
-- Essentiels pour prendre ton propre chemin 
-- Se connaître soit même, reconnaître les différences avec les autres 
-- connaître tes valeurs: c’est quoi important pour toi, c’est quoi qui te motive, ce qui te démotive. Écrire des mots 
-- Se fixer des objectifs avec l'aide des autres
-- Repusher ses limites, sur des sujets dont tu penses que ce n'est pas possible pour toi
-- Participe activement, entoure toi bien
-- Un talk très personnel et inspirant
+- IBMer for 21 years. I’m a Java champion.
+- Réfléchir à sa carrière en mode time box, chercher sa promotion ? Tu peux décider ton chemin.
+- Momentum pandémie ça lui a fait beaucoup réfléchir sur sa vie et où elle était. Moment où elle quittait IBM pour aller vers RH (cœur se brise).
+- Essentiels pour prendre ton propre chemin. 
+- Se connaître soit-même, reconnaître les différences avec les autres. 
+- Connaître tes valeurs : qu’est-ce qui est important pour toi, qu’est-ce qui te motive ou te démotive. Écrire des mots. 
+- Se fixer des objectifs avec l’aide des autres.
+- Repousser ses limites sur des sujets dont tu penses que ce n’est pas possible pour toi.
+- Participe activement, entoure-toi bien.
+- Un talk très personnel et inspirant.
 
-Un article sur le trouble TDAH chez le développeur adulte [https://rlemaitre.com/fr/posts/2023/11/hacker-le-tdah-strat%C3%A9gies-pour-le-d%C3%A9veloppeur-moderne/](https://rlemaitre.com/fr/posts/2023/11/hacker-le-tdah-strat%C3%A9gies-pour-le-d%C3%A9veloppeur-moderne/)
+Un article sur le trouble TDAH chez le développeur adulte
+[https://rlemaitre.com/fr/posts/2023/11/hacker-le-tdah-strat%C3%A9gies-pour-le-d%C3%A9veloppeur-moderne/](https://rlemaitre.com/fr/posts/2023/11/hacker-le-tdah-strat%C3%A9gies-pour-le-d%C3%A9veloppeur-moderne/)
 
-- Diagnostiqué à 44 ans
-- Schéma d’inattention et d’hyperactivite/implusivite qui interfere avec le fonctionnement
-- Affecte le fonctionnement social scolaire ou professionnel
-- Non diagnistiqué: burn out anxiété ou depression
-  - Souvent non diagnostiqué jusqu’à ce que se propres enfants soient diagnostiqués 
-- Mais cela amène du positif: hyperfocus, resolution creative de problèmes, adaptation rapide aux changements qui sont du pain béni 
-- Le négatif c’est la gestion du temps, organisation, instabilité
-- Discute ensuite les phénomènes dans le cerveau
-- Et donne des techniques et des pièges à éviter
-- Vous avez sûrement des collègues TDAH ou l’êtes-vous meme
-
-
-
+- Diagnostiqué à 44 ans.
+- Schéma d’inattention et d’hyperactivité/impulsivité qui interfère avec le fonctionnement.
+- Affecte le fonctionnement social scolaire ou professionnel.
+- Non diagnostiqué : burn out, anxiété ou depression.
+- Souvent non diagnostiqué jusqu’à ce que ses propres enfants soient diagnostiqués. 
+- Mais cela amène du positif : hyperfocus, résolution créative de problèmes, adaptation rapide aux changements qui sont du pain béni. 
+- Le négatif, c’est la gestion du temps, l’organisation, l’instabilité.
+- Discute ensuite les phénomènes dans le cerveau.
+- Et donne des techniques et des pièges à éviter.
+- Vous avez sûrement des collègues TDAH ou, l’êtes-vous vous-même.
 
 
 ## Conférences
