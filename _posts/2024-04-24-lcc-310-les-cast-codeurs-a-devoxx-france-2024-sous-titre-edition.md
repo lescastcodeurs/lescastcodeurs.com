@@ -5,7 +5,7 @@ team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, A
 layout: blog-post
 episode: 310
 mp3_length: 38136132
-tweet: Les Cast Codeurs à Devoxx France 2024 : sous-titre édition
+tweet: Les Cast Codeurs à Devoxx France 2024 - sous-titre édition
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 La clôture de Devoxx France 2024 avec les cast codeurs. L'année où le sous-titrage était un personnage à part entière de Devoxx France.  
