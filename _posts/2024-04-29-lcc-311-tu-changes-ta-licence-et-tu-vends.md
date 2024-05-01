@@ -8,9 +8,9 @@ mp3_length: 54284740
 tweet: Tu changes ta licence et tu vends #Angular #Wiz #Redis #XZ #Keycloak #Jilt #JFR #Valkey #Grok #Albert #VSCode #JavaOne #IBM #Hashicorp #Oracle #Apple #AMA
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Cet épisode news revient sur le rachat de Hashicorp par IBM, sur le changement de license Redis, sur le bug macos 14.4 et Java, sur la faille de de chaine d'approvisionnement sur XZ.
-Et nous débutons notre subrique Ask Me Anything. 
-N'hésitez pas à nous soumettre vos question sur <https://lescastcodeurs.com/ama>.
+Cet épisode news revient sur le rachat de HashiCorp par IBM, sur le changement de license Redis, sur le bug macOS 14.4 et Java, sur la faille de chaine d'approvisionnement sur XZ.
+Et nous commençons notre rubrique _Ask Me Anything_. 
+N'hésitez pas à nous soumettre vos questions sur <https://lescastcodeurs.com/ama>.
 
 Enregistré le 26 avril 2024
 
@@ -23,30 +23,30 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-311.mp3](https://traffi
 Attendez peut-être avant d’upgrader macOS à la version 14.4, si vous faites du Java ! Attention le crash !
 [https://blogs.oracle.com/java/post/java-on-macos-14-4](https://blogs.oracle.com/java/post/java-on-macos-14-4)
 
-- Bug à suivre [https://bugs.java.com/bugdatabase/view_bug?bug_id=8327860](https://bugs.java.com/bugdatabase/view_bug?bug_id=8327860)
-- À été fixé en 14.4.1 [https://blogs.oracle.com/java/post/java-on-macos-14-4](https://blogs.oracle.com/java/post/java-on-macos-14-4)
-- c'était lié à un changement de comportement dans l'execution de code dynamique (compilé après le lancement du process)
-- Au lieu de recevoir signal, SIGBUS or SIGSEGV et de le gérer
-- SIGKILL était lancé et forcément ça marchait moins bien
-- Apple a corrigé le comportement
+- Bug à suivre sur [https://bugs.java.com/bugdatabase/view_bug?bug_id=8327860](https://bugs.java.com/bugdatabase/view_bug?bug_id=8327860).
+- A été fixé en 14.4.1 ([https://blogs.oracle.com/java/post/java-on-macos-14-4](https://blogs.oracle.com/java/post/java-on-macos-14-4)).
+- C’était lié à un changement de comportement dans l’exécution de code dynamique (compilé après le lancement du process).
+- Au lieu de recevoir le signal `SIGBUS` or `SIGSEGV` et de le gérer, le signal `SIGKILL` était lancé et forcément ça marchait moins bien.
+- Apple a corrigé le comportement.
 
 Article de Gunnar Morling sur la nouvelle API de “gatherer” de Java 22, pour améliorer les streams, ici en montrant une implémentation d’un “zipper” qui assemble les éléments de 2 streams 2 à 2
 [https://www.morling.dev/blog/zipping-gatherer/](https://www.morling.dev/blog/zipping-gatherer/)
 
-- on a parlé des gatherers déjà qui permet de faire de faire des opérateurs intermediaries custom par rapport à ce que je JDK offre
-- ici Gunnar montrer un zipper qui n'est pas présent par défaut
+- On a déjà parlé des gatherers qui permettent de faire des opérateurs intermédiaires custom par rapport à ce qu’offre le JDK.
+- Ici Gunnar montre un `Zipper` qui n’est pas présent par défaut.
 
 Julien Ponge est Java champion, félicitations !
 
-JFR 9 est sorti [https://hirt.se/blog/?p=1477](https://hirt.se/blog/?p=1477)
+JFR 9 est sorti
+[https://hirt.se/blog/?p=1477](https://hirt.se/blog/?p=1477)
 
-- peut tourner dans Eclispe 
-- Support de arm64 pour Linux et macOS
+- Peut tourner dans Eclipse. 
+- Support de ARM64 pour Linux et macOS.
 - Dark mode !
-- Des améliorations de performance 
-- Support graalvm native image
-- Nouveau afficheur de flame graph 
-- G1 pause target compliance
+- Des améliorations de performance.
+- Support GraalVM native image.
+- Nouvel afficheur de flame graph. 
+- G1 pause target compliance.
 
 
 ### Librairies
@@ -54,35 +54,34 @@ JFR 9 est sorti [https://hirt.se/blog/?p=1477](https://hirt.se/blog/?p=1477)
 Nouvelle version de Jilt, l’annotation processor qui implémente les builders
 [https://www.endoflineblog.com/jilt-1_5-released](https://www.endoflineblog.com/jilt-1_5-released)
 
-- Evite les hacks à la Lombok
-- Une nouvelle méthode toBuilder() pour obtenir un builder d’un bean déjà configuré
-- Support des méta-annotations, histoire de pas répéter sur chaque type comment on souhaite définir ses builders
-- Possibilité de mettre l’annotation @Builder sur les constructeurs privés
-- Support agnostique de @Nullable quel que soit l’origine de cette annotation
+- Évite les hacks à la Lombok.
+- Une nouvelle méthode `toBuilder()` pour obtenir un builder d’un bean déjà configuré.
+- Support des méta-annotations, histoire de pas répéter sur chaque type comment on souhaite définir ses builders.
+- Possibilité de mettre l’annotation `@Builder` sur les constructeurs privés.
+- Support agnostique de `@Nullable` quelle que soit l’origine de cette annotation
 
 
 ### Infrastructure
 
-IBM pourrait racheter Hashicorp [https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/](https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/)
+IBM pourrait racheter HashiCorp
+[https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/](https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/)
 
-- rien n’est fait
-- Hashicorp qui a été dans la tourmente après le passage de Terraform en closed source
-- mais les revenus sont là. 
-- C’est fait [https://www.hashicorp.com/blog/hashicorp-joins-ibm](https://www.hashicorp.com/blog/hashicorp-joins-ibm)
-
-
+- Rien n’est fait.
+- HashiCorp a été dans la tourmente après le passage de Terraform en closed source.
+- Mais les revenus sont là. 
+- C’est fait [https://www.hashicorp.com/blog/hashicorp-joins-ibm](https://www.hashicorp.com/blog/hashicorp-joins-ibm).
 
 ### Web
 
 Google intègre son framework interne Wiz dans Angular
 [https://blog.angular.io/angular-and-wiz-are-better-together-91e633d8cd5a](https://blog.angular.io/angular-and-wiz-are-better-together-91e633d8cd5a)
 
-- Wiz est un framework interne à Google utilisé dans des produits comme Google Search ou Photos, très axé sur la performance
-- Wiz va amener plus de performance à Angular, tout en gardant la super interactivité d’Angular
-- Wiz historiquement sur la perf et peu d'interactions utilisateur, angular sur interactions riches et super experience developer
-- Wiz server side rendering first et streamé, ce qui élimine le javascript dans le chemin de charge initial
-- des fonctions comme deferred views sont venu vers angular et signals sont venu a wiz
-- vont merger au fur et a mesure des prochaines années via Angular comme receptacle open
+- Wiz est un framework interne à Google utilisé dans des produits comme Google Search ou Photos, très axé sur la performance.
+- Wiz va amener plus de performance à Angular, tout en gardant la super interactivité d’Angular.
+- Wiz historiquement sur la perf et peu d’interactions utilisateur, Angular sur interactions riches et super experience développeur.
+- Wiz server side rendering first est streamé, ce qui élimine le javascript dans le chemin de charge initial.
+- Des fonctions comme _deferred views_ sont venus vers Angular et _signals_ sont venus à wiz.
+- Vont merger au fur et à mesure des prochaines années via Angular comme receptacle open.
 
 
 ### Data et Intelligence Artificielle
@@ -90,61 +89,63 @@ Google intègre son framework interne Wiz dans Angular
 Redis aussi se met à changer sa licence pour une licence pas tout à fait open source. Un fork nommé Valkey, animé par des mainteneurs de Redis, rejoint la fondation Linux
 [https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community](https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community)
 
-- AWS, Google, Oracle, Ericsson et Snap sont nommés dans l'effort
-- Open Source fight back mais via des grands acteurs qui ont un interet dans la version "gratuite" pour le cloud
-- les infos de Redis [https://redis.com/blog/redis-adopts-dual-source-available-licensing/](https://redis.com/blog/redis-adopts-dual-source-available-licensing/)
-- En gros releasé sous SSPL (comme MongoDB) ou une license spécifique Redis
-- RSAL est source available license (dont pas open source) et SSPL est pas reconnu comme open source par l'OSI car elle impose des restrictions à l'usage
-- du coup certaines fonctions closed sources deviennent source available
-- Met les cloud provider en cause du problème, ils font de l'argent et commodetize Redis sans redonner du revenu aux développeurs de Redis
-- est-ce que les gens seront ok de continuer a coder pour du code pas open, juste disponible
-- et évidemment ca casse l'écosystème redis ou open source qui voulait utiliser redis en tant qu'open 
-- pas autorisé de faire du support sur un produit qui derive de redis sans payer une license si c'est "compétitif"
+- AWS, Google, Oracle, Ericsson et Snap sont nommés dans l’effort.
+- Open Source fight back mais via des grands acteurs qui ont un intérêt dans la version "gratuite" pour le cloud.
+- Les infos de Redis [https://redis.com/blog/redis-adopts-dual-source-available-licensing/](https://redis.com/blog/redis-adopts-dual-source-available-licensing/).
+- En gros releasé sous SSPL (comme MongoDB) ou une license spécifique Redis.
+- RSAL est une source available license (donc pas open source) et SSPL n’est pas reconnue comme open source par l’OSI car elle impose des restrictions à l’usage.
+- Du coup certaines fonctions closed sources deviennent source available.
+- Met les cloud providers en cause du problème, ils font de l’argent et commoditisent Redis sans redonner du revenu aux développeurs de Redis.
+- Est-ce que les gens seront ok de continuer à coder pour du code pas open, juste disponible ?
+- Et évidemment ça casse l’écosystème Redis ou open source qui voulait utiliser Redis en tant qu’open. 
+- Pas autorisé de faire du support sur un produit qui derive de Redis sans payer une license si c’est "compétitif".
 
 Elon Musk tient sa promesse et ouvre son Large Language Model, Grok
 [https://x.ai/blog/grok-os](https://x.ai/blog/grok-os)
 
-- Modèle de 314 milliards de paramètres (Pi !)
-- Architecture MoE (Mixture of Experts) qui fait qu’il n’y a que 25% des neurones actifs à l’inférence (efficace et rapide)
-- C’est un modèle “pre-trained”, de base, non-finetuné, donc pas très utilisable en l’état (il faut le finetuner en mode “instruct” et/ou “chat” pour qu’il soit vraiment utilisable)
-- Le code dans le repo Github, ainsi que les poids du réseau de neurones, sont OSS sous licence Apache 2
+- Modèle de 314 milliards de paramètres (Pi !).
+- Architecture MoE (Mixture of Experts) qui fait qu’il n’y a que 25% des neurones actifs à l’inférence (efficace et rapide).
+- C’est un modèle “pre-trained”, de base, non-fine-tuné, donc pas très utilisable en l’état (il faut le fine-tuner en mode “instruct” et/ou “chat” pour qu’il soit vraiment utilisable).
+- Le code dans le repo Github, ainsi que les poids du réseau de neurones, sont OSS sous licence Apache 2.
 - L’entrainement a été effectué avec JAX et Rust !
-- La cut-off date est Octobre 2023
+- La cut-off date est octobre 2023.
 
 ### Outillage
 
-Oracle lance son extension VSCode pour Java [https://devclass.com/2024/03/19/java-22-is-out-and-oracle-is-pushing-its-own-extension-for-vs-code-over-not-very-good-red-hat-alternative/](https://devclass.com/2024/03/19/java-22-is-out-and-oracle-is-pushing-its-own-extension-for-vs-code-over-not-very-good-red-hat-alternative/)
+Oracle lance son extension VSCode pour Java
+[https://devclass.com/2024/03/19/java-22-is-out-and-oracle-is-pushing-its-own-extension-for-vs-code-over-not-very-good-red-hat-alternative/](https://devclass.com/2024/03/19/java-22-is-out-and-oracle-is-pushing-its-own-extension-for-vs-code-over-not-very-good-red-hat-alternative/)
 
-- une extension en competition avec l'extension officielle et historique Java faite par MS et Red Hat
-- Oracle estime l'extension pas tres bonne cafr basée sur le compilateur Eclipse
-- 33M de telechargements quand même
-- La nouvelle s'appuie sur javac donc proche de la verite par definition et en avance par definition de la facon dont Oracle release quand il veut
-- aligné avec le timing de simplification de Java pour les débutants
+- Une extension en compétition avec l’extension officielle et historique Java faite par Microsoft et Red Hat.
+- Oracle estime l’extension pas trés bonne, car basée sur le compilateur Eclipse.
+- 33M de téléchargements quand même.
+- La nouvelle s’appuie sur `javac` donc proche de la vérité par définition et en avance par définition de la facon dont Oracle release quand il veut.
+- Aligné sur le timing de simplification de Java pour les débutants.
 
 ### Sécurité
 
-Rémi Forax nous partage cet article sur les puces M1/M2/M3 d’Apple, qui utilisent un nouveau “prefetcher” un peu trop agressif qui permet de leaker les clés utilisées lors des opérations cryptographiques :
+Rémi Forax nous partage cet article sur les puces M1/M2/M3 d’Apple, qui utilisent un nouveau _prefetcher_ un peu trop agressif qui permet de leaker les clés utilisées lors des opérations cryptographiques :
 [https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
 
-- comme d'hab pour les side channels attaques de de type c'est su un autre process peut tourner sur la machine et être adversaire
-- lié a un data dependent memory fetcher
-- dans ce cas, un champ est soit une valeur, soit un pointeur et Appel pre-fetch dans le cas où c'est un pointeur
-- et c'est attaquable en injectant des variables qui ressemblent a des pointeurs vers des données controlées et on peut en déduire la clés secrete si cette variable et la clé ont des opérations
-- mais le code peut désactiver cette optimisation si j'ai bien compris
+- Comme d’habitude, pour les side channels attaques de ce type, c’est sur un autre process qui peut tourner sur la machine et être adversaire.
+- Lié à un _data dependent memory fetcher_.
+- Dans ce cas, un champ est soit une valeur, soit un pointeur et appel pre-fetch dans le cas où c’est un pointeur.
+- Et c’est attaquable en injectant des variables qui ressemblent à des pointeurs vers des données contrôlées et on peut en déduire la clé secrete si cette variable et la clé ont des opérations.
+- Mais le code peut désactiver cette optimisation si j’ai bien compris.
 
 L’histoire d’une porte dérobée dans le projet open source XZ qui a failli mettre à mal toutes les connexions sous Open SSH, avec pour tâche de fond la fragilité de projets open source maintenu par des individuels bénévoles à bout de souffle
 [https://uwyn.net/@rusty@piaille.fr/112190942187106096](https://uwyn.net/@rusty@piaille.fr/112190942187106096)
 
-- ArsTechnica détaille l’histoire [https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/)
-- [https://www.minimachines.net/actu/la-menace-xz-ou-comment-le-ciel-a-failli-tomber-sur-nos-tetes-125967](https://www.minimachines.net/actu/la-menace-xz-ou-comment-le-ciel-a-failli-tomber-sur-nos-tetes-125967)
+- Ars Technica détaille l’histoire : [https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/](https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/).
+- [https://www.minimachines.net/actu/la-menace-xz-ou-comment-le-ciel-a-failli-tomber-sur-nos-tetes-125967](https://www.minimachines.net/actu/la-menace-xz-ou-comment-le-ciel-a-failli-tomber-sur-nos-tetes-125967).
 
-Les impacts de laisser trainer son secret client dans les connections Keycloak [https://medium.com/@benjaminbuffet/dis-keycloack-cest-grave-si-je-laisse-tra%C3%AEner-mon-client-secret-d371a0f657ee](https://medium.com/@benjaminbuffet/dis-keycloack-cest-grave-si-je-laisse-tra%C3%AEner-mon-client-secret-d371a0f657ee)
+Les impacts de laisser trainer son _client secret_ dans les connections Keycloak
+[https://medium.com/@benjaminbuffet/dis-keycloack-cest-grave-si-je-laisse-tra%C3%AEner-mon-client-secret-d371a0f657ee](https://medium.com/@benjaminbuffet/dis-keycloack-cest-grave-si-je-laisse-tra%C3%AEner-mon-client-secret-d371a0f657ee)
 
-- un article qui explique les raison plutôt que de dire c'est mal car c'est secret
-- quand on utilise un mot de passe du client (et pas un JWT signé ou une clé privé)
-- si ca se perd, c'est l'usurpation de l'identité d'un utilisateur via son usage de client qui est en jeu (donc joué en tant que)
-- ou usurper l'identité client en tant que telle (plus facile)
-- et quelques conseils pour réduire ce risque
+- Un article qui explique les raisons plutôt que de dire "c’est mal, car c’est secret".
+- Quand on utilise un mot de passe du client (et pas un JWT signé ou une clé privée).
+- Si ça se perd, c’est l’usurpation de l’identité d’un utilisateur via son usage de client qui est en jeu (donc joué en tant que).
+- Ou usurper l’identité client en tant que telle (plus facile).
+- Et quelques conseils pour réduire ce risque.
 
 ### Loi, société et organisation
 
@@ -152,16 +153,17 @@ JavaOne serait de retour pour de vrai ?
 [https://www.oracle.com/javaone/](https://www.oracle.com/javaone/)
 
 - En mars 2025, c’est dans un an, on a le temps !
-- Ça se déroulera sur le campus d’Oracle dans la Silicon Valley
-- peu d'infos et de détail, pas sur que cela soit le JavaOne de nos souvenirs.
+- Ça se déroulera sur le campus d’Oracle dans la Silicon Valley.
+- Peu d’infos et de détails, pas sûr que cela soit le JavaOne de nos souvenirs.
 
-Des infos concretes sur l'IA souveraine Albert [https://x.com/emile_marzolf/status/1783072739630121432](https://x.com/emile_marzolf/status/1783072739630121432)
+Des infos concretes sur l’IA souveraine Albert
+[https://x.com/emile_marzolf/status/1783072739630121432](https://x.com/emile_marzolf/status/1783072739630121432)
 
 ### AMA, Ask Me Anything
 
 Hamza:
 
-"Comment être un rockstar dans le domaine, s’il vous plaît une réponse détaillée sur le plan d’action veille, auto formation, side projets …… depuis vos expériences personnelles. Merci d’avance "
+> Comment être une rockstar dans le domaine, s’il vous plaît une réponse détaillée sur le plan d’action veille, auto formation, side projets …… depuis vos expériences personnelles. Merci d’avance
 
 ## Conférences
 

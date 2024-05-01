@@ -10,7 +10,7 @@ tweet: Les Cast Codeurs à Devoxx France 2024 - sous-titre édition
 ---
 La clôture de Devoxx France 2024 avec les cast codeurs. L'année où le sous-titrage était un personnage à part entière de Devoxx France.  
 Vous aurez beaucoup plus de plaisir et de contexte en regardant la [vidéo](https://lescastcodeurs.com/video/310) qu'en écoutant cet épisode.
-Les sous titres jouent un rôle important.
+Les sous-titres jouent un rôle important.
 Donc pour une fois ne nous écoutez pas, regardez nous :o)
 
 Enregistré le 19 avril 2024
