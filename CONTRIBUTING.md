@@ -6,7 +6,7 @@ Pour contribuer au site lescastcodeurs.com vous aurez tout d’abord besoin de G
 Vous aurez aussi besoin de [Jekyll](https://jekyllrb.com). Pour son installation, référez-vous à [sa documentation officielle](https://jekyllrb.com/docs/installation/)
 et suivez la procédure en fonction de votre système d’exploitation.
 
-Pour les habitués la procédure est la suivante une fois [Ruby 3.1+](https://www.ruby-lang.org/en/downloads/), [RubyGems](https://rubygems.org/pages/download),
+Pour les habitués la procédure est la suivante une fois [Ruby 3.3+](https://www.ruby-lang.org/en/downloads/), [RubyGems](https://rubygems.org/pages/download),
 et GCC / Make (pour les gems natives) installés :
 
     gem install bundler
