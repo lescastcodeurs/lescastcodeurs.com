@@ -1,6 +1,7 @@
 ---
 name: Emmanuel Bernard
 gravatar_hash: 34a47bd77922181070aef96782110714
+website: https://emmanuelbernard.com
 blog: https://emmanuelbernard.com/blog/
 twitter: emmanuelbernard
 ---
