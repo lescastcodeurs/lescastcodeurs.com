@@ -9,7 +9,7 @@ tweet: La faille sous la faille sous la faille #spring #nonIA #failles #OpenTele
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Cet épisode est relativement pauvre en IA, ouaissssssss !
-Mais il nous reste plein de Spring, plein de failles, plein d'OpenTelemetry, un peu de versionnage sémantique, une astuce Git et bien d'autres choses encore.
+Mais il nous reste plein de Spring, plein de failles, plein d’OpenTelemetry, un peu de versionnage sémantique, une astuce Git et bien d’autres choses encore.
 
 Enregistré le 8 novembre 2024
 
@@ -20,226 +20,250 @@ Téléchargement de l’épisode [LesCastCodeurs-Episode-318.mp3](https://traffi
 
 ### Langages
 
-Le createur de Fernflower in decompilateur qui a relancé l'outillage autour de Java 8 est mort, un hommage d'IntelliJ IDEA [https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
+Le créateur de FernFlower, un décompilateur qui a relancé l’outillage autour de Java 8, est mort, un hommage d’IntelliJ IDEA :
+[https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
 
-- les decompilateurs s'appuyaient sur des patterns reconnus et étaient fragiles et incomplets
-- surtout quand Java 8 a changé le pattern try catch et ajouté des concepts comme les annotations
-- le champ était moribond quand Stiver s'est lancé
-- dommage l'article n'explique pas comment le control-flow graph est genere a partir du bytecode pour ameliorer la decompilation
+- Les décompilateurs s’appuyaient sur des patterns reconnus et étaient fragiles et incomplets.
+- Surtout quand Java 8 a changé le pattern try catch et ajouté des concepts comme les annotations.
+- Le champ était moribond quand Stiver s’est lancé.
+- Dommage l’article n’explique pas comment le control-flow graph est généré à partir du bytecode pour améliorer la décompilation.
 
 
 ### Librairies
 
-On peut maintenant utiliser Jakarta Data Repository dans Quarkus [https://in.relation.to/2024/11/04/data-in-quarkus/](https://in.relation.to/2024/11/04/data-in-quarkus/)
+On peut maintenant utiliser Jakarta Data Repository dans Quarkus :
+[https://in.relation.to/2024/11/04/data-in-quarkus/](https://in.relation.to/2024/11/04/data-in-quarkus/)
 
-- petit article avec un projet example 
-- aussi un lien sur la presentation de Jakarta Data par Gavin à Devoxx Belgique
+- Petit article avec un projet example.
+- Aussi un lien sur la presentation de Jakarta Data par Gavin à Devoxx Belgique.
 
-Quarkus 3.16 [https://quarkus.io/guides/opentelemetry-logging](https://quarkus.io/guides/opentelemetry-logging)
+Quarkus 3.16 :
+[https://quarkus.io/guides/opentelemetry-logging](https://quarkus.io/guides/opentelemetry-logging)
 
-- logs distribués avec OpenTelemetry (preview)
-- deserialiseurs Jackson sans reflection
-- des améliorations dans la stack de sécurité
-- TLS registry a ratjouté graphql client et keycloak admin client
-- LEs logs des container devservice et des access http sont visible dans la DevUI
-- Les extensions peuvent maintenant ecrire leur doc en markdown (c'etait juste asciidoc avant)
+- Logs distribués avec OpenTelemetry (preview).
+- Désérialisation Jackson sans reflection.
+- Des améliorations dans la stack de sécurité.
+- TLS registry a rajouté GraphQL client et Keycloak admin client.
+- Les logs des container devservices et des access HTTP sont visibles dans la DevUI.
+- Les extensions peuvent maintenant écrire leur doc en markdown (c’était juste AsciiDoc avant).
 
-Un artcile sur comment débuter en Spring Batch [https://www.sfeir.dev/back/planifier-des-taches-avec-spring-batch/](https://www.sfeir.dev/back/planifier-des-taches-avec-spring-batch/)
+Un article sur comment débuter en Spring Batch :
+[https://www.sfeir.dev/back/planifier-des-taches-avec-spring-batch/](https://www.sfeir.dev/back/planifier-des-taches-avec-spring-batch/)
 
 
-Le support OAuth2 pour RestClient arrive dans Security 6.4 / Boot 3.4. Plus de hack de WebClient dans vos applications Spring-Web ! [https://spring.io/blog/2024/10/28/restclient-support-for-oauth2-in-spring-security-6-4](https://spring.io/blog/2024/10/28/restclient-support-for-oauth2-in-spring-security-6-4)
+Le support OAuth2 pour RestClient arrive dans Security 6.4 / Boot 3.4. Plus de hack de WebClient dans vos applications Spring-Web !
+[https://spring.io/blog/2024/10/28/restclient-support-for-oauth2-in-spring-security-6-4](https://spring.io/blog/2024/10/28/restclient-support-for-oauth2-in-spring-security-6-4)
 
-- `RestClient` a été ajouté dans Spring Framework 6.1
-- API Fluide
+- `RestClient` a été ajouté dans Spring Framework 6.1.
+- API Fluide.
 - Spring Security 6.4 simplifie la configuration OAuth2 avec le nouveau client HTTP synchrone `RestClient`.
 - `RestClient` permet des requêtes de ressources sans dépendances réactives, alignant la configuration entre applications servlet et réactives.
 - La mise à jour facilite la migration depuis `RestTemplate` et ouvre la voie à des scénarios avancés.
 
-Marre des microservices ? Revenez au monoliths avec Spring Modulith 1.3RC1, 1.2.5 et 1.1.10 [https://spring.io/blog/2024/10/28/spring-modulith-1-3-rc1-1-2-5-and-1-1-10-released](https://spring.io/blog/2024/10/28/spring-modulith-1-3-rc1-1-2-5-and-1-1-10-released)
+Marre des microservices ? Revenez au monoliths avec Spring Modulith 1.3RC1, 1.2.5 et 1.1.10 :
+[https://spring.io/blog/2024/10/28/spring-modulith-1-3-rc1-1-2-5-and-1-1-10-released](https://spring.io/blog/2024/10/28/spring-modulith-1-3-rc1-1-2-5-and-1-1-10-released)
 
 - Spring Modulith 1.3 RC1, 1.2.5, and 1.1.10 sont disponibles.
 - La version 1.3 RC1 inclut des nouvelles fonctionnalités :
-  - archiving event publication completion mode
-  - compatibilité avec MariaDB et Oracle avec JDBC-based event publication registry
-  - Possibilité d’externaliser des événements dans des _MessageChannels_ de Spring.
-  - Expressions SpEL dans `@Externalized` 
-  - validation d'architecture technique jMolecules.
+  - archiving event publication completion mode,
+  - compatibilité avec MariaDB et Oracle avec JDBC-based event publication registry,
+  - possibilité d’externaliser des événements dans des _MessageChannels_ de Spring,
+  - expressions SpEL dans `@Externalized`,
+  - validation d’architecture technique jMolecules.
 - Les versions 1.2.5 et 1.1.10 apportent des correctifs et mises à jour de dépendances.
 
-Spring gRPC 0.1 est sorti [https://github.com/spring-projects-experimental/spring-grpc](https://github.com/spring-projects-experimental/spring-grpc)
+Spring gRPC 0.1 est sorti :
+[https://github.com/spring-projects-experimental/spring-grpc](https://github.com/spring-projects-experimental/spring-grpc)
 
-- c'est tout nouveau et explorationel
-- si c'est un probleme qui vous gratte, ca vaut le coup de jeter un coup d'oeil et participer.
-- Spring Boot 3.3
+- C’est tout nouveau et explorationel.
+- Si c’est un problème qui vous gratte, ça vaut le coup de jeter un coup d’œil de participer.
+- Spring Boot 3.3.
 
-Integrer Spring avec Open Telemetry (OTLP  protocole) [https://spring.io/blog/2024/10/28/lets-use-opentelemetry-with-spring](https://spring.io/blog/2024/10/28/lets-use-opentelemetry-with-spring)
+Intégrer Spring avec Open Telemetry (protocole OTLP) :
+[https://spring.io/blog/2024/10/28/lets-use-opentelemetry-with-spring](https://spring.io/blog/2024/10/28/lets-use-opentelemetry-with-spring)
 
-- rappel de la valeur de ce standard Open Telemetry
-- comment l'utiliser dans vos projets Spring
+- Rappel de la valeur de ce standard Open Telemetry.
+- Comment l’utiliser dans vos projets Spring.
 
-Comment utiliser ollama avec Spring AI [https://spring.io/blog/2024/10/22/leverage-the-power-of-45k-free-hugging-face-models-with-spring-ai-and-ollama](https://spring.io/blog/2024/10/22/leverage-the-power-of-45k-free-hugging-face-models-with-spring-ai-and-ollama)
+Comment utiliser Ollama avec Spring AI :
+[https://spring.io/blog/2024/10/22/leverage-the-power-of-45k-free-hugging-face-models-with-spring-ai-and-ollama](https://spring.io/blog/2024/10/22/leverage-the-power-of-45k-free-hugging-face-models-with-spring-ai-and-ollama)
 
-- permet d'acceter aux 45k modeles de Hugging faces qui supportent le deploiement sur ollama
-- il y a un spring boot starter
-- c'est vraiment pour **debuter**
+- Permet d’accéder aux 45k modèles de Hugging faces qui supportent le déploiement sur Ollama.
+- Il y a un Spring Boot starter.
+- C’est vraiment bien pour **débuter**.
 
 
 
 ### Cloud
 
-Google Cloud Frankfort a subit 12h d’interruption [https://t.co/VueiQjhCA3](https://t.co/VueiQjhCA3)
+Google Cloud Frankfort a subit 12h d’interruption :
+[https://t.co/VueiQjhCA3](https://t.co/VueiQjhCA3)
 
-- Google Cloud a subi une panne de 12 heures dans la région europe-west3 (Francfort) le 24 octobre 2024.
-- La panne, causée par une défaillance d'alimentation et de refroidissement, a affecté plusieurs services, y compris Compute Engine et Kubernetes Engine.
-- Les utilisateurs ont rencontré des problèmes de création de VM, des échecs d'opérations et des retards de traitement.
-- Google a conseillé de migrer les charges de travail vers d'autres zones.
-- il y a eu une autre zone Europeenne pas mal affectée l'année dernière
-- et des clients ont perdu des données :sweat: 
+- Google Cloud a subi une panne de 12 heures dans la région `europe-west3` (Francfort) le 24 octobre 2024.
+- La panne, causée par une défaillance d’alimentation et de refroidissement, a affecté plusieurs services, y compris Compute Engine et Kubernetes Engine.
+- Les utilisateurs ont rencontré des problèmes de création de VM, des échecs d’opérations et des retards de traitement.
+- Google a conseillé de migrer les charges de travail vers d’autres zones.
+- Il y a eu une autre zone Européenne pas mal affectée l’année dernière.
+- Et des clients ont perdu des données :sweat:. 
 
 
 ### Web
 
-La fin de la World Wild Web Foundation [https://www.theregister.com/2024/09/30/world_wide_web_foundation_closes/](https://www.theregister.com/2024/09/30/world_wide_web_foundation_closes/)
+La fin de la World Wild Web Foundation :
+[https://www.theregister.com/2024/09/30/world_wide_web_foundation_closes/](https://www.theregister.com/2024/09/30/world_wide_web_foundation_closes/)
 
-- la Fondation World Wide Web ferme ses portes. 
-- Les cofondateurs estiment que les problèmes auxquels est confronté le Web ont changé et que d'autres groupes de défense peuvent désormais prendre le relais. 
-- Ils estiment également que la priorité absolue doit être donnée à la passion de Tim Berners-Lee pour redonner aux individus le pouvoir et le contrôle de leurs données et pour construire activement des systèmes de collaboration puissants (Solid Protocol - [https://solidproject.org/](https://solidproject.org/)).
+- La Fondation World Wide Web ferme ses portes. 
+- Les cofondateurs estiment que les problèmes auxquels est confronté le Web ont changé et que d’autres groupes de défense peuvent désormais prendre le relais.
+- Ils estiment également que la priorité absolue doit être donnée à la passion de Tim Berners-Lee pour redonner aux individus le pouvoir et le contrôle de leurs données et pour construire activement des systèmes de collaboration puissants (Solid Protocol : [https://solidproject.org/](https://solidproject.org/)).
 
-Release du [https://www.patternfly.org/](https://www.patternfly.org/) 6
+Release de PatternFly 6 :
+[https://www.patternfly.org/](https://www.patternfly.org/)
 
-- Fw opensource pour faire de UI, sponsor RH
-- Interessant à regarder
+- Framework open source pour faire de l'UI, sponsorisé par Red Hat.
+- Intéressant à regarder.
 
 
 ### Data et Intelligence Artificielle
 
-TSMC arrête des ventes à un client chinois qui aurait revenu un processeur à Huawei et utilise dans sa puce IA [https://www.reuters.com/technology/tsmc-suspended-shipments-china-firm-after-chip-found-huawei-processor-sources-2024-10-26/](https://www.reuters.com/technology/tsmc-suspended-shipments-china-firm-after-chip-found-huawei-processor-sources-2024-10-26/)
+TSMC a suspendu ses livraisons à Sophgo après la découverte d'une puce sur le processeur AI de Huawei
+[https://www.reuters.com/technology/tsmc-suspended-shipments-china-firm-after-chip-found-huawei-processor-sources-2024-10-26/](https://www.reuters.com/technology/tsmc-suspended-shipments-china-firm-after-chip-found-huawei-processor-sources-2024-10-26/)
 
-- Taiwan Semiconductor Manufacturing Company (TSMC) a suspendu ses livraisons à Sophgo, un concepteur de puces chinois, après la découverte d'une puce fabriquée par TSMC dans un processeur AI de Huawei (Ascend 910B). Cette découverte soulève des préoccupations concernant des violations potentielles des contrôles d'exportation des États-Unis, qui restreignent Huawei depuis 2020.
-- Sophgo, lié à Bitmain, a nié toute connexion avec Huawei et affirme se conformer aux lois applicables. Toutefois, l'incident a conduit à une enquête approfondie de TSMC et des autorités américaines et taïwanaises
+- Taiwan Semiconductor Manufacturing Company (TSMC) a suspendu ses livraisons à Sophgo, un concepteur de puces chinois, après la découverte d’une puce fabriquée par TSMC dans un processeur AI de Huawei (Ascend 910B). Cette découverte soulève des préoccupations concernant des violations potentielles des contrôles d’exportation des États-Unis, qui restreignent Huawei depuis 2020.
+- Sophgo, lié à Bitmain, a nié toute connexion avec Huawei et affirme se conformer aux lois applicables. Toutefois, l’incident a conduit à une enquête approfondie de TSMC et des autorités américaines et taïwanaises.
 
-Open AI et Microsoft, de l'amour à la guerre [https://www.computerworld.com/article/3593206/microsoft-and-openai-good-by-bromance-hel[…]m_source=Adestra&amp;huid=4349eeff-5b8b-493d-9e61-9abf8be5293b](https://www.computerworld.com/article/3593206/microsoft-and-openai-good-by-bromance-hello-open-warfare.html?utm_date=20241031152153&amp;utm_campaign=Top%20Enterprise%20Stories&amp;utm_content=slotno-3-title-Microsoft%20and%20OpenAI%3A%20Goodbye%20bromance%2C%20hello%20open%20warfare&amp;utm_term=Editorial%20-%20IDG%27s%20Top%20Enterprise%20Stories&amp;utm_medium=email&amp;utm_source=Adestra&amp;huid=4349eeff-5b8b-493d-9e61-9abf8be5293b)
+Open AI et Microsoft, de l’amour à la guerre :
+[https://www.computerworld.com/article/3593206/microsoft-and-openai-good-by-bromance-hello-open-warfare.html](https://www.computerworld.com/article/3593206/microsoft-and-openai-good-by-bromance-hello-open-warfare.html)
 
-- on a bien suivi les chants d'amour entre Sam Altman et Satia Nadella
-- ca c'est tendu ces derniers temps
-- deja avec le coup chez openAI où MS avait sifflé la fin de la récré
-- "on a le code, les données, l'IP et la capacité, on peut tout recrée"
-- OpenAi a un competiteur de Copilot et essaie de courtises ses clients
-- les apétits d'investissements d'OpenAI et une dispute sur la valeur de la aprt de MS qui a donné des crédits cloud semble etre aui coeur de la dispute du moment
+- On a bien suivi les chants d’amour entre Sam Altman et Satya Nadella.
+- Ça s’est tendu ces derniers temps.
+- Déjà avec le coup chez OpenAI où MS avait sifflé la fin de la récré.
+- "on a le code, les données, l’IP et la capacité, on peut tout recrée".
+- OpenAI a un compétiteur de Copilot et essaie de courtiser ses clients.
+- Les appétits d’investissements d’OpenAI et une dispute sur la valeur de la part de MS qui a donné des crédits cloud semble être au cœur de la dispute du moment.
 
-Debezium 3 est sorti [https://debezium.io/blog/2024/10/02/debezium-3-0-final-released/](https://debezium.io/blog/2024/10/02/debezium-3-0-final-released/)
+Debezium 3 est sorti :
+[https://debezium.io/blog/2024/10/02/debezium-3-0-final-released/](https://debezium.io/blog/2024/10/02/debezium-3-0-final-released/)
 
-- Java 17 minimum pour les connecteurs et 21 pour le serveur, l'extension quarkus outbox et pour l'operateur
-- nettoyage des depreciations
-- metriques par table maintenant
-- support for mysql 9 y compris vector data type
-- oracle, default mining strategie changée
-- ehcache off-heap ajouté
-- amelioarations diverses Oracle (offline RAC node flush, max string size for Extended
-- PostgreSQL PGVector 
-- etc (Spanner, vitess, ...)
+- Java 17 minimum pour les connecteurs et 21 pour le serveur, l’extension Quarkus outbox et l’opérateur,
+- Nettoyage des dépréciations,
+- Métriques par table maintenant,
+- Support for mysql 9 y compris vector data type,
+- Oracle, default mining strategy changée,
+- Ehcache off-heap ajouté,
+- amélioration diverses Oracle (offline RAC node flush, max string size for Extended),
+- PostgreSQL PGVector,
+- etc (Spanner, Vitess, ...).
 
-NotebookLlama: une version Open Source de NotebookLM [https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
+NotebookLlama, une version Open Source de NotebookLM :
+[https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama)
 
-- Si vous avez été impressionné par les démo de Gemini Notebook, en créant des podcasts à partir de différentes resources, testez la version llama
+- Si vous avez été impressionné par les démos de Gemini Notebook, en créant des podcasts à partir de différentes resources, testez la version Llama.
 - Tutoriel étape par étape pour transformer un PDF en podcast.
 
 
 ### Outillage
 
-Vous aimez Maven? Bien évidemment! Vous aimez asciidoctor? Absolument! Alors la version 3.1.0 du plugin asciidoctor pour maven est pour vous !! [https://github.com/asciidoctor/asciidoctor-maven-plugin](https://github.com/asciidoctor/asciidoctor-maven-plugin)
+Vous aimez Maven ? Bien évidemment ! Vous aimez Asciidoctor ? Absolument ! Alors la version 3.1.0 du plugin Asciidoctor pour Maven est pour vous !!
+[https://github.com/asciidoctor/asciidoctor-maven-plugin](https://github.com/asciidoctor/asciidoctor-maven-plugin)
 
-- Le plugin permet soit de convertir des documents asciidoc de manière autonome, soit de les gérer via le site maven
+- Le plugin permet soit de convertir des documents asciidoc de manière autonome, soit de les gérer via le site maven.
 
-GitHub Universe: de l’IA, de l’IA et encore de l’IA [https://github.blog/news-insights/product-news/universe-2024-previews-releases/](https://github.blog/news-insights/product-news/universe-2024-previews-releases/)
+GitHub Universe : de l’IA, de l’IA et encore de l’IA
+[https://github.blog/news-insights/product-news/universe-2024-previews-releases/](https://github.blog/news-insights/product-news/universe-2024-previews-releases/)
 
-- GitHub Universe 2024 présente les nouveautés de l'année, notamment la possibilité de choisir parmi plusieurs modèles d'IA pour GitHub Copilot (Claude 3.5, Gemini 1.5 Pro, OpenAI o1).
+- GitHub Universe 2024 présente les nouveautés de l’année, notamment la possibilité de choisir parmi plusieurs modèles d’IA pour GitHub Copilot (Claude 3.5, Gemini 1.5 Pro, OpenAI o1).
 - Nouvelles fonctionnalités : GitHub Spark pour créer des micro-applications, révisions de code assistées par Copilot, sécurité renforcée avec Copilot Autofix.
-- Simplification des workflows avec les extensions GitHub Copilot
-- Facilitation de la création d'applications IA génératives avec GitHub Models
+- Simplification des workflows avec les extensions GitHub Copilot.
+- Facilitation de la création d’applications IA génératives avec GitHub Models.
 
 
 
 ### Méthodologies
 
-Les blogs de developpeurs experts Java recommandés par IntelliJ [https://blog.jetbrains.com/idea/2024/11/top-java-blogs-for-experienced-programmers/](https://blog.jetbrains.com/idea/2024/11/top-java-blogs-for-experienced-programmers/)
+Les blogs de développeurs experts Java recommandés par IntelliJ :
+[https://blog.jetbrains.com/idea/2024/11/top-java-blogs-for-experienced-programmers/](https://blog.jetbrains.com/idea/2024/11/top-java-blogs-for-experienced-programmers/)
 
-- pas forcement d'accord avec toute la liste
-- mais elle donne de bonnes options si vous voulez lire plus de blogs Java
+- Pas forcément d’accord avec toute la liste.
+- Mais elle donne de bonnes options si vous voulez lire plus de blogs Java.
 
-Keycloak revient au semantic versioning après avoir suivi le versionage à la Google Chrome [https://www.keycloak.org/2024/10/release-updates](https://www.keycloak.org/2024/10/release-updates)
+Keycloak revient au semantic versioning après avoir suivi le versionnage à la Google Chrome :
+[https://www.keycloak.org/2024/10/release-updates](https://www.keycloak.org/2024/10/release-updates)
 
-- ne pas savoir si une mise a jour était retrocompatible était problématique pour les utilisateurs
-- aussi les librairies clientes seront délivrées séparément et supporteront toutes les versions serveur de keycloak supportés
+- Ne pas savoir si une mise à jour était rétrocompatible était problématique pour les utilisateurs.
+- Aussi les librairies clientes seront délivrées séparément et supporteront toutes les versions serveur de keycloak supportés.
 
 
 ### Sécurité
 
-Un exemple d'attaque de secure supply chain théorique identifiée dans le quarkiverse et les détails de la résolution [https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/](https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/)
+Un exemple d’attaque de secure supply chain théorique identifiée dans le Quarkiverse et les détails de la résolution :
+[https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/](https://quarkus.io/blog/quarkiverse-and-smallrye-new-release-process/)
 
-- dans le quarkiverse, les choses sont automatisées pour simplifier la vie des contributeurs d'extension occasionels
-- mais il y avait un défaut, les secrets de signature et d'accès à maven central étaient des secrets d'organisation
-- ce qui veut dire qu'un editeur d'extension malicieux pouvait ecrire un pluging ou un test qiu lisait ses secrets et pouvait livrer de faux artifacts
-- la solution est de séparer la construction des artifacts de l'etape de signature et de release sur maven central
-- comme cela les cles ne sont plus accessible
+- Dans le Quarkiverse, les choses sont automatisées pour simplifier la vie des contributeurs d’extension occasionnels.
+- Mais il y avait un défaut, les secrets de signature et d’accès à maven central étaient des secrets d’organisation.
+- Ce qui veut dire qu’un éditeur d’extension malicieux pouvait écrire un plugin ou un test qui lisait ces secrets et pouvait livrer de faux artifacts.
+- La solution est de séparer la construction des artifacts de l’étape de signature et de release sur maven central.
+- Comme cela les clés ne sont plus accessible.
 
-Avec Okta pus besoin de mot de passe quand tu as un identifiant long :face_with_hand_over_mouth: [https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/](https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/)
+Avec Okta pus besoin de mot de passe quand tu as un identifiant long :face_with_hand_over_mouth: :
+[https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/](https://trust.okta.com/security-advisories/okta-ad-ldap-delegated-authentication-username/)
 
-- LOL
-- Une vulnérabilité a été découverte dans la génération de la clé de cache pour l'authentification déléguée AD/LDAP.
-- Les conditions:
-  - **MFA non utilisé**
-  - **Nom d'utilisateur de 52 caractères ou plus**
-  - **Utilisateur authentifié précédemment, créant un cache d'authentification**
-  - **Le cache a été utilisé en premier, ce qui peut se produire si l'agent AD/LDAP était hors service ou inaccessible, par exemple en raison d'un trafic réseau élevé**
-  - **L'authentification s'est produite entre le 23 juillet 2024 et le 30 octobre 2024**
-- Fixé le 30 octobre, 2024
+- LOL !
+- Une vulnérabilité a été découverte dans la génération de la clé de cache pour l’authentification déléguée AD/LDAP.
+- Les conditions :
+  - MFA non utilisé,
+  - Nom d’utilisateur de 52 caractères ou plus,
+  - Utilisateur authentifié précédemment, créant un cache d’authentification,
+  - Le cache a été utilisé en premier, ce qui peut se produire si l’agent AD/LDAP était hors service ou inaccessible, par exemple en raison d’un trafic réseau élevé,
+  - L’authentification s’est produite entre le 23 juillet 2024 et le 30 octobre 2024.
+- Fixé le 30 octobre 2024.
 
-La revanche des imprimantes !! Linux ne les aime pas, et elles lui rendent bien. [https://www.theregister.com/2024/09/26/cups_linux_rce_disclosed/](https://www.theregister.com/2024/09/26/cups_linux_rce_disclosed/)
+La revanche des imprimantes !! Linux ne les aime pas, et elles lui rendent bien.
+[https://www.theregister.com/2024/09/26/cups_linux_rce_disclosed/](https://www.theregister.com/2024/09/26/cups_linux_rce_disclosed/)
 
-- Après quelques heures / jours de rumeurs sur une faille 9.9/10 CVSS il s'avère que cela concerne que les système avec le système d'impression CUPS et cups-browsed
-- Désactivez et/ou supprimez le service _cups-browsed_. 
-- Mettez à jour votre installation CUPS pour appliquer les mises à jour de sécurité lorsqu'elles sont disponibles. 
-- Envisagez de bloquer l'accès au port UDP 631 et également de désactiver le DNS-SD. 
-- Cela concerne la plupart des distributions Linux, certaines BSD, possiblement Google ChromeOS, Solaris d’Oracle et potentiellement d’autres systèmes, car CUPS est intégré à diverses distributions pour fournir la fonctionnalité d'impression.
-- Pour exploiter cette vulnérabilité via internet ou le réseau local (LAN), un attaquant doit pouvoir accéder à votre service CUPS sur le port UDP 631. Idéalement, aucun de vous ne devrait exposer ce port sur l'internet public. L'attaquant doit également attendre que vous lanciez une tâche d'impression.
-- Si le port 631 n'est pas directement accessible, un attaquant pourrait être en mesure de falsifier des annonces _zeroconf_, _mDNS_ ou _DNS-SD_ pour exploiter cette vulnérabilité sur un LAN. 
+- Après quelques heures / jours de rumeurs sur une faille 9.9/10 CVSS, il s’avère que cela concerne que les systèmes avec le système d’impression CUPS et _cups-browsed_.
+- Désactivez et/ou supprimez le service _cups-browsed_.
+- Mettez à jour votre installation CUPS pour appliquer les mises à jour de sécurité lorsqu’elles sont disponibles. 
+- Envisagez de bloquer l’accès au port UDP 631 et également de désactiver le DNS-SD.
+- Cela concerne la plupart des distributions Linux, certaines BSD, possiblement Google ChromeOS, Solaris d’Oracle et potentiellement d’autres systèmes, car CUPS est intégré à diverses distributions pour fournir la fonctionnalité d’impression.
+- Pour exploiter cette vulnérabilité via internet ou le réseau local (LAN), un attaquant doit pouvoir accéder à votre service CUPS sur le port UDP 631. Idéalement, aucun de vous ne devrait exposer ce port sur l’internet public. L’attaquant doit également attendre que vous lanciez une tâche d’impression.
+- Si le port 631 n’est pas directement accessible, un attaquant pourrait être en mesure de falsifier des annonces _zeroconf_, _mDNS_ ou _DNS-SD_ pour exploiter cette vulnérabilité sur un LAN.
 
 
 ### Loi, société et organisation
 
-La version 1.0 de la  definition de l'IA l'Open Source est sortie [https://siliconangle.com/2024/10/28/osi-clarifies-makes-ai-systems-open-source-open-models-fall-short/](https://siliconangle.com/2024/10/28/osi-clarifies-makes-ai-systems-open-source-open-models-fall-short/)
+La version 1.0 de la définition de l’IA l’Open Source est sortie :
+[https://siliconangle.com/2024/10/28/osi-clarifies-makes-ai-systems-open-source-open-models-fall-short/](https://siliconangle.com/2024/10/28/osi-clarifies-makes-ai-systems-open-source-open-models-fall-short/)
 
-- L'Open Source Initiative (OSI) a clarifié les critères pour qu'un modèle d'IA soit considéré comme open-source : accès complet aux données de formation, au code source et aux paramètres d'entraînement.
-- La plupart des modèles dits "open" comme ceux de Meta (Llama) et Stability AI (Stable Diffusion) ne respectent pas ces critères, car ils imposent des restrictions sur l'utilisation commerciale et ne rendent pas publiques les données de formation
-- c'est au details de données de formation (donc pas forcement les données elle meme. "In particular, this must include: (1) the complete description of all data used for training, including (if used) of unshareable data, disclosing the provenance of the data, its scope and characteristics, how the data was obtained and selected, the labeling procedures, and data processing and filtering methodologies; (2) a listing of all publicly available training data and where to obtain it; and (3) a listing of all training data obtainable from third parties and where to obtain it, including for fee."
-- C'est en echo a la version d'open source AI de la linux fondation
+- L’Open Source Initiative (OSI) a clarifié les critères pour qu’un modèle d’IA soit considéré comme open-source : accès complet aux données de formation, au code source et aux paramètres d’entraînement.
+- La plupart des modèles dits "open" comme ceux de Meta (Llama) et Stability AI (Stable Diffusion) ne respectent pas ces critères, car ils imposent des restrictions sur l’utilisation commerciale et ne rendent pas publiques les données de formation.
+- c’est au details de données de formation (donc pas forcement les données elle même : "In particular, this must include: (1) the complete description of all data used for training, including (if used) of unshareable data, disclosing the provenance of the data, its scope and characteristics, how the data was obtained and selected, the labeling procedures, and data processing and filtering methodologies; (2) a listing of all publicly available training data and where to obtain it; and (3) a listing of all training data obtainable from third parties and where to obtain it, including for fee.").
+- C’est en echo à la version d’open source AI de la Linux Fondation.
 
-En parlant de cela un article sur l’open source washing dans les modèles [https://www.theregister.com/2024/10/25/opinion_open_washing/](https://www.theregister.com/2024/10/25/opinion_open_washing/)
+En parlant de cela un article sur l’open source washing dans les modèles
+[https://www.theregister.com/2024/10/25/opinion_open_washing/](https://www.theregister.com/2024/10/25/opinion_open_washing/)
 
-- L'open washing désigne la pratique où des entreprises prétendent que leurs produits ou modèles sont open-source, bien qu'ils ne respectent pas les critères réels d'ouverture (transparence, accessibilité, partage des connaissances).
-- De grandes entreprises comme Meta, Google et Microsoft sont souvent accusées d'utiliser cette stratégie, ce qui soulève des préoccupations concernant la clarté des définitions légales et commerciales de l'open source, surtout avec l'essor de l'IA.
+- L’open washing désigne la pratique où des entreprises prétendent que leurs produits ou modèles sont open-source, bien qu’ils ne respectent pas les critères réels d’ouverture (transparence, accessibilité, partage des connaissances).
+- De grandes entreprises comme Meta, Google et Microsoft sont souvent accusées d’utiliser cette stratégie, ce qui soulève des préoccupations concernant la clarté des définitions légales et commerciales de l’open source, surtout avec l’essor de l’IA.
 
 
 
 ## Rubrique débutant
 
-Un petit article fondamental sur REST [https://www.sfeir.dev/rest-definition/](https://www.sfeir.dev/rest-definition/)
+Un petit article fondamental sur REST : [https://www.sfeir.dev/rest-definition/](https://www.sfeir.dev/rest-definition/)
 
-- there de Roy Fielding
-- en reaction aux protocoles lourds comme SOAP
-- 5 verbes (GET PUT, POST. DELETE, PATCH)
-- JSON mais pas que (XML et autre
-- pas d'etat inter requete
+- Thèse de Roy Fielding.
+- En reaction aux protocoles lourds comme SOAP.
+- 5 verbes (GET PUT, POST. DELETE, PATCH).
+- JSON, mais pas que (XML et autre).
+- Pas d’état inter-requêtes.
 
 ## Ask Me Anything
 
-Morgan de Montréal
-Comment faire cohabiter plusieurs dépôts Git ?
+Morgan de Montréal : Comment faire cohabiter plusieurs dépôts Git ?
 
-> Je m'explique : dans mon entreprise, nous utilisons notre dépôt Git (Bitbucket) configuré pour notre dépôt d'entreprise. Lorsque je souhaite contribuer à un projet open source, je suis obligé de modifier ma configuration globale Git (nom d'utilisateur, email) pour correspondre à mon compte GitHub.  Il arrive souvent que, lorsque je reviens pour effectuer un commit sur le dépôt d'entreprise, j'oublie que je suis en mode "open source", ce qui entraîne l'enregistrement de mes configurations "open source" dans l'historique de Bitbucket...  Comment gérez-vous ce genre de situation ?
+> Je m’explique : dans mon entreprise, nous utilisons notre dépôt Git (Bitbucket) configuré pour notre dépôt d’entreprise. Lorsque je souhaite contribuer à un projet open source, je suis obligé de modifier ma configuration globale Git (nom d’utilisateur, email) pour correspondre à mon compte GitHub. Il arrive souvent que, lorsque je reviens pour effectuer un commit sur le dépôt d’entreprise, j’oublie que je suis en mode "open source", ce qui entraîne l’enregistrement de mes configurations "open source" dans l’historique de Bitbucket... Comment gérez-vous ce genre de situation ?
 
-Comment gérer différents profiles git https://medium.com/@mrjink/using-includeif-to-manage-your-git-identities-bcc99447b04b
+Comment gérer différents profils git : https://medium.com/@mrjink/using-includeif-to-manage-your-git-identities-bcc99447b04b.
 
 ## Conférences
 
