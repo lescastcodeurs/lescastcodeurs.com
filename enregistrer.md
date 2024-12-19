@@ -5,7 +5,7 @@ layout: page
 
 Cette page décrit comment participer à un enregistrement des cast codeurs.
 
-## Avec Zencastr
+## Avec Riverside ou Zencastr
 
 ### Avant
 
@@ -18,13 +18,13 @@ Il vous faut :
 * Idéalement un micro
     * Le micro intégré des MacBook Pro est plus que correct
 * Optionnellement, de quoi muter le micro :
-    * [Shush](https://itunes.apple.com/us/app/shush-microphone-manager/id496437906?mt=12) sous Mac OS X
+    * [MicDrop](https://getmicdrop.com/) sous Mac OS X
     * [micmute](https://sourceforge.net/projects/micmute/) sous Windows (pas sûr que cela fonctionne sous Windows 10)
     * sous Linux, ils marchent les micros ? ;P - on plaisante bien sûr, dites-nous ce que vous utilisez
 
 ### Pendant
 
-En lançant [Zencastr](https://zencastr.com/), permettez l'envoie de notification.
+En lançant [Zencastr](https://zencastr.com/) ou Riverside, permettez l'envoi de notification.
 C'est important pour permettre à Zencastr d'enregistrer votre audio en local.
 
 N'utilisez pas le micro des Apple AirPods (problème de fréquence) - vous pouvez les utiliser en mode casque.
@@ -54,7 +54,7 @@ Ajuster l'entrée son au cas où (`System` -> `Sound` -> `Input` sous Mac OS X).
 
 Laisser Zencastr ouvert le temps de l'upload des formats MP3 et WAV. Il devrait vous notifier quand c'est fini.
 
-Une fois l'enregistrement publié, n'oubliez pas de retweeter, Gplusser, etc, etc.
+Une fois l'enregistrement publié, n'oubliez pas de retweeter, etc, etc.
 
 ## Avec Skype et Audacity
 
