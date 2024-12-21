@@ -11,6 +11,19 @@ layout: default
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: site.date_format }}
       </time>
+                <span class="post-meta text-muted">&nbsp;</span>
+                {%- if page.youtube -%}
+                <span>
+                  <a href="{{ page.youtube }}" class="d-inline-flex align-items-center">
+                    <em class="bi bi-youtube youtube-red fs-2 mr-2"></em>
+                  </a>
+                </span>
+                {%- endif -%}
+                <span>
+                  <a href="https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-{{page.episode}}.mp3" class="d-inline-flex align-items-center">
+                    <em class="bi bi-music-player music-player-black fs-2 mr-2"></em>
+                  </a>
+                </span>
     </p>
   </header>
 
