@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soutenir Les Cast Codeurs
+title: Nous soutenir
 ---
 
 ## tl;dr
