@@ -5,6 +5,7 @@ team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, A
 layout: blog-post
 episode: 320
 mp3_length: 40112855
+youtube: https://youtu.be/3RXAu0hHLbU
 tweet: Diataxis, la méthode de documentation #diataxis #documentation
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---

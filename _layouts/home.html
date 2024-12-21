@@ -18,7 +18,19 @@ layout: base
                   </a>
                 </h2>
                 <span class="card-subtitle mb-2 text-muted">Posté le {{ post.date | date: site.date_format }}</span>
-
+                <span class="card-subtitle mb-2 text-muted">&nbsp;</span>
+                {%- if post.youtube -%}
+                <span>
+                  <a href="{{ post.youtube }}" class="d-inline-flex align-items-center">
+                    <em class="bi bi-youtube youtube-red fs-2 mr-2"></em>
+                  </a>
+                </span>
+                {%- endif -%}
+                <span>
+                  <a href="https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-{{post.episode}}.mp3" class="d-inline-flex align-items-center">
+                    <em class="bi bi-music-player music-player-black fs-2 mr-2"></em>
+                  </a>
+                </span>
                 <p class="card-text">{{ post.content }}</p>
               </div>
             </div>
