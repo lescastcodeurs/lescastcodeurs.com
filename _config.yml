@@ -57,10 +57,6 @@ sidebar_cards:
         icon: 'music-note-beamed'
         color: 'apple-podcast-violet'
         url: 'https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=312239675'
-      - name: 'Licence'
-        icon: 'files'
-        color: 'black'
-        file: 'licence.md'
   - name: 'Contacts'
     links:
       - name: 'lescastcodeurs.com'
