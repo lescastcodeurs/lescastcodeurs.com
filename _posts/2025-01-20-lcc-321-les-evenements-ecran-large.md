@@ -4,7 +4,7 @@ author: 'Emmanuel Bernard'
 team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Arnaud Héritier, Audrey Neveu, Katia Aresti'
 layout: blog-post
 episode: 321
-youtube: 
+youtube: https://www.youtube.com/watch?v=juPHFZMzZeQ
 mp3_length: 53372497
 tweet: Les évènements écran large #java #webassembly #wideevents #mcp
 # tweet size: 91-93 -> 99-101 #######################################################################
