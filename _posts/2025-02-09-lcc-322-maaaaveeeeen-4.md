@@ -10,7 +10,7 @@ tweet: Maaaaveeeeen 4 ! #jvm #jdbc #fetchsize #mcp #promptengineering #deepseek 
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Arnaud et Emmanuel discutent des nouvelles de ce mois.
-On y parle intégrité de JVM, fetch size de JDBC, MCP, de prompt engineering, de DeepSeek bien sûr mais aussi de Maven 4 et des proxy de répository Maven. Et d'autres choses encore, bonne lecture.
+On y parle intégrité de la JVM, fetch size de JDBC, MCP, de prompt engineering, de DeepSeek bien sûr, mais aussi de Maven 4 et des proxy de repository Maven. Et d'autres choses encore. Bonne lecture !
 
 Enregistré le 7 février 2025
 
@@ -22,13 +22,14 @@ ou en vidéo [sur YouTube](https://www.youtube.com/@lescastcodeurs).
 
 ### Langages
 
-Les evolutions de la JVM pour augmenter l'intégrité [https://inside.java/2025/01/03/evolving-default-integrity/](https://inside.java/2025/01/03/evolving-default-integrity/)
+Les évolutions de la JVM pour augmenter l'intégrité
+[https://inside.java/2025/01/03/evolving-default-integrity/](https://inside.java/2025/01/03/evolving-default-integrity/)
 
-- un article sur les raisons pour lesquelles les editeurs de frameworks et les utilisateurs s'arrachent les cheveux et vont continuer
-- garantir l'integrite du code et des données en enlevant des APIs existantes historiquemnt
-- agents dynamiques, setAccessible, Unsafe, JNI
-- Article expliques les risques percus par les mainteneurs de la JVM
-- Franchement c'est un peu leg sur les causes l'article, auto propagande
+- Un article sur les raisons pour lesquelles les éditeurs de frameworks et les utilisateurs s'arrachent les cheveux et vont continuer.
+- Garantir l'intégrité du code et des données en supprimant des APIs existantes historiquement.
+- Agents dynamiques, setAccessible, Unsafe, JNI.
+- L'article explique les risques perçus par les mainteneurs de la JVM.
+- Franchement, c'est un peu léger sur les causes, auto-propagande.
 
 JavaScript Temporal, enfin une API propre et moderne pour gérer les dates en JS
 [https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
@@ -45,34 +46,37 @@ JavaScript Temporal, enfin une API propre et moderne pour gérer les dates en JS
 
 ### Librairies
 
-Un article sur les fetch size du JDBC et les impacts sur vos applications [https://in.relation.to/2025/01/24/jdbc-fetch-size/](https://in.relation.to/2025/01/24/jdbc-fetch-size/)
+Un article sur les fetch size du JDBC et les impacts sur vos applications
+[https://in.relation.to/2025/01/24/jdbc-fetch-size/](https://in.relation.to/2025/01/24/jdbc-fetch-size/)
 
-- qui connait la valeur fetch size par default de son driver?
-- en fonction de vos use cases, ca peut etre devastateur
-- exemple d'une appli qui retourne 12 lignes et un fetch size de oracle a 10, 2 a/r pour rien
-- et si c'est 50 lignres retournées
-- la base de donnée est le facteur limitant, pas Java
-- donc monter sont fetch size est avantageux, on utilise la memoire de Java pour eviter la latence
+- Qui connaît la valeur par défaut du fetch size de son driver ?
+- En fonction des cas d'utilisation ça peut être dévastateur.
+- Exemple d'une appli qui retourne 12 lignes et un fetch size d'Oracle à 10, 2 aller-retours pour rien.
+- Et si c'est 50 lignes retournées.
+- La base de données est le facteur limitant, pas Java.
+- Donc monter sont fetch size est avantageux, on utilise la mémoire de Java pour éviter la latence.
 
-Quarkus annouce les MCP servers project pour collecter les servier MCP en Java [https://quarkus.io/blog/introducing-mcp-servers/](https://quarkus.io/blog/introducing-mcp-servers/)
+Quarkus annonce les MCP servers project pour collecter les server MCP en Java
+[https://quarkus.io/blog/introducing-mcp-servers/](https://quarkus.io/blog/introducing-mcp-servers/)
 
-- MCP d'Anthropic
-- introspecteur de bases JDBC
-- lecteur de filke system
-- Dessine en Java FX
-- demarrables facilement avec jbang
-- et testes avec claude desktop, goose et mcp-cli
-- permet d'utliser le pouvoir des librarires Java de votre IA
-- d'ailleurs Spring a la version 0.6 de leur support MCP [https://spring.io/blog/2025/01/23/spring-ai-mcp-0](https://spring.io/blog/2025/01/23/spring-ai-mcp-0)
+- MCP d'Anthropic.
+- Introspecteur de bases JDBC.
+- Lecteur de file system.
+- Dessine en Java FX.
+- Démarable facilement avec jbang.
+- Et testés avec Claude desktop, Goose et mcp-cli.
+- Permet d'utiliser le pouvoir des libraries Java de votre IA.
+- D'ailleurs Spring a la version 0.6 de leur support MCP [https://spring.io/blog/2025/01/23/spring-ai-mcp-0](https://spring.io/blog/2025/01/23/spring-ai-mcp-0).
 
 
 ### Infrastructure
 
-Apache Flink sur Kibernetes [https://www.decodable.co/blog/get-running-with-apache-flink-on-kubernetes-2](https://www.decodable.co/blog/get-running-with-apache-flink-on-kubernetes-2)
+Apache Flink sur Kubernetes
+[https://www.decodable.co/blog/get-running-with-apache-flink-on-kubernetes-2](https://www.decodable.co/blog/get-running-with-apache-flink-on-kubernetes-2)
 
-- un article tres complet ejn deux parties sur l'installation de Flink sur Kubernetes
-- installation, setup
-- mais aussi le checkpointing, la HA, l'observablité
+- Un article très complet en deux parties sur l'installation de Flink sur Kubernetes.
+- Installation, setup.
+- Mais aussi le checkpointing, la HA, l'observabilité.
 
 
 
@@ -84,71 +88,64 @@ Apache Flink sur Kibernetes [https://www.decodable.co/blog/get-running-with-apac
 
 - Si vous voulez aller plus loin, l’article référence un très bon livre blanc sur le prompt engineering [https://www.kaggle.com/whitepaper-prompt-engineering](https://www.kaggle.com/whitepaper-prompt-engineering)
 - Les techniques évoquées :
-  1. Zero-Shot Prompting:
-    - On demande directement à l’IA de répondre à une question sans lui fournir d’exemple préalable. C’est comme si on posait une question à une personne sans lui donner de contexte.
-  2. Few-Shot Prompting:
-    - On donne à l’IA un ou plusieurs exemples de la tâche qu’on souhaite qu’elle accomplisse. C’est comme montrer à quelqu’un comment faire quelque chose avant de lui demander de le faire.
-  3. System Prompting:
-    - On définit le contexte général et le but de la tâche pour l’IA. C’est comme donner à l’IA des instructions générales sur ce qu’elle doit faire.
-  4. Role Prompting:
-    - On attribue un rôle spécifique à l’IA (enseignant, journaliste, etc.). C’est comme demander à quelqu’un de jouer un rôle spécifique.
-  5. Contextual Prompting:
-    - On fournit des informations supplémentaires ou un contexte pour la tâche. C’est comme donner à quelqu’un toutes les informations nécessaires pour répondre à une question.
-  6. Step-Back Prompting:
-    - On pose d’abord une question générale, puis on utilise la réponse pour poser une question plus spécifique. C’est comme poser une question ouverte avant de poser une question plus fermée.
-  7. Chain-of-Thought Prompting:
-    - On demande à l’IA de montrer étape par étape comment elle arrive à sa conclusion. C’est comme demander à quelqu’un d’expliquer son raisonnement.
-  8. Self-Consistency Prompting:
-    - On pose plusieurs fois la même question à l’IA et on compare les réponses pour trouver la plus cohérente. C’est comme vérifier une réponse en la posant sous différentes formes.
-  9. Tree-of-Thoughts Prompting:
-    - On permet à l’IA d’explorer plusieurs chemins de raisonnement en même temps. C’est comme considérer toutes les options possibles avant de prendre une décision.
-  10. ReAct Prompting:
-    - On permet à l’IA d’interagir avec des outils externes pour résoudre des problèmes complexes. C’est comme donner à quelqu’un les outils nécessaires pour résoudre un problème.
+  1. Zero-Shot Prompting : On demande directement à l’IA de répondre à une question sans lui fournir d’exemple préalable. C’est comme si on posait une question à une personne sans lui donner de contexte.
+  2. Few-Shot Prompting : On donne à l’IA un ou plusieurs exemples de la tâche qu’on souhaite qu’elle accomplisse. C’est comme montrer à quelqu’un comment faire quelque chose avant de lui demander de le faire.
+  3. System Prompting : On définit le contexte général et le but de la tâche pour l’IA. C’est comme donner à l’IA des instructions générales sur ce qu’elle doit faire.
+  4. Role Prompting : On attribue un rôle spécifique à l’IA (enseignant, journaliste, etc.). C’est comme demander à quelqu’un de jouer un rôle spécifique.
+  5. Contextual Prompting : On fournit des informations supplémentaires ou un contexte pour la tâche. C’est comme donner à quelqu’un toutes les informations nécessaires pour répondre à une question.
+  6. Step-Back Prompting : On pose d’abord une question générale, puis on utilise la réponse pour poser une question plus spécifique. C’est comme poser une question ouverte avant de poser une question plus fermée.
+  7. Chain-of-Thought Prompting : On demande à l’IA de montrer étape par étape comment elle arrive à sa conclusion. C’est comme demander à quelqu’un d’expliquer son raisonnement.
+  8. Self-Consistency Prompting : On pose plusieurs fois la même question à l’IA et on compare les réponses pour trouver la plus cohérente. C’est comme vérifier une réponse en la posant sous différentes formes.
+  9. Tree-of-Thoughts Prompting : On permet à l’IA d’explorer plusieurs chemins de raisonnement en même temps. C’est comme considérer toutes les options possibles avant de prendre une décision.
+  10. ReAct Prompting : On permet à l’IA d’interagir avec des outils externes pour résoudre des problèmes complexes. C’est comme donner à quelqu’un les outils nécessaires pour résoudre un problème.
 
-Les patterns GenAI the thoughtworks [https://martinfowler.com/articles/gen-ai-patterns/](https://martinfowler.com/articles/gen-ai-patterns/)
+Les patterns GenAI the Thoughtworks
+[https://martinfowler.com/articles/gen-ai-patterns/](https://martinfowler.com/articles/gen-ai-patterns/)
 
-- tres introductif et pre RAG
-- le direct prompt qui est un appel direct au LLM: limitations de connaissance et de controle de l'experience
-- eval: evaluer la sortie d'un LLM avec plusieurs techniques mais fondamentalement une fonction qui prend la demande, la reponse et donc un score numerique
-- evaluation via un LLM (le meme ou un autre), ou evaluation humaine
-- tourner les evaluations a partir de la chaine de build amis aussi en live vu que les LLMs puvent evoluer.
-- Decrit les embedding notament d'image amis aussi de texte avec la notion de contexte
+- Très introductif et pre-RAG.
+- Le direct prompt qui est un appel direct au LLM : limitations de connaissance et de contrôle de l'expérience.
+- Eval : évaluer la sortie d'un LLM avec plusieurs techniques, mais fondamentalement une fonction qui prend la demande, la réponse et donc un score numérique.
+- Évaluation via un LLM (le meme ou un autre), ou evaluation humaine.
+- Tourner les evaluations à partir de la chaine de build, mais aussi en live vu que les LLMs peuvent évoluer.
+- Décrit les embedding notamment d'image, mais aussi de texte avec la notion de contexte
 
-DeepSeek et la fin de la domination de NVidia [https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda)
+DeepSeek et la fin de la domination de Nvidia
+[https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda](https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda)
 
-- un article sur les raisons pour lesquelles NVIDIA va se faire cahllengert sur ses marges
-- 90% de marge quand meme parce que les plus gros GPU et CUDA qui est proprio
-- mais des approches ardware alternatives existent qui sont plus efficientes (TPU et gros waffle)
-- Google, MS et d’autres construisent leurs GPU alternatifs
-- CUDA devient de moins en moins le linga franca avec l’investissement sur des langages intermediares alternatifs par Apple, Google OpenAI etc
-- L’article parle de DeepSkeek qui est venu mettre une baffe dans le monde des LLMs
-- Ils ont construit un competiteur a gpt4o et o1 avec 5M de dollars et des capacites de raisonnements impressionnant
-- la cles c’etait beaucoup de trick d’optimisation mais le plus gros est d’avoir des poids de neurores sur 8 bits vs 32 pour les autres. 
-- et donc de quatizer au fil de l’eau et au moment de l’entrainement
-- beaucoup de reinforcemnt learning innovatifs aussi
-- et des Mixture of Expert
-- donc ~50x moins chers que OpenAI
-- Donc plus besoin de GPU qui on des tonnes de vRAM
-- ah et DeepSeek est open source
-- un article de semianalytics change un peu le narratif
-- le papier de DeepSkeek en dit long via ses omissions
-- par ensemple les 6M c'est juste l'inference en GPU, pas les couts de recherches et divers trials et erreurs
-- en comparaison Claude Sonnet a coute 10M en infererence
-- DeepSeek a beaucoup de CPU pre ban et ceratins post bans evalués a 5 Milliards en investissement.
-- leurs avancées et leur ouverture reste extremement interessante
+- Un article sur les raisons pour lesquelles NVIDIA va se faire challenger sur ses marges.
+- 90% de marge quand même parce que les plus gros GPU et CUDA qui est proprio.
+- Mais des approches hardware alternatives existent qui sont plus efficientes (TPU et gros waffle).
+- Google, MS et d’autres construisent leurs GPU alternatifs.
+- CUDA devient de moins en moins le linga franca avec l’investissement sur des langages intermédiaires alternatifs par Apple, Google OpenAI...
+- L’article parle de DeepSeek qui est venu mettre une baffe dans le monde des LLMs.
+- Ils ont construit un compétiteur à GPT 4o et o1 avec 5M de dollars et des capacités de raisonnements impressionnant.
+- La clé, c’était beaucoup de trick d’optimisation, mais le plus gros est d’avoir des poids de neurones sur 8 bits vs 32 pour les autres. 
+- Et donc de quantizer au fil de l’eau et au moment de l’entrainement.
+- Beaucoup de reinforcement learning innovatif aussi.
+- Et des Mixture of Expert.
+- Donc ~50x moins chère que OpenAI.
+- Donc plus besoin de GPU qui ont des tonnes de vRAM.
+- Ah et DeepSeek est Open Source.
+- Un article de semianalytics change un peu le narratif.
+- Le papier de DeepSeek en dit long via ses omissions.
+- Par exemple les 6M c'est juste l'inference en GPU, pas les coûts de recherches et divers essais et erreurs.
+- En comparaison Claude Sonnet a coûté 10M en inference.
+- DeepSeek a beaucoup de CPU pre-ban et certains post-bans évalués a 5 Milliards en investissement.
+- Leurs avancées et leur ouverture restent extrêmement intéressantes.
 
-Une intro à Apache Iceberg [http://blog.ippon.fr/2025/01/17/la-revolution-des-donnees-lavenement-des-lakehouses-avec-apache-iceberg/](http://blog.ippon.fr/2025/01/17/la-revolution-des-donnees-lavenement-des-lakehouses-avec-apache-iceberg/)
+Une intro à Apache Iceberg
+[http://blog.ippon.fr/2025/01/17/la-revolution-des-donnees-lavenement-des-lakehouses-avec-apache-iceberg/](http://blog.ippon.fr/2025/01/17/la-revolution-des-donnees-lavenement-des-lakehouses-avec-apache-iceberg/)
 
-- issue des limites du data lake. non structuré et des Data Warehouses aux limites en diversite de données et de volume
-- entrent les lakehouse
-- Et particulierement Apache Iceberg issue de Netflix
-- gestion de schema mais flexible
-- notion de copy en write vs merge on read en fonction de besoins
-- garantie atomicite, coherence, isoliation et durabilite
-- notion de time travel et rollback
-- partitions cachées (qui abstraient la partition et ses transfos) et evolution de partitions
-- compatbile avec les moteurs de calcul comme spark, trino, flink etc
-- explique la structure des metadonnées et des données
+- Issue des limites du Data Lake non structuré et des Data Warehouses aux limites en diversité de données et de volume.
+- Entre les lakehouse.
+- Et particulièrement Apache Iceberg est issu de Netflix
+- Gestion de schema mais flexible.
+- Notion de copy en write vs merge on read en fonction de besoins.
+- Garantie l'atomicité, la cohérence, l'isolation et la durabilité.
+- Notion de time travel et rollback.
+- Partitions cachées (qui abstraient la partition et ses transfos) et evolution de partitions.
+- Compatible avec les moteurs de calcul comme Spark, Trino, Flink...
+- Explique la structure des métadonnées et des données.
 
 Guillaume s’amuse à générer des histoires courtes de Science-Fiction en programmant des Agents IA avec LangChain4j et aussi avec des workflows
 [https://glaforge.dev/posts/2025/01/27/an-ai-agent-to-generate-short-scifi-stories/](https://glaforge.dev/posts/2025/01/27/an-ai-agent-to-generate-short-scifi-stories/)
@@ -159,14 +156,14 @@ Guillaume s’amuse à générer des histoires courtes de Science-Fiction en pro
 - Une étape d’auto-réflexion utilise Gemini pour sélectionner la meilleure image pour chaque chapitre.
 - L’agent utilise un workflow explicite, drivé par le code Java, où les étapes sont prédéfinies dans le code, plutôt que de s’appuyer sur une planification basée sur LLM.
 - Le code est disponible sur GitHub et l’application est déployée sur Google Cloud.
-- L’article oppose les agents de workflow explicites aux agents autonomes, en soulignant les compromis de chaque approche. Car parfois, les Agent IA autonomes qui gèrent leur propre planning hallucinent un peu trop et n’établissent pas un plan correctement, ou ne le suive pas comme il faut, voire hallucine des “function call”.
+- L’article oppose les agents de workflow explicites aux agents autonomes, en soulignant les compromis de chaque approche. Car parfois, les agents IA autonomes qui gèrent leur propre planning hallucinent un peu trop et n’établissent pas un plan correctement, ou ne le suivent pas comme il faut, voire hallucine des “function call”.
 - Le projet utilise Cloud Build, le Cloud Run jobs, Cloud Scheduler, Firestore comme base de données, et Firebase pour le déploiement et l’automatisation du frontend.
 - Dans le deuxième article, L’approche est différente, Guillaume utilise un outil de Workflow, plutôt que de diriger le planning avec du code Java.
 - L’approche impérative utilise du code Java explicite pour orchestrer le workflow, offrant ainsi un contrôle et une parallélisation précis.
 - L’approche déclarative utilise un fichier YAML pour définir le workflow, en spécifiant les étapes, les entrées, les sorties et l’ordre d’exécution.
 - Le workflow comprend les étapes permettant de générer une histoire avec Gemini 2, de créer une invite d’image, de générer des images avec Imagen 3 et d’enregistrer le résultat dans Cloud Firestore (base de donnée NoSQL).
 - Les principaux avantages de l’approche impérative sont un contrôle précis, une parallélisation explicite et des outils de programmation familiers.
-- - Les principaux avantages de l’approche déclarative sont des définitions de workflow peut-être plus faciles à comprendre (même si c’est un YAML, berk !) la visualisation, l’évolutivité et une maintenance simplifiée (on peut juste changer le YAML dans la console, comme au bon vieux temps du PHP en prod).
+- Les principaux avantages de l’approche déclarative sont des définitions de workflow peut-être plus faciles à comprendre (même si c’est un YAML, berk !) la visualisation, l’évolutivité et une maintenance simplifiée (on peut juste changer le YAML dans la console, comme au bon vieux temps du PHP en prod).
 - Les inconvénients de l’approche impérative incluent le besoin de connaissances en programmation, les défis potentiels en matière de maintenance et la gestion des conteneurs.
 - Les inconvénients de l’approche déclarative incluent une création YAML pénible, un contrôle de parallélisation limité, l’absence d’émulateur local et un débogage moins intuitif.
 - Le choix entre les approches dépend des exigences du projet, la déclarative étant adaptée aux workflows plus simples.
@@ -178,18 +175,19 @@ Guillaume s’amuse à générer des histoires courtes de Science-Fiction en pro
 Vulnérabilité des proxy Maven
 [https://github.blog/security/vulnerability-research/attacks-on-maven-proxy-repositories/](https://github.blog/security/vulnerability-research/attacks-on-maven-proxy-repositories/)
 
-- Quelque soit le langage, la techno, il est hautement conseillé de mettre en place des gestionnaires de repositories en tant que proxy pour mieux contrôler les dépendances qui contribuent à la création de vos produits
-- Michael Stepankin de l'équipe GitHub Security Lab a cherché a savoir si ces derniers ne sont pas aussi sources de vulnérabilité en étudiant quelques CVEs sur des produits comme JFrog Artifactory, Sonatype Nexus, et Reposilite
-- Certaines failles viennent de la UI des produits qui permettent d'afficher les artifacts (ex: mettez un JS dans un fichier POM) et même de naviguer dedans (ex: voir le contenu d'un jar / zip et on exploite l'API pour lire, voir modifier des fichiers du serveur en dehors des archives)
-- Les artifacts peuvent aussi être compromis en jouant sur les paramètres propriétaires des URLs ou en jouant sur le nomage avec les encodings.
-- Bref, rien n'est simple ni niveau. Tout système rajoute de la compléxité et il est important de les tenir à mettre à jour. Il faut  surveiller activement sa chaine de distribution via différents moyens et ne pas tout miser sur le repository manager.
-- L'auteur a fait une présentation sur le sujet : [https://www.youtube.com/watch?v=0Z_QXtk0Z54](https://www.youtube.com/watch?v=0Z_QXtk0Z54)
+- Quel que soit le langage, la techno, il est hautement conseillé de mettre en place des gestionnaires de repositories en tant que proxy pour mieux contrôler les dépendances qui contribuent à la création de vos produits.
+- Michael Stepankin de l'équipe GitHub Security Lab a cherché à savoir si ces derniers ne sont pas aussi sources de vulnérabilité en étudiant quelques CVEs sur des produits comme JFrog Artifactory, Sonatype Nexus et Reposilite.
+- Certaines failles viennent de la UI des produits qui permettent d'afficher les artifacts (ex : mettez un JS dans un fichier POM) et même de naviguer dedans (ex : voir le contenu d'un jar / zip et on exploite l'API pour lire, voir modifier des fichiers du serveur en dehors des archives).
+- Les artifacts peuvent aussi être compromis en jouant sur les paramètres propriétaires des URLs ou en jouant sur le nommage avec les encodings.
+- Bref, rien n'est simple, tout système rajoute de la complexité et il est important de les tenir à mettre à jour. Il faut surveiller activement sa chaine de distribution via différents moyens et ne pas tout miser sur le repository manager.
+- L'auteur a fait une présentation sur le sujet : [https://www.youtube.com/watch?v=0Z_QXtk0Z54](https://www.youtube.com/watch?v=0Z_QXtk0Z54).
 
-Apache Maven 4... Bientôt, c'est promis .... qu'est ce qu'il y aura dedans ? [https://gnodet.github.io/maven4-presentation/](https://gnodet.github.io/maven4-presentation/)
+Apache Maven 4... Bientôt, c'est promis... qu'est-ce qu'il y aura dedans ?
+[https://gnodet.github.io/maven4-presentation/](https://gnodet.github.io/maven4-presentation/)
 
 - Et aussi [https://github.com/Bukama/MavenStuff/blob/main/Maven4/whatsnewinmaven4.md](https://github.com/Bukama/MavenStuff/blob/main/Maven4/whatsnewinmaven4.md)
 - Apache Maven 4
-  - Doucement mais surement .... c'est le principe d'un projet
+  - Doucement, mais surement… c'est le principe d'un projet
   - Maven 4.0.0-rc-2 est dispo (Dec 2024).
   - Maven a plus de 20 ans et est largement utilisé dans l'écosystème Java.
   - La compatibilité ascendante a toujours été une priorité, mais elle a limité la flexibilité.
@@ -255,41 +253,44 @@ Apache Maven 4... Bientôt, c'est promis .... qu'est ce qu'il y aura dedans ? [h
 
 ### Architecture
 
-Un article sur les feature flags avec Unleash [https://feeds.feedblitz.com/~/911939960/0/baeldung~Implement-Feature-Flags-in-Java-With-Unleash](https://feeds.feedblitz.com/~/911939960/0/baeldung~Implement-Feature-Flags-in-Java-With-Unleash)
+Un article sur les feature flags avec Unleash
+[https://feeds.feedblitz.com/~/911939960/0/baeldung~Implement-Feature-Flags-in-Java-With-Unleash](https://feeds.feedblitz.com/~/911939960/0/baeldung~Implement-Feature-Flags-in-Java-With-Unleash)
 
-- Pour A/B testing et des cycles de développements plus rapides pour « tester en prod »
-- Montre comment tourner sous docker unleash
-- Et ajouter la librairie a du code java pour tester un feature flag
+- Pour A/B testing et des cycles de développement plus rapides pour « tester en prod ».
+- Montre comment tourner sous docker unleash.
+- Et ajouter la librairie a du code java pour tester un feature flag.
 
 
 
 ### Sécurité
 
-Keycloak 26.1 [https://www.keycloak.org/2025/01/keycloak-2610-released.html](https://www.keycloak.org/2025/01/keycloak-2610-released.html)
+Keycloak 26.1
+[https://www.keycloak.org/2025/01/keycloak-2610-released.html](https://www.keycloak.org/2025/01/keycloak-2610-released.html)
 
-- detection des noeuds via la proble base de donnée aulieu echange reseau
-- virtual threads pour infinispan et jgroups
-- opentelemetry tracing supporté
-- et plein de fonctionalités de sécurité 
+- Détection des nœuds via la base de données au lieu d'échanges réseau
+- Virtual threads pour infinispan et jgroups.
+- OpenTelemetry tracing supporté.
+- Et plein de fonctionnalités de sécurité. 
 
 
 ### Loi, société et organisation
 
-Les grands morceaux du coût et revenus d’une conférence. Ici <http://bdx.io|bdx.io> [https://bsky.app/profile/ameliebenoit33.bsky.social/post/3lgzslhedzk2a](https://bsky.app/profile/ameliebenoit33.bsky.social/post/3lgzslhedzk2a)
+Les grands morceaux du coût et des revenus d’une conférence. Ici <http://bdx.io|bdx.io>
+[https://bsky.app/profile/ameliebenoit33.bsky.social/post/3lgzslhedzk2a](https://bsky.app/profile/ameliebenoit33.bsky.social/post/3lgzslhedzk2a)
 
-- 44% le billet
-- 52% les sponsors
-- 38% loc du lieu
-- 29% traiteur et café 
-- 12% standiste
-- 5% frais speaker (donc pas tous)
+- 44% le billet.
+- 52% les sponsors.
+- 38% la location du lieu.
+- 29% le traiteur et le café. 
+- 12% standiste.
+- 5% frais speaker (donc pas tous).
 
 
 
 ## Ask Me Anything
 
-Julien de Provin: J'aime beaucoup le mode "continuous testing" de Quarkus, et je me demandais s'il existait une alternative en dehors de Quarkus, ou à défaut, des ressources sur son fonctionnement ?
-J'aimerais beaucoup avoir un outil agnostique utilisable sur les projets non-Quarkus sur lesquels j'intervient, quitte à y metttre un peu d'huile de coude (ou de phalange pour le coup).
+Julien de Provin : J'aime beaucoup le mode "continuous testing" de Quarkus, et je me demandais s'il existait une alternative en dehors de Quarkus, ou à défaut, des ressources sur son fonctionnement ?
+J'aimerais beaucoup avoir un outil agnostique utilisable sur les projets non-Quarkus sur lesquels j'interviens, quitte à y mettre un peu d'huile de coude (ou de phalange pour le coup).
 
 * [https://github.com/infinitest/infinitest/](https://github.com/infinitest/infinitest/)
 
