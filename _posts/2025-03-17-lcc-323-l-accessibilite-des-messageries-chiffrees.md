@@ -6,7 +6,7 @@ layout: blog-post
 episode: 323
 youtube: https://youtu.be/QBTKB4QUGiQ
 mp3_length: 50968880
-tweet: L'accessibilité des messageries chiffrées #java24 #quarkus #ia #vibe #mcp #quantum #win32 #accessibite
+tweet: L'accessibilité des messageries chiffrées #java24 #quarkus #ia #vibe #mcp #quantum #win32 #accessibilite
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Dans cet épisode, Emmanuel et Arnaud discutent des dernières nouvelles du dev, en mettant l'accent sur Java, l'intelligence artificielle, et les nouvelles fonctionnalités des versions JDK 24 et 25.
@@ -27,27 +27,31 @@ ou en vidéo [sur YouTube](https://youtu.be/QBTKB4QUGiQ).
 
 ### Langages
 
-Java Metal [https://www.youtube.com/watch?v=yup8gIXxWDU](https://www.youtube.com/watch?v=yup8gIXxWDU)
+Java Metal
+[https://www.youtube.com/watch?v=yup8gIXxWDU](https://www.youtube.com/watch?v=yup8gIXxWDU)
 
-- Peut-être qu'on la déjà partagé ?
+- Peut-être qu'on l'a déjà partagé ?
 
-Article d'opinion Java coming for AI [https://thenewstack.io/2025-is-the-last-year-of-python-dominance-in-ai-java-comin/](https://thenewstack.io/2025-is-the-last-year-of-python-dominance-in-ai-java-comin/)
+Article d'opinion Java coming for AI
+[https://thenewstack.io/2025-is-the-last-year-of-python-dominance-in-ai-java-comin/](https://thenewstack.io/2025-is-the-last-year-of-python-dominance-in-ai-java-comin/)
 
-- **2025** pourrait être la dernière année où **Python domine l'IA**.
-- **Java** devient un concurrent sérieux dans le domaine.
-- En **2024**, Python était toujours en tête, Java restait fort en entreprise, et **Rust** gagnait en popularité.
-- Java est de plus en plus utilisé pour l'AI remettant en cause la suprématie de Python.
-- article vient de javaistes
-- la domination de python est cluturelle et plus technique (enfin pour les ML lib c'est encore technique)
-- projets paname et babylon changent la donne
-- JavaML est populaire
+- 2025 pourrait être la dernière année où Python domine l'IA.
+- Java devient un concurrent sérieux dans le domaine.
+- En 2024, Python était toujours en tête, Java restait fort en entreprise, et Rust gagnait en popularité.
+- Java est de plus en plus utilisé pour l'AI reméttant en cause la suprématie de Python.
+- Article provenant de javaistes.
+- La domination de python est culturelle et plus technique (enfin pour les ML lib, c'est encore technique).
+- Les projets Panama et Babylon changent la donne.
+- JavaML est populaire.
 
-L’almanach java sur les versions [https://javaalmanac.io/](https://javaalmanac.io/)
+L’almanach java sur les versions
+[https://javaalmanac.io/](https://javaalmanac.io/)
 
-- montre kes APIs et les diff entre versions
-- puis les notes ou la spec java
+- Montre les APIs et les diffs entre versions.
+- Puis les release notes ou la spec Java.
 
-Les nouvelles de JDK 24 et du futur 25 [https://www.infoq.com/news/2025/02/java-24-so-far/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global](https://www.infoq.com/news/2025/02/java-24-so-far/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global)
+Les nouvelles de JDK 24 et du futur 25
+[https://www.infoq.com/news/2025/02/java-24-so-far/](https://www.infoq.com/news/2025/02/java-24-so-far/)
 
 - JDK 24 a atteint sa première phase de release candidate et sera officiellement publié le 18 mars 2025.
 - 24 nouvelles fonctionnalités (JEPs) réparties en 5 catégories : Core Java Library (7), Java Language Specification (4), Security Library (4), HotSpot (8) et Java Tools (1).
@@ -57,176 +61,195 @@ Les nouvelles de JDK 24 et du futur 25 [https://www.infoq.com/news/2025/02/java-
 - Project Leyden : JEP 483 "Ahead-of-Time Class Loading & Linking" pour améliorer le temps de démarrage en rendant les classes d'une application instantanément disponibles au démarrage de la JVM.
 - Sécurité quantique : Deux JEPs (496 et 497) introduisant des algorithmes résistants aux ordinateurs quantiques pour la cryptographie, basés sur les réseaux modulaires.
 - Sécurité renforcée : JEP 486 propose de désactiver définitivement le Security Manager, tandis que JEP 478 introduit une API de dérivation de clés.
-- Optimisations HotSpot : JEP 450 "Compact Object Headers" (expérimental) pour réduire la taille des en-têtes d'objets de 96-128 bits à 64 bits sur les architectures 64 bits. (a ne aps utiliser en prod!)
-- Améliorations GC : JEP 404 "Generational Shenandoah" (expérimental) introduit un mode générationnel pour le Garbage Collector Shenandoah, tout en gardant le non generationel.
-- Évolution des ports : Windows 32-bit x86 ca sent le sapin
-- JEP 502 dans JDK 25 : Introduction des "Stable Values" (preview), anciennement "Computed Constants", offrant les avantages des champs final avec plus de flexibilité pour l'initialisation.
-- Points Supplémentaires sur JDK 25
+- Optimisations HotSpot : JEP 450 "Compact Object Headers" (expérimental) pour réduire la taille des en-têtes d'objets de 96-128 bits à 64 bits sur les architectures 64 bits (à ne pas utiliser en prod !).
+- Améliorations GC : JEP 404 "Generational Shenandoah" (expérimental) introduit un mode générationnel pour le Garbage Collector Shenandoah, tout en gardant le non générationnel.
+- Évolution des ports : Windows 32-bit x86 ça sent le sapin.
+- JEP 502 dans JDK 25 : Introduction des "Stable Values" (preview), anciennement "Computed Constants", offrant les avantages des champs finaux avec plus de flexibilité pour l'initialisation.
+- Points Supplémentaires sur JDK 25.
 - Date de sortie : JDK 25 est prévu pour septembre 2025 et représentera la prochaine version LTS (Long-Term Support) après JDK 21.
 - Finalisation de l'on-ramp : Gavin Bierman a annoncé son intention de finaliser la fonction "Simple Source Files" dans JDK 25, après quatre previews successives.
 - CDS Object Streaming : Le JEP Draft 8326035 propose d'ajouter un mécanisme d'archivage d'objets pour Class-Data Sharing (CDS) dans ZGC, avec un format d'archivage et un chargeur unifiés.
-- HTTP/3 supporté dans HttpClient
+- HTTP/3 supporté dans HttpClient.
 
-Un article sur l’approche de Go pour éviter les attaques par chemin de fichier [https://go.dev/blog/osroot](https://go.dev/blog/osroot)
+Un article sur l’approche de Go pour éviter les attaques par chemin de fichier
+[https://go.dev/blog/osroot](https://go.dev/blog/osroot)
 
 
 
 ### Librairies
 
-Quarkus 3.19 es sorti [https://quarkus.io/blog/quarkus-3-19-1-released/](https://quarkus.io/blog/quarkus-3-19-1-released/)
+Quarkus 3.19 est sorti
+[https://quarkus.io/blog/quarkus-3-19-1-released/](https://quarkus.io/blog/quarkus-3-19-1-released/)
 
-- UBI 9 par defaut pour les containers
-- En plus de AppCDS, support tu cache AOT (JEP 483) pour demarrer encore plus rapidement
-- Preuve de possession dans OAuth tokers 2
+- UBI 9 par défaut pour les conteneurs.
+- En plus de AppCDS, support du cache AOT (JEP 483) pour démarrer encore plus rapidement.
+- Preuve de possession dans les tokens OAuth 2.
 
-Mario Fusco sur les patterns d'agents en Quarkus [https://quarkus.io/blog/agentic-ai-with-quarkus/](https://quarkus.io/blog/agentic-ai-with-quarkus/) et [https://quarkus.io/blog/agentic-ai-with-quarkus-p2/](https://quarkus.io/blog/agentic-ai-with-quarkus-p2/)
+Mario Fusco sur les patterns d'agents en Quarkus
+[https://quarkus.io/blog/agentic-ai-with-quarkus/](https://quarkus.io/blog/agentic-ai-with-quarkus/) et
+[https://quarkus.io/blog/agentic-ai-with-quarkus-p2/](https://quarkus.io/blog/agentic-ai-with-quarkus-p2/)
 
-- premier article sur les patterns de workflow
-- chainer, paralleliser ou router
-- avec des exemples de code qui tournent
-- les agents a proprement parler (le LLM  qui decide du workflow)
-- les agents ont des toolbox que le LLM peut decided d'invoquer
-- Le code va dans les details et permet de mettre les interactions en lumiere
-- tracing rend les choses visuelles
+- Premier article sur les patterns de workflow.
+- Chainer, paralléliser ou router.
+- Avec des exemples de code qui tournent.
+- Les agents à proprement parler (le LLM qui decide du workflow).
+- Les agents ont des toolbox que le LLM peut decider d'invoquer.
+- Le code va dans les détails et permet de mettre les interactions en lumière.
+- Le tracing rend les choses visuelles.
 
 
 
 
 ### Web
 
-Le European Accessibility Act (EAA) [https://martijnhols.nl/blog/the-european-accessibility-act-for-websites-and-apps](https://martijnhols.nl/blog/the-european-accessibility-act-for-websites-and-apps)
+Le European Accessibility Act (EAA)
+[https://martijnhols.nl/blog/the-european-accessibility-act-for-websites-and-apps](https://martijnhols.nl/blog/the-european-accessibility-act-for-websites-and-apps)
 
-- **Loi européenne sur l'accessibilité (EAA)** adoptée en 2019
-- Vise à rendre **sites web et apps accessibles** aux personnes handicapées
-- Suivre les **normes WCAG 2.1 AA** (clarté, utilisabilité, compatibilité)
-- **Entreprises concernées** : banques, e-commerce, transports, etc.
-- **Date limite de mise en conformité** : **28 juin 2025**
-- 2025 c'est pour les nouveaux developpements
-- 2027 c'est pour les applications existantes.
-- bon et je fais comment pour savoir si le site web des cast codeurs est conforme ?
+- Loi européenne sur l'accessibilité (EAA) adoptée en 2019.
+- Vise à rendre sites web et apps accessibles aux personnes handicapées.
+- Suivre les normes WCAG 2.1 AA (clarté, utilisabilité, compatibilité).
+- Entreprises concernées : banques, e-commerce, transports, etc.
+- Date limite de mise en conformité : 28 juin 2025.
+- 2025, c'est pour les nouveaux développements.
+- 2027, c'est pour les applications existantes.
+- Bon et je fais comment pour savoir si le site web des Cast Codeurs est conforme ?
 
-API Popover [https://web.dev/blog/popover-baseline?hl=en](https://web.dev/blog/popover-baseline?hl=en)
+API Popover
+[https://web.dev/blog/popover-baseline](https://web.dev/blog/popover-baseline)
 
-- **L'API Popover** est maintenant disponible dans tous les navigateurs majeurs
-- **Ajoutée à Baseline** le **27 janvier 2025**
-- Permet de créer des **popovers natifs** en HTML, sans JavaScript complexe
-- Exemple : `<button popovertarget="mon-popover">Ouvrir</button>`
-- `<div id="mon-popover" popover>Contenu du popover</div>`
-- **Problème initial (2024)** : Bug sur iOS empêchant la fermeture des popovers
+- L'API Popover est maintenant disponible dans tous les navigateurs majeurs.
+- Ajoutée à Baseline le 27 janvier 2025.
+- Permet de créer des popovers natifs en HTML, sans JavaScript complexe.
+- Exemple :
+  - `<button popovertarget="mon-popover">Ouvrir</button>`
+  - `<div id="mon-popover" popover>Contenu du popover</div>`
+- Problème initial (2024) : Bug sur iOS empêchant la fermeture des popovers.
 
-Intégrer un front-end React dans une app Spring-Boot [https://bootify.io/frontend/react-spring-boot-integration.html](https://bootify.io/frontend/react-spring-boot-integration.html)
+Intégrer un front-end React dans une app Spring Boot
+[https://bootify.io/frontend/react-spring-boot-integration.html](https://bootify.io/frontend/react-spring-boot-integration.html)
 
-- Etape par etape, comment configurer son build ([https://bootify.io/frontend/webpack-spring-boot.html](https://bootify.io/frontend/webpack-spring-boot.html))  et son app (controllers...)  pour y intégrer un front en rect.
+- Étape par étape, comment configurer son build ([https://bootify.io/frontend/webpack-spring-boot.html](https://bootify.io/frontend/webpack-spring-boot.html)) et son app (controllers...) pour y intégrer un front en React.
 
 
 ### Data et Intelligence Artificielle
 
-Traffic des sites web venant de IA [https://ahrefs.com/blog/ai-traffic-study/](https://ahrefs.com/blog/ai-traffic-study/)
+Traffic des sites web venant de IA
+[https://ahrefs.com/blog/ai-traffic-study/](https://ahrefs.com/blog/ai-traffic-study/)
 
-- le AIEO apres le SEO va devenir un gros business vu que les modèles ont tendance a avoir leurs chouchous techniques ou de reference.
-- 63% des sites ont au moins un referal viennent d'une IA
-- 50% ChatGPT, puis plrplexity et enfin Gemini, bah et LeChat alors?
-- 0,17% du traffic des sites vient de l'IA. Et en meme temps l'AI resume plutot que pointe donc c'est logique
+- Le AIEO après le SEO va devenir un gros business vu que les modèles ont tendance à avoir leurs chouchous techniques ou de reference.
+- 63% des sites ont au moins un referal viennent d'une IA.
+- 50% ChatGPT, puis Perplexity et enfin Gemini, bah et LeChat alors ?
+- 0,17% du traffic des sites vient de l'IA. Et en meme temps l'AI resume plutôt que pointe donc c'est logique.
 
-Granite 3.2 est sorti [https://www.infoq.com/news/2025/03/ibm-granite-3-2/](https://www.infoq.com/news/2025/03/ibm-granite-3-2/)
+Granite 3.2 est sorti
+[https://www.infoq.com/news/2025/03/ibm-granite-3-2/](https://www.infoq.com/news/2025/03/ibm-granite-3-2/)
 
-- **IBM sort Granite 3.2**, un modèle IA avancé.
-- **Meilleur raisonnement** et nouvelles capacités multimodales.
-- **Granite Vision 3.2** excelle en compréhension d’images et de documents.
-- **Granite Guardian 3.2** détecte les risques dans les réponses IA.
-- **Modèles plus petits et efficaces** pour divers usages.
-- **Améliorations en raisonnement mathématique** et prévisions temporelles.
-- les trucs interessants de Granite c'est sa petite taille et son cote "vraiment" open source
+- IBM sort Granite 3.2, un modèle IA avancé.
+- Meilleur raisonnement et nouvelles capacités multimodales.
+- Granite Vision 3.2 excelle en compréhension d’images et de documents.
+- Granite Guardian 3.2 détecte les risques dans les réponses IA.
+- Modèles plus petits et efficaces pour divers usages.
+- Améliorations en raisonnement mathématique et prévisions temporelles.
+- les trucs intéressants de Granite c'est sa petite taille et son cote "vraiment" open source
 
-Prompt Engineering - article détaillé [https://www.infoq.com/articles/prompt-engineering/](https://www.infoq.com/articles/prompt-engineering/)
+Prompt Engineering : article détaillé
+[https://www.infoq.com/articles/prompt-engineering/](https://www.infoq.com/articles/prompt-engineering/)
 
-- **Le prompt engineering**, c'est l'art de bien formuler les instructions pour guider l’IA.
-- **Accessible à tous**, il ne remplace pas la programmation mais la complète.
-- **Techniques clés** : few-shot learning, chain-of-thought, tree-of-thought.
-- **Avantages** : flexibilité, rapidité, meilleure interaction avec l’IA.
-- **Limites** : manque de précision et dépendance aux modèles existants.
-- **Futur** : un outil clé pour améliorer l’IA et le développement logiciel.
+- Le prompt engineering, c'est l'art de bien formuler les instructions pour guider l’IA.
+- Accessible à tous, il ne remplace pas la programmation mais la complète.
+- Techniques clés : few-shot learning, chain-of-thought, tree-of-thought.
+- Avantages : flexibilité, rapidité, meilleure interaction avec l’IA.
+- Limites : manque de précision et dépendance aux modèles existants.
+- Futur : un outil clé pour améliorer l’IA et le développement logiciel.
 
-QCon San Francisco - Les agents AI - Conference [https://www.infoq.com/presentations/ai-agents-infrastructure/](https://www.infoq.com/presentations/ai-agents-infrastructure/)
+QCon San Francisco - Les agents AI - Conference
+[https://www.infoq.com/presentations/ai-agents-infrastructure/](https://www.infoq.com/presentations/ai-agents-infrastructure/)
 
-- **Sujet** : Infrastructure pour agents d'IA.
-- **Technologies** : RAG et bases de données vectorielles.
-- **Rôle des agents d'IA** : Automatiser des tâches, prévoir des besoins, superviser.
-- **Expérience** : Shruti Bhat de Oracle à Rockset (acquis par OpenAI).
-- **Objectif** : Passer des applis classiques aux agents IA intelligents.
-- **Défis** : Améliorer la recherche en temps réel, l'indexation et la récupération.
-- Nous concernant:
-- **Évolution des rôles** : Les développeurs passent à des rôles plus stratégiques.
-- **Adaptation nécessaire** : Les développeurs doivent s'adapter aux nouvelles technologies.
+- Sujet : Infrastructure pour agents d'IA.
+- Technologies : RAG et bases de données vectorielles.
+- Rôle des agents d'IA : Automatiser des tâches, prévoir des besoins, superviser.
+- Expérience : Shruti Bhat d'Oracle à Rockset (acquis par OpenAI).
+- Objectif : Passer des applis classiques aux agents IA intelligents.
+- Défis : Améliorer la recherche en temps réel, l'indexation et la récupération.
+- Nous concernant :
+  - Évolution des rôles : Les développeurs passent à des rôles plus stratégiques.
+  - Adaptation nécessaire : Les développeurs doivent s'adapter aux nouvelles technologies.
 
-Official Java SDK for MCP & Spring AI [https://spring.io/blog/2025/02/14/mcp-java-sdk-released-2](https://spring.io/blog/2025/02/14/mcp-java-sdk-released-2)
+Official Java SDK for MCP & Spring AI
+[https://spring.io/blog/2025/02/14/mcp-java-sdk-released-2](https://spring.io/blog/2025/02/14/mcp-java-sdk-released-2)
 
-- Désormais une implémentation officielle aux côtés des SDK Python, TypeScript et Kotlin. ( [https://modelcontextprotocol.io/](https://modelcontextprotocol.io/) )
+- Désormais une implémentation officielle aux côtés des SDK Python, TypeScript et Kotlin ([https://modelcontextprotocol.io/](https://modelcontextprotocol.io/))
 - Prise en charge de Stdio-based transport, SSE (via HTTP) et intégration avec Spring WebFlux et WebMVC.
-- Intégration avec Spring AI, configuration simplifiée pour les applications Spring Boot (different starters disponibles)
+- Intégration avec Spring AI, configuration simplifiée pour les applications Spring Boot (different starters disponibles).
 
-Codez avec Claude [https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
+Codez avec Claude
+[https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 
-- Claude Code est en beta, plus de liste d'attente
+- Claude Code est en beta, plus de liste d'attente.
 - Un outil de codage agentique intégré au terminal, capable de comprendre votre base de code et d'accélérer le développement grâce à des commandes en langage naturel.
-- Les fonctionnalités permettent de comprendre le code, le refactorer, tester, debugger, ...
+- Les fonctionnalités permettent de comprendre le code, le refactorer, tester, debugger...
 
-Gemini Code Assist est gratuit  [https://blog.google/technology/developers/gemini-code-assist-free/](https://blog.google/technology/developers/gemini-code-assist-free/)
+Gemini Code Assist est gratuit
+[https://blog.google/technology/developers/gemini-code-assist-free/](https://blog.google/technology/developers/gemini-code-assist-free/)
 
 - Pour un usage personnel. 
 - Pas besoin de compte. 
 - Pas de limite. 
-- 128k token input.
+- 128K token input.
 
-Guillaume démarre une série d'articles sur le RAG (niveau avancé). Le premier sur Sentence Window Retrieval[https://glaforge.dev/posts/2025/02/25/advanced-rag-sentence-window-retrieval/](https://glaforge.dev/posts/2025/02/25/advanced-rag-sentence-window-retrieval/)
+Guillaume démarre une série d'articles sur le RAG (niveau avancé). Le premier sur Sentence Window Retrieval
+[https://glaforge.dev/posts/2025/02/25/advanced-rag-sentence-window-retrieval/](https://glaforge.dev/posts/2025/02/25/advanced-rag-sentence-window-retrieval/)
 
-- Guillaume propose une technique qui améliore les résultats de rechercher de Retrieval Augmented Generation
-- L’idée est de calculer des vecteurs embeddings sur des phrases, par exemple, mais de retourner un contexte plus large
-- L’intérêt, c’est d’avoir des calculs de similarité de vector embedding qui ont de bons scores (sans dilution de sens) de similarité, mais de ne pas perdre des informations sur le contexte dans lequel cette phrase se situe
+- Guillaume propose une technique qui améliore les résultats de rechercher de Retrieval Augmented Generation.
+- L’idée est de calculer des vecteurs embeddings sur des phrases, par exemple, mais de retourner un contexte plus large.
+- L’intérêt, c’est d’avoir des calculs de similarité de vector embedding qui ont de bons scores (sans dilution de sens) de similarité, mais de ne pas perdre des informations sur le contexte dans lequel cette phrase se situe.
 
-GitHub Copilot edits en GA, GitHub Copilot en mode agent dans VSCode Insiders [https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
+GitHub Copilot edits en GA, GitHub Copilot en mode agent dans VSCode Insiders
+[https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 
-- Copilot Edits permet via le chat de modifier plusieurs fichiers en même temps, ce qui simplifie les refactoring
+- Copilot Edits permet via le chat de modifier plusieurs fichiers en même temps, ce qui simplifie les refactoring.
 - Copilot en mode agent ajoute un mode autonome (Agentic AI) qui va tout seul chercher les modifications à faire dans votre code base.
-- "what could possibly go wrong?"
+- _what could possibly go wrong?_
 
 
 
 
 ### Méthodologies
 
-Article d'opinion interessant sur AI et le code assistant de **Addy Osmani** [https://addyo.substack.com/p/the-70-problem-hard-truths-about](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
+Article d'opinion intéressant sur l'IA et le code assistant de Addy Osmani
+[https://addyo.substack.com/p/the-70-problem-hard-truths-about](https://addyo.substack.com/p/the-70-problem-hard-truths-about)
 
-- Un article de l'année dernière de **Addy Osmani** [https://addyo.substack.com/p/10-lessons-from-12-years-at-google](https://addyo.substack.com/p/10-lessons-from-12-years-at-google)
-- plusieurs types d'aide IA
-- Ceux pour boostrapper, dun figma ou d'une image et avoir un proto non fonctionnel en quelques jours
-- Ceux pour iterer sur du code donc plus long terme
-- on va faire une interview sur les assistants de code IA
-- Le cout de la vitesse de l'ia
-- les dev senior refactur et modifie le code proposé pour se l'approprier, chnger l'architecture etc
-- donc basé sur leur connaissance
-- appliquer ce qu'on connait deja amis plus vite est un pattern different d'apprendre avec l'IA
-- explore des patterns d'approche
-- et la prospective sur le futur
+- Un article de l'année dernière de Addy Osmani [https://addyo.substack.com/p/10-lessons-from-12-years-at-google](https://addyo.substack.com/p/10-lessons-from-12-years-at-google).
+- Plusieurs types d'aide IA.
+- Celles pour démarrer d'un Figma ou d'une image et avoir un proto non fonctionnel en quelques jours.
+- Celles pour itérer sur du code donc plus long terme.
+- On va faire une interview sur les assistants de code IA.
+- Le coût de la vitesse de l'IA.
+- Les dev senior refactorent et modifie le code proposé pour se l'approprier, changer l'architecture...
+- Donc basé sur leur connaissance.
+- Appliquer ce qu'on connait déjà mais plus vite est un pattern different d'apprendre avec l'IA.
+- Explore des patterns d'approche.
+- Et la prospective sur le futur.
 
 
 
 ### Loi, société et organisation
 
-Elon Musk essaie d'acheter Open AI [https://www.bbc.com/news/articles/cpdx75zgg88o](https://www.bbc.com/news/articles/cpdx75zgg88o)
+Elon Musk essaie d'acheter Open AI
+[https://www.bbc.com/news/articles/cpdx75zgg88o](https://www.bbc.com/news/articles/cpdx75zgg88o)
 
-- La réponse:
-- "non merci mais on peut racheter twiter pour 9,74 milliars si tu veux"
+- La réponse : _non merci, mais on peut racheter Twitter pour 9,74 milliards si tu veux_
 
-Avec la loi narcotrafic votée au sénat, Signal ne serait plus disponible en France [https://www.clubic.com/actualite-555135-avec-la-loi-narcotrafic-signal-quittera-la-france.html](https://www.clubic.com/actualite-555135-avec-la-loi-narcotrafic-signal-quittera-la-france.html)
+Avec la loi narcotrafic votée au sénat, Signal ne serait plus disponible en France
+[https://www.clubic.com/actualite-555135-avec-la-loi-narcotrafic-signal-quittera-la-france.html](https://www.clubic.com/actualite-555135-avec-la-loi-narcotrafic-signal-quittera-la-france.html)
 
-- en plus de légaliser les logiciels espions s’appuyant sur les failles logiciel 
-- La loi demande aux messageries de laisser l’état accéder aux conversations 
-- Donc une backdoor avec une clé etatique par exemple 
-- Une backdoor comme celle des téléphones filaires américains mis en place il y a des années et maintenant exploitée par l’espionnage chinois 
-- Signal à une position ferme, soit c’est sécurisé soit on sort d’un pays
-- Olvid WhatsApp et iMessage sont aussi visée par exemple
-- La loi défini la cible comme la criminalité organisée : les classiques mais aussi les gilets jaunes, les opposants au projet de Bure, les militants aidant les personnes exilées à Briançon, ou encore les actions contre le cimentier Lafarge à Bouc-Bel-Air et à Évreux
+- En plus de légaliser les logiciels espions s’appuyant sur les failles logicielles. 
+- La loi demande aux messageries de laisser l’État accéder aux conversations.
+- Donc une backdoor avec une clé étatique par exemple.
+- Une backdoor comme celle des téléphones filaires américains mis en place il y a des années et maintenant exploitée par l’espionnage chinois. 
+- Signal a une position ferme, soit c’est sécurisé soit on sort d’un pays.
+- Olvid, WhatsApp et iMessage sont aussi visées par exemple.
+- La loi défini la cible comme la criminalité organisée : les classiques, mais aussi les gilets jaunes, les opposants au projet de Bure, les militants aidant les personnes exilées à Briançon, ou encore les actions contre le cimentier Lafarge à Bouc-Bel-Air et à Évreux.
 - Donc plus large que ce que les gens pensent. 
 
 
@@ -298,7 +321,7 @@ par [Aurélie Vache](https://github.com/scraly) et contributeurs :
 - 6 novembre 2025 : [dotAI 2025](https://www.dotai.io/) - Paris (France) <a href="https://www.dotai.io/speak"><img alt="CFP dotAI 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2031-March-2025&color=green"></a>
 - 7 novembre 2025 : [BDX I/O](https://bdxio.fr) - Bordeaux (France) 
 - 12-14 novembre 2025 : [Devoxx Morocco](https://devoxx.ma/) - Marrakech (Morocco) 
-- 21 novembre 2025 : [DevFest Paris 2025](https://devfest.gdgparis.fr/) - Paris (France) <a href="https://conference-hall.io/devfest-paris-2025"><img alt="CFP Devest Paris 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-May-2025&color=green"></a>
+- 21 novembre 2025 : [DevFest Paris 2025](https://devfest.gdgparis.fr/) - Paris (France) <a href="https://conference-hall.io/devfest-paris-2025"><img alt="CFP DevFest Paris 2025" src="https://img.shields.io/static/v1?label=CFP&message=until%2004-May-2025&color=green"></a>
 - 28 novembre 2025 : [DevFest Lyon](https://devfest.gdglyon.com/) - Lyon (France) 
 - 28-31 janvier 2026 : [SnowCamp 2026](https://snowcamp.io/) - Grenoble (France) 
 - 23-25 avril 2026 : [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) 
