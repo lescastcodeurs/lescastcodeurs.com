@@ -9,7 +9,7 @@ mp3_length: 53372497
 tweet: Les évènements écran large #java #webassembly #wideevents #mcp
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
-Arnaud et Emmanuel discutent des versions Java, font un résumé de l'ecosystème WebAssembly, discutent du nouveau Model Context Protocol, parlent d'observabilité avec notamment les Wide Events et de pleins d'autres choses encore.
+Arnaud et Emmanuel discutent des versions Java, font un résumé de l'écosystème WebAssembly, discutent du nouveau Model Context Protocol, parlent d'observabilité avec notamment les Wide Events et de pleins d'autres choses encore.
 
 Enregistré le 17 janvier 2025
 
@@ -21,16 +21,17 @@ ou en vidéo [sur YouTube](https://www.youtube.com/@lescastcodeurs).
 
 ### Langages
 
-java trend par InfoQ [https://www.infoq.com/articles/java-trends-report-2024/](https://www.infoq.com/articles/java-trends-report-2024/)
+Java trend par InfoQ
+[https://www.infoq.com/articles/java-trends-report-2024/](https://www.infoq.com/articles/java-trends-report-2024/)
 
-- Java 17 finalement depasse 11 et 8 ~30/33%
-- Java 21 est à 1.4%
-- commonhaus apparait
-- GraalVM en early majority
-- Spring AI et langchain4j en innovateurs
-- SB 3 voit son adoption augmenter
+- Java 17 finalement dépasse Java 11/8 ~30/33%.
+- Java 21 est à 1.4%.
+- Commonhaus apparait.
+- GraalVM en early majority.
+- Spring AI et Langchain4j en innovateurs.
+- Spring Boot 3 voit son adoption augmenter.
 
-Un bon résumé sur WebAssembly, les différentes specs comme WASM GC, WASI, WIT, etc
+Un bon résumé sur WebAssembly, les différentes specs comme WASM GC, WASI, WIT...
 [https://2ality.com/2025/01/webassembly-language-ecosystem.html](https://2ality.com/2025/01/webassembly-language-ecosystem.html)
 
 - WebAssembly (Wasm) est un format d’instructions binaires pour une machine virtuelle basée sur une pile, permettant la portabilité et l’efficacité du code.
@@ -40,115 +41,125 @@ Un bon résumé sur WebAssembly, les différentes specs comme WASM GC, WASI, WIT
 - Les composants Wasm se composent d’un module central et d’interfaces WIT pour les importations/exportations, facilitant l’interaction indépendante du langage.
 - Les interfaces WIT décrivent les types et les fonctions, tandis que les mondes WIT définissent les capacités et les besoins d’un composant (importations/exportations).
 - La gestion des packages Wasm est assurée par Warg, un protocole pour les registres de packages Wasm.
-- Une enquête a montré que Rust est le langage Wasm le plus utilisé, suivi de Kotlin et de C++; de nombreux autres langages sont également en train d’émerger.
+- Une enquête a montré que Rust est le langage Wasm le plus utilisé, suivi de Kotlin et de C++ ; de nombreux autres langages sont également en train d’émerger.
 
-Un algorithme de comptage a taille limitée ne mémoire a été inventé **[https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)**
+Un algorithme de comptage à taille limitée ne mémoire a été inventé **[https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)**
 
-- élimine un mot de manière aléatoire mais avec une probabilité connue quand il y a besoin de récupérer de l’espace
-- cela se fait par round et on augmente la probabilité de suppression à chaque round
-- donc au final, ne nombre de mots / la probabilité d’avoir été éliminé donne une mesure approximative mais plutot précise
+- Élimine un mot de manière aléatoire, mais avec une probabilité connue quand il y a besoin de récupérer de l’espace.
+- Cela se fait par round et on augmente la probabilité de suppression à chaque round.
+- Donc au final, ne nombre de mots / la probabilité d’avoir été éliminé donne une mesure approximative, mais plutôt précise.
 
 
 ### Librairies
 
 Les contributions Spring passent du CLA au DCO [https://spring.io/blog/2025/01/06/hello-dco-goodbye-cla-simplifying-contributions-to-spring](https://spring.io/blog/2025/01/06/hello-dco-goodbye-cla-simplifying-contributions-to-spring)
 
-- d'abord manuel amis meme automatisé le CLA est une document legal complexe
-- qui peut limiter les contribuitions
-- le DCO vient le Linux je crois et est super simple
-- accord que la licence de la conmtrib est celle du projet
-- accord que le code est public et distribué en perpetuité
-- s'appuie sur les `-s` de git pour le sign off
+- D'abord manuel, mais même automatisé le CLA est un document legal complexe
+- Qui peut limiter les contributions.
+- Le DCO vient le Linux (je crois) et est super simple.
+- Accord que la licence de la contrib est celle du projet.
+- Accord que le code est public et distribué en perpétuité.
+- S'appuie sur les `-s` de git pour le sign off.
 
-Ecrire un serveur MCP en Quarkus [https://quarkus.io/blog/mcp-server/](https://quarkus.io/blog/mcp-server/) MCP est un protocol proposé paor Antropic pour integrer des outils orchestrables par les LLMs
+Écrire un serveur MCP en Quarkus
+[https://quarkus.io/blog/mcp-server/](https://quarkus.io/blog/mcp-server/)
 
-- MCP est frais et va plus loin que les outils
-- offre la notion de resource (file), de functions (tools), et de proimpts pre-built pour appeler l'outil de la meilleure façon
-- On en reparlera a pres avec les agent dans un article suivant
-- il y a une extension Quarkus pour simplifier le codage
-- un article plus detaillé sur l'integration Quarkus [https://quarkus.io/blog/quarkus-langchain4j-mcp/](https://quarkus.io/blog/quarkus-langchain4j-mcp/)
+- MCP est un protocol proposé par Anthropic pour intégrer des outils orchestrables par les LLMs.
+- MCP est frais et va plus loin que les outils.
+- offre la notion de resource (file), de functions (tools), et de prompts pre built pour appeler l'outil de la meilleure façon.
+- On en reparlera après avec les agents dans un article suivant.
+- Il y a une extension Quarkus pour simplifier le codage.
+- Un article plus détaillé sur l'intégration Quarkus : [https://quarkus.io/blog/quarkus-langchain4j-mcp/](https://quarkus.io/blog/quarkus-langchain4j-mcp/).
 
-GreenMail un mini mail server en java [https://greenmail-mail-test.github.io/greenmail/#features-api](https://greenmail-mail-test.github.io/greenmail/#features-api)
+GreenMail un mini mail server en java
+[https://greenmail-mail-test.github.io/greenmail/#features-api](https://greenmail-mail-test.github.io/greenmail/#features-api)
 
-- Utile pour les tests d'integration
-- Supporte SMTP, POP3 et IMAP avec TLS/SSL
-- Propose des integrations JUnit, Spring
-- Une mini UI et des APIs REST permettent d'interagir avec le serveur si par exemple vous le partagé dans un container (il n'y a pas d'integration TestContainer existante mais elle n'est pas compliquée à écrire)
+- Utile pour les tests d'intégration.
+- Supporte SMTP, POP3 et IMAP avec TLS/SSL.
+- Propose des integrations JUnit, Spring.
+- Une mini UI et des APIs REST permettent d'interagir avec le serveur si par exemple vous le partagé dans un container (il n'y a pas d'intégration TestContainer existante mais elle n'est pas compliquée à écrire).
 
 
 ### Infrastructure
 
-Docker Bake in a visual way [https://dev.to/aurelievache/understanding-docker-part-47-docker-bake-4p05](https://dev.to/aurelievache/understanding-docker-part-47-docker-bake-4p05)
+Docker Bake in a visual way
+[https://dev.to/aurelievache/understanding-docker-part-47-docker-bake-4p05](https://dev.to/aurelievache/understanding-docker-part-47-docker-bake-4p05)
 
-- docker back propose d'utiliser des fichiers de configuration (format HCL) pour lancer ses builds d'images et docker compose
-- en gros voyez ce DSL comme un Makefile très simplifié pour les commandes docker qui souvent peuvent avoir un peu trop de paramètres
+- Docker back propose d'utiliser des fichiers de configuration (format HCL) pour lancer ses builds d'images et docker compose.
+- En gros voyez ce DSL comme un Makefile très simplifié pour les commandes docker qui souvent peuvent avoir un peu trop de paramètres.
 
-Datadog continue de s'etendre avec l'acquisition de Quickwit [https://www.datadoghq.com/blog/datadog-acquires-quickwit/](https://www.datadoghq.com/blog/datadog-acquires-quickwit/)
+Datadog continue de s'étendre avec l'acquisition de Quickwit
+[https://www.datadoghq.com/blog/datadog-acquires-quickwit/](https://www.datadoghq.com/blog/datadog-acquires-quickwit/)
 
-- Solution open-source de recherche des logs qui peut être déployée on-premise et dans le cloud [https://quickwit.io/](https://quickwit.io/)
-- Les logs ne quittent plus votre environment ce qui permet de répondre à des besoins de sécurité, privacy et réglementaire
+- Solution open-source de recherche des logs qui peut être déployée on-premise et dans le cloud [https://quickwit.io/](https://quickwit.io/).
+- Les logs ne quittent plus votre environment ce qui permet de répondre à des besoins de sécurité, privacy et réglementaire.
 
 
 
 ### Web
 
-33 concepts en javascript [https://github.com/leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+33 concepts en javascript
+[https://github.com/leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 
 - [Call Stack](https://github.com/leonardomso/33-js-concepts#1-call-stack), [Primitive Types](https://github.com/leonardomso/33-js-concepts#2-primitive-types), [Value Types and Reference Types](https://github.com/leonardomso/33-js-concepts#3-value-types-and-reference-types), [Implicit, Explicit, Nominal, Structuring and Duck Typing](https://github.com/leonardomso/33-js-concepts#4-implicit-explicit-nominal-structuring-and-duck-typing), [== vs === vs typeof](https://github.com/leonardomso/33-js-concepts#5--vs--vs-typeof), [Function Scope, Block Scope and Lexical Scope](https://github.com/leonardomso/33-js-concepts#6-function-scope-block-scope-and-lexical-scope), [Expression vs Statement](https://github.com/leonardomso/33-js-concepts#7-expression-vs-statement), [IIFE, Modules and Namespaces](https://github.com/leonardomso/33-js-concepts#8-iife-modules-and-namespaces), [Message Queue and Event Loop](https://github.com/leonardomso/33-js-concepts#9-message-queue-and-event-loop), [setTimeout, setInterval and requestAnimationFrame](https://github.com/leonardomso/33-js-concepts#10-settimeout-setinterval-and-requestanimationframe), [JavaScript Engines](https://github.com/leonardomso/33-js-concepts#11-javascript-engines), [Bitwise Operators, Type Arrays and Array Buffers](https://github.com/leonardomso/33-js-concepts#12-bitwise-operators-type-arrays-and-array-buffers), [DOM and Layout Trees](https://github.com/leonardomso/33-js-concepts#13-dom-and-layout-trees), [Factories and Classes](https://github.com/leonardomso/33-js-concepts#14-factories-and-classes), [this, call, apply and bind](https://github.com/leonardomso/33-js-concepts#15-this-call-apply-and-bind), [new, Constructor, instanceof and Instances](https://github.com/leonardomso/33-js-concepts#16-new-constructor-instanceof-and-instances), [Prototype Inheritance and Prototype Chain](https://github.com/leonardomso/33-js-concepts#17-prototype-inheritance-and-prototype-chain), [Object.create and Object.assign](https://github.com/leonardomso/33-js-concepts#18-objectcreate-and-objectassign), [map, reduce, filter](https://github.com/leonardomso/33-js-concepts#19-map-reduce-filter), [Pure Functions, Side Effects, State Mutation and Event Propagation](https://github.com/leonardomso/33-js-concepts#20-pure-functions-side-effects-state-mutation-and-event-propagation), [Closures](https://github.com/leonardomso/33-js-concepts#21-closures), [High Order Functions](https://github.com/leonardomso/33-js-concepts#22-high-order-functions), [Recursion](https://github.com/leonardomso/33-js-concepts#23-recursion), [Collections and Generators](https://github.com/leonardomso/33-js-concepts#24-collections-and-generators), [Promises](https://github.com/leonardomso/33-js-concepts#25-promises), [async/await](https://github.com/leonardomso/33-js-concepts#26-asyncawait), [Data Structures](https://github.com/leonardomso/33-js-concepts#27-data-structures), [Expensive Operation and Big O Notation](https://github.com/leonardomso/33-js-concepts#28-expensive-operation-and-big-o-notation), [Algorithms](https://github.com/leonardomso/33-js-concepts#29-algorithms), [Inheritance, Polymorphism and Code Reuse](https://github.com/leonardomso/33-js-concepts#30-inheritance-polymorphism-and-code-reuse), [Design Patterns](https://github.com/leonardomso/33-js-concepts#31-design-patterns), [Partial Applications, Currying, Compose and Pipe](https://github.com/leonardomso/33-js-concepts#32-partial-applications-currying-compose-and-pipe), [Clean Code](https://github.com/leonardomso/33-js-concepts#33-clean-code)
 
 
 ### Data et Intelligence Artificielle
 
-Phi 4 et les small language models [https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%e2%80%99s-newest-small-language-model-specializing-in-comple/4357090](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%e2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
+Phi 4 et les small language models
+[https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%e2%80%99s-newest-small-language-model-specializing-in-comple/4357090](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%e2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
 
-- Phi 4 un SML pour les usages locaux notamment
-- 14B de parametres
-- belle progression de ~20 points sur un score aggregé et qui le rapproche de Llama 3.3 et ses 70B de parametres
-- bon en math (data set synthétique)
+- Phi 4 un SML pour les usages locaux notamment.
+- 14B de paramètres.
+- Belle progression de ~20 points sur un score agrégé et qui le rapproche de Llama 3.3 et ses 70B de paramètres.
+- Bon en math (data set synthétique).
 
 Comment utiliser Gemini 2.0 Flash Thinking (le modèle de Google qui fait du raisonnement à la sauce chain of thought) en Java avec LangChain4j
 [https://glaforge.dev/posts/2024/12/20/lets-think-with-gemini-2-thinking-mode-and-langchain4j/](https://glaforge.dev/posts/2024/12/20/lets-think-with-gemini-2-thinking-mode-and-langchain4j/)
 
-- Google a sorti Gemini 2.0 Flash, un petit modèle de la famille Gemini
-- the "thinking mode" simule les cheminements de pensée (Chain of thoughts etc)
-- décompose **beaucoup plus** les taches coplexes en plusiewurs taches
-- un exemple est montré sur le modele se battant avec le probleme
+- Google a sorti Gemini 2.0 Flash, un petit modèle de la famille Gemini.
+- Le "thinking mode" simule les cheminements de pensée (Chain of thoughts etc).
+- Décompose **beaucoup plus** les tâches complexes en plusieurs taches.
+- Un exemple est montré sur le modèle se battant avec le problème.
 
-Les recommendations d’Antropic sur les systèmes d’agents
+Les recommendations d’Anthropic sur les systèmes d’agents
 [https://www.anthropic.com/research/building-effective-agents](https://www.anthropic.com/research/building-effective-agents)
 
-- défini les agents et les workflow
-- Ne recommence pas les frameworks (LangChain, Amazon Bedrock AI Agent etc) le fameux débat sur l’abstraction
-- Beaucoup de patterns implementable avec quelques lignes sans frameworks
-- Plusieurs blocks de complexité croissante
-- Augmented LLM (RAG, memory etc): Anthropic dit que les LLMs savent coordonner cela via MCP apr exemple
-- Second: workflow prompt chaining : avec des gates et appelle les LLMs savent coordonner successivement ; favorise la precision vs la latence vu que les taches sont décomposées en plusieurs calls LLMs
-- Workflow routing: classifie une entree et choisie la route a meilleure: separation de responsabilité
-- Workflow : parallelisation: LLM travaillent en paralllele sur une tache et un aggregateur fait la synthèse. Paralleisaiton avec saucissonage de la tache ou voter sur le meilleur réponse 
-- Workflow : orchestrator workers: quand les taches ne sont pas bounded ou connues (genre le nombre de fichiers de code à changer) - les sous taches ne sont pas prédéfinies
-- Workflow: evaluator optimizer: nun LLM propose une réponse, un LLM l’évalue et demande une meilleure réponse au besoin 
-- Agents: commande ou interaction avec l;humain puis autonome meme si il peut revenir demander des precisions à l’humain. Agents sont souvent des LLM utilisât des outil pour modifier l’environnement et réagir a feedback en boucle
-- Ideal pour les problèmes ouverts et ou le nombre d’étapes n’est pas connu
-- Recommende d’y aller avec une complexité progressive
+- Défini les agents et les workflow.
+- Ne recommence pas les frameworks (LangChain, Amazon Bedrock AI Agent etc) le fameux débat sur l’abstraction.
+- Beaucoup de patterns implementable avec quelques lignes sans frameworks.
+- Plusieurs blocks de complexité croissante.
+- Augmented LLM (RAG, memory etc): Anthropic dit que les LLMs savent coordonner cela via MCP apr exemple.
+- Second : workflow prompt chaining : avec des gates et appelle les LLMs savent coordonner successivement ; favorise la precision vs la latence vu que les taches sont décomposées en plusieurs calls LLMs.
+- Workflow routing : classifie une entree et choisie la route la meilleure : séparation de responsabilité.
+- Workflow : parallélisation : LLM travaillent en parallèle sur une tache et un agrégateur fait la synthèse. parallélisation avec saucissonnage de la tâche ou voter sur la meilleure réponse. 
+- Workflow : orchestrator workers : quand les tâches ne sont pas bounded ou connues (genre le nombre de fichiers de code à changer) ou quand les sous tâches ne sont pas prédéfinies.
+- Workflow : evaluator optimizer : un LLM propose une réponse, un LLM l’évalue et demande une meilleure réponse au besoin.
+- Agents : commande ou interaction avec l'humain puis autonome meme s'il peut revenir demander des precisions à l’humain. Agents sont souvent des LLM utilisât des outils pour modifier l’environnement et réagir à feedback en boucle.
+- Ideal pour les problèmes ouverts et où le nombre d’étapes n’est pas connu.
+- Recommandé d’y aller avec une complexité progressive.
 
-L'IA c'est pas donné [https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/](https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/)
+L'IA c'est pas donné
+[https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/](https://techcrunch.com/2025/01/05/openai-is-losing-money-on-its-pricey-chatgpt-pro-plan-ceo-sam-altman-says/)
 
 - OpenAI annonce que même avec des licenses à 200$/mois ils ne couvrent pas leurs couts associés...
-- A quand l'explosion de la bulle IA ? 
+- À quand l'explosion de la bulle IA ? 
 
 
 ### Outillage
 
-Ghostty, un nouveau terminal pour Linux et macOS : [https://ghostty.org/](https://ghostty.org/)
+Ghostty, un nouveau terminal pour Linux et macOS
+[https://ghostty.org/](https://ghostty.org/)
 
-- Initié par [Mitchell Hashimoto](https://mitchellh.com/) (hashicorp)
+- Initié par [Mitchell Hashimoto](https://mitchellh.com/) (Hashicorp).
 - Ghostty est un émulateur de terminal natif pour macOS et Linux.
 - Il est écrit en Swift et utilise AppKit et SwiftUI sur macOS, et en Zig et utilise l'API GTK4 C sur Linux.
 - Il utilise des composants d'interface utilisateur native et des raccourcis clavier et souris standard.
 - Il prend en charge Quick Look, Force Touch et d'autres fonctionnalités spécifiques à macOS.
 - Ghostty essaie de fournir un ensemble riche de fonctionnalités utiles pour un usage quotidien.
 
-Comment Pinterest utilise Honeycomb pour améliorer sa CI [https://medium.com/pinterest-engineering/how-pinterest-leverages-honeycomb-to-enhance-ci-observability-and-improve-ci-build-stability-15eede563d75](https://medium.com/pinterest-engineering/how-pinterest-leverages-honeycomb-to-enhance-ci-observability-and-improve-ci-build-stability-15eede563d75)
+Comment Pinterest utilise Honeycomb pour améliorer sa CI
+[https://medium.com/pinterest-engineering/how-pinterest-leverages-honeycomb-to-enhance-ci-observability-and-improve-ci-build-stability-15eede563d75](https://medium.com/pinterest-engineering/how-pinterest-leverages-honeycomb-to-enhance-ci-observability-and-improve-ci-build-stability-15eede563d75)
 
 - Pinterest utilise Honeycomb pour améliorer l'observabilité de l'intégration continue (CI).
 - Honeycomb permet à Pinterest de visualiser les métriques de build, d'analyser les tendances et de prendre des décisions basées sur les données.
@@ -175,46 +186,49 @@ Suite à notre épisode sur les différents types de documentation, cet article 
 
 Les Wide events, un "nouveau" concept en observabilité [https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
 
-- un autre article [https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
-- L'idée est de logger des evenements (genre JSON log) avec le plus d'infos possible
-- de la machine, la ram, la versiond e l'appli, l'utilisateur, le numero de build qui a produit l'appli, la derniere PR etc etc
-- ca permet de filtrer et grouper by et de voir des correlations visuelles tres rapidement et de zoomer
-- tiens les ventes baisses de 20%
-- tiens en fait ca vient de l'appli andriod
-- tiens aps correle a la version de l'appli
-- mais la version de l'os si!
-- le deuxieme article est facile a lire
-- le premier est un guide d'usage exhaustif du concept
+- un autre article [https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics).
+- L'idée est de logger des événements (genre JSON log) avec le plus d'infos possible.
+- De la machine, la ram, la version de l'appli, l'utilisateur, le numéro de build qui a produit l'appli, la dernière PR, etc.
+- Ça permet de filtrer et grouper by et de voir des correlations visuelles tres rapidement et de zoomer.
+- Tiens, les ventes baisses de 20%.
+- Tiens, en fait ça vient de l'appli Android.
+- Tiens, pas corrélé à la version de l'appli.
+- Mais la version de l'os si !
+- Le deuxième article est facile à lire.
+- Le premier est un guide d'usage exhaustif du concept.
 
-Entre argumenter et se donner 5 minutes [https://signalvnoise.com/posts/3124-give-it-five-minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
+Entre argumenter et se donner 5 minutes
+[https://signalvnoise.com/posts/3124-give-it-five-minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
 
-- on veut souvent argumenter aka poser des questions en ayant déjà la reponse en soi emotionnellement
-- mais ca amene beaucoup de verbiage
-- donner 5 minutes à l'idée le temps d'y penser avant d'argumenter
+- On veut souvent argumenter aka poser des questions en ayant déjà la réponse en soi émotionnellement.
+- Mais ça amène beaucoup de verbiage.
+- Donner cinq minutes à l'idée le temps d'y penser avant d'argumenter.
 
 
 
 ### Loi, société et organisation
 
-Des juges fédéraux arrêtent le principe de la neutralité du net [https://www.lemonde.fr/pixels/article/2025/01/03/les-etats-unis-reviennent-en-arriere-sur-le-principe-de-la-neutralite-du-net_6479575_4408996.html?lmd_medium=al&amp;lmd_campaign=envoye-par-appli&amp;lmd_creation=ios&amp;lmd_source=default](https://www.lemonde.fr/pixels/article/2025/01/03/les-etats-unis-reviennent-en-arriere-sur-le-principe-de-la-neutralite-du-net_6479575_4408996.html?lmd_medium=al&amp;lmd_campaign=envoye-par-appli&amp;lmd_creation=ios&amp;lmd_source=default)
+Des juges fédéraux arrêtent le principe de la neutralité du net
+[https://www.lemonde.fr/pixels/article/2025/01/03/les-etats-unis-reviennent-en-arriere-sur-le-principe-de-la-neutralite-du-net_6479575_4408996.html?lmd_medium=al&amp;lmd_campaign=envoye-par-appli&amp;lmd_creation=ios&amp;lmd_source=default](https://www.lemonde.fr/pixels/article/2025/01/03/les-etats-unis-reviennent-en-arriere-sur-le-principe-de-la-neutralite-du-net_6479575_4408996.html?lmd_medium=al&amp;lmd_campaign=envoye-par-appli&amp;lmd_creation=ios&amp;lmd_source=default)
 
-- la neutralité du net c’est l’interdiction de traiter un paquet différemment en fonction de son émetteur 
-- Par exemple un paquet Netflix qui serait ralenti vs un paquet Amazon 
-- Donald trump est contre cette neutralité. 
+- La neutralité du net, c'est l’interdiction de traiter un paquet différemment en fonction de son émetteur. 
+- Par exemple un paquet Netflix qui serait ralenti vs un paquet Amazon. 
+- Donald Trump est contre cette neutralité. 
 - À voir les impacts concrets dans un marché moins régulé. 
 
 
 
 ## Rubrique débutant
 
-Un petit article sur les float vs les double en Java <https://www.baeldung.com/java-float-vs-double>
+Un petit article sur les float vs les doubles en Java
+<https://www.baeldung.com/java-float-vs-double>
 
-- 4 vs 8 bytes
-- precision max de 7 vs 15
-- echele 10^38 vs 10^308 (ordre de grandeur)
-- perf a peu pret similaire
-- sauf peut etre pour des modeles d'IA qui vont privilegier une taille plus petite parfois
-- attention overflow et les accumulation d'erreurs d'approximation `BigDecimal`
+- 4 vs 8 bytes.
+- Précision max de 7 vs 15.
+- Échelle 10^38 vs 10^308 (ordre de grandeur).
+- Perf à peu près similaire.
+- Sauf peut-être pour des modèles d'IA qui vont privilégier une taille plus petite parfois.
+- Attention overflow et les accumulations d'erreurs d'approximation : `BigDecimal`.
 
 
 ## Conférences
