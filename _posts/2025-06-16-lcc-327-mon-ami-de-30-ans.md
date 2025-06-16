@@ -4,7 +4,7 @@ author: 'Emmanuel Bernard'
 team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Arnaud Héritier, Audrey Neveu, Katia Aresti'
 layout: blog-post
 episode: 327
-youtube:
+youtube: https://youtu.be/Pfn0BGxEEVk
 mp3_length: 74555636
 tweet: Mon ami de 30 ans #WebAssembly #JDK #Java #Kotlin #IA #Hibernate #Spring #Vertx #Conscience #Virtualisation #Conteneurisation #Claude4 #GPT41 #Sécurité #OpenSource #Méthodologie #Outils
 # tweet size: 91-93 -> 99-101 #######################################################################
