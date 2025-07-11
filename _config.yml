@@ -61,7 +61,6 @@ sidebar_cards:
     links:
       - name: 'lescastcodeurs.com'
         icon: 'bluesky'
-        bluesky: true
         color: 'twitter-blue'
         url: 'https://bsky.app/profile/lescastcodeurs.com'
       - name: '@lescastcodeurs'
