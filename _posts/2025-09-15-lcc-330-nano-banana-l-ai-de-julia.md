@@ -10,7 +10,7 @@ tweet: Nano banana l'AI de Julia #Java #Kotlin #Quarkus #IA #NanoBanana #SpringB
 # tweet size: 91-93 -> 99-101 #######################################################################
 ---
 Katia, Emmanuel et Guillaume discutent Java, Kotlin, Quarkus, Hibernate, Spring Boot 4, intelligence artificielle (modèles Nano Banana, VO3, frameworks agentiques, embedding).
-On discute les vulnerabilités OWASP pour les LLMs, les personalités de codage des différents modèles, Podman vs Docker, comment moderniser des projets legacy.
+On discute les vulnérabilités OWASP pour les LLMs, les personnalités de codage des différents modèles, Podman vs Docker, comment moderniser des projets legacy.
 Mais surtout on a passé du temps sur les présentations de Luc Julia et les différents contre points qui ont fait le buzz sur les réseaux.
 
 Enregistré le 12 septembre 2025
@@ -41,47 +41,50 @@ Dans cette vidéo, José détaille les nouveautés de Java entre Java 21 et 25
   - Problème d’observation de champs `final` à `null` pendant la construction d’un objet [[28:44](http://www.youtube.com/watch?v=X0-TGhktFnE&amp;t=1724)].
   - JEP 513 pour contrôler l’appel à `super()` et restreindre l’usage de `this` dans les constructeurs [[33:29](http://www.youtube.com/watch?v=X0-TGhktFnE&amp;t=2009)].
 
-JDK 25 sort le 16 septembre [https://openjdk.org/projects/jdk/25/](https://openjdk.org/projects/jdk/25/)
+JDK 25 sort le 16 septembre
+[https://openjdk.org/projects/jdk/25/](https://openjdk.org/projects/jdk/25/)
 
-- Scoped Values (JEP 505) -  alternative plus efficace aux ThreadLocal pour partager des données immutables entre threads
-- Structured Concurrency (JEP 506) -  traiter des groupes de tâches concurrentes comme une seule unité de travail, simplifiant la gestion des threads
-- Compact Object Headers (JEP 519) - Fonctionnalité finale qui réduit de 50% la taille des en-têtes d’objets (de 128 à 64 bits), économisant jusqu’à 22% de mémoire heap
-- Flexible Constructor Bodies (JEP 513) - Relaxation des restrictions sur les constructeurs, permettant du code avant l’appel super() ou this()
-- Module Import Declarations (JEP 511) - Import simplifié permettant d’importer tous les éléments publics d’un module en une seule déclaration
-- Compact Source Files (JEP 512) - Simplification des programmes Java basiques avec des méthodes main d’instance sans classe wrapper obligatoire
-- Primitive Types in Patterns (JEP 455) - Troisième preview étendant le pattern matching et instanceof aux types primitifs dans switch et instanceof
-- Generational Shenandoah (JEP 521) - Le garbage collector Shenandoah passe en mode générationnel pour de meilleures performances
-- JFR Method Timing &amp; Tracing (JEP 520) - Nouvel outillage de profilage pour mesurer le temps d’exécution et tracer les appels de méthodes
-- Key Derivation API (JEP 510) - API finale pour les fonctions de dérivation de clés cryptographiques, remplaçant les implémentations tierces
+- Scoped Values (JEP 505) : Alternative plus efficace aux ThreadLocal pour partager des données immutables entre threads.
+- Structured Concurrency (JEP 506) : Traiter des groupes de tâches concurrentes comme une seule unité de travail, simplifiant la gestion des threads.
+- Compact Object Headers (JEP 519) : Fonctionnalité finale qui réduit de 50% la taille des en-têtes d’objets (de 128 à 64 bits), économisant jusqu’à 22% de mémoire heap.
+- Flexible Constructor Bodies (JEP 513) : Relaxation des restrictions sur les constructeurs, permettant du code avant l’appel `super()` ou `this()`.
+- Module Import Declarations (JEP 511) : Import simplifié permettant d’importer tous les éléments publics d’un module en une seule déclaration.
+- Compact Source Files (JEP 512) : Simplification des programmes Java basiques avec des méthodes main d’instance sans classe wrapper obligatoire.
+- Primitive Types in Patterns (JEP 455) : Troisième preview étendant le pattern matching et instanceof aux types primitifs dans `switch` et `instanceof`.
+- Generational Shenandoah (JEP 521) : Le garbage collector Shenandoah passe en mode générationnel pour de meilleures performances.
+- JFR Method Timing &amp; Tracing (JEP 520) : Nouvel outillage de profilage pour mesurer le temps d’exécution et tracer les appels de méthodes.
+- Key Derivation API (JEP 510) : API finale pour les fonctions de dérivation de clés cryptographiques, remplaçant les implémentations tierces.
 
-Améliorations du traitement des annotations dans Kotlin 2.2 [https://blog.jetbrains.com/idea/2025/09/improved-annotation-handling-in-kotlin-2-2-less-boilerplate-fewer-surprises/](https://blog.jetbrains.com/idea/2025/09/improved-annotation-handling-in-kotlin-2-2-less-boilerplate-fewer-surprises/)
+Améliorations du traitement des annotations dans Kotlin 2.2
+[https://blog.jetbrains.com/idea/2025/09/improved-annotation-handling-in-kotlin-2-2-less-boilerplate-fewer-surprises/](https://blog.jetbrains.com/idea/2025/09/improved-annotation-handling-in-kotlin-2-2-less-boilerplate-fewer-surprises/)
 
-- Avant Kotlin 2.2, les annotations sur les paramètres de constructeur n’étaient appliquées qu’au paramètre, pas à la propriété ou au champ
-- Cela causait des bugs subtils avec Spring et JPA où la validation ne fonctionnait qu’à la création d’objet, pas lors des mises à jour
-- La solution précédente nécessitait d’utiliser explicitement @field: pour chaque annotation, créant du code verbeux
-- Kotlin 2.2 introduit un nouveau comportement par défaut qui applique les annotations aux paramètres ET aux propriétés/champs automatiquement
-- Le code devient plus propre sans avoir besoin de syntaxe @field: répétitive
-- Pour l’activer, ajouter -Xannotation-default-target=param-property dans les options du compilateur Gradle
-- IntelliJ IDEA propose un quick-fix pour activer ce comportement à l’échelle du projet
-- Cette amélioration rend l’intégration Kotlin plus fluide avec les frameworks majeurs comme Spring et JPA
-- Le comportement peut être configuré pour garder l’ancien mode ou activer un mode transitoire avec avertissements
-- Cette mise à jour fait partie d’une initiative plus large pour améliorer l’expérience Kotlin + Spring
+- Avant Kotlin 2.2, les annotations sur les paramètres de constructeur n’étaient appliquées qu’au paramètre, pas à la propriété ou au champ.
+- Cela causait des bugs subtils avec Spring et JPA où la validation ne fonctionnait qu’à la création d’objet, pas lors des mises à jour.
+- La solution précédente nécessitait d’utiliser explicitement `@field` pour chaque annotation, créant du code verbeux.
+- Kotlin 2.2 introduit un nouveau comportement par défaut qui applique les annotations aux paramètres ET aux propriétés/champs automatiquement.
+- Le code devient plus propre sans avoir besoin de syntaxe `@field` répétitive.
+- Pour l’activer, ajouter `-Xannotation-default-target=param-property` dans les options du compilateur Gradle.
+- IntelliJ IDEA propose un quick-fix pour activer ce comportement à l’échelle du projet.
+- Cette amélioration rend l’intégration Kotlin plus fluide avec les frameworks majeurs comme Spring et JPA.
+- Le comportement peut être configuré pour garder l’ancien mode ou activer un mode transitoire avec avertissements.
+- Cette mise à jour fait partie d’une initiative plus large pour améliorer l’expérience Kotlin + Spring.
 
 
 ### Librairies
 
-Sortie de Quarkus 3.26 avec mises à jour d'Hibernate et autres fonctionnalités - [https://quarkus.io/blog/quarkus-3-26-released/](https://quarkus.io/blog/quarkus-3-26-released/)
+Sortie de Quarkus 3.26 avec mises à jour d'Hibernate et autres fonctionnalités
+[https://quarkus.io/blog/quarkus-3-26-released/](https://quarkus.io/blog/quarkus-3-26-released/)
 
-- mettez à jour vers la 3.26.x car il y a eu une regression vert.x
-- Jalon important vers la version LTS 3.27 prévue fin septembre, basée sur cette version
-- Mise à jour vers Hibernate ORM 7.1, Hibernate Search 8.1 et Hibernate Reactive 3.1
-- Support des unités de persistance nommées et sources de données dans Hibernate Reactive
-- Démarrage hors ligne et configuration de dialecte pour Hibernate ORM même si la base n'est pas accessible
-- Refonte de la console HQL dans Dev UI avec fonctionnalité Hibernate Assistant intégrée
-- Exposition des capacités Dev UI comme fonctions MCP pour pilotage via outils IA
-- Rafraîchissement automatique des tokens OIDC en cas de réponse 401 des clients REST
-- Extension JFR pour capturer les données runtime (nom app, version, extensions actives)
-- Bump de Gradle vers la version 9.0 par défaut, suppression du support des classes config legacy
+- Mettez à jour vers la 3.26.x, car il y a eu une regression vert.x.
+- Jalon important vers la version LTS 3.27 prévue fin septembre, basée sur cette version.
+- Mise à jour vers Hibernate ORM 7.1, Hibernate Search 8.1 et Hibernate Reactive 3.1.
+- Support des unités de persistance nommées et sources de données dans Hibernate Reactive.
+- Démarrage hors ligne et configuration de dialecte pour Hibernate ORM même si la base n'est pas accessible.
+- Refonte de la console HQL dans Dev UI avec fonctionnalité Hibernate Assistant intégrée.
+- Exposition des capacités Dev UI comme fonctions MCP pour pilotage via outils IA.
+- Rafraîchissement automatique des tokens OIDC en cas de réponse 401 des clients REST.
+- Extension JFR pour capturer les données runtime (nom app, version, extensions actives).
+- Bump de Gradle vers la version 9.0 par défaut, suppression du support des classes config legacy.
 
 Guide de démarrage avec Quarkus et A2A Java SDK 0.3.0
 (pour faire discuter des agents IA avec la dernière version du protocole A2A)
@@ -93,7 +96,7 @@ Guide de démarrage avec Quarkus et A2A Java SDK 0.3.0
 - **Agents serveur A2A** :
   - Support gRPC ajouté (en plus de JSON-RPC). HTTP+JSON/REST à venir.
   - Implémentations basées sur Quarkus (alternatives Jakarta existent).
-  - Dépendances spécifiques pour chaque transport (ex: `a2a-java-sdk-reference-jsonrpc`, `a2a-java-sdk-reference-grpc`).
+  - Dépendances spécifiques pour chaque transport (ex : `a2a-java-sdk-reference-jsonrpc`, `a2a-java-sdk-reference-grpc`).
   - **AgentCard** : décrit les capacités de l’agent. Doit spécifier le point d’accès primaire et tous les transports supportés (`additionalInterfaces`).
 - **Clients A2A** :
   - Dépendance principale : `a2a-java-sdk-client`.
@@ -134,74 +137,75 @@ Générer des vidéos IA avec le modèle Veo 3, mais en Java !
   - `veo-3.0-generate-001` (qualité supérieure, plus coûteux, plus lent).
   - `veo-3.0-fast-generate-001` (qualité inférieure, moins coûteux, mais plus rapide).
 
-Rod Johnson sur ecrire des aplication agentic en Java plus facilement qu’en python avec Embabel [https://medium.com/@springrod/you-can-build-better-ai-agents-in-java-than-python-868eaf008493](https://medium.com/@springrod/you-can-build-better-ai-agents-in-java-than-python-868eaf008493)
+Rod Johnson sur ecrire des applications agentic en Java plus facilement qu’en python avec Embabel
+[https://medium.com/@springrod/you-can-build-better-ai-agents-in-java-than-python-868eaf008493](https://medium.com/@springrod/you-can-build-better-ai-agents-in-java-than-python-868eaf008493)
 
-- Rod the papa de Spring réécrit un exemple CrewAI (Python) qui génère un livre en utilisant Embabel (Java) pour démontrer la supériorité de Java
-- L’application utilise plusieurs agents AI spécialisés : un chercheur, un planificateur de livre et des rédacteurs de chapitres
-- Le processus suit trois étapes : recherche du sujet, création du plan, rédaction parallèle des chapitres puis assemblage
-- CrewAI souffre de plusieurs problèmes : configuration lourde, manque de type safety, utilisation de clés magiques dans les prompts
-- La version Embabel nécessite moins de code Java que l’original Python et moins de fichiers de configuration YAML
-- Embabel apporte la type safety complète, éliminant les erreurs de frappe dans les prompts et améliorant l’outillage IDE
-- La gestion de la concurrence est mieux contrôlée en Java pour éviter les limites de débit des APIs LLM
-- L’intégration avec Spring permet une configuration externe simple des modèles LLM et hyperparamètres
-- Le planificateur Embabel détermine automatiquement l’ordre d’exécution des actions basé sur leurs types requis
-- L’argument principal : l’écosystème JVM offre un meilleur modèle de programmation et accès à la logique métier existante que Python
-- Il y a pas mal de nouveaux framework agentic en Java, notamment le dernier LAngchain4j Agentic
+- Rod the papa de Spring réécrit un exemple CrewAI (Python) qui génère un livre en utilisant Embabel (Java) pour démontrer la supériorité de Java.
+- L’application utilise plusieurs agents AI spécialisés : un chercheur, un planificateur de livre et des rédacteurs de chapitres.
+- Le processus suit trois étapes : recherche du sujet, création du plan, rédaction parallèle des chapitres puis assemblage.
+- CrewAI souffre de plusieurs problèmes : configuration lourde, manque de type safety, utilisation de clés magiques dans les prompts.
+- La version Embabel nécessite moins de code Java que l’original Python et moins de fichiers de configuration YAML.
+- Embabel apporte la type safety complète, éliminant les erreurs de frappe dans les prompts et améliorant l’outillage IDE.
+- La gestion de la concurrence est mieux contrôlée en Java pour éviter les limites de débit des APIs LLM.
+- L’intégration avec Spring permet une configuration externe simple des modèles LLM et hyperparamètres.
+- Le planificateur Embabel détermine automatiquement l’ordre d’exécution des actions basé sur leurs types requis.
+- L’argument principal : l’écosystème JVM offre un meilleur modèle de programmation et accès à la logique métier existante que Python.
+- Il y a pas mal de nouveaux frameworks agentic en Java, notamment le dernier Langchain4j Agentic.
 
-Spring lance un serie de blog posts sur les nouveautés de Spring Boot 4 [https://spring.io/blog/2025/09/02/road_to_ga_introduction](https://spring.io/blog/2025/09/02/road_to_ga_introduction)
+Spring lance un serie de blog posts sur les nouveautés de Spring Boot 4
+[https://spring.io/blog/2025/09/02/road_to_ga_introduction](https://spring.io/blog/2025/09/02/road_to_ga_introduction)
 
-- baseline JDK 17
-- mais rebase sur Jakarta 11
-- Kotlin 2, Jackson 3 et JUnit 6
-- Fonctionnalités de résilience principales de Spring : `@ConcurrencyLimit`, `@Retryable`, `RetryTemplate`
-- Versioning d’API dans Spring
-- Améliorations du client de service HTTP
-- L’état des clients HTTP dans Spring
-- Introduction du support Jackson 3 dans Spring
-- Consommateur partagé - les queues Kafka dans Spring Kafka
-- Modularisation de Spring Boot
-- Autorisation progressive dans Spring Security
-- Spring gRPC - un nouveau module Spring Boot
-- Applications null-safe avec Spring Boot 4
-- OpenTelemetry avec Spring Boot
-- Repos Ahead of Time (Partie 2)
-
-
-
+- Baseline JDK 17.
+- Mais rebase sur Jakarta 11.
+- Kotlin 2, Jackson 3 et JUnit 6.
+- Fonctionnalités de résilience principales de Spring : `@ConcurrencyLimit`, `@Retryable`, `RetryTemplate`.
+- Versioning d’API dans Spring.
+- Améliorations du client de service HTTP.
+- L’état des clients HTTP dans Spring.
+- Introduction du support Jackson 3 dans Spring.
+- Consommateur partagé : les queues Kafka dans Spring Kafka.
+- Modularisation de Spring Boot.
+- Autorisation progressive dans Spring Security.
+- Spring gRPC - un nouveau module Spring Boot.
+- Applications null-safe avec Spring Boot 4.
+- OpenTelemetry avec Spring Boot.
+- Repos Ahead of Time (Partie 2).
 
 ### Web
 
 Faire de la recherche sémantique directement dans le navigateur en local, avec EmbeddingGemma et Transformers.js
 [https://glaforge.dev/posts/2025/09/08/in-browser-semantic-search-with-embeddinggemma/](https://glaforge.dev/posts/2025/09/08/in-browser-semantic-search-with-embeddinggemma/)
 
-- **EmbeddingGemma:** Nouveau modèle d’embedding (308M paramètres) de Google DeepMind.
-- **Objectif:** Permettre la recherche sémantique directement dans le navigateur.
-- **Avantages clés de l’IA côté client:**
-  - **Confidentialité:** Aucune donnée envoyée à un serveur.
-  - **Coûts réduits:** Pas besoin de serveurs coûteux (GPU), hébergement statique.
-  - **Faible latence:** Traitement instantané sans allers-retours réseau.
-  - **Fonctionnement hors ligne:** Possible après le chargement initial du modèle.
-- **Technologie principale:**
-  - **Modèle:** EmbeddingGemma (petit, performant, multilingue, support MRL pour réduire la taille des vecteurs).
-  - **Moteur d’inférence:** Transformers.js de HuggingFace (exécute les modèles AI en JavaScript dans le navigateur).
-- **Déploiement:** Site statique avec Vite/React/Tailwind CSS, déployé sur Firebase Hosting via GitHub Actions.
-- **Gestion du modèle:** Fichiers du modèle trop lourds pour Git; téléchargés depuis HuggingFace Hub pendant le CI/CD.
-- **Fonctionnement de l’app:** Charge le modèle, génère des embeddings pour requêtes/documents, calcule la similarité sémantique.
-- **Conclusion:** Démonstration d’une recherche sémantique privée, économique et sans serveur, soulignant le potentiel de l’IA embarquée dans le navigateur.
+- **EmbeddingGemma** : Nouveau modèle d’embedding (308M paramètres) de Google DeepMind.
+- **Objectif** : Permettre la recherche sémantique directement dans le navigateur.
+- **Avantages clés de l’IA côté client** : 
+  - **Confidentialité** : Aucune donnée envoyée à un serveur.
+  - **Coûts réduits** : Pas besoin de serveurs coûteux (GPU), hébergement statique.
+  - **Faible latence** : Traitement instantané sans allers-retours réseau.
+  - **Fonctionnement hors ligne** : Possible après le chargement initial du modèle.
+- **Technologie principale** : 
+  - **Modèle** : EmbeddingGemma (petit, performant, multilingue, support MRL pour réduire la taille des vecteurs).
+  - **Moteur d’inférence** : Transformers.js de HuggingFace (exécute les modèles AI en JavaScript dans le navigateur).
+- **Déploiement** : Site statique avec Vite/React/Tailwind CSS, déployé sur Firebase Hosting via GitHub Actions.
+- **Gestion du modèle** : Fichiers du modèle trop lourds pour Git; téléchargés depuis HuggingFace Hub pendant le CI/CD.
+- **Fonctionnement de l’app** : Charge le modèle, génère des embeddings pour requêtes/documents, calcule la similarité sémantique.
+- **Conclusion** : Démonstration d’une recherche sémantique privée, économique et sans serveur, soulignant le potentiel de l’IA embarquée dans le navigateur.
 
 
 ### Data et Intelligence Artificielle
 
-Docker lance Cagent, une sorte de framework multi-agent IA utilisant des LLMs externes, des modèles de Docker Model Runner, avec le Docker MCP Tookit.
-Il propose un format YAML pour décrire les agents d’un système multi-agents.
+Docker lance `cagent`
 [https://github.com/docker/cagent](https://github.com/docker/cagent)
 
-- des agents “prompt driven” (pas de code)
-- et une structure pour decrire comment ils sont deployés
-- pas clair comment ils sont appelés a part dans la ligne de commande de cagent
-- fait par david gageot 
+- Une sorte de framework multi-agent IA utilisant des LLMs externes, des modèles de Docker Model Runner, avec le Docker MCP Toolkit.
+- Il propose un format YAML pour décrire les agents d’un système multi-agents.
+- Des agents “prompt driven” (pas de code).
+- Et une structure pour décrire comment ils sont déployés.
+- Pas clair comment ils sont appelés à part dans la ligne de commande de `cagent`.
+- Fait par David Gageot. 
 
-L'owasp décrit l'independance excessive des LLM comme une vulnerabilité [https://genai.owasp.org/llmrisk2023-24/llm08-excessive-agency/](https://genai.owasp.org/llmrisk2023-24/llm08-excessive-agency/)
+L'OWASP décrit l'independance excessive des LLM comme une vulnérabilité
+[https://genai.owasp.org/llmrisk2023-24/llm08-excessive-agency/](https://genai.owasp.org/llmrisk2023-24/llm08-excessive-agency/)
 
 - L'agence excessive désigne la vulnérabilité qui permet aux systèmes LLM d'effectuer des actions dommageables via des sorties inattendues ou ambiguës.
 - Elle résulte de trois causes principales : fonctionnalités excessives, permissions excessives ou autonomie excessive des agents LLM.
@@ -217,11 +221,11 @@ L'owasp décrit l'independance excessive des LLM comme une vulnerabilité [https
 Lancement du MCP registry, une sorte de méta-annuaire officiel pour référencer les serveurs MCP
 [https://www.marktechpost.com/2025/09/09/mcp-team-launches-the-preview-version-of-the-mcp-registry-a-federated-discovery-layer-for-enterprise-ai/](https://www.marktechpost.com/2025/09/09/mcp-team-launches-the-preview-version-of-the-mcp-registry-a-federated-discovery-layer-for-enterprise-ai/)
 
-- **MCP Registry :** Couche de découverte fédérée pour l’IA d’entreprise.
+- **MCP Registry ** : Couche de découverte fédérée pour l’IA d’entreprise.
 - Fonctionne comme le **DNS pour le contexte de l’IA**, permettant la découverte de serveurs MCP publics ou privés.
 - **Modèle fédéré** : Évite les risques de sécurité et de conformité d’un registre monolithique.
 - Permet des **sous-registres privés** tout en conservant une source de vérité “upstream”.
-- **Avantages entreprises** :
+- **Avantages pour les entreprises** :
   - Découverte interne sécurisée.
   - Gouvernance centralisée des serveurs externes.
   - Réduction de la prolifération des contextes.
@@ -229,78 +233,82 @@ Lancement du MCP registry, une sorte de méta-annuaire officiel pour référence
 - Projet **open source**, actuellement en **version preview**.
 - Blog post officiel : [https://blog.modelcontextprotocol.io/posts/2025-09-08-mcp-registry-preview/](https://blog.modelcontextprotocol.io/posts/2025-09-08-mcp-registry-preview/)
 
-Exploration des internals du transaction log SQL Server  [https://debezium.io/blog/2025/09/08/sqlserver-tx-log/](https://debezium.io/blog/2025/09/08/sqlserver-tx-log/)
+Exploration des internals du transaction log SQL Server
+[https://debezium.io/blog/2025/09/08/sqlserver-tx-log/](https://debezium.io/blog/2025/09/08/sqlserver-tx-log/)
 
-- C'est un article pour les rugeux qui veulent savoir comment SQLServer marche à l'interieur
-- Debezium utilise actuellement les change tables de SQL Server CDC en polling périodique
-- L'article explore la possibilité de parser directement le transaction log pour améliorer les performances
-- Le transaction log est divisé en Virtual Log Files (VLFs) utilisés de manière circulaire
-- Chaque VLF contient des blocs (512B à 60KB) qui contiennent les records de transactions
-- Chaque record a un Log Sequence Number (LSN) unique pour l'identifier précisément
-- Les données sont stockées dans des pages de 8KB avec header de 96 bytes et offset array
-- Les tables sont organisées en partitions et allocation units pour gérer l'espace disque
-- L'utilitaire DBCC permet d'explorer la structure interne des pages et leur contenu
-- Cette compréhension pose les bases pour parser programmatiquement le transaction log dans un prochain article
+- C'est un article pour les rageux qui veulent savoir comment SQLServer marche à l'interieur.
+- Debezium utilise actuellement les change tables de SQL Server CDC en polling périodique.
+- L'article explore la possibilité de parser directement le transaction log pour améliorer les performances.
+- Le transaction log est divisé en Virtual Log Files (VLFs) utilisés de manière circulaire.
+- Chaque VLF contient des blocs (512B à 60KB) qui contiennent les records de transactions.
+- Chaque record a un Log Sequence Number (LSN) unique pour l'identifier précisément.
+- Les données sont stockées dans des pages de 8KB avec header de 96 bytes et offset array.
+- Les tables sont organisées en partitions et allocation units pour gérer l'espace disque.
+- L'utilitaire DBCC permet d'explorer la structure interne des pages et leur contenu.
+- Cette compréhension pose les bases pour parser programmatiquement le transaction log dans un prochain article.
 
 
 ### Outillage
 
-Les personalités des codeurs des différents LLMs [https://www.sonarsource.com/blog/the-coding-personalities-of-leading-llms-gpt-5-update/](https://www.sonarsource.com/blog/the-coding-personalities-of-leading-llms-gpt-5-update/)
+Les personnalités des codeurs des différents LLMs
+[https://www.sonarsource.com/blog/the-coding-personalities-of-leading-llms-gpt-5-update/](https://www.sonarsource.com/blog/the-coding-personalities-of-leading-llms-gpt-5-update/)
 
-- GPT-5 minimal ne détrône pas Claude Sonnet 4 comme leader en performance fonctionnelle malgré ses 75% de réussite
-- GPT-5 génère un code extrêmement verbeux avec 490 000 lignes contre 370 000 pour Claude Sonnet 4 sur les mêmes tâches
-- La complexité cyclomatique et cognitive du code GPT-5 est dramatiquement plus élevée que tous les autres modèles
-- GPT-5 introduit 3,90 problèmes par tâche réussie contre seulement 2,11 pour Claude Sonnet 4
-- Point fort de GPT-5 : sécurité exceptionnelle avec seulement 0,12 vulnérabilité par 1000 lignes de code
-- Faiblesse majeure : densité très élevée de “code smells” (25,28 par 1000 lignes) nuisant à la maintenabilité
-- GPT-5 produit 12% de problèmes liés à la complexité cognitive, le taux le plus élevé de tous les modèles
-- Tendance aux erreurs logiques fondamentales avec 24% de bugs de type “Control-flow mistake”
-- Réapparition de vulnérabilités classiques comme les failles d’injection et de traversée de chemin
-- Nécessité d’une gouvernance renforcée avec analyse statique obligatoire pour gérer la complexité du code généré
+- GPT-5 minimal ne détrône pas Claude Sonnet 4 comme leader en performance fonctionnelle malgré ses 75% de réussite.
+- GPT-5 génère un code extrêmement verbeux avec 490 000 lignes contre 370 000 pour Claude Sonnet 4 sur les mêmes tâches.
+- La complexité cyclomatique et cognitive du code GPT-5 est dramatiquement plus élevée que tous les autres modèles.
+- GPT-5 introduit 3,90 problèmes par tâche réussie contre seulement 2,11 pour Claude Sonnet 4.
+- Point fort de GPT-5 : sécurité exceptionnelle avec seulement 0,12 vulnérabilité par 1000 lignes de code.
+- Faiblesse majeure : densité très élevée de “code smells” (25,28 par 1000 lignes) nuisant à la maintenabilité.
+- GPT-5 produit 12% de problèmes liés à la complexité cognitive, le taux le plus élevé de tous les modèles.
+- Tendance aux erreurs logiques fondamentales avec 24% de bugs de type “Control-flow mistake”.
+- Réapparition de vulnérabilités classiques comme les failles d’injection et de traversée de chemin.
+- Nécessité d’une gouvernance renforcée avec analyse statique obligatoire pour gérer la complexité du code généré.
 
 Pourquoi j’ai abandonné Docker pour Podman
 [https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too](https://codesmash.dev/why-i-ditched-docker-for-podman-and-you-should-too)
 
-- **Problème Docker :** Le daemon `dockerd` persistant s’exécute avec des privilèges root, posant des risques de sécurité (nombreuses CVEs citées) et consommant des ressources inutilement.
-- **Solution Podman :**
-  - **Sans Daemon :** Pas de processus d’arrière-plan persistant. Les conteneurs s’exécutent comme des processus enfants de la commande Podman, sous les privilèges de l’utilisateur.
-  - **Sécurité Renforcée :** Réduction de la surface d’attaque. Une évasion de conteneur compromet un utilisateur non privilégié sur l’hôte, pas le système entier. Mode `rootless`.
-  - **Fiabilité Accrue :** Pas de point de défaillance unique ; le crash d’un conteneur n’affecte pas les autres.
-  - **Moins de Ressources :** Pas de daemon constamment actif, donc moins de mémoire et de CPU.
-- **Fonctionnalités Clés de Podman :**
-  - **Intégration Systemd :** Génération automatique de fichiers d’unité `systemd` pour gérer les conteneurs comme des services Linux standards.
-  - **Alignement Kubernetes :** Support natif des pods et capacité à générer des fichiers `Kubernetes YAML` directement (`podman generate kube`), facilitant le développement local pour K8s.
-  - **Philosophie Unix :** Se concentre sur l’exécution des conteneurs, délègue les tâches spécialisées à des outils dédiés (ex: Buildah pour la construction d’images, Skopeo pour leur gestion).
-- **Migration Facile :**
+- **Problème Docker** : Le daemon `dockerd` persistant s’exécute avec des privilèges root, posant des risques de sécurité (nombreuses CVEs citées) et consommant des ressources inutilement.
+- **Solution Podman** : 
+  - **Sans Daemon** : Pas de processus d’arrière-plan persistant. Les conteneurs s’exécutent comme des processus enfants de la commande Podman, sous les privilèges de l’utilisateur.
+  - **Sécurité Renforcée** : Réduction de la surface d’attaque. Une évasion de conteneur compromet un utilisateur non privilégié sur l’hôte, pas le système entier. Mode `rootless`.
+  - **Fiabilité Accrue** : Pas de point de défaillance unique ; le crash d’un conteneur n’affecte pas les autres.
+  - **Moins de Ressources** : Pas de daemon constamment actif, donc moins de mémoire et de CPU.
+- **Fonctionnalités Clés de Podman** : 
+  - **Intégration Systemd** : Génération automatique de fichiers d’unité `systemd` pour gérer les conteneurs comme des services Linux standards.
+  - **Alignement Kubernetes** : Support natif des pods et capacité à générer des fichiers `Kubernetes YAML` directement (`podman generate kube`), facilitant le développement local pour K8s.
+  - **Philosophie Unix** : Se concentre sur l’exécution des conteneurs, délègue les tâches spécialisées à des outils dédiés (ex : Buildah pour la construction d’images, Skopeo pour leur gestion).
+- **Migration Facile** : 
   - CLI compatible Docker : `podman` utilise les mêmes commandes que `docker` (`alias docker=podman` fonctionne).
   - Les Dockerfiles existants sont directement utilisables.
-  - **Améliorations incluses :** Sécurité par défaut (ports privilégiés en mode rootless), meilleure gestion des permissions de volume, API Docker compatible optionnelle.
+  - **Améliorations incluses** : Sécurité par défaut (ports privilégiés en mode rootless), meilleure gestion des permissions de volume, API Docker compatible optionnelle.
   - Option de convertir Docker Compose en Kubernetes YAML.
-- **Bénéfices en Production :** Sécurité améliorée, utilisation plus propre des ressources. Podman représente une évolution plus sécurisée et mieux alignée avec les pratiques modernes de gestion Linux et de déploiement de conteneurs.
-- **Guide Pratique (Exemple FastAPI) :**
+- **Bénéfices en Production** : Sécurité améliorée, utilisation plus propre des ressources. Podman représente une évolution plus sécurisée et mieux alignée avec les pratiques modernes de gestion Linux et de déploiement de conteneurs.
+- **Guide Pratique (Exemple FastAPI)** : 
   - Le `Dockerfile` ne change pas.
   - `podman build` et `podman run` remplacent directement les commandes Docker.
   - Déploiement en production via Systemd.
   - Gestion d’applications multi-services avec les “pods” Podman.
   - Compatibilité Docker Compose via `podman-compose` ou `kompose`.
 
-Détection améliorée des APIs vulnérables dans les IDEs JetBrains et Qodana - [https://blog.jetbrains.com/idea/2025/09/enhanced-vulnerable-api-detection-in-jetbrains-ides-and-qodana/](https://blog.jetbrains.com/idea/2025/09/enhanced-vulnerable-api-detection-in-jetbrains-ides-and-qodana/)
+Détection améliorée des APIs vulnérables dans les IDEs JetBrains et Qodana
+[https://blog.jetbrains.com/idea/2025/09/enhanced-vulnerable-api-detection-in-jetbrains-ides-and-qodana/](https://blog.jetbrains.com/idea/2025/09/enhanced-vulnerable-api-detection-in-jetbrains-ides-and-qodana/)
 
-- JetBrains s’associe avec [Mend.io](http://Mend.io) pour renforcer la sécurité du code dans leurs outils
-- Le plugin Package Checker bénéficie de nouvelles données enrichies sur les APIs vulnérables
-- Analyse des graphes d’appels pour couvrir plus de méthodes publiques des bibliothèques open-source
-- Support de Java, Kotlin, C#, JavaScript, TypeScript et Python pour la détection de vulnérabilités
-- Activation des inspections via Paramètres > Editor > Inspections en recherchant “Vulnerable API”
-- Surlignage automatique des méthodes vulnérables avec détails des failles au survol
-- Action contextuelle pour naviguer directement vers la déclaration de dépendance problématique
-- Mise à jour automatique vers une version non affectée via Alt+Enter sur la dépendance
-- Fenêtre dédiée “Vulnerable Dependencies” pour voir l’état global des vulnérabilités du projet
+- JetBrains s’associe avec [Mend.io](http://Mend.io) pour renforcer la sécurité du code dans leurs outils.
+- Le plugin Package Checker bénéficie de nouvelles données enrichies sur les APIs vulnérables.
+- Analyse des graphes d’appels pour couvrir plus de méthodes publiques des bibliothèques open-source.
+- Support de Java, Kotlin, C#, JavaScript, TypeScript et Python pour la détection de vulnérabilités.
+- Activation des inspections via Paramètres > Editor > Inspections en recherchant “Vulnerable API”.
+- Surlignage automatique des méthodes vulnérables avec détails des failles au survol.
+- Action contextuelle pour naviguer directement vers la déclaration de dépendance problématique.
+- Mise à jour automatique vers une version non affectée via Alt+Enter sur la dépendance.
+- Fenêtre dédiée “Vulnerable Dependencies” pour voir l’état global des vulnérabilités du projet.
 
 
 
 ### Méthodologies
 
-Le retour de du sondage de Stack Overflow sur l'usage de l'IA dans le code [https://medium.com/@amareshadak/stack-overflow-just-exposed-the-ugly-truth-about-ai-coding-tools-b4f7b5992191](https://medium.com/@amareshadak/stack-overflow-just-exposed-the-ugly-truth-about-ai-coding-tools-b4f7b5992191)
+Le retour de du sondage de Stack Overflow sur l'usage de l'IA dans le code
+[https://medium.com/@amareshadak/stack-overflow-just-exposed-the-ugly-truth-about-ai-coding-tools-b4f7b5992191](https://medium.com/@amareshadak/stack-overflow-just-exposed-the-ugly-truth-about-ai-coding-tools-b4f7b5992191)
 
 - 84% des développeurs utilisent l'IA quotidiennement, mais 46% ne font pas confiance aux résultats. Seulement 3,1% font "hautement confiance" au code généré.
 - 66% sont frustrés par les solutions IA "presque correctes". 45% disent que déboguer le code IA prend plus de temps que l'écrire soi-même.
@@ -313,86 +321,86 @@ Le retour de du sondage de Stack Overflow sur l'usage de l'IA dans le code [http
 - Les plateformes humaines dominent encore : Stack Overflow (84%), GitHub (67%), YouTube (61%) pour résoudre les problèmes IA.
 - L'avenir suggère un "développement augmenté" où l'IA devient un outil parmi d'autres, nécessitant transparence et gestion de l'incertitude.
 
-Mentorat open source et défis communautaires par les gens de Microcks [https://microcks.io/blog/beyond-code-open-source-mentorship/](https://microcks.io/blog/beyond-code-open-source-mentorship/)
+Mentorat open source et défis communautaires par les gens de Microcks
+[https://microcks.io/blog/beyond-code-open-source-mentorship/](https://microcks.io/blog/beyond-code-open-source-mentorship/)
 
-- Microcks souffre du syndrome des "utilisateurs silencieux" qui bénéficient du projet sans contribuer
-- Malgré des milliers de téléchargements et une adoption croissante, l'engagement communautaire reste faible
-- Ce manque d'interaction crée des défis de durabilité et limite l'innovation du projet
-- Les mainteneurs développent dans le vide sans feedback des vrais utilisateurs
-- Contribuer ne nécessite pas de coder : documentation, partage d'expérience, signalement de bugs suffisent
-- Parler du project qu'on aime autour de soi est aussi super utile
-- Microcks a aussi des questions specifiques qu'ils ont posé dans le blog, donc si vous l'utilisez, aller voir
-- Le succès de l'open source dépend de la transformation des utilisateurs en véritables partenaires communautaires
-- c'est un point assez commun je trouve, le ratio parlant / silencieux est tres petit et cela encourage les quelques grandes gueules
+- Microcks souffre du syndrome des "utilisateurs silencieux" qui bénéficient du projet sans contribuer.
+- Malgré des milliers de téléchargements et une adoption croissante, l'engagement communautaire reste faible.
+- Ce manque d'interaction crée des défis de durabilité et limite l'innovation du projet.
+- Les mainteneurs développent dans le vide sans feedback des vrais utilisateurs.
+- Contribuer ne nécessite pas de coder : documentation, partage d'expérience, signalement de bugs suffisent.
+- Parler du project qu'on aime autour de soi est aussi super utile.
+- Microcks a aussi des questions specifiques qu'ils ont posé dans le blog, donc si vous l'utilisez, aller voir.
+- Le succès de l'open source dépend de la transformation des utilisateurs en véritables partenaires communautaires.
+- C'est un point assez commun je trouve, le ratio parlant / silencieux est tres petit et cela encourage les quelques grandes gueules.
 
 La modernisation du systemes legacy, c’est pas que de la tech [https://blog.scottlogic.com/2025/08/27/holistic-approach-successful-legacy-modernisation.html](https://blog.scottlogic.com/2025/08/27/holistic-approach-successful-legacy-modernisation.html)
 
-- Un artcile qui prend du recul sur la modernisation de systemes legacy
-- Les projets de modernisation legacy nécessitent une vision holistique au-delà du simple focus technologique
-- Les drivers business diffèrent des projets greenfield : réduction des coûts et mitigation des risques plutôt que génération de revenus
-- L’état actuel est plus complexe à cartographier avec de nombreuses dépendances et risques de rupture
-- Collaboration essentielle entre Architectes, Analystes Business et Designers UX dès la phase de découverte
-- Approche tridimensionnelle obligatoire : Personnes, Processus et Technologie (comme un jeu d’échecs 3D)
-- Le leadership doit créer l’espace nécessaire pour la découverte et la planification plutôt que presser l’équipe
-- Communication en termes business plutôt que techniques vers tous les niveaux de l’organisation
-- Planification préalable essentielle contrairement aux idées reçues sur l’agilité
-- Séquencement optimal souvent non-évident et nécessitant une analyse approfondie des interdépendances
-- Phases projet alignées sur les résultats business permettent l’agilité au sein de chaque phase
+- Un article qui prend du recul sur la modernisation de systemes legacy.
+- Les projets de modernisation legacy nécessitent une vision holistique au-delà du simple focus technologique.
+- Les drivers business diffèrent des projets greenfield : réduction des coûts et mitigation des risques plutôt que génération de revenus.
+- L’état actuel est plus complexe à cartographier avec de nombreuses dépendances et risques de rupture.
+- Collaboration essentielle entre Architectes, Analystes Business et Designers UX dès la phase de découverte.
+- Approche tridimensionnelle obligatoire : Personnes, Processus et Technologie (comme un jeu d’échecs 3D).
+- Le leadership doit créer l’espace nécessaire pour la découverte et la planification plutôt que presser l’équipe.
+- Communication en termes business plutôt que techniques vers tous les niveaux de l’organisation.
+- Planification préalable essentielle contrairement aux idées reçues sur l’agilité.
+- Séquencement optimal souvent non-évident et nécessitant une analyse approfondie des interdépendances.
+- Phases projet alignées sur les résultats business permettent l’agilité au sein de chaque phase.
 
 
 ### Sécurité
 
-Cyber Attaque su Musée Histoire Naturelle [https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-museum-nati[…]e-d-une-cyberattaque-severe-une-plainte-deposee_7430356.html](https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-museum-national-d-histoire-naturelle-de-paris-victime-d-une-cyberattaque-severe-une-plainte-deposee_7430356.html)
+Cyber Attaque su Musée Histoire Naturelle
+[https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-museum-national-d-histoire-naturelle-de-paris-victime-d-une-cyberattaque-severe-une-plainte-deposee_7430356.html](https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-museum-national-d-histoire-naturelle-de-paris-victime-d-une-cyberattaque-severe-une-plainte-deposee_7430356.html)
 
 
-Compromission massive de packages npm populaires par un malware crypto [https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
+Compromission massive de packages npm populaires par un malware crypto
+[https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised](https://www.aikido.dev/blog/npm-debug-and-chalk-packages-compromised)
 
-- 18 packages npm très populaires compromis le 8 septembre 2025, incluant chalk, debug, ansi-styles avec plus de 2 milliards de téléchargements hebdomadaires combinés
-- duckdb s'est rajouté à la liste
-- Code malveillant injecté qui intercepte silencieusement l'activité crypto et web3 dans les navigateurs des utilisateurs
-- Le malware manipule les interactions de wallet et redirige les paiements vers des comptes contrôlés par l'attaquant sans signes évidents
-- Injection dans les fonctions critiques comme fetch, XMLHttpRequest et APIs de wallets (window.ethereum, Solana) pour intercepter le trafic
-- Détection et remplacement automatique des adresses crypto sur multiple blockchains (Ethereum, Bitcoin, Solana, Tron, Litecoin, Bitcoin Cash)
-- Les transactions sont modifiées en arrière-plan même si l'interface utilisateur semble correcte et légitime
-- Utilise des adresses "sosies" via correspondance de chaînes pour rendre les échanges moins évidents à détecter
-- Le mainteneur compromis par email de phishing provenant du faux domaine "<mailto:support@npmjs.help|support@npmjs.help>" enregistré 3 jours avant l'attaque
-- sur une demande de mise a jour de son autheotnfication a deux facteurs après un an
-- Aikido a alerté le mainteneur via Bluesky qui a confirmé la compromission et commencé le nettoyage des packages
-- Attaque sophistiquée opérant à plusieurs niveaux: contenu web, appels API et manipulation des signatures de transactions
+- 18 packages npm très populaires compromis le 8 septembre 2025, incluant chalk, debug, ansi-styles avec plus de 2 milliards de téléchargements hebdomadaires combinés.
+- duckdb s'est rajouté à la liste.
+- Code malveillant injecté qui intercepte silencieusement l'activité crypto et web3 dans les navigateurs des utilisateurs.
+- Le malware manipule les interactions de wallet et redirige les paiements vers des comptes contrôlés par l'attaquant sans signes évidents.
+- Injection dans les fonctions critiques comme fetch, XMLHttpRequest et APIs de wallets (window.ethereum, Solana) pour intercepter le trafic.
+- Détection et remplacement automatique des adresses crypto sur multiple blockchains (Ethereum, Bitcoin, Solana, Tron, Litecoin, Bitcoin Cash).
+- Les transactions sont modifiées en arrière-plan même si l'interface utilisateur semble correcte et légitime.
+- Utilise des adresses "sosies" via correspondance de chaînes pour rendre les échanges moins évidents à détecter.
+- Le mainteneur compromis par email de phishing provenant du faux domaine "<mailto:support@npmjs.help|support@npmjs.help>" enregistré trois jours avant l'attaque.
+- sur une demande de mise à jour de son authentication à deux facteurs après un an.
+- Aikido a alerté le mainteneur via Bluesky qui a confirmé la compromission et commencé le nettoyage des packages.
+- Attaque sophistiquée opérant à plusieurs niveaux : contenu web, appels API et manipulation des signatures de transactions.
 
-Les anti-cheats de jeux vidéo : une faille de sécurité majeure ? - [https://tferdinand.net/jeux-video-et-si-votre-anti-cheat-etait-la-plus-grosse-faille/](https://tferdinand.net/jeux-video-et-si-votre-anti-cheat-etait-la-plus-grosse-faille/)
+Les anti-cheats de jeux vidéo : une faille de sécurité majeure ?
+[https://tferdinand.net/jeux-video-et-si-votre-anti-cheat-etait-la-plus-grosse-faille/](https://tferdinand.net/jeux-video-et-si-votre-anti-cheat-etait-la-plus-grosse-faille/)
 
-- Les anti-cheats modernes s’installent au Ring 0 (noyau système) avec privilèges maximaux
-- Ils obtiennent le même niveau d’accès que les antivirus professionnels mais sans audit ni certification
-- Certains exploitent Secure Boot pour se charger avant le système d’exploitation
-- Risque de supply chain : le groupe APT41 a déjà compromis des jeux comme League of Legends
-- Un attaquant infiltré pourrait désactiver les solutions de sécurité et rester invisible
-- Menace de stabilité : une erreur peut empêcher le démarrage du système (référence CrowdStrike)
-- Conflits possibles entre différents anti-cheats qui se bloquent mutuellement
-- Surveillance en temps réel des données d’utilisation sous prétexte anti-triche
-- Dérive dangereuse selon l’auteur : des entreprises de jeux accèdent au niveau EDR
-- Alternatives limitées : cloud gaming ou sandboxing avec impact sur performances
-- donc faites gaffe aux jeux que vos gamins installent !
+- Les anti-cheats modernes s’installent au Ring 0 (noyau système) avec privilèges maximaux.
+- Ils obtiennent le même niveau d’accès que les antivirus professionnels mais sans audit ni certification.
+- Certains exploitent Secure Boot pour se charger avant le système d’exploitation.
+- Risque de supply chain : le groupe APT41 a déjà compromis des jeux comme League of Legends.
+- Un attaquant infiltré pourrait désactiver les solutions de sécurité et rester invisible.
+- Menace de stabilité : une erreur peut empêcher le démarrage du système (référence CrowdStrike).
+- Conflits possibles entre différents anti-cheats qui se bloquent mutuellement.
+- Surveillance en temps réel des données d’utilisation sous prétexte anti-triche.
+- Dérive dangereuse selon l’auteur : des entreprises de jeux accèdent au niveau EDR.
+- Alternatives limitées : cloud gaming ou sandboxing avec impact sur performances.
+- Donc faites gaffe aux jeux que vos gamins installent !
 
 
 ### Loi, société et organisation
 
-Luc Julia au Sénat - Monsieur Phi réagi et publie la vidéo **Luc Julia au Sénat : autopsie d'un grand N'IMPORTE QUOI**  [https://www.youtube.com/watch?v=e5kDHL-nnh4](https://www.youtube.com/watch?v=e5kDHL-nnh4)
+Luc Julia au Sénat - Monsieur Phi réagi et publie la vidéo **Luc Julia au Sénat : autopsie d'un grand N'IMPORTE QUOI**
+[https://www.youtube.com/watch?v=e5kDHL-nnh4](https://www.youtube.com/watch?v=e5kDHL-nnh4)
 
-- En format podcast de 20 minutes, sorti au même moment et à propos de sa conf à Devoxx [https://www.youtube.com/watch?v=Q0gvaIZz1dM](https://www.youtube.com/watch?v=Q0gvaIZz1dM)
-- Le lab IA - Jérôme Fortias - Et si Luc Julia avait raison   [https://www.youtube.com/watch?v=KScI5PkCIaE](https://www.youtube.com/watch?v=KScI5PkCIaE)
-- Luc Julia au Senat [https://www.youtube.com/watch?v=UjBZaKcTeIY](https://www.youtube.com/watch?v=UjBZaKcTeIY)
-- Luc Julia se défend [https://www.youtube.com/watch?v=DZmxa7jJ8sI](https://www.youtube.com/watch?v=DZmxa7jJ8sI)
-- Intelligence artificielle : catastrophe imminente ? - Luc Julia vs Maxime Fournes [https://www.youtube.com/watch?v=sCNqGt7yIjo](https://www.youtube.com/watch?v=sCNqGt7yIjo)
-- Tech and Co Monsieur Phi vs Luc Julia (put a click) [https://www.youtube.com/watch?v=xKeFsOceT44](https://www.youtube.com/watch?v=xKeFsOceT44)
-- La tronche en biais [https://www.youtube.com/live/zFwLAOgY0Wc](https://www.youtube.com/live/zFwLAOgY0Wc)
-
-
-
-
+- En format podcast de 20 minutes, sorti au même moment et à propos de sa conf à Devoxx [https://www.youtube.com/watch?v=Q0gvaIZz1dM](https://www.youtube.com/watch?v=Q0gvaIZz1dM).
+- Le lab IA - Jérôme Fortias - Et si Luc Julia avait raison   [https://www.youtube.com/watch?v=KScI5PkCIaE](https://www.youtube.com/watch?v=KScI5PkCIaE).
+- Luc Julia au Senat [https://www.youtube.com/watch?v=UjBZaKcTeIY](https://www.youtube.com/watch?v=UjBZaKcTeIY).
+- Luc Julia se défend [https://www.youtube.com/watch?v=DZmxa7jJ8sI](https://www.youtube.com/watch?v=DZmxa7jJ8sI).
+- Intelligence artificielle : catastrophe imminente ? - Luc Julia vs Maxime Fournes [https://www.youtube.com/watch?v=sCNqGt7yIjo](https://www.youtube.com/watch?v=sCNqGt7yIjo).
+- Tech and Co Monsieur Phi vs Luc Julia (put a click) [https://www.youtube.com/watch?v=xKeFsOceT44](https://www.youtube.com/watch?v=xKeFsOceT44).
+- La tronche en biais [https://www.youtube.com/live/zFwLAOgY0Wc](https://www.youtube.com/live/zFwLAOgY0Wc).
 
 ## Conférences
-
 
 La liste des conférences provenant de [Developers Conferences Agenda/List](https://github.com/scraly/developers-conferences-agenda)
 par [Aurélie Vache](https://github.com/scraly) et contributeurs :
@@ -459,7 +467,7 @@ par [Aurélie Vache](https://github.com/scraly) et contributeurs :
 - 22-24 avril 2026 : [Devoxx France 2026](https://www.devoxx.fr) - Paris (France) 
 - 23-25 avril 2026 : [Devoxx Greece](https://devoxx.gr/) - Athens (Greece) 
 - 17 juin 2026 : [Devoxx Poland](https://devoxx.pl/) - Krakow (Poland) 
-- 4 septembre 2026 : [JUG SUmmer Camp 2026](https://www.jugsummercamp.org/) - La Rochelle (France) 
+- 4 septembre 2026 : [JUG Summer Camp 2026](https://www.jugsummercamp.org/) - La Rochelle (France) 
 
 
 ## Nous contacter
