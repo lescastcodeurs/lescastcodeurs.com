@@ -20,8 +20,13 @@ layout: base
                 <span class="card-subtitle mb-2 text-muted">Posté le {{ post.date | date: site.date_format }}</span>
                 <span class="card-subtitle mb-2 text-muted">&nbsp;</span>
                 {%- if post.youtube -%}
+                  {% if post.youtube contains "http" %}
+                    {% assign youtube_url = post.youtube %}
+                  {% else %}
+                    {% assign youtube_url = "https://www.youtube.com/watch?v=" | append: post.youtube %}
+                  {% endif %}
                 <span>
-                  <a href="{{ post.youtube }}" class="d-inline-flex align-items-center">
+                  <a href="{{ youtube_url }}" class="d-inline-flex align-items-center">
                     <em class="bi bi-youtube youtube-red fs-2 mr-2"></em>
                   </a>
                 </span>

@@ -13,8 +13,13 @@ layout: default
       </time>
                 <span class="post-meta text-muted">&nbsp;</span>
                 {%- if page.youtube -%}
+                  {% if page.youtube contains "http" %}
+                    {% assign youtube_url = page.youtube %}
+                  {% else %}
+                    {% assign youtube_url = "https://www.youtube.com/watch?v=" | append: page.youtube %}
+                  {% endif %}
                 <span>
-                  <a href="{{ page.youtube }}" class="d-inline-flex align-items-center">
+                  <a href="{{ youtube_url }}" class="d-inline-flex align-items-center">
                     <em class="bi bi-youtube youtube-red fs-2 mr-2"></em>
                   </a>
                 </span>
