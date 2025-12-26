@@ -3,7 +3,7 @@ title: LCC 334 - Interview de Muriel Ekovich sur les biais cognitifs
 author: 'Emmanuel Bernard'
 team: 'Emmanuel Bernard, Guillaume Laforge, Vincent Massol, Antonio Goncalves, Arnaud Héritier, Audrey Neveu, Katia Aresti'
 layout: blog-post
-episode: 999
+episode: 334
 youtube: kMfKtb0_9ug
 mp3_length: 53444656
 tweet: Interview de Muriel Ekovich sur les biais cognitifs #BiaisCognitif #Neurosciences #PriseDeDecision #Numerique #Expertise #Perception #Empathie #Metacognition #Recrutement #CultureDEntreprise
@@ -14,9 +14,9 @@ Bien que "non technique", ces biais existent dans notre travail et notre vie du 
 Nous discutons notamment leur impact sur l'usage numérique et sur les équipes techniques.
 Les discussions incluent également l'importance de la pensée critique face à l'autorité et aux croyances, ainsi que les biais spécifiques rencontrés dans le milieu professionnel.
 
-Enregistré le 1 septembre 2025
+Enregistré le 22 décembre 2025
 
-Téléchargement de l'épisode [LesCastCodeurs-Episode-999.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-999.mp3)
+Téléchargement de l'épisode [LesCastCodeurs-Episode-334.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-334.mp3)
 ou en vidéo [sur YouTube](https://youtu.be/3RXAu0hHLbU).
 
 ## Interview
