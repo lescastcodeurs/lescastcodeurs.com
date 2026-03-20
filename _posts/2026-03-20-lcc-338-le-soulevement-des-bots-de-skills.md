@@ -14,7 +14,7 @@ Gros zoom sur les skills et leurs usages dans les coding agents, sur les benchma
 Enregistré le 15 mars 2026
 
 Téléchargement de l’épisode [LesCastCodeurs-Episode-338.mp3](https://traffic.libsyn.com/lescastcodeurs/LesCastCodeurs-Episode-338.mp3)
-ou en vidéo [sur YouTube](https://www.youtube.com/watch?v=uTZm6WlHuCQ).
+ou en vidéo [sur YouTube](https://www.youtube.com/watch?v=1Av8YU_5beI).
 
 ## News
 
