@@ -25,7 +25,7 @@ RewriteRule ama[/]?$ https://docs.google.com/forms/d/e/1FAIpQLScWphqMkts1EfBNxnS
 RewriteRule video/310[/]?$ https://www.youtube.com/watch?v=JR_YLZqxRyU [R=301,L]
 
 # Libsyn feed
-RewriteRule ^podcast\-rss$ "http\:\/\/lescastcodeurs\.libsyn\.com\/rss" [R=302,L]
+RewriteRule ^podcast\-rss$ "https\:\/\/lescastcodeurs\.libsyn\.com\/rss" [R=302,L]
 # Note that we also have a feedburner feed at http://feeds.feedburner.com/LesCastCodeurs
 # It contains images, authors and description: make sure to update when necessary
 
