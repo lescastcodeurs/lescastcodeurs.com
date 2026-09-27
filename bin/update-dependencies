@@ -9,7 +9,7 @@ echo "Déplacement dans le répertoire racine du dépôt"
 cd "$(dirname "${BASH_SOURCE[0]}")/.."
 
 echo "Mise à jour de Jekyll et de ses dépendances"
-bundle update
+bundle update --all
 bundle outdated --only-explicit
 echo
 
